@@ -1,0 +1,780 @@
+Age_in_years,Fur_pattern,Neutered_or_spayed,Age_in_months,Eye_colour,Longitude,Preferred_food,Country,Body_length,Sleep_time_hours,Owner_play_time_minutes,Breed,Allowed_outdoor
+5.58,bicolor,False,67,green,11.576124,wet,Germany,52,15,1,Ragdoll,False
+7.25,solid,True,87,green,-77.03637,wet,USA,72,19,23,Maine coon,True
+0.67,solid,False,8,blue,-0.57918,wet,France,25,17,33,Angora,False
+5.67,solid,False,68,green,-73.561668,wet,Canada,56,13,31,Maine coon,False
+9.17,colorpoint,True,110,blue,-71.05977,wet,USA,49,17,30,Ragdoll,False
+6.08,colorpoint,False,73,blue,-74.00597,wet,USA,36,12,4,Ragdoll,False
+1.42,bicolor,False,17,yellow,4.834277,dry,France,30,18,39,Maine coon,False
+5.08,colorpoint,True,61,blue,-77.03637,wet,USA,48,15,7,Ragdoll,False
+2.67,solid,False,32,blue,5.36978,dry,France,40,14,30,Angora,False
+6.17,solid,True,74,yellow,-71.05977,wet,USA,56,13,27,Maine coon,True
+7.75,bicolor,True,93,green,-114.066666,wet,Canada,63,16,5,Ragdoll,False
+6.25,colorpoint,False,75,blue,-1.549077,dry,UK,48,12,10,Ragdoll,True
+6.83,solid,True,82,yellow,11.576124,wet,Germany,78,13,9,Maine coon,False
+3.25,colorpoint,False,39,blue,-1.549077,wet,UK,25,13,18,Ragdoll,False
+2.5,bicolor,True,30,blue,-122.33207,wet,USA,27,15,21,Ragdoll,False
+5.0,solid,True,60,amber,-122.67621,dry,USA,37,14,29,Angora,False
+2.5,solid,True,30,green,-0.57918,wet,France,35,14,18,Angora,False
+4.92,colorpoint,True,59,blue,-77.03637,wet,USA,38,16,27,Ragdoll,False
+7.58,tabby,False,91,yellow,-74.00597,wet,USA,65,20,39,Maine coon,False
+0.5,tabby,False,6,yellow,-2.991573,wet,UK,26,10,54,Maine coon,False
+3.75,bicolor,True,45,blue,4.834277,wet,France,49,15,31,Ragdoll,False
+2.08,colorpoint,True,25,green,-122.33207,dry,USA,21,15,34,Ragdoll,False
+2.92,solid,True,35,amber,2.349014,wet,France,32,14,33,Angora,False
+1.75,solid,True,21,yellow,-2.991573,dry,UK,60,16,12,Maine coon,False
+1.08,solid,False,13,blue,-0.127758,dry,UK,31,16,28,Maine coon,False
+7.5,solid,False,90,green,-77.03637,wet,USA,36,14,16,Angora,False
+6.33,solid,False,76,yellow,-74.00597,dry,USA,62,13,9,Maine coon,False
+7.75,bicolor,True,93,blue,-114.066666,wet,Canada,43,19,27,Ragdoll,False
+3.42,tabby,True,41,yellow,8.682127,wet,Germany,60,13,15,Maine coon,False
+4.58,solid,True,55,amber,-77.03637,dry,USA,35,17,25,Angora,False
+9.0,colorpoint,False,108,blue,-77.03637,wet,USA,47,19,30,Ragdoll,False
+9.83,tabby,False,118,green,-74.00597,wet,USA,72,19,17,Maine coon,False
+9.58,bicolor,True,115,blue,-74.00597,wet,USA,61,20,13,Angora,True
+7.75,colorpoint,False,93,blue,-73.561668,wet,Canada,47,21,28,Ragdoll,False
+6.25,solid,False,75,amber,-76.61219,wet,USA,41,13,24,Angora,False
+0.58,colorpoint,False,7,green,13.404954,wet,Germany,20,14,28,Ragdoll,False
+4.5,colorpoint,False,54,blue,-122.41942,wet,USA,45,16,20,Ragdoll,False
+8.0,colorpoint,True,96,blue,-71.05977,wet,USA,45,20,15,Ragdoll,False
+0.67,solid,True,8,yellow,-1.890401,dry,UK,40,18,54,Maine coon,False
+1.5,solid,False,18,blue,5.36978,wet,France,40,14,27,Angora,False
+4.42,colorpoint,False,53,blue,-122.67621,wet,USA,44,12,7,Ragdoll,False
+0.5,tabby,False,6,yellow,-1.890401,wet,UK,30,10,39,Maine coon,False
+6.17,solid,True,74,yellow,-87.623177,wet,USA,58,13,20,Maine coon,True
+3.75,colorpoint,True,45,blue,-1.553621,wet,France,42,17,4,Ragdoll,False
+6.25,solid,False,75,blue,-122.41942,wet,USA,39,13,24,Angora,False
+6.92,tabby,False,83,yellow,8.682127,wet,Germany,78,13,29,Maine coon,False
+5.67,colorpoint,False,68,blue,6.773456,wet,Germany,52,12,30,Ragdoll,False
+8.92,solid,True,107,yellow,-87.623177,wet,USA,46,20,16,Maine coon,True
+0.42,colorpoint,False,5,blue,-2.242631,wet,UK,23,11,49,Ragdoll,False
+0.67,solid,False,8,blue,-2.991573,dry,UK,38,16,40,Maine coon,False
+6.17,colorpoint,False,74,blue,-2.991573,wet,UK,51,12,15,Ragdoll,False
+4.5,solid,True,54,yellow,-74.00597,wet,USA,72,17,26,Maine coon,False
+4.92,solid,False,59,yellow,-74.00597,wet,USA,78,13,21,Maine coon,False
+4.25,colorpoint,False,51,blue,-73.561668,dry,Canada,30,15,7,Ragdoll,False
+6.17,bicolor,False,74,yellow,-71.05977,wet,USA,87,13,30,Maine coon,False
+9.83,colorpoint,True,118,blue,-71.05977,wet,USA,44,19,18,Ragdoll,False
+0.08,colorpoint,False,1,blue,-76.61219,wet,USA,13,22,37,Ragdoll,False
+9.58,colorpoint,True,115,blue,-74.00597,wet,USA,51,19,23,Ragdoll,False
+5.67,colorpoint,True,68,green,-0.127758,dry,UK,27,16,12,Ragdoll,False
+3.5,solid,True,42,blue,-122.67621,wet,USA,39,16,15,Angora,False
+5.08,colorpoint,False,61,blue,-122.41942,dry,USA,44,15,9,Ragdoll,False
+2.58,solid,True,31,blue,2.349014,wet,France,40,14,38,Angora,False
+7.67,colorpoint,False,92,blue,-79.347015,wet,Canada,45,19,21,Ragdoll,False
+6.58,tabby,True,79,green,-74.00597,dry,USA,41,16,23,Angora,False
+0.75,colorpoint,True,9,blue,6.773456,wet,Germany,25,19,32,Ragdoll,False
+6.33,solid,True,76,yellow,-77.03637,wet,USA,65,13,25,Maine coon,False
+7.67,solid,True,92,blue,-122.67621,wet,USA,39,21,37,Maine coon,False
+4.58,solid,True,55,yellow,-74.00597,dry,USA,57,13,19,Maine coon,False
+0.67,solid,False,8,green,5.36978,wet,France,26,18,39,Angora,False
+8.0,colorpoint,True,96,blue,-122.41942,wet,USA,46,18,19,Ragdoll,False
+4.92,colorpoint,False,59,blue,-74.00597,wet,USA,48,12,14,Ragdoll,False
+2.83,solid,True,34,yellow,-2.991573,wet,UK,77,17,28,Maine coon,False
+8.75,solid,False,105,yellow,-76.61219,wet,USA,55,17,13,Maine coon,False
+2.17,tabby,True,26,yellow,-2.991573,wet,UK,51,17,39,Maine coon,False
+0.33,colorpoint,False,4,blue,-122.41942,dry,USA,21,16,21,Ragdoll,False
+4.17,colorpoint,True,50,blue,-122.67621,wet,USA,42,12,19,Ragdoll,False
+9.0,colorpoint,False,108,blue,-77.03637,wet,USA,52,17,25,Ragdoll,False
+7.58,solid,True,91,yellow,-71.05977,wet,USA,59,18,38,Maine coon,False
+1.83,solid,True,22,green,-0.57918,wet,France,22,20,40,Angora,False
+2.17,colorpoint,True,26,blue,-77.03637,wet,USA,35,15,29,Ragdoll,False
+8.0,colorpoint,True,96,blue,-76.61219,wet,USA,41,19,30,Ragdoll,False
+0.08,tabby,False,1,blue,-77.03637,dry,USA,13,19,36,Maine coon,False
+9.25,colorpoint,True,111,blue,-122.67621,dry,USA,47,17,6,Ragdoll,False
+2.08,solid,False,25,green,2.349014,wet,France,41,16,11,Angora,False
+0.08,colorpoint,False,1,blue,-122.33207,wet,USA,12,20,29,Ragdoll,False
+3.25,colorpoint,True,39,blue,-71.05977,dry,USA,47,15,30,Ragdoll,False
+2.67,tortie,True,32,blue,-122.67621,wet,USA,40,15,22,Ragdoll,True
+4.08,solid,False,49,green,-76.61219,wet,USA,37,14,38,Angora,False
+4.08,solid,False,49,blue,-74.00597,dry,USA,37,16,17,Maine coon,False
+0.08,solid,False,1,blue,-77.03637,wet,USA,13,20,31,Angora,False
+5.67,colorpoint,True,68,blue,-74.00597,wet,USA,53,17,24,Ragdoll,True
+4.25,solid,False,51,yellow,-71.05977,dry,USA,83,16,36,Maine coon,False
+9.0,solid,True,108,yellow,-74.00597,dry,USA,75,19,12,Maine coon,True
+6.33,colorpoint,False,76,blue,-0.127758,dry,UK,47,12,9,Ragdoll,False
+1.33,colorpoint,True,16,blue,-114.066666,wet,Canada,27,16,38,Ragdoll,True
+7.5,colorpoint,False,90,blue,-77.03637,wet,USA,51,15,24,Ragdoll,False
+5.0,solid,False,60,blue,-0.127758,wet,UK,38,16,36,Maine coon,False
+1.08,solid,True,13,green,-1.890401,wet,UK,42,19,40,Maine coon,False
+6.5,colorpoint,True,78,blue,13.404954,wet,Germany,51,17,22,Ragdoll,False
+0.08,colorpoint,False,1,blue,-77.03637,wet,USA,11,21,20,Ragdoll,False
+2.42,solid,False,29,blue,2.349014,wet,France,39,14,37,Angora,False
+7.25,colorpoint,False,87,blue,-74.00597,wet,USA,50,18,25,Ragdoll,True
+4.25,bicolor,True,51,yellow,-74.00597,dry,USA,69,13,9,Maine coon,False
+5.25,solid,True,63,yellow,-122.41942,dry,USA,88,13,4,Maine coon,True
+4.17,tabby,True,50,green,-74.00597,wet,USA,79,13,18,Maine coon,False
+8.0,colorpoint,True,96,blue,-71.05977,dry,USA,48,16,18,Ragdoll,False
+0.17,colorpoint,False,2,blue,-74.00597,wet,USA,16,18,34,Ragdoll,True
+3.33,solid,True,40,yellow,8.682127,wet,Germany,80,17,24,Maine coon,False
+5.17,solid,True,62,green,11.576124,wet,Germany,38,14,9,Angora,True
+8.58,solid,False,103,amber,-71.05977,wet,USA,39,16,18,Angora,False
+6.67,colorpoint,False,80,blue,-2.991573,wet,UK,26,16,27,Ragdoll,False
+6.08,solid,False,73,blue,-74.00597,dry,USA,41,16,39,Angora,False
+10.0,solid,True,120,blue,-74.00597,wet,USA,37,17,19,Angora,True
+2.83,solid,True,34,yellow,-2.242631,wet,UK,53,13,20,Maine coon,False
+4.92,solid,True,59,yellow,-87.623177,wet,USA,56,13,12,Maine coon,False
+7.75,solid,True,93,blue,-77.03637,wet,USA,37,18,15,Angora,False
+9.83,colorpoint,True,118,green,-122.41942,wet,USA,45,17,24,Ragdoll,False
+2.0,tabby,False,24,yellow,-0.127758,dry,UK,38,13,29,Maine coon,False
+8.42,solid,True,101,blue,-2.242631,wet,UK,36,20,18,Angora,True
+6.25,solid,True,75,blue,13.404954,wet,Germany,73,13,21,Maine coon,False
+3.08,bicolor,True,37,blue,-77.03637,wet,USA,45,15,16,Ragdoll,False
+8.5,solid,False,102,yellow,-77.03637,wet,USA,70,21,37,Maine coon,False
+10.83,colorpoint,True,130,blue,-74.00597,dry,USA,41,18,31,Ragdoll,False
+2.17,bicolor,True,26,blue,-77.03637,wet,USA,22,15,28,Ragdoll,False
+0.17,tabby,False,2,blue,-0.127758,wet,UK,14,20,20,Maine coon,False
+0.83,tortie,True,10,blue,13.404954,wet,Germany,24,20,42,Ragdoll,False
+5.0,solid,True,60,blue,-74.00597,dry,USA,39,14,32,Angora,False
+6.67,bicolor,False,80,blue,13.404954,dry,Germany,46,12,3,Ragdoll,False
+9.08,colorpoint,True,109,blue,-77.03637,dry,USA,47,20,8,Ragdoll,False
+4.5,solid,False,54,blue,-122.41942,wet,USA,39,16,39,Angora,False
+3.17,bicolor,False,38,yellow,11.576124,wet,Germany,53,16,26,Maine coon,False
+0.08,bicolor,False,1,blue,-71.05977,dry,USA,15,21,34,Ragdoll,False
+2.0,colorpoint,True,24,blue,-75.697193,wet,Canada,20,15,20,Ragdoll,False
+1.67,solid,False,20,blue,-0.127758,wet,UK,32,18,27,Maine coon,False
+5.67,colorpoint,True,68,green,6.773456,wet,Germany,43,15,3,Ragdoll,False
+7.58,solid,False,91,yellow,-71.05977,wet,USA,80,18,38,Maine coon,False
+9.17,solid,True,110,yellow,-74.00597,wet,USA,88,19,10,Maine coon,False
+7.25,tabby,True,87,yellow,-74.00597,wet,USA,69,19,37,Maine coon,False
+7.67,tabby,True,92,yellow,-122.41942,dry,USA,55,21,18,Maine coon,False
+5.33,solid,True,64,blue,11.576124,dry,Germany,37,14,16,Angora,True
+7.25,solid,False,87,amber,-123.116226,wet,Canada,38,16,27,Angora,False
+9.33,solid,False,112,green,-77.03637,wet,USA,36,14,25,Angora,False
+2.5,tabby,True,30,yellow,11.576124,wet,Germany,72,13,24,Maine coon,False
+5.25,colorpoint,True,63,blue,-122.33207,dry,USA,45,12,30,Ragdoll,False
+1.75,solid,True,21,yellow,-2.991573,wet,UK,58,13,26,Maine coon,True
+0.33,colorpoint,False,4,blue,-2.242631,wet,UK,21,17,16,Ragdoll,False
+3.17,colorpoint,True,38,blue,-71.05977,wet,USA,38,15,2,Ragdoll,False
+3.08,colorpoint,True,37,blue,-122.33207,dry,USA,39,15,12,Ragdoll,False
+1.0,colorpoint,False,12,blue,-122.33207,wet,USA,26,19,17,Ragdoll,False
+9.5,solid,True,114,blue,-71.05977,wet,USA,38,19,18,Angora,False
+7.25,colorpoint,True,87,green,-71.05977,dry,USA,43,20,20,Ragdoll,False
+8.58,solid,True,103,green,-122.33207,wet,USA,71,18,29,Maine coon,False
+2.33,tabby,False,28,yellow,-0.127758,wet,UK,74,13,19,Maine coon,False
+4.25,solid,True,51,amber,4.834277,dry,France,37,14,36,Angora,False
+7.83,colorpoint,True,94,blue,-77.03637,dry,USA,45,21,19,Ragdoll,False
+7.5,colorpoint,True,90,blue,-71.05977,wet,USA,50,19,9,Ragdoll,False
+2.17,solid,True,26,yellow,-2.991573,wet,UK,93,13,29,Maine coon,False
+1.67,tortie,True,20,blue,-2.242631,wet,UK,20,20,32,Ragdoll,False
+6.92,solid,False,83,yellow,13.404954,wet,Germany,75,16,25,Maine coon,False
+8.0,bicolor,True,96,blue,-87.623177,wet,USA,48,16,31,Ragdoll,False
+6.92,solid,True,83,amber,-73.561668,wet,Canada,38,16,32,Angora,False
+6.08,colorpoint,True,73,blue,-77.03637,wet,USA,45,17,31,Ragdoll,False
+3.17,colorpoint,True,38,green,-122.67621,wet,USA,41,15,16,Ragdoll,False
+9.17,solid,False,110,green,-122.33207,wet,USA,35,16,20,Angora,False
+6.83,solid,False,82,yellow,11.576124,dry,Germany,49,13,34,Maine coon,False
+6.33,tortie,True,76,blue,-2.242631,wet,UK,38,17,18,Ragdoll,False
+2.92,solid,False,35,blue,-74.00597,wet,USA,39,14,28,Angora,False
+1.58,bicolor,False,19,blue,-1.549077,wet,UK,28,19,35,Ragdoll,False
+9.5,colorpoint,True,114,blue,-74.00597,wet,USA,58,18,0,Ragdoll,False
+2.33,tabby,True,28,yellow,-2.991573,dry,UK,68,17,16,Maine coon,False
+2.58,tabby,True,31,green,8.682127,dry,Germany,79,13,32,Maine coon,False
+9.33,solid,True,112,yellow,-76.61219,wet,USA,64,18,45,Maine coon,False
+5.5,solid,True,66,yellow,-114.066666,dry,Canada,52,13,10,Maine coon,True
+4.83,colorpoint,True,58,blue,-77.03637,wet,USA,52,12,0,Ragdoll,False
+4.0,colorpoint,False,48,green,-2.991573,wet,UK,27,13,26,Ragdoll,False
+5.92,solid,True,71,blue,-74.00597,wet,USA,35,13,34,Angora,False
+4.42,solid,False,53,blue,-77.03637,wet,USA,39,16,34,Angora,False
+3.83,bicolor,True,46,yellow,-77.03637,wet,USA,72,13,26,Maine coon,False
+7.0,solid,True,84,blue,-123.116226,dry,Canada,40,14,20,Angora,True
+0.17,bicolor,False,2,blue,-87.623177,wet,USA,17,18,39,Ragdoll,False
+2.5,colorpoint,True,30,blue,-74.00597,wet,USA,24,17,21,Ragdoll,False
+0.17,bicolor,False,2,blue,-0.127758,wet,UK,17,19,36,Maine coon,False
+4.67,bicolor,False,56,blue,8.682127,wet,Germany,26,13,37,Ragdoll,False
+3.08,solid,False,37,yellow,-71.05977,wet,USA,79,13,12,Maine coon,False
+2.33,solid,True,28,yellow,-1.890401,wet,UK,80,16,41,Maine coon,True
+1.17,bicolor,False,14,yellow,5.36978,wet,France,35,19,11,Maine coon,False
+5.17,colorpoint,False,62,blue,-76.61219,wet,USA,40,15,22,Ragdoll,False
+5.75,bicolor,True,69,amber,-71.05977,dry,USA,38,14,18,Angora,False
+0.17,tabby,False,2,blue,-74.00597,wet,USA,14,18,38,Maine coon,False
+0.25,solid,False,3,blue,5.36978,wet,France,19,16,46,Angora,False
+7.0,tabby,True,84,yellow,8.682127,wet,Germany,78,13,29,Maine coon,False
+9.67,colorpoint,True,116,blue,-74.00597,wet,USA,42,17,16,Ragdoll,False
+0.92,solid,False,11,blue,-87.623177,wet,USA,39,19,33,Maine coon,False
+2.92,bicolor,True,35,yellow,-74.00597,dry,USA,52,13,12,Maine coon,False
+5.08,solid,True,61,yellow,-122.33207,dry,USA,49,13,34,Maine coon,False
+4.83,colorpoint,True,58,green,-77.03637,wet,USA,40,12,36,Ragdoll,False
+3.17,colorpoint,True,38,blue,-76.61219,dry,USA,38,15,22,Ragdoll,True
+6.5,tortie,True,78,blue,-122.41942,wet,USA,38,12,5,Ragdoll,False
+10.0,tortie,False,120,yellow,-71.05977,dry,USA,53,17,14,Maine coon,False
+0.17,solid,False,2,blue,-74.00597,wet,USA,16,20,36,Angora,False
+0.92,solid,True,11,amber,-0.57918,wet,France,31,19,55,Angora,False
+7.33,colorpoint,True,88,blue,-74.00597,wet,USA,58,15,4,Ragdoll,False
+6.08,colorpoint,True,73,blue,-122.41942,wet,USA,42,15,11,Ragdoll,False
+6.75,solid,True,81,amber,-123.116226,dry,Canada,39,14,24,Angora,False
+7.5,solid,True,90,yellow,-122.41942,wet,USA,51,21,36,Maine coon,False
+6.5,mitted,True,78,green,-0.127758,wet,UK,46,12,1,Ragdoll,False
+3.67,colorpoint,False,44,blue,2.349014,wet,France,44,15,6,Ragdoll,False
+7.58,solid,True,91,amber,-74.00597,wet,USA,39,14,5,Angora,False
+8.42,colorpoint,False,101,blue,-71.05977,dry,USA,53,17,13,Ragdoll,False
+0.17,tortie,False,2,blue,-71.05977,dry,USA,16,18,31,Ragdoll,False
+9.75,solid,False,117,blue,-1.890401,wet,UK,37,17,13,Angora,False
+3.33,colorpoint,False,40,green,-77.03637,dry,USA,50,15,27,Ragdoll,True
+3.25,bicolor,True,39,blue,-77.03637,wet,USA,48,16,16,Ragdoll,False
+5.25,solid,True,63,blue,11.576124,wet,Germany,31,16,29,Angora,False
+6.75,solid,False,81,green,-122.67621,wet,USA,33,16,20,Angora,False
+7.08,tortie,False,85,blue,-1.890401,wet,UK,40,17,39,Angora,False
+7.17,tabby,True,86,yellow,-71.05977,wet,USA,65,19,11,Maine coon,False
+9.0,solid,True,108,yellow,-122.33207,wet,USA,83,20,37,Maine coon,False
+2.08,colorpoint,True,25,blue,-122.33207,wet,USA,25,15,5,Ragdoll,False
+8.5,colorpoint,True,102,blue,-122.41942,wet,USA,52,17,22,Ragdoll,False
+7.08,bicolor,True,85,blue,-74.00597,wet,USA,36,16,9,Angora,True
+9.17,colorpoint,True,110,blue,-122.67621,wet,USA,46,18,23,Ragdoll,False
+5.92,solid,True,71,amber,-74.00597,dry,USA,36,16,29,Angora,False
+5.17,solid,True,62,amber,11.576124,wet,Germany,36,14,19,Angora,False
+5.08,solid,True,61,amber,-71.05977,wet,USA,40,14,31,Angora,False
+7.58,tabby,True,91,blue,-77.03637,dry,USA,40,14,14,Angora,False
+9.58,colorpoint,True,115,green,-74.00597,dry,USA,48,21,18,Ragdoll,False
+8.33,solid,True,100,blue,-74.00597,dry,USA,41,14,18,Angora,False
+8.25,colorpoint,True,99,blue,-122.33207,dry,USA,46,16,7,Ragdoll,False
+6.17,bicolor,True,74,blue,-0.127758,dry,UK,40,17,9,Ragdoll,False
+6.83,solid,True,82,yellow,6.773456,wet,Germany,37,13,34,Maine coon,False
+5.17,solid,False,62,blue,13.404954,wet,Germany,36,14,37,Angora,False
+7.0,solid,True,84,yellow,8.682127,wet,Germany,42,13,21,Maine coon,True
+5.08,solid,True,61,yellow,-74.00597,dry,USA,85,13,23,Maine coon,False
+0.5,solid,False,6,blue,3.87771,wet,France,21,8,24,Angora,False
+4.17,solid,False,50,yellow,-77.03637,dry,USA,57,13,13,Maine coon,False
+5.08,solid,False,61,blue,-71.05977,wet,USA,39,16,27,Angora,False
+5.58,tortie,False,67,blue,-76.61219,wet,USA,35,17,11,Ragdoll,False
+4.42,bicolor,False,53,green,-76.61219,wet,USA,50,12,13,Ragdoll,False
+6.0,solid,True,72,yellow,-77.03637,wet,USA,59,16,20,Maine coon,False
+8.92,colorpoint,False,107,blue,-122.41942,wet,USA,43,18,13,Ragdoll,False
+1.92,solid,True,23,amber,-0.57918,wet,France,33,16,14,Angora,False
+6.08,solid,True,73,blue,-122.41942,wet,USA,38,14,16,Angora,False
+0.67,colorpoint,True,8,green,6.773456,wet,Germany,23,21,26,Ragdoll,False
+2.75,mitted,False,33,green,-74.00597,wet,USA,43,17,21,Ragdoll,False
+6.42,solid,False,77,yellow,-71.05977,wet,USA,63,16,13,Maine coon,False
+3.08,colorpoint,False,37,blue,-122.41942,wet,USA,45,15,25,Ragdoll,False
+0.17,solid,False,2,blue,-0.127758,wet,UK,15,20,39,Maine coon,False
+6.0,colorpoint,True,72,blue,-77.03637,wet,USA,48,12,17,Ragdoll,False
+0.83,solid,False,10,green,2.349014,dry,France,31,17,56,Angora,False
+1.83,colorpoint,True,22,blue,-123.116226,wet,Canada,28,16,25,Ragdoll,False
+4.08,solid,False,49,blue,-122.41942,wet,USA,38,13,9,Maine coon,False
+3.58,solid,False,43,yellow,8.682127,dry,Germany,71,13,20,Maine coon,False
+4.33,tabby,True,52,yellow,-87.623177,dry,USA,63,13,27,Maine coon,False
+6.5,solid,True,78,amber,-77.03637,wet,USA,39,17,25,Angora,False
+6.58,solid,False,79,amber,-79.347015,dry,Canada,41,17,16,Angora,False
+5.42,solid,True,65,amber,8.682127,wet,Germany,38,17,23,Angora,False
+4.75,colorpoint,True,57,blue,-74.00597,wet,USA,44,15,27,Ragdoll,False
+9.58,bicolor,True,115,yellow,-122.33207,dry,USA,78,19,10,Maine coon,False
+3.58,colorpoint,False,43,blue,4.834277,wet,France,50,15,13,Ragdoll,False
+2.58,solid,True,31,yellow,-2.242631,dry,UK,85,13,27,Maine coon,True
+3.92,solid,True,47,amber,-74.00597,dry,USA,34,14,25,Angora,False
+2.17,solid,False,26,green,-1.890401,wet,UK,56,13,38,Maine coon,False
+4.83,solid,False,58,blue,-77.03637,wet,USA,36,17,32,Angora,False
+0.42,bicolor,False,5,blue,-2.991573,wet,UK,22,13,29,Ragdoll,False
+5.0,solid,True,60,yellow,-87.623177,wet,USA,68,16,16,Maine coon,False
+3.58,tabby,True,43,yellow,-71.05977,dry,USA,51,13,32,Maine coon,True
+6.5,tabby,False,78,yellow,-122.41942,wet,USA,84,13,11,Maine coon,False
+3.67,solid,False,44,amber,-122.33207,wet,USA,39,14,23,Angora,False
+11.25,solid,True,135,blue,-2.242631,wet,UK,40,18,13,Angora,False
+1.92,mitted,True,23,blue,-123.116226,dry,Canada,31,19,35,Ragdoll,False
+9.25,solid,True,111,yellow,-74.00597,wet,USA,69,19,25,Maine coon,False
+5.75,tortie,False,69,yellow,-76.61219,dry,USA,68,16,15,Maine coon,False
+0.17,solid,False,2,blue,-77.03637,dry,USA,14,18,24,Angora,False
+5.67,solid,True,68,blue,13.404954,wet,Germany,39,14,12,Angora,False
+8.92,solid,False,107,yellow,-71.05977,dry,USA,75,16,27,Maine coon,False
+8.5,colorpoint,True,102,blue,-71.05977,wet,USA,45,20,21,Ragdoll,False
+7.83,tabby,False,94,green,-71.05977,dry,USA,77,18,23,Maine coon,False
+3.42,solid,False,41,yellow,13.404954,wet,Germany,73,13,37,Maine coon,False
+2.67,bicolor,False,32,blue,-74.00597,wet,USA,51,15,25,Ragdoll,False
+3.92,colorpoint,True,47,blue,-1.549077,wet,UK,28,15,2,Ragdoll,False
+4.58,tabby,False,55,yellow,-77.03637,wet,USA,58,13,18,Maine coon,False
+4.25,tabby,True,51,yellow,-122.33207,dry,USA,83,13,37,Maine coon,True
+10.0,solid,False,120,amber,-2.242631,wet,UK,36,14,23,Angora,False
+2.92,colorpoint,False,35,blue,-74.00597,wet,USA,29,16,21,Ragdoll,False
+4.0,colorpoint,True,48,blue,-122.67621,wet,USA,40,12,13,Ragdoll,False
+9.25,solid,True,111,amber,-77.03637,wet,USA,38,16,27,Angora,False
+9.83,colorpoint,True,118,blue,-122.67621,wet,USA,41,16,19,Ragdoll,False
+2.0,solid,True,24,blue,-0.57918,dry,France,38,16,23,Angora,True
+5.5,colorpoint,True,66,green,-74.00597,wet,USA,48,12,10,Ragdoll,False
+7.25,tabby,True,87,blue,-122.33207,wet,USA,40,20,12,Angora,False
+8.5,solid,True,102,green,-71.05977,dry,USA,67,20,20,Maine coon,False
+5.33,solid,True,64,blue,-0.57918,wet,France,44,16,20,Angora,True
+7.58,colorpoint,True,91,green,-77.03637,dry,USA,47,16,10,Ragdoll,False
+5.67,tabby,True,68,yellow,-123.116226,dry,Canada,83,13,28,Maine coon,False
+5.17,solid,True,62,yellow,-74.00597,wet,USA,72,13,24,Maine coon,False
+5.25,solid,True,63,yellow,-77.03637,dry,USA,51,13,29,Maine coon,False
+7.83,bicolor,True,94,blue,-71.05977,wet,USA,33,16,10,Angora,True
+2.83,colorpoint,True,34,blue,-122.41942,wet,USA,43,15,29,Ragdoll,False
+7.42,solid,True,89,yellow,-71.05977,dry,USA,89,19,10,Maine coon,False
+1.58,solid,True,19,amber,2.349014,wet,France,33,19,12,Angora,True
+2.67,tabby,True,32,yellow,-2.242631,wet,UK,60,13,14,Maine coon,False
+3.0,bicolor,False,36,blue,-1.890401,wet,UK,26,16,20,Ragdoll,False
+6.25,tabby,True,75,yellow,-122.33207,wet,USA,60,17,10,Maine coon,False
+3.42,colorpoint,False,41,blue,-122.33207,dry,USA,50,15,7,Ragdoll,False
+3.17,colorpoint,True,38,green,-87.623177,wet,USA,43,15,25,Ragdoll,False
+1.42,colorpoint,True,17,blue,-73.561668,dry,Canada,21,21,29,Ragdoll,False
+3.33,colorpoint,False,40,blue,-74.00597,dry,USA,47,17,27,Ragdoll,False
+8.5,solid,False,102,blue,-122.67621,dry,USA,40,14,18,Angora,False
+3.67,solid,True,44,blue,-122.41942,wet,USA,37,14,33,Angora,False
+3.58,colorpoint,True,43,blue,-0.57918,dry,France,43,17,25,Ragdoll,True
+1.83,colorpoint,True,22,blue,-79.347015,wet,Canada,24,17,4,Ragdoll,False
+7.0,solid,False,84,yellow,-122.41942,wet,USA,88,16,40,Maine coon,False
+1.58,colorpoint,False,19,blue,-1.890401,wet,UK,26,20,20,Ragdoll,False
+0.5,colorpoint,False,6,blue,-0.127758,wet,UK,25,15,18,Ragdoll,False
+3.0,tabby,True,36,yellow,-122.67621,dry,USA,60,13,18,Maine coon,False
+8.58,bicolor,False,103,yellow,-74.00597,wet,USA,86,19,35,Maine coon,False
+3.33,bicolor,True,40,blue,-122.33207,wet,USA,42,15,30,Ragdoll,False
+5.33,solid,True,64,blue,8.682127,dry,Germany,35,14,26,Angora,False
+7.0,colorpoint,True,84,green,8.682127,wet,Germany,52,17,13,Ragdoll,False
+2.5,solid,True,30,yellow,11.576124,wet,Germany,61,13,21,Maine coon,False
+2.83,colorpoint,True,34,blue,-122.41942,wet,USA,49,15,41,Ragdoll,False
+3.0,colorpoint,True,36,blue,-74.00597,wet,USA,55,16,12,Ragdoll,False
+2.17,tabby,True,26,yellow,-1.890401,wet,UK,66,13,39,Maine coon,False
+2.58,tabby,True,31,green,13.404954,dry,Germany,85,13,44,Maine coon,False
+2.17,solid,False,26,yellow,-2.991573,wet,UK,59,16,16,Maine coon,False
+8.17,solid,True,98,yellow,-76.61219,wet,USA,40,17,29,Maine coon,False
+7.75,solid,False,93,green,-122.33207,dry,USA,37,18,28,Angora,False
+1.75,solid,False,21,yellow,-0.127758,wet,UK,42,19,13,Maine coon,False
+6.83,solid,True,82,blue,-71.05977,wet,USA,36,17,32,Angora,False
+5.0,solid,True,60,green,-122.67621,wet,USA,76,13,27,Maine coon,False
+5.67,tabby,False,68,yellow,-75.697193,dry,Canada,80,17,13,Maine coon,False
+6.08,colorpoint,True,73,blue,-74.00597,wet,USA,45,12,30,Ragdoll,False
+3.75,solid,True,45,green,-76.61219,dry,USA,67,13,20,Maine coon,False
+4.33,solid,True,52,yellow,-71.05977,wet,USA,48,13,25,Maine coon,False
+1.92,tabby,True,23,yellow,6.773456,dry,Germany,40,20,12,Maine coon,False
+6.5,bicolor,False,78,amber,-122.33207,wet,USA,39,17,15,Angora,False
+5.0,solid,True,60,yellow,-77.03637,dry,USA,64,13,37,Maine coon,True
+2.33,solid,True,28,green,5.36978,dry,France,39,14,33,Angora,True
+9.67,solid,False,116,amber,-76.61219,dry,USA,39,18,14,Angora,False
+7.25,solid,False,87,green,-123.116226,wet,Canada,39,20,37,Angora,False
+2.0,solid,True,24,yellow,-0.127758,wet,UK,46,13,24,Maine coon,False
+1.83,solid,False,22,blue,3.87771,dry,France,41,20,45,Angora,False
+3.83,solid,True,46,green,-76.61219,wet,USA,47,13,20,Maine coon,False
+5.67,colorpoint,True,68,blue,-77.03637,dry,USA,40,12,26,Ragdoll,False
+7.25,colorpoint,False,87,blue,-77.03637,wet,USA,50,20,20,Ragdoll,False
+1.5,colorpoint,False,18,blue,-1.549077,dry,UK,29,18,3,Ragdoll,False
+2.25,solid,True,27,amber,-1.553621,wet,France,25,16,39,Angora,False
+0.25,bicolor,True,3,blue,-77.03637,wet,USA,21,10,60,Ragdoll,False
+9.75,colorpoint,False,117,green,-74.00597,dry,USA,47,17,24,Ragdoll,False
+3.33,colorpoint,True,40,blue,-74.00597,dry,USA,43,15,22,Ragdoll,False
+9.75,solid,False,117,blue,-1.890401,wet,UK,38,18,18,Angora,False
+5.58,colorpoint,False,67,blue,8.682127,wet,Germany,52,12,26,Ragdoll,False
+7.0,colorpoint,True,84,blue,13.404954,wet,Germany,48,12,28,Ragdoll,False
+7.0,solid,True,84,amber,-114.066666,dry,Canada,39,14,16,Angora,False
+2.0,colorpoint,True,24,green,-73.561668,dry,Canada,27,15,29,Ragdoll,False
+1.17,colorpoint,True,14,blue,-87.623177,wet,USA,26,18,38,Ragdoll,False
+1.58,tabby,True,19,green,-1.549077,wet,UK,54,19,14,Maine coon,False
+1.08,solid,False,13,blue,4.834277,wet,France,28,14,35,Angora,False
+2.75,bicolor,False,33,green,-71.05977,wet,USA,48,17,15,Ragdoll,False
+7.58,solid,False,91,yellow,-76.61219,dry,USA,85,17,37,Maine coon,False
+5.58,solid,False,67,blue,13.404954,wet,Germany,40,14,27,Angora,False
+5.25,solid,True,63,yellow,-73.561668,wet,Canada,53,13,18,Maine coon,False
+0.58,solid,False,7,blue,-1.553621,wet,France,23,11,55,Angora,False
+4.83,bicolor,True,58,yellow,-2.242631,wet,UK,32,13,21,Maine coon,False
+8.17,colorpoint,False,98,blue,-122.33207,wet,USA,53,20,28,Ragdoll,False
+9.58,colorpoint,True,115,blue,-71.05977,dry,USA,46,19,29,Ragdoll,False
+8.5,colorpoint,True,102,blue,-74.00597,dry,USA,47,20,9,Ragdoll,False
+4.17,solid,False,50,amber,-77.03637,wet,USA,41,16,24,Angora,False
+3.0,solid,True,36,green,-74.00597,dry,USA,39,15,16,Angora,False
+3.83,bicolor,True,46,amber,-74.00597,wet,USA,40,15,11,Angora,True
+7.42,solid,True,89,yellow,-71.05977,wet,USA,52,16,9,Maine coon,False
+4.58,colorpoint,True,55,blue,-74.00597,wet,USA,47,12,15,Ragdoll,False
+0.5,solid,False,6,blue,-0.127758,wet,UK,31,16,24,Maine coon,False
+6.25,tabby,False,75,yellow,-74.00597,dry,USA,54,13,36,Maine coon,False
+9.5,colorpoint,True,114,blue,-74.00597,wet,USA,48,19,13,Ragdoll,False
+5.08,solid,True,61,blue,-74.00597,dry,USA,37,14,29,Angora,False
+6.42,solid,True,77,amber,-87.623177,wet,USA,36,16,12,Angora,False
+5.58,colorpoint,False,67,blue,-76.61219,dry,USA,45,12,16,Ragdoll,False
+7.75,solid,True,93,green,-122.67621,wet,USA,42,14,16,Angora,False
+9.25,solid,False,111,amber,-77.03637,wet,USA,38,19,22,Angora,False
+6.17,solid,False,74,yellow,-77.03637,dry,USA,55,13,31,Maine coon,False
+3.92,tabby,True,47,green,-77.03637,dry,USA,67,13,35,Maine coon,False
+5.58,solid,True,67,yellow,-122.67621,wet,USA,65,13,13,Maine coon,False
+3.0,solid,False,36,blue,-122.41942,wet,USA,39,14,44,Angora,False
+0.33,bicolor,False,4,blue,-1.890401,dry,UK,21,16,14,Ragdoll,False
+4.58,tortie,True,55,blue,-71.05977,wet,USA,38,12,27,Ragdoll,False
+5.83,colorpoint,True,70,blue,-87.623177,wet,USA,44,12,10,Ragdoll,False
+7.25,solid,False,87,blue,-114.066666,dry,Canada,40,19,17,Angora,False
+6.5,tortie,False,78,yellow,-74.00597,wet,USA,51,13,11,Maine coon,False
+2.58,solid,False,31,blue,-0.57918,dry,France,32,16,30,Angora,False
+4.25,solid,False,51,amber,-74.00597,dry,USA,33,17,38,Angora,False
+8.92,solid,True,107,yellow,-74.00597,wet,USA,36,19,26,Maine coon,False
+3.67,solid,False,44,amber,3.87771,wet,France,37,14,32,Angora,False
+1.0,solid,True,12,blue,-1.549077,wet,UK,31,20,26,Maine coon,False
+0.67,colorpoint,True,8,green,11.576124,wet,Germany,22,17,38,Ragdoll,False
+0.17,solid,False,2,blue,8.682127,wet,Germany,14,18,32,Angora,False
+0.17,solid,False,2,green,-87.623177,wet,USA,15,20,22,Angora,False
+3.83,tortie,False,46,blue,-76.61219,wet,USA,40,16,16,Ragdoll,False
+7.5,tabby,False,90,yellow,-77.03637,wet,USA,65,19,34,Maine coon,False
+3.83,bicolor,True,46,blue,-122.33207,wet,USA,46,17,13,Ragdoll,True
+1.5,tabby,False,18,blue,2.349014,dry,France,38,15,17,Maine coon,False
+1.17,colorpoint,True,14,blue,-122.33207,wet,USA,24,21,34,Ragdoll,False
+4.33,colorpoint,True,52,green,-71.05977,wet,USA,49,16,32,Ragdoll,False
+5.75,solid,True,69,yellow,-122.67621,wet,USA,51,13,13,Maine coon,True
+5.75,tortie,True,69,green,-79.347015,wet,Canada,43,16,36,Maine coon,False
+4.58,colorpoint,False,55,blue,-71.05977,wet,USA,46,12,12,Ragdoll,False
+6.58,colorpoint,True,79,blue,-122.67621,wet,USA,38,17,18,Ragdoll,False
+5.58,colorpoint,False,67,blue,-77.03637,wet,USA,49,16,29,Ragdoll,False
+2.83,colorpoint,False,34,blue,-77.03637,wet,USA,38,17,31,Ragdoll,False
+0.08,colorpoint,False,1,blue,-122.41942,dry,USA,15,22,39,Ragdoll,False
+3.0,solid,True,36,yellow,-122.67621,wet,USA,70,16,28,Maine coon,False
+3.58,solid,False,43,yellow,-74.00597,wet,USA,75,16,39,Maine coon,False
+9.33,solid,True,112,yellow,-77.03637,wet,USA,65,21,21,Maine coon,False
+9.0,colorpoint,True,108,blue,-77.03637,wet,USA,43,17,20,Ragdoll,False
+1.25,tabby,True,15,blue,4.834277,wet,France,40,17,35,Angora,False
+4.67,tabby,True,56,yellow,-71.05977,wet,USA,51,13,21,Maine coon,False
+6.75,bicolor,True,81,green,8.682127,wet,Germany,53,12,18,Ragdoll,False
+2.17,colorpoint,True,26,green,-71.05977,dry,USA,20,15,6,Ragdoll,False
+4.83,colorpoint,True,58,green,-71.05977,dry,USA,51,12,6,Ragdoll,False
+5.33,bicolor,False,64,yellow,-114.066666,wet,Canada,64,13,24,Maine coon,False
+2.08,solid,False,25,yellow,-2.242631,wet,UK,78,13,14,Maine coon,False
+4.58,colorpoint,True,55,blue,-122.41942,wet,USA,39,12,18,Ragdoll,False
+4.0,solid,True,48,green,-77.03637,wet,USA,36,17,28,Angora,False
+0.08,colorpoint,False,1,blue,-74.00597,wet,USA,12,22,30,Ragdoll,False
+5.33,solid,False,64,blue,13.404954,wet,Germany,36,14,9,Angora,False
+8.08,colorpoint,True,97,blue,-71.05977,dry,USA,47,19,10,Ragdoll,False
+1.0,colorpoint,False,12,blue,-77.03637,dry,USA,26,17,11,Ragdoll,False
+3.67,tabby,True,44,yellow,-0.127758,wet,UK,53,13,32,Maine coon,False
+9.0,solid,True,108,yellow,-71.05977,wet,USA,83,21,15,Maine coon,False
+4.25,colorpoint,True,51,blue,-77.03637,dry,USA,43,16,30,Ragdoll,True
+2.0,solid,True,24,yellow,-1.890401,wet,UK,31,13,34,Maine coon,True
+6.83,tortie,True,82,yellow,11.576124,wet,Germany,63,16,18,Maine coon,False
+4.75,solid,True,57,yellow,-74.00597,wet,USA,84,13,15,Maine coon,True
+2.67,bicolor,True,32,green,-122.41942,dry,USA,53,15,32,Ragdoll,False
+2.17,solid,False,26,yellow,-2.242631,dry,UK,70,13,25,Maine coon,False
+5.75,solid,False,69,amber,8.682127,dry,Germany,39,15,39,Angora,False
+9.25,solid,True,111,yellow,-71.05977,wet,USA,66,19,12,Maine coon,False
+5.75,solid,True,69,blue,-114.066666,wet,Canada,39,13,30,Maine coon,False
+1.42,bicolor,True,17,blue,-79.347015,dry,Canada,27,19,36,Ragdoll,False
+1.17,solid,True,14,amber,4.834277,wet,France,25,17,19,Angora,False
+3.92,solid,True,47,amber,-71.05977,dry,USA,37,15,25,Angora,False
+1.17,solid,False,14,blue,2.349014,wet,France,34,17,23,Angora,True
+7.75,colorpoint,True,93,blue,-114.066666,wet,Canada,49,19,14,Ragdoll,False
+2.33,solid,True,28,amber,4.834277,dry,France,36,17,32,Angora,False
+0.08,tabby,False,1,green,-74.00597,wet,USA,12,20,33,Maine coon,True
+0.75,solid,False,9,blue,-1.890401,wet,UK,34,20,28,Maine coon,False
+4.0,colorpoint,True,48,blue,-1.549077,wet,UK,27,15,23,Ragdoll,False
+1.17,solid,True,14,blue,-1.553621,dry,France,35,18,18,Maine coon,False
+3.08,tabby,True,37,blue,-122.33207,dry,USA,39,16,25,Angora,False
+4.67,colorpoint,True,56,blue,-122.33207,wet,USA,49,12,24,Ragdoll,True
+2.92,solid,True,35,amber,-74.00597,wet,USA,41,14,21,Angora,False
+5.42,tabby,True,65,yellow,-79.347015,wet,Canada,57,16,14,Maine coon,False
+5.5,solid,True,66,yellow,-79.347015,dry,Canada,57,13,34,Maine coon,False
+0.08,colorpoint,False,1,blue,-74.00597,dry,USA,11,19,40,Ragdoll,False
+4.08,solid,False,49,blue,-74.00597,wet,USA,35,14,11,Angora,False
+2.17,tabby,True,26,yellow,-1.890401,dry,UK,65,13,10,Maine coon,False
+1.42,tabby,True,17,yellow,-0.57918,wet,France,47,19,22,Maine coon,False
+6.33,solid,True,76,blue,-2.242631,dry,UK,38,13,16,Angora,False
+7.42,solid,True,89,yellow,-71.05977,dry,USA,42,17,12,Maine coon,False
+9.25,colorpoint,False,111,green,-71.05977,dry,USA,48,20,14,Ragdoll,False
+0.5,solid,False,6,amber,3.87771,wet,France,21,10,30,Angora,False
+6.92,bicolor,False,83,green,13.404954,wet,Germany,22,13,34,Ragdoll,False
+5.83,solid,True,70,blue,-87.623177,wet,USA,35,13,23,Angora,False
+4.17,solid,True,50,yellow,-74.00597,wet,USA,39,13,4,Maine coon,False
+9.83,tortie,False,118,yellow,-74.00597,dry,USA,76,19,28,Maine coon,False
+7.58,colorpoint,True,91,blue,-75.697193,wet,Canada,43,15,3,Ragdoll,False
+6.58,tabby,False,79,blue,-76.61219,wet,USA,40,14,12,Angora,False
+7.0,tortie,False,84,yellow,-76.61219,wet,USA,52,13,30,Maine coon,False
+6.33,solid,True,76,yellow,-122.33207,wet,USA,41,13,27,Maine coon,True
+2.5,solid,False,30,amber,-0.57918,wet,France,37,16,44,Angora,False
+3.83,bicolor,False,46,yellow,-71.05977,dry,USA,42,13,27,Maine coon,False
+6.42,tabby,True,77,yellow,-76.61219,wet,USA,66,13,33,Maine coon,False
+5.75,bicolor,True,69,amber,-74.00597,wet,USA,43,12,12,Ragdoll,False
+7.58,colorpoint,True,91,blue,-122.67621,wet,USA,47,21,16,Ragdoll,False
+4.92,solid,False,59,green,-1.553621,dry,France,41,14,31,Angora,False
+3.75,solid,True,45,blue,-76.61219,wet,USA,43,14,38,Angora,False
+6.83,tabby,True,82,green,13.404954,dry,Germany,78,16,9,Maine coon,True
+2.58,solid,True,31,yellow,-2.991573,dry,UK,45,13,35,Maine coon,False
+4.83,tabby,True,58,yellow,-74.00597,dry,USA,42,13,25,Maine coon,False
+7.17,solid,True,86,yellow,-71.05977,wet,USA,62,17,9,Maine coon,True
+4.17,solid,True,50,amber,-71.05977,dry,USA,37,14,23,Angora,False
+1.5,colorpoint,False,18,blue,-77.03637,wet,USA,30,17,11,Ragdoll,False
+6.25,colorpoint,False,75,blue,-2.991573,wet,UK,50,16,10,Ragdoll,False
+9.67,solid,False,116,blue,-76.61219,wet,USA,37,20,11,Angora,False
+4.5,tortie,True,54,blue,-77.03637,wet,USA,45,15,26,Ragdoll,False
+5.0,solid,False,60,yellow,-122.67621,dry,USA,72,13,11,Maine coon,False
+6.25,bicolor,False,75,green,-0.127758,wet,UK,44,12,12,Ragdoll,False
+6.42,solid,True,77,yellow,-71.05977,dry,USA,38,16,17,Maine coon,False
+3.0,solid,True,36,amber,-74.00597,wet,USA,39,13,28,Angora,False
+1.0,solid,True,12,blue,-1.890401,wet,UK,28,19,12,Maine coon,False
+6.75,solid,True,81,blue,-79.347015,wet,Canada,40,14,17,Angora,True
+7.17,solid,False,86,blue,-77.03637,dry,USA,36,20,29,Angora,False
+4.58,colorpoint,True,55,green,-77.03637,wet,USA,50,17,28,Ragdoll,True
+5.08,tortie,True,61,green,-77.03637,wet,USA,38,17,18,Ragdoll,False
+8.25,colorpoint,True,99,green,-122.67621,wet,USA,44,19,26,Ragdoll,False
+8.17,solid,False,98,yellow,-76.61219,dry,USA,67,20,22,Maine coon,False
+4.58,solid,True,55,amber,-77.03637,wet,USA,37,17,39,Angora,True
+2.25,solid,True,27,yellow,-1.890401,wet,UK,55,13,10,Maine coon,False
+3.17,solid,True,38,blue,-2.242631,dry,UK,32,17,28,Maine coon,True
+2.58,tabby,True,31,yellow,-1.890401,dry,UK,55,13,17,Maine coon,False
+5.5,solid,True,66,green,13.404954,dry,Germany,40,14,17,Angora,False
+6.33,tabby,True,76,green,-77.03637,wet,USA,41,13,17,Maine coon,False
+7.17,solid,True,86,yellow,-122.41942,dry,USA,48,19,37,Maine coon,False
+3.5,colorpoint,False,42,green,-76.61219,wet,USA,47,15,9,Ragdoll,False
+4.67,tabby,True,56,yellow,-74.00597,wet,USA,71,13,21,Maine coon,True
+2.67,colorpoint,True,32,blue,-71.05977,wet,USA,52,15,5,Ragdoll,False
+7.5,solid,True,90,yellow,-74.00597,wet,USA,48,16,27,Maine coon,True
+0.08,tortie,False,1,blue,-122.67621,wet,USA,10,21,39,Ragdoll,False
+5.67,solid,False,68,blue,8.682127,dry,Germany,41,14,24,Angora,False
+2.5,colorpoint,False,30,blue,-122.67621,wet,USA,29,15,3,Ragdoll,False
+4.75,colorpoint,True,57,blue,-74.00597,dry,USA,27,13,16,Ragdoll,False
+9.08,solid,False,109,yellow,-74.00597,wet,USA,60,20,13,Maine coon,False
+4.58,solid,True,55,amber,-77.03637,dry,USA,37,14,24,Angora,False
+5.58,solid,False,67,blue,-79.347015,wet,Canada,39,17,10,Maine coon,False
+6.83,tabby,False,82,yellow,11.576124,dry,Germany,76,16,35,Maine coon,False
+5.17,solid,True,62,yellow,-74.00597,wet,USA,42,13,30,Maine coon,False
+6.33,tabby,True,76,yellow,-77.03637,dry,USA,42,16,19,Maine coon,False
+7.08,mitted,False,85,blue,-122.67621,dry,USA,48,17,9,Ragdoll,False
+1.75,colorpoint,False,21,blue,-123.116226,wet,Canada,29,17,11,Ragdoll,True
+6.67,colorpoint,True,80,blue,11.576124,wet,Germany,44,12,7,Ragdoll,False
+1.67,tabby,True,20,yellow,-1.549077,wet,UK,35,19,34,Maine coon,False
+5.83,mitted,True,70,blue,-87.623177,wet,USA,39,16,2,Ragdoll,False
+7.17,colorpoint,False,86,blue,-77.03637,wet,USA,46,19,34,Ragdoll,False
+4.75,tabby,True,57,blue,-2.991573,wet,UK,56,13,44,Maine coon,False
+7.67,colorpoint,True,92,blue,-123.116226,dry,Canada,48,20,27,Ragdoll,False
+4.58,mitted,True,55,blue,-76.61219,wet,USA,46,16,25,Ragdoll,False
+4.92,tabby,True,59,amber,-74.00597,wet,USA,40,14,31,Angora,True
+7.83,solid,True,94,amber,-77.03637,wet,USA,40,18,25,Angora,False
+6.83,solid,False,82,amber,-73.561668,dry,Canada,37,14,36,Angora,False
+2.33,colorpoint,True,28,green,-77.03637,wet,USA,20,15,24,Ragdoll,False
+5.92,solid,True,71,amber,-71.05977,wet,USA,41,13,29,Angora,False
+10.25,solid,True,123,yellow,-77.03637,dry,USA,60,21,9,Maine coon,False
+9.58,solid,True,115,green,-74.00597,dry,USA,36,16,28,Angora,False
+3.0,colorpoint,True,36,blue,-77.03637,wet,USA,45,15,38,Ragdoll,False
+9.5,solid,True,114,yellow,-76.61219,wet,USA,46,17,24,Maine coon,False
+0.42,colorpoint,True,5,green,-0.127758,wet,UK,21,14,48,Ragdoll,False
+8.58,colorpoint,False,103,blue,-71.05977,wet,USA,50,18,32,Ragdoll,False
+3.17,colorpoint,False,38,blue,-87.623177,wet,USA,48,16,32,Ragdoll,False
+4.92,solid,False,59,amber,-77.03637,wet,USA,41,14,14,Angora,False
+8.58,tabby,False,103,green,-74.00597,wet,USA,85,20,31,Maine coon,False
+6.0,colorpoint,True,72,blue,-74.00597,wet,USA,42,16,9,Ragdoll,False
+2.58,colorpoint,True,31,green,-76.61219,dry,USA,28,15,14,Ragdoll,False
+2.08,solid,True,25,yellow,-2.242631,wet,UK,76,13,33,Maine coon,False
+0.17,colorpoint,False,2,blue,-74.00597,wet,USA,13,18,30,Ragdoll,False
+1.58,colorpoint,True,19,blue,-1.890401,wet,UK,22,18,30,Ragdoll,False
+4.67,mitted,False,56,blue,-87.623177,wet,USA,47,12,8,Ragdoll,False
+2.67,colorpoint,False,32,blue,-71.05977,dry,USA,45,15,22,Ragdoll,False
+3.67,tabby,True,44,yellow,-122.67621,wet,USA,53,13,36,Maine coon,False
+7.5,colorpoint,False,90,blue,-71.05977,dry,USA,49,17,12,Ragdoll,False
+5.08,colorpoint,False,61,green,-76.61219,wet,USA,40,16,32,Ragdoll,False
+8.42,solid,False,101,amber,-1.549077,wet,UK,40,16,26,Angora,False
+5.17,solid,False,62,yellow,-122.33207,wet,USA,83,17,37,Maine coon,False
+6.67,solid,False,80,amber,-79.347015,dry,Canada,34,17,34,Angora,False
+5.58,colorpoint,False,67,blue,6.773456,wet,Germany,42,17,9,Ragdoll,False
+7.0,solid,True,84,yellow,-74.00597,dry,USA,41,13,25,Maine coon,False
+0.08,solid,False,1,blue,-77.03637,wet,USA,15,19,25,Maine coon,False
+5.58,solid,True,67,yellow,2.349014,wet,France,56,16,17,Maine coon,False
+1.25,tortie,True,15,blue,-75.697193,dry,Canada,26,18,27,Ragdoll,False
+6.75,tabby,True,81,yellow,-122.41942,wet,USA,75,13,18,Maine coon,False
+4.75,solid,False,57,amber,-74.00597,wet,USA,38,16,14,Angora,False
+3.33,colorpoint,True,40,blue,-71.05977,dry,USA,53,15,24,Ragdoll,False
+1.92,solid,True,23,blue,-0.127758,dry,UK,36,13,44,Maine coon,False
+6.0,solid,False,72,green,4.834277,dry,France,36,13,26,Angora,False
+0.17,solid,False,2,blue,-74.00597,dry,USA,14,20,40,Angora,False
+6.08,colorpoint,True,73,green,-122.33207,wet,USA,40,16,15,Ragdoll,False
+6.67,solid,True,80,green,-74.00597,dry,USA,59,17,27,Maine coon,True
+0.67,colorpoint,True,8,blue,11.576124,wet,Germany,21,16,47,Ragdoll,False
+0.17,solid,False,2,blue,-0.127758,wet,UK,15,20,35,Maine coon,False
+5.42,tabby,False,65,yellow,-123.116226,wet,Canada,66,13,10,Maine coon,False
+5.67,solid,True,68,green,13.404954,dry,Germany,36,14,37,Angora,False
+0.67,tabby,True,8,blue,-2.242631,wet,UK,36,15,47,Maine coon,False
+3.33,colorpoint,False,40,blue,-77.03637,wet,USA,50,15,2,Ragdoll,False
+0.08,colorpoint,False,1,blue,-122.33207,wet,USA,10,20,31,Ragdoll,False
+8.75,colorpoint,True,105,blue,-71.05977,wet,USA,38,19,30,Ragdoll,True
+2.5,colorpoint,False,30,blue,-122.67621,wet,USA,27,15,8,Ragdoll,False
+8.0,bicolor,False,96,blue,-71.05977,wet,USA,37,17,29,Angora,False
+0.33,solid,False,4,blue,3.87771,wet,France,19,16,48,Angora,False
+4.83,tortie,False,58,yellow,-74.00597,wet,USA,74,13,27,Maine coon,False
+3.5,solid,False,42,amber,-87.623177,dry,USA,33,14,37,Angora,False
+4.42,solid,True,53,yellow,-76.61219,wet,USA,77,16,33,Maine coon,False
+1.33,solid,True,16,yellow,-0.57918,wet,France,56,21,22,Maine coon,False
+3.42,solid,True,41,amber,-122.67621,dry,USA,41,17,24,Angora,False
+2.33,colorpoint,True,28,blue,-71.05977,wet,USA,36,15,12,Ragdoll,False
+8.33,solid,False,100,yellow,-122.41942,wet,USA,62,18,10,Maine coon,False
+6.42,solid,False,77,green,-77.03637,wet,USA,66,13,10,Maine coon,False
+6.75,colorpoint,True,81,blue,13.404954,dry,Germany,44,17,6,Ragdoll,False
+4.08,bicolor,False,49,yellow,-77.03637,wet,USA,86,13,11,Maine coon,False
+1.42,solid,True,17,blue,-76.61219,wet,USA,37,18,27,Maine coon,False
+9.83,solid,False,118,blue,-1.890401,wet,UK,35,17,11,Angora,False
+4.08,colorpoint,True,49,blue,-71.05977,wet,USA,51,16,29,Ragdoll,False
+3.83,colorpoint,True,46,green,-76.61219,dry,USA,45,15,29,Ragdoll,False
+2.08,colorpoint,True,25,blue,-71.05977,wet,USA,28,16,12,Ragdoll,False
+2.33,solid,False,28,blue,4.834277,wet,France,36,16,19,Angora,False
+6.92,tabby,True,83,yellow,6.773456,wet,Germany,48,17,23,Maine coon,False
+3.67,colorpoint,True,44,blue,2.349014,wet,France,38,16,23,Ragdoll,False
+4.67,colorpoint,True,56,green,-71.05977,wet,USA,44,12,7,Ragdoll,False
+9.0,tabby,True,108,yellow,-74.00597,dry,USA,64,20,34,Maine coon,False
+9.83,colorpoint,False,118,blue,-122.67621,wet,USA,56,19,18,Ragdoll,False
+1.75,solid,True,21,blue,4.834277,dry,France,34,19,23,Angora,False
+0.75,bicolor,False,9,yellow,-2.242631,wet,UK,52,20,22,Maine coon,False
+5.75,solid,True,69,amber,-71.05977,wet,USA,38,15,25,Angora,True
+5.75,solid,True,69,blue,-74.00597,wet,USA,31,15,9,Angora,False
+9.67,solid,True,116,blue,-74.00597,wet,USA,36,20,17,Angora,False
+9.42,bicolor,False,113,yellow,-77.03637,wet,USA,69,19,31,Maine coon,False
+3.25,colorpoint,True,39,blue,-87.623177,dry,USA,30,15,29,Ragdoll,False
+3.08,solid,True,37,blue,-0.57918,dry,France,40,14,11,Angora,False
+8.42,colorpoint,True,101,blue,-71.05977,dry,USA,41,20,29,Ragdoll,False
+4.92,solid,True,59,blue,-71.05977,dry,USA,39,13,34,Maine coon,False
+9.33,colorpoint,True,112,blue,-74.00597,wet,USA,39,19,13,Ragdoll,False
+10.0,colorpoint,True,120,blue,-122.41942,dry,USA,48,16,16,Ragdoll,False
+1.83,bicolor,True,22,amber,2.349014,wet,France,24,16,30,Angora,True
+5.17,solid,False,62,blue,8.682127,wet,Germany,39,16,17,Angora,False
+6.5,solid,True,78,yellow,-74.00597,wet,USA,70,13,19,Maine coon,False
+5.67,colorpoint,True,68,blue,-0.127758,dry,UK,26,15,18,Ragdoll,False
+7.25,solid,True,87,blue,-77.03637,dry,USA,33,18,23,Angora,False
+3.0,colorpoint,False,36,blue,-122.67621,wet,USA,44,15,24,Ragdoll,False
+1.75,bicolor,True,21,yellow,-2.242631,dry,UK,53,19,20,Maine coon,False
+3.5,colorpoint,True,42,blue,-122.41942,wet,USA,51,15,22,Ragdoll,False
+9.33,colorpoint,True,112,blue,-74.00597,wet,USA,47,16,11,Ragdoll,False
+6.75,solid,True,81,yellow,-122.67621,wet,USA,51,13,13,Maine coon,False
+3.83,colorpoint,True,46,blue,-76.61219,wet,USA,45,16,29,Ragdoll,False
+5.58,colorpoint,True,67,blue,8.682127,wet,Germany,46,12,15,Ragdoll,False
+7.58,colorpoint,True,91,blue,-77.03637,wet,USA,45,19,34,Ragdoll,False
+9.75,tabby,True,117,yellow,-77.03637,dry,USA,74,18,16,Maine coon,True
+6.92,solid,True,83,blue,-79.347015,wet,Canada,41,14,26,Angora,False
+0.08,tortie,False,1,blue,-74.00597,wet,USA,15,21,22,Maine coon,False
+6.5,solid,False,78,blue,-71.05977,wet,USA,34,14,21,Angora,False
+7.67,solid,True,92,yellow,-122.33207,wet,USA,102,13,16,Maine coon,False
+3.67,colorpoint,False,44,green,2.349014,wet,France,41,17,9,Ragdoll,False
+0.17,bicolor,False,2,blue,-74.00597,wet,USA,14,20,21,Ragdoll,False
+8.33,tabby,False,100,yellow,-122.33207,wet,USA,57,18,11,Maine coon,False
+3.58,colorpoint,True,43,blue,2.349014,wet,France,45,15,3,Ragdoll,False
+5.92,solid,True,71,green,-71.05977,wet,USA,39,16,12,Angora,False
+3.92,colorpoint,True,47,green,-74.00597,wet,USA,46,15,4,Ragdoll,False
+3.25,colorpoint,True,39,blue,-122.67621,wet,USA,31,15,2,Ragdoll,False
+1.92,solid,False,23,amber,3.87771,dry,France,35,18,21,Angora,False
+9.67,colorpoint,True,116,blue,-76.61219,wet,USA,38,19,31,Ragdoll,False
+1.25,colorpoint,True,15,blue,-73.561668,wet,Canada,21,17,34,Ragdoll,False
+1.5,colorpoint,False,18,blue,-1.549077,wet,UK,28,21,10,Ragdoll,False
+8.17,colorpoint,True,98,blue,-74.00597,wet,USA,44,19,36,Ragdoll,False
+0.08,solid,False,1,blue,-0.127758,wet,UK,15,22,40,Angora,False
+6.5,bicolor,False,78,blue,-0.127758,wet,UK,26,13,42,Ragdoll,False
+7.67,colorpoint,True,92,blue,-114.066666,wet,Canada,49,17,23,Ragdoll,False
+9.17,colorpoint,True,110,green,-122.33207,wet,USA,50,18,29,Ragdoll,False
+0.5,bicolor,False,6,amber,11.576124,wet,Germany,30,11,43,Ragdoll,False
+7.92,colorpoint,False,95,green,-76.61219,wet,USA,49,18,34,Ragdoll,False
+0.17,solid,False,2,blue,-87.623177,wet,USA,16,19,34,Angora,False
+0.08,bicolor,False,1,green,-71.05977,dry,USA,15,21,40,Maine coon,False
+9.08,solid,False,109,yellow,-76.61219,dry,USA,61,19,18,Maine coon,False
+3.25,solid,True,39,yellow,8.682127,dry,Germany,72,13,12,Maine coon,False
+0.17,tabby,False,2,green,-1.890401,wet,UK,16,19,34,Maine coon,False
+1.0,solid,True,12,amber,4.834277,wet,France,35,17,41,Angora,False
+1.42,solid,True,17,green,-1.553621,wet,France,31,14,48,Angora,False
+8.92,tabby,True,107,yellow,-74.00597,wet,USA,36,16,5,Maine coon,False
+4.83,colorpoint,False,58,blue,-71.05977,dry,USA,57,12,31,Ragdoll,False
+8.25,solid,True,99,amber,-76.61219,wet,USA,34,19,25,Angora,False
+4.5,colorpoint,True,54,blue,-122.41942,wet,USA,40,12,3,Ragdoll,False
+5.17,solid,True,62,yellow,-76.61219,wet,USA,68,16,9,Maine coon,False
+4.5,solid,True,54,blue,5.36978,dry,France,60,13,16,Maine coon,False
+2.17,colorpoint,True,26,blue,-77.03637,dry,USA,27,16,23,Ragdoll,False
+2.33,solid,False,28,blue,-1.553621,dry,France,36,14,19,Angora,False
+4.42,tortie,False,53,yellow,-71.05977,wet,USA,46,13,12,Maine coon,False
+1.5,tabby,False,18,yellow,-1.553621,dry,France,46,18,13,Maine coon,False
+7.58,colorpoint,True,91,green,-114.066666,wet,Canada,49,18,26,Ragdoll,False
+7.92,solid,True,95,amber,-122.41942,wet,USA,39,19,32,Angora,False
+2.83,tabby,True,34,green,-71.05977,dry,USA,83,17,31,Maine coon,False
+2.67,solid,True,32,green,4.834277,dry,France,34,14,21,Angora,True
+1.0,colorpoint,False,12,blue,-74.00597,wet,USA,28,18,16,Ragdoll,False
+0.42,bicolor,False,5,blue,-1.549077,wet,UK,26,12,28,Ragdoll,False
+7.0,tortie,False,84,blue,13.404954,wet,Germany,40,15,5,Ragdoll,False
+1.08,bicolor,True,13,green,-2.991573,dry,UK,31,18,28,Maine coon,False
+7.08,colorpoint,True,85,blue,-71.05977,wet,USA,45,21,25,Ragdoll,False
+2.92,solid,False,35,yellow,-74.00597,wet,USA,72,17,25,Maine coon,False
+5.17,colorpoint,True,62,green,-71.05977,wet,USA,50,17,10,Ragdoll,False
+1.25,colorpoint,True,15,blue,-123.116226,dry,Canada,27,20,19,Ragdoll,False
+2.08,solid,False,25,amber,2.349014,wet,France,33,14,36,Angora,False
+8.75,colorpoint,False,105,blue,-74.00597,wet,USA,50,21,33,Ragdoll,False
+7.33,solid,False,88,amber,-77.03637,wet,USA,39,13,16,Angora,False
+1.83,solid,False,22,yellow,-0.127758,wet,UK,59,16,13,Maine coon,False
+3.0,bicolor,True,36,blue,-0.127758,dry,UK,35,14,23,Angora,False
+3.08,tortie,True,37,green,-87.623177,wet,USA,41,15,24,Ragdoll,False
+0.17,solid,False,2,blue,-71.05977,wet,USA,17,20,38,Angora,False
+6.0,mitted,False,72,blue,-74.00597,wet,USA,45,16,15,Ragdoll,False
+3.83,colorpoint,False,46,blue,-77.03637,dry,USA,53,15,6,Ragdoll,False
+2.17,solid,True,26,blue,2.349014,wet,France,35,17,28,Angora,False
+5.75,solid,False,69,blue,-1.549077,dry,UK,31,13,29,Maine coon,False
+0.17,tabby,False,2,blue,-1.549077,wet,UK,15,18,23,Maine coon,False
+4.58,bicolor,False,55,green,-74.00597,wet,USA,46,16,14,Ragdoll,False
+6.5,colorpoint,True,78,blue,-0.127758,dry,UK,46,12,27,Ragdoll,False
+5.17,solid,False,62,blue,8.682127,dry,Germany,39,17,35,Angora,False
+8.92,colorpoint,True,107,green,-87.623177,wet,USA,55,18,15,Ragdoll,False
+5.17,solid,False,62,amber,-122.67621,wet,USA,36,13,27,Angora,False
+6.67,solid,True,80,yellow,-71.05977,wet,USA,76,17,36,Maine coon,False
+4.92,colorpoint,False,59,blue,-77.03637,dry,USA,51,12,36,Ragdoll,False
+4.67,colorpoint,True,56,blue,-122.41942,dry,USA,57,12,22,Ragdoll,False
+2.0,colorpoint,True,24,blue,-71.05977,wet,USA,23,15,22,Ragdoll,False
+8.58,colorpoint,False,103,blue,-77.03637,wet,USA,46,19,14,Ragdoll,False
+4.75,solid,True,57,green,-122.41942,wet,USA,48,13,34,Maine coon,False
+3.17,solid,True,38,yellow,-87.623177,wet,USA,62,13,10,Maine coon,False
+2.67,solid,True,32,blue,-0.57918,wet,France,38,14,37,Angora,False
+4.25,solid,True,51,yellow,-74.00597,dry,USA,70,16,30,Maine coon,False
+5.75,solid,True,69,yellow,-87.623177,dry,USA,51,13,14,Maine coon,True
+5.75,colorpoint,False,69,blue,-74.00597,wet,USA,48,12,10,Ragdoll,False
+9.42,tabby,True,113,yellow,-122.33207,wet,USA,49,16,23,Maine coon,True
+4.83,tabby,False,58,green,-122.33207,wet,USA,54,13,37,Maine coon,False
+2.33,colorpoint,True,28,blue,-74.00597,dry,USA,28,15,7,Ragdoll,False
+9.42,colorpoint,True,113,green,-77.03637,wet,USA,54,18,6,Ragdoll,False
+8.17,colorpoint,False,98,blue,-71.05977,dry,USA,48,20,22,Ragdoll,False
+2.42,tortie,True,29,blue,-122.33207,dry,USA,22,15,1,Ragdoll,False
+2.42,tabby,True,29,yellow,6.773456,wet,Germany,71,17,12,Maine coon,False
+5.17,colorpoint,True,62,blue,-122.41942,wet,USA,51,16,6,Ragdoll,False
+9.08,bicolor,True,109,blue,-71.05977,wet,USA,58,20,30,Angora,False
+3.83,solid,True,46,blue,-122.33207,wet,USA,37,13,29,Maine coon,False
+4.08,tortie,False,49,blue,-77.03637,wet,USA,26,17,9,Ragdoll,False
+0.58,colorpoint,True,7,blue,8.682127,wet,Germany,21,12,21,Ragdoll,False
+5.67,tabby,True,68,blue,6.773456,wet,Germany,37,15,37,Angora,False
+4.58,tortie,True,55,blue,-77.03637,wet,USA,46,12,13,Ragdoll,False
+5.17,solid,False,62,amber,11.576124,wet,Germany,38,14,27,Angora,False
+5.83,solid,True,70,yellow,-74.00597,wet,USA,51,13,21,Maine coon,True
+3.0,colorpoint,True,36,blue,-87.623177,wet,USA,22,17,13,Ragdoll,False
+2.92,colorpoint,False,35,blue,-71.05977,wet,USA,43,15,5,Ragdoll,True
+9.83,solid,True,118,amber,-2.242631,dry,UK,39,14,6,Angora,True
+4.92,solid,True,59,green,-74.00597,dry,USA,36,16,29,Angora,False
+2.25,tabby,False,27,yellow,-1.549077,dry,UK,66,13,15,Maine coon,False
+8.08,solid,False,97,amber,-74.00597,wet,USA,33,19,18,Angora,False
+9.33,colorpoint,False,112,blue,-74.00597,wet,USA,50,19,27,Ragdoll,False
+0.17,solid,False,2,blue,-74.00597,dry,USA,17,20,40,Angora,False
+4.08,bicolor,True,49,yellow,-77.03637,wet,USA,49,13,10,Maine coon,True
+4.0,solid,False,48,yellow,2.349014,wet,France,54,13,11,Maine coon,False
+4.67,colorpoint,False,56,blue,-74.00597,wet,USA,48,12,17,Ragdoll,False
+4.92,mitted,False,59,blue,-71.05977,wet,USA,38,12,14,Ragdoll,False
+5.42,solid,False,65,blue,6.773456,wet,Germany,39,17,27,Angora,False
+4.58,solid,True,55,blue,-77.03637,wet,USA,38,14,17,Angora,False
+3.25,colorpoint,False,39,blue,-122.67621,wet,USA,39,15,31,Ragdoll,False
+7.25,solid,True,87,amber,-73.561668,dry,Canada,36,19,29,Angora,False
+9.42,colorpoint,True,113,blue,-74.00597,wet,USA,46,16,22,Ragdoll,False
+0.08,tabby,False,1,green,-74.00597,wet,USA,15,21,34,Maine coon,False
+5.42,solid,True,65,yellow,-79.347015,dry,Canada,51,13,18,Maine coon,False
+9.42,colorpoint,True,113,blue,-71.05977,wet,USA,45,17,27,Ragdoll,False
+2.0,solid,False,24,blue,-1.890401,dry,UK,32,13,23,Maine coon,False
+7.08,colorpoint,True,85,blue,-74.00597,wet,USA,31,16,7,Ragdoll,False
+1.33,tabby,True,16,blue,2.349014,dry,France,30,20,38,Angora,False
+0.33,colorpoint,True,4,green,-2.242631,dry,UK,22,20,16,Ragdoll,False
+9.25,bicolor,False,111,blue,-77.03637,wet,USA,48,18,15,Ragdoll,False
+0.5,solid,False,6,green,-0.57918,wet,France,20,11,41,Angora,False
+0.5,tabby,False,6,green,2.349014,wet,France,21,10,51,Angora,False
+5.67,solid,True,68,yellow,-114.066666,dry,Canada,71,13,18,Maine coon,False
+5.17,tabby,False,62,green,-2.991573,wet,UK,38,13,38,Maine coon,False
+9.67,tabby,False,116,yellow,-71.05977,dry,USA,65,21,23,Maine coon,False
+6.5,tabby,False,78,yellow,-0.127758,wet,UK,53,13,31,Maine coon,False
+7.83,solid,True,94,yellow,-122.41942,wet,USA,56,16,12,Maine coon,False
+2.0,colorpoint,True,24,blue,-75.697193,dry,Canada,21,17,22,Ragdoll,False
+1.42,bicolor,True,17,blue,-114.066666,wet,Canada,28,21,19,Ragdoll,False
+4.42,bicolor,True,53,blue,-77.03637,dry,USA,53,16,17,Ragdoll,False
+4.5,colorpoint,True,54,blue,-114.066666,wet,Canada,26,15,12,Ragdoll,False
+1.0,colorpoint,True,12,blue,-77.03637,dry,USA,31,15,17,Ragdoll,True
+8.92,bicolor,True,107,amber,-74.00597,dry,USA,34,19,13,Angora,False
+7.5,solid,False,90,green,-74.00597,wet,USA,79,13,21,Maine coon,False
+7.25,tabby,False,87,yellow,-71.05977,wet,USA,73,21,17,Maine coon,False
+5.92,solid,False,71,green,-74.00597,dry,USA,38,13,26,Angora,False
+1.58,solid,True,19,yellow,-0.127758,wet,UK,60,19,37,Maine coon,True
+6.67,solid,True,80,blue,-114.066666,dry,Canada,40,14,13,Angora,False
+4.0,bicolor,True,48,blue,-2.242631,wet,UK,37,14,30,Angora,False
+5.92,tabby,True,71,yellow,-71.05977,dry,USA,56,13,30,Maine coon,False
+8.92,colorpoint,True,107,blue,-122.33207,wet,USA,52,19,19,Ragdoll,False
+5.5,bicolor,True,66,blue,-122.33207,dry,USA,47,15,20,Ragdoll,False
+6.25,colorpoint,True,75,blue,-0.127758,wet,UK,44,17,23,Ragdoll,False
+1.17,colorpoint,True,14,green,-75.697193,dry,Canada,20,15,30,Ragdoll,False
+6.17,colorpoint,True,74,blue,-1.890401,wet,UK,43,17,5,Ragdoll,False
+7.83,colorpoint,False,94,blue,-73.561668,dry,Canada,44,15,2,Ragdoll,False
+9.67,colorpoint,True,116,blue,-87.623177,wet,USA,43,16,14,Ragdoll,False
+8.75,colorpoint,False,105,blue,-77.03637,wet,USA,43,20,15,Ragdoll,False
+6.83,colorpoint,False,82,blue,8.682127,wet,Germany,49,12,33,Ragdoll,False
+7.83,bicolor,True,94,green,-74.00597,wet,USA,50,18,13,Ragdoll,False
+9.58,tabby,True,115,yellow,-87.623177,wet,USA,76,20,15,Maine coon,False
+1.08,colorpoint,False,13,green,-2.991573,wet,UK,29,16,46,Ragdoll,False
+4.42,colorpoint,False,53,blue,-77.03637,dry,USA,46,12,8,Ragdoll,False
+0.58,solid,False,7,amber,-1.553621,wet,France,22,9,47,Angora,False

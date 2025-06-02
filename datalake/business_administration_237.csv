@@ -1,0 +1,5741 @@
+international,work_industry,gmat,admission,race
+True,Nonprofit/Gov,620.0,,
+False,Consulting,640.0,,Asian
+True,Technology,670.0,,
+False,Consulting,690.0,Admit,Black
+False,Technology,630.0,,Black
+True,Nonprofit/Gov,650.0,,
+True,Technology,640.0,,
+False,Nonprofit/Gov,710.0,,Asian
+False,Other,570.0,,White
+True,Nonprofit/Gov,720.0,,
+False,Investment Banking,700.0,,Hispanic
+True,Financial Services,580.0,,
+False,PE/VC,640.0,,Asian
+False,PE/VC,610.0,,Hispanic
+False,Media/Entertainment,640.0,,Asian
+True,Technology,620.0,,
+False,Investment Banking,640.0,,White
+True,Investment Banking,780.0,Admit,
+False,PE/VC,690.0,,White
+False,Consulting,600.0,,White
+False,PE/VC,670.0,Admit,Asian
+False,Financial Services,620.0,Admit,Asian
+False,Technology,630.0,,Black
+True,Technology,630.0,,
+False,Technology,710.0,Admit,Other
+True,Investment Banking,600.0,,
+False,Health Care,660.0,,Black
+False,Consulting,600.0,,Hispanic
+False,Consulting,720.0,Admit,Asian
+True,Technology,660.0,Admit,
+False,Nonprofit/Gov,650.0,,White
+False,Financial Services,690.0,Admit,Black
+False,Nonprofit/Gov,570.0,,Black
+True,PE/VC,720.0,,
+False,Other,710.0,,Hispanic
+False,PE/VC,650.0,,White
+False,Consulting,680.0,Admit,Asian
+True,Financial Services,650.0,,
+True,Technology,670.0,Admit,
+True,Other,580.0,,
+False,Investment Banking,600.0,,Other
+False,Consulting,600.0,,White
+True,PE/VC,650.0,,
+False,Technology,670.0,Admit,Black
+False,PE/VC,610.0,,Asian
+False,Technology,660.0,,White
+False,Investment Banking,760.0,,Asian
+False,Other,590.0,,White
+False,Technology,640.0,,Asian
+False,PE/VC,680.0,,Black
+False,Nonprofit/Gov,670.0,,Black
+True,PE/VC,590.0,,
+True,Consulting,610.0,,
+False,Retail,680.0,Admit,Hispanic
+True,Consulting,670.0,Waitlist,
+False,Nonprofit/Gov,640.0,,White
+False,PE/VC,750.0,,Black
+True,Health Care,670.0,,
+False,Consulting,630.0,,White
+True,Consulting,620.0,,
+True,Investment Banking,670.0,,
+False,Technology,630.0,,Black
+False,Investment Banking,600.0,,Black
+False,Nonprofit/Gov,710.0,,Asian
+False,Technology,700.0,,Black
+True,Consulting,690.0,,
+False,Financial Services,630.0,,Black
+False,Consulting,660.0,,Black
+True,Nonprofit/Gov,570.0,,
+True,Financial Services,730.0,Admit,
+True,Nonprofit/Gov,600.0,,
+False,Technology,670.0,,Other
+False,Investment Management,610.0,,Black
+False,PE/VC,620.0,,Black
+False,Technology,580.0,,White
+False,Nonprofit/Gov,630.0,,Black
+True,Consulting,680.0,,
+True,Financial Services,640.0,,
+True,Nonprofit/Gov,630.0,,
+True,Consulting,680.0,,
+True,Consulting,750.0,,
+False,Consulting,650.0,,White
+False,PE/VC,660.0,Admit,Hispanic
+False,Investment Banking,570.0,,White
+True,Technology,620.0,,
+False,PE/VC,710.0,,Black
+True,Consulting,680.0,,
+True,PE/VC,660.0,,
+True,Health Care,710.0,Admit,
+False,PE/VC,680.0,,White
+False,Investment Banking,780.0,,White
+False,Technology,570.0,,Asian
+False,CPG,610.0,,Hispanic
+True,Real Estate,600.0,,
+True,Financial Services,670.0,,
+False,Investment Management,710.0,,Asian
+False,Consulting,600.0,,White
+False,Media/Entertainment,670.0,,White
+False,Financial Services,590.0,,Hispanic
+False,Nonprofit/Gov,690.0,,White
+True,PE/VC,690.0,,
+False,Consulting,730.0,,White
+False,PE/VC,580.0,,Black
+False,Technology,630.0,,White
+False,Technology,630.0,,Black
+False,Consulting,740.0,,Hispanic
+False,Technology,710.0,Admit,Black
+False,Investment Management,650.0,,Black
+True,Investment Banking,600.0,,
+False,Financial Services,600.0,,Hispanic
+False,PE/VC,620.0,,Hispanic
+False,Consulting,640.0,,Asian
+False,Consulting,660.0,,White
+False,Consulting,640.0,,Asian
+False,Real Estate,610.0,,White
+False,Technology,670.0,,Asian
+True,Financial Services,590.0,,
+False,Consulting,700.0,,Hispanic
+True,Financial Services,630.0,,
+False,PE/VC,610.0,,White
+False,Nonprofit/Gov,570.0,,Black
+False,Financial Services,650.0,,White
+True,PE/VC,680.0,,
+False,Health Care,740.0,Admit,Hispanic
+False,Consulting,670.0,Admit,Other
+False,Consulting,720.0,Admit,Black
+True,Technology,640.0,,
+False,Nonprofit/Gov,650.0,,Hispanic
+True,Health Care,710.0,,
+False,Investment Management,600.0,,White
+True,Consulting,620.0,,
+False,Other,570.0,,Other
+False,Nonprofit/Gov,600.0,,Black
+False,Nonprofit/Gov,630.0,,Hispanic
+False,PE/VC,580.0,,Asian
+False,Nonprofit/Gov,580.0,,Asian
+False,CPG,620.0,,Hispanic
+False,Consulting,580.0,,White
+False,Investment Banking,690.0,,Hispanic
+False,Consulting,740.0,Waitlist,Asian
+False,Consulting,610.0,,Asian
+False,Other,620.0,,White
+False,Consulting,570.0,,Asian
+False,Consulting,570.0,Admit,Asian
+True,Nonprofit/Gov,640.0,,
+False,Consulting,710.0,,Hispanic
+True,Technology,640.0,,
+False,Media/Entertainment,660.0,,White
+False,Health Care,660.0,,Black
+False,Other,600.0,,White
+False,PE/VC,570.0,,White
+False,Technology,650.0,,Black
+False,Health Care,600.0,,White
+False,Nonprofit/Gov,570.0,,White
+False,Investment Management,710.0,,White
+True,Consulting,750.0,,
+False,Real Estate,670.0,,Asian
+False,Other,680.0,,Black
+False,Consulting,600.0,,Other
+False,Other,590.0,,Hispanic
+True,Nonprofit/Gov,690.0,,
+False,Consulting,640.0,,Asian
+False,Investment Banking,760.0,Admit,Black
+True,Technology,650.0,,
+False,Technology,660.0,,Asian
+False,Consulting,660.0,Admit,Other
+False,Investment Banking,680.0,,Black
+True,PE/VC,660.0,,
+False,Consulting,610.0,,Black
+False,PE/VC,660.0,,Black
+False,Health Care,730.0,,Black
+False,PE/VC,680.0,Admit,Black
+False,PE/VC,640.0,,White
+True,Technology,570.0,,
+True,Technology,730.0,,
+True,Health Care,700.0,,
+False,PE/VC,650.0,,White
+True,Technology,610.0,,
+False,PE/VC,660.0,,Asian
+False,Consulting,670.0,Admit,Asian
+False,Health Care,570.0,,Black
+False,Other,700.0,,Asian
+False,Consulting,580.0,,Hispanic
+False,Nonprofit/Gov,740.0,,Hispanic
+False,Other,660.0,,Black
+True,Real Estate,610.0,,
+True,Nonprofit/Gov,650.0,,
+False,PE/VC,690.0,,White
+False,Other,660.0,,Black
+False,Consulting,590.0,,Hispanic
+False,PE/VC,570.0,,White
+False,Financial Services,740.0,,White
+False,Investment Banking,710.0,,Black
+True,Investment Banking,680.0,,
+False,Consulting,650.0,,Hispanic
+False,Health Care,620.0,,Black
+False,Nonprofit/Gov,620.0,,Other
+False,Consulting,650.0,,Asian
+False,Consulting,690.0,,Black
+True,Consulting,590.0,,
+False,PE/VC,770.0,,White
+True,Investment Banking,650.0,,
+False,PE/VC,690.0,,Black
+False,Consulting,690.0,Admit,White
+True,Other,730.0,Admit,
+False,Other,660.0,,Hispanic
+True,Consulting,680.0,Admit,
+False,Consulting,620.0,,Asian
+False,Consulting,640.0,,Asian
+True,Media/Entertainment,730.0,,
+False,Investment Banking,650.0,,White
+True,PE/VC,690.0,Admit,
+False,Consulting,730.0,,White
+False,Other,580.0,,Asian
+False,Real Estate,590.0,,Asian
+False,Financial Services,710.0,Admit,White
+False,Consulting,650.0,,Asian
+False,Nonprofit/Gov,710.0,,Asian
+True,Other,670.0,,
+False,CPG,640.0,,Asian
+True,PE/VC,680.0,,
+False,Nonprofit/Gov,680.0,,Hispanic
+False,Consulting,570.0,,Asian
+False,Nonprofit/Gov,570.0,,Asian
+False,Consulting,620.0,,White
+True,Technology,650.0,,
+True,Consulting,610.0,,
+True,Nonprofit/Gov,610.0,,
+False,CPG,660.0,,Black
+False,Consulting,650.0,,White
+False,Investment Banking,570.0,,Asian
+False,Consulting,640.0,,Other
+False,Investment Banking,620.0,,Asian
+False,Health Care,720.0,,Asian
+True,Nonprofit/Gov,670.0,Admit,
+False,Nonprofit/Gov,620.0,,White
+False,Financial Services,660.0,,Black
+False,Financial Services,670.0,,Asian
+False,Health Care,640.0,,White
+True,Financial Services,660.0,,
+False,Nonprofit/Gov,720.0,Admit,White
+False,Technology,730.0,,White
+False,Financial Services,720.0,,Asian
+False,Investment Banking,620.0,,Asian
+False,PE/VC,720.0,,White
+False,Health Care,620.0,,Asian
+False,PE/VC,640.0,,Black
+True,CPG,690.0,,
+False,Technology,730.0,,Black
+True,Investment Management,590.0,,
+True,Investment Management,680.0,,
+True,PE/VC,610.0,,
+False,Investment Banking,680.0,,Black
+False,Other,700.0,,Black
+False,Health Care,640.0,,Asian
+False,Technology,670.0,,Asian
+False,Technology,690.0,,Black
+False,Consulting,660.0,Admit,White
+True,Consulting,720.0,,
+False,Other,700.0,Admit,White
+True,Consulting,620.0,,
+False,Investment Management,680.0,,Black
+True,Nonprofit/Gov,600.0,,
+False,Consulting,620.0,,Asian
+True,Other,590.0,,
+False,Financial Services,700.0,,Asian
+False,Other,690.0,Admit,White
+False,Consulting,670.0,Admit,Other
+False,Technology,660.0,Admit,White
+False,Consulting,590.0,,Black
+True,Consulting,620.0,,
+False,PE/VC,650.0,,Black
+False,Consulting,570.0,,Asian
+False,CPG,610.0,,Asian
+False,Consulting,740.0,Admit,Hispanic
+False,Financial Services,770.0,Admit,Other
+True,Investment Banking,620.0,,
+False,CPG,680.0,,White
+False,PE/VC,670.0,,White
+True,Financial Services,630.0,,
+True,Consulting,620.0,,
+False,Consulting,620.0,,Asian
+False,Consulting,650.0,,White
+False,Technology,610.0,,White
+True,CPG,650.0,,
+False,Investment Banking,630.0,,Asian
+False,CPG,650.0,,Black
+False,Consulting,710.0,Admit,White
+False,PE/VC,580.0,,Black
+False,Investment Banking,670.0,,Hispanic
+False,Nonprofit/Gov,710.0,,Black
+False,PE/VC,610.0,,Black
+False,Technology,590.0,,Other
+False,Consulting,620.0,,Asian
+True,Nonprofit/Gov,670.0,,
+True,Other,700.0,,
+False,PE/VC,590.0,,Asian
+False,Consulting,650.0,,White
+False,Nonprofit/Gov,640.0,,Black
+True,PE/VC,570.0,,
+False,Technology,670.0,Admit,Asian
+False,Investment Banking,730.0,Admit,Black
+False,Nonprofit/Gov,660.0,,Hispanic
+True,Consulting,630.0,,
+False,Real Estate,670.0,Admit,Hispanic
+True,Health Care,680.0,,
+False,Health Care,630.0,,White
+False,Consulting,690.0,Admit,Other
+False,Nonprofit/Gov,660.0,,Black
+False,Nonprofit/Gov,590.0,,Asian
+False,Consulting,600.0,,Asian
+True,Financial Services,650.0,,
+True,Consulting,730.0,Admit,
+False,Consulting,620.0,,Asian
+False,Investment Banking,670.0,,White
+False,Consulting,630.0,,Black
+False,CPG,640.0,,Hispanic
+False,Investment Banking,710.0,,Asian
+False,Technology,690.0,,White
+False,Consulting,780.0,,White
+False,Health Care,620.0,,Black
+False,Other,750.0,Admit,Black
+False,Retail,630.0,,White
+False,CPG,670.0,,White
+True,PE/VC,690.0,,
+False,Technology,610.0,,Other
+True,Consulting,660.0,,
+False,Consulting,660.0,,Black
+True,Consulting,690.0,,
+False,Other,760.0,Waitlist,White
+False,PE/VC,620.0,,White
+False,PE/VC,730.0,,Black
+False,Consulting,620.0,,Asian
+False,Health Care,690.0,,Black
+False,Consulting,780.0,,Asian
+True,Investment Management,680.0,,
+True,Consulting,590.0,,
+True,Financial Services,640.0,Admit,
+False,Consulting,590.0,,Asian
+True,Nonprofit/Gov,640.0,,
+False,PE/VC,640.0,,Hispanic
+False,Technology,570.0,,Black
+True,Other,650.0,,
+False,Consulting,630.0,,Black
+False,PE/VC,700.0,Admit,White
+False,Consulting,650.0,,Black
+False,CPG,670.0,,White
+True,PE/VC,590.0,,
+True,Technology,610.0,,
+False,Consulting,570.0,,Asian
+False,Consulting,680.0,,Asian
+False,Financial Services,710.0,,Asian
+False,Nonprofit/Gov,640.0,,Asian
+False,PE/VC,670.0,,White
+False,Retail,570.0,,Asian
+True,Nonprofit/Gov,650.0,,
+True,Other,750.0,,
+False,Technology,580.0,,Asian
+False,Financial Services,720.0,,White
+False,Consulting,720.0,Admit,Other
+False,Technology,620.0,,White
+False,Nonprofit/Gov,670.0,,Other
+False,PE/VC,590.0,,Black
+False,Financial Services,640.0,,Black
+False,PE/VC,680.0,,Asian
+True,Financial Services,650.0,,
+False,Nonprofit/Gov,630.0,,Asian
+False,PE/VC,570.0,,Black
+False,Consulting,590.0,Admit,Other
+True,CPG,660.0,,
+False,Nonprofit/Gov,660.0,,Asian
+False,Investment Banking,670.0,,Hispanic
+False,Health Care,770.0,,White
+False,Financial Services,680.0,,White
+False,Consulting,630.0,,Black
+False,Other,600.0,Admit,White
+False,Other,600.0,,Asian
+True,Technology,720.0,,
+False,Technology,690.0,,White
+False,Consulting,600.0,,Black
+False,Financial Services,670.0,Admit,Asian
+True,Investment Banking,680.0,,
+False,Financial Services,630.0,,White
+False,Health Care,680.0,Admit,Black
+False,Nonprofit/Gov,660.0,,Asian
+True,Consulting,570.0,,
+False,Consulting,610.0,,Black
+False,Consulting,650.0,,White
+False,Consulting,580.0,,Black
+False,Financial Services,650.0,,Asian
+False,Financial Services,580.0,,Black
+False,Consulting,610.0,,Black
+False,Technology,580.0,,Other
+False,Investment Banking,660.0,,Asian
+False,Investment Management,640.0,,Hispanic
+True,Nonprofit/Gov,700.0,,
+False,Consulting,610.0,,Asian
+True,Nonprofit/Gov,670.0,,
+False,Nonprofit/Gov,680.0,,White
+False,Financial Services,710.0,,Black
+False,Consulting,710.0,,Black
+False,Financial Services,660.0,Admit,Hispanic
+False,Nonprofit/Gov,680.0,Admit,Other
+True,PE/VC,620.0,,
+True,Other,630.0,,
+False,Technology,610.0,,White
+False,Consulting,630.0,,Other
+False,PE/VC,660.0,,Asian
+False,Investment Banking,700.0,Waitlist,White
+False,Consulting,710.0,Admit,Asian
+False,Consulting,620.0,,White
+False,PE/VC,590.0,,Asian
+False,Energy,710.0,,Black
+True,PE/VC,680.0,,
+False,Consulting,620.0,,Hispanic
+False,Investment Management,700.0,Admit,Other
+True,Consulting,610.0,,
+False,Nonprofit/Gov,710.0,,Black
+False,Consulting,670.0,,White
+False,Nonprofit/Gov,660.0,,White
+False,PE/VC,620.0,,Other
+False,PE/VC,610.0,,Black
+False,PE/VC,630.0,,Other
+False,Technology,780.0,,Asian
+False,Health Care,620.0,,Black
+False,Other,570.0,Admit,Other
+False,Nonprofit/Gov,690.0,,Black
+False,Health Care,700.0,Admit,Hispanic
+True,Consulting,640.0,Admit,
+False,Consulting,570.0,,Asian
+False,PE/VC,590.0,,Hispanic
+False,Nonprofit/Gov,600.0,,White
+False,PE/VC,740.0,,Black
+False,Health Care,670.0,,Asian
+True,Nonprofit/Gov,690.0,Admit,
+False,PE/VC,700.0,Admit,Black
+True,Consulting,610.0,,
+False,Investment Banking,630.0,,Asian
+True,Technology,770.0,,
+False,Financial Services,690.0,,White
+False,Consulting,640.0,,White
+False,Nonprofit/Gov,780.0,Admit,Asian
+True,Consulting,600.0,,
+False,Real Estate,730.0,,Hispanic
+False,Other,690.0,,Black
+False,Technology,720.0,Admit,Asian
+False,Investment Management,640.0,,Asian
+False,Technology,570.0,,Hispanic
+False,Consulting,650.0,,Hispanic
+False,Nonprofit/Gov,680.0,,Hispanic
+False,Consulting,620.0,,White
+False,Technology,690.0,Admit,Asian
+False,PE/VC,710.0,Admit,Asian
+False,Investment Banking,630.0,,White
+False,Nonprofit/Gov,610.0,,White
+True,Consulting,630.0,,
+False,Technology,580.0,,Black
+True,Consulting,710.0,,
+True,Nonprofit/Gov,610.0,,
+True,Financial Services,680.0,,
+False,Consulting,730.0,,Asian
+False,PE/VC,670.0,,Asian
+False,Other,570.0,,Hispanic
+True,Consulting,580.0,,
+False,Financial Services,670.0,Admit,White
+True,Nonprofit/Gov,620.0,Admit,
+True,Consulting,580.0,,
+True,Nonprofit/Gov,590.0,,
+True,Health Care,730.0,,
+False,Investment Banking,580.0,,White
+True,Health Care,630.0,,
+False,PE/VC,730.0,Admit,Black
+True,Technology,580.0,,
+False,Consulting,670.0,,Black
+True,Consulting,610.0,,
+True,Consulting,600.0,,
+True,Health Care,680.0,Admit,
+True,Nonprofit/Gov,690.0,,
+False,Other,690.0,,White
+False,PE/VC,710.0,,Asian
+True,Nonprofit/Gov,690.0,,
+False,Investment Banking,680.0,,White
+False,Consulting,650.0,,White
+False,Consulting,600.0,,Asian
+False,Health Care,640.0,,White
+False,Nonprofit/Gov,600.0,,White
+True,Health Care,700.0,,
+False,Consulting,630.0,,White
+False,Investment Banking,660.0,,White
+False,Consulting,710.0,,White
+False,Consulting,660.0,,White
+False,Consulting,650.0,,Asian
+False,Consulting,710.0,,Hispanic
+False,Technology,670.0,,White
+False,Consulting,700.0,,White
+True,Health Care,650.0,,
+False,PE/VC,690.0,,Black
+False,PE/VC,640.0,,Asian
+False,Consulting,620.0,,White
+False,Consulting,640.0,,Asian
+False,Health Care,620.0,,Black
+True,Consulting,620.0,,
+False,PE/VC,640.0,,Black
+False,Consulting,650.0,,White
+False,Consulting,640.0,,Asian
+True,Investment Banking,640.0,,
+True,Consulting,670.0,,
+True,Technology,570.0,,
+True,Consulting,570.0,,
+False,Health Care,640.0,,White
+False,Financial Services,630.0,,Asian
+False,Investment Banking,650.0,,Black
+False,Consulting,710.0,,Asian
+False,Nonprofit/Gov,710.0,Admit,White
+True,PE/VC,610.0,,
+True,Consulting,660.0,,
+False,Investment Management,620.0,,Asian
+False,Investment Management,650.0,,Black
+False,Technology,630.0,,Black
+False,Investment Banking,590.0,,Hispanic
+False,Consulting,690.0,Admit,White
+True,Real Estate,670.0,Admit,
+False,Nonprofit/Gov,630.0,,Hispanic
+False,Investment Banking,580.0,,Black
+False,CPG,610.0,,Asian
+False,Nonprofit/Gov,570.0,,White
+True,Other,650.0,,
+False,Financial Services,660.0,,White
+False,Nonprofit/Gov,650.0,,Other
+False,Investment Banking,590.0,,White
+False,Consulting,620.0,,White
+False,Consulting,660.0,,Black
+False,Consulting,640.0,,Hispanic
+False,PE/VC,720.0,,Other
+False,PE/VC,570.0,,Hispanic
+True,Nonprofit/Gov,750.0,,
+True,Investment Banking,760.0,,
+False,Energy,710.0,,Asian
+False,PE/VC,660.0,,Hispanic
+False,Health Care,630.0,,Asian
+False,Investment Banking,640.0,,White
+True,Consulting,680.0,,
+False,PE/VC,660.0,,Hispanic
+True,Technology,650.0,,
+True,Health Care,680.0,Admit,
+True,Investment Banking,590.0,,
+False,Consulting,590.0,,Asian
+True,Technology,670.0,,
+False,Consulting,630.0,,Asian
+True,PE/VC,700.0,,
+True,PE/VC,570.0,,
+False,PE/VC,710.0,,Other
+False,CPG,580.0,,White
+False,PE/VC,720.0,,White
+False,Real Estate,690.0,Admit,White
+False,Technology,730.0,,Asian
+True,Energy,660.0,,
+False,PE/VC,690.0,Admit,White
+False,Investment Banking,670.0,,Other
+True,Technology,590.0,,
+False,Health Care,690.0,,Asian
+True,Energy,580.0,,
+True,Consulting,610.0,,
+True,Media/Entertainment,600.0,,
+False,Consulting,720.0,,White
+True,Financial Services,590.0,,
+True,Technology,570.0,,
+False,PE/VC,570.0,,White
+False,Nonprofit/Gov,670.0,Admit,Asian
+False,Consulting,700.0,,Other
+False,Investment Banking,620.0,,White
+False,Consulting,660.0,Admit,Asian
+True,Financial Services,700.0,,
+False,Consulting,630.0,,Hispanic
+False,Other,690.0,,Asian
+False,Media/Entertainment,670.0,,Hispanic
+False,Consulting,670.0,Admit,Asian
+False,PE/VC,710.0,,White
+True,Financial Services,760.0,Admit,
+True,Financial Services,620.0,,
+True,Investment Banking,720.0,,
+True,Technology,570.0,,
+True,Nonprofit/Gov,780.0,,
+False,Consulting,720.0,Admit,White
+True,Nonprofit/Gov,640.0,,
+False,Technology,570.0,,Asian
+True,Consulting,630.0,,
+False,PE/VC,650.0,,Asian
+True,PE/VC,650.0,,
+False,Other,720.0,,Black
+False,Consulting,590.0,,White
+True,Consulting,620.0,,
+False,Consulting,600.0,,Black
+False,Consulting,630.0,,Black
+False,PE/VC,660.0,Admit,Black
+False,Other,640.0,,Other
+True,Investment Banking,630.0,,
+True,Investment Banking,580.0,,
+True,Technology,700.0,,
+False,Nonprofit/Gov,680.0,Admit,White
+False,Nonprofit/Gov,640.0,,Black
+True,Energy,640.0,,
+True,Financial Services,670.0,,
+False,Consulting,640.0,,Black
+False,Nonprofit/Gov,670.0,,White
+True,PE/VC,590.0,,
+True,PE/VC,700.0,,
+False,Consulting,640.0,,White
+False,Financial Services,660.0,,Other
+True,Consulting,590.0,,
+False,Other,590.0,,White
+True,Consulting,630.0,,
+True,Health Care,750.0,Admit,
+True,Consulting,630.0,,
+True,Investment Banking,660.0,Admit,
+False,Financial Services,660.0,Admit,White
+False,PE/VC,670.0,,Asian
+False,Investment Management,610.0,,Asian
+False,PE/VC,660.0,,Asian
+False,Technology,640.0,,Asian
+True,Consulting,650.0,,
+False,Financial Services,740.0,,Hispanic
+True,Technology,680.0,,
+False,Nonprofit/Gov,590.0,,Hispanic
+False,Consulting,610.0,,Asian
+True,Nonprofit/Gov,680.0,,
+True,Other,630.0,,
+True,Health Care,650.0,,
+False,Investment Banking,670.0,Admit,Other
+False,Investment Management,720.0,Admit,Asian
+True,PE/VC,670.0,,
+True,Other,650.0,,
+True,Consulting,680.0,Admit,
+False,Other,730.0,Admit,Hispanic
+False,Investment Banking,650.0,,White
+True,Financial Services,600.0,,
+False,Financial Services,580.0,,White
+False,Consulting,740.0,Admit,White
+False,Financial Services,640.0,,White
+False,PE/VC,580.0,,Black
+False,Technology,670.0,,Black
+True,Other,610.0,,
+False,Investment Banking,670.0,Waitlist,White
+True,Consulting,710.0,,
+False,Consulting,670.0,,White
+False,Financial Services,570.0,,Black
+False,Investment Banking,700.0,,Asian
+False,Nonprofit/Gov,640.0,,Other
+False,Other,630.0,,Asian
+False,Consulting,580.0,,Other
+True,Nonprofit/Gov,700.0,Waitlist,
+True,Investment Management,580.0,,
+False,Investment Banking,640.0,,White
+False,Technology,700.0,Admit,Asian
+False,Nonprofit/Gov,690.0,,Asian
+False,Investment Banking,780.0,,Black
+False,Investment Banking,670.0,,Black
+False,Technology,570.0,,White
+False,Nonprofit/Gov,650.0,,White
+False,PE/VC,580.0,,White
+False,Nonprofit/Gov,690.0,,Hispanic
+False,Consulting,760.0,,Hispanic
+True,Health Care,630.0,,
+False,PE/VC,710.0,Admit,White
+False,Other,720.0,,White
+False,Nonprofit/Gov,630.0,,Black
+False,PE/VC,670.0,,Asian
+False,Retail,610.0,,Asian
+False,Consulting,640.0,,White
+False,PE/VC,640.0,,Hispanic
+True,Nonprofit/Gov,660.0,,
+False,Consulting,570.0,,Hispanic
+False,Nonprofit/Gov,740.0,Admit,White
+True,Consulting,670.0,,
+False,Nonprofit/Gov,570.0,,Asian
+False,Nonprofit/Gov,670.0,Waitlist,Black
+False,Technology,720.0,,White
+False,Nonprofit/Gov,690.0,,Hispanic
+False,Other,710.0,Admit,Other
+False,Technology,620.0,,Hispanic
+True,Investment Banking,650.0,,
+False,Other,650.0,,Asian
+False,Technology,720.0,Admit,White
+False,Investment Banking,620.0,,Asian
+True,Consulting,650.0,,
+False,Consulting,660.0,Admit,Asian
+False,Financial Services,690.0,,Asian
+False,Consulting,670.0,Admit,Hispanic
+False,PE/VC,650.0,,Hispanic
+False,Consulting,590.0,Admit,White
+False,PE/VC,660.0,,Asian
+False,Investment Banking,630.0,,White
+False,Real Estate,710.0,,Other
+True,Consulting,600.0,,
+False,Technology,620.0,,Asian
+False,Technology,630.0,,White
+False,Consulting,570.0,,Other
+False,Consulting,610.0,,Other
+True,Investment Banking,680.0,Admit,
+False,Consulting,610.0,,Other
+False,Energy,590.0,,Asian
+True,PE/VC,680.0,,
+False,PE/VC,750.0,,White
+True,PE/VC,650.0,,
+False,Consulting,690.0,,White
+False,Financial Services,640.0,,Black
+False,Consulting,670.0,,White
+False,Nonprofit/Gov,670.0,,Black
+False,Consulting,570.0,,Asian
+False,Technology,650.0,,Hispanic
+False,Technology,670.0,,Other
+False,Other,670.0,Admit,White
+False,Consulting,670.0,,Black
+False,Other,570.0,,White
+False,Technology,660.0,,Black
+True,Investment Banking,600.0,,
+True,PE/VC,590.0,,
+True,Consulting,610.0,,
+False,Health Care,680.0,,Black
+False,Technology,610.0,,Other
+False,Consulting,740.0,Admit,Asian
+True,Consulting,740.0,,
+True,Investment Banking,690.0,,
+False,Other,650.0,,Asian
+True,Investment Banking,690.0,,
+False,PE/VC,680.0,Admit,Black
+True,Investment Management,570.0,,
+False,Health Care,640.0,,Black
+False,Consulting,630.0,,Asian
+False,Investment Banking,690.0,,Asian
+False,Technology,600.0,,Asian
+False,Other,620.0,,Black
+False,Consulting,650.0,,White
+False,Nonprofit/Gov,670.0,Admit,White
+True,PE/VC,600.0,,
+True,Nonprofit/Gov,660.0,,
+True,Consulting,630.0,,
+False,Consulting,650.0,,Black
+False,Other,630.0,,Other
+False,Investment Banking,720.0,Admit,White
+False,Consulting,650.0,,Black
+True,Financial Services,610.0,,
+True,Investment Banking,630.0,,
+False,Consulting,660.0,,White
+False,Nonprofit/Gov,730.0,Admit,White
+True,PE/VC,630.0,,
+False,Nonprofit/Gov,720.0,Admit,Asian
+True,PE/VC,730.0,Waitlist,
+True,PE/VC,690.0,,
+False,PE/VC,580.0,,Hispanic
+False,Consulting,640.0,,White
+False,PE/VC,660.0,Waitlist,Other
+False,Consulting,630.0,,White
+False,Consulting,680.0,,Asian
+False,PE/VC,640.0,,White
+False,Health Care,640.0,,White
+True,Other,640.0,,
+False,PE/VC,680.0,,Black
+False,PE/VC,600.0,,Black
+False,PE/VC,660.0,,White
+False,Financial Services,710.0,Admit,Asian
+False,Technology,660.0,,White
+False,Investment Management,660.0,Admit,Asian
+False,Nonprofit/Gov,630.0,,Black
+True,Nonprofit/Gov,650.0,,
+True,Consulting,700.0,,
+False,Nonprofit/Gov,620.0,,White
+False,Nonprofit/Gov,610.0,,White
+False,Consulting,570.0,,Asian
+False,Consulting,630.0,,Black
+False,Technology,600.0,,White
+False,Other,590.0,,White
+False,Technology,590.0,,White
+False,Consulting,600.0,,White
+False,Nonprofit/Gov,640.0,,Hispanic
+True,Consulting,680.0,,
+True,Financial Services,720.0,Admit,
+False,Health Care,600.0,,Asian
+False,PE/VC,700.0,,Asian
+False,Other,570.0,,Asian
+False,PE/VC,690.0,,Asian
+True,Consulting,710.0,,
+False,Health Care,710.0,Admit,Hispanic
+True,Nonprofit/Gov,620.0,,
+True,Consulting,660.0,Admit,
+False,Consulting,610.0,,White
+False,Consulting,600.0,,Asian
+True,Consulting,770.0,Admit,
+True,Nonprofit/Gov,710.0,,
+False,Technology,620.0,,Black
+False,Nonprofit/Gov,580.0,,Asian
+True,Financial Services,640.0,,
+True,Consulting,570.0,,
+False,Other,710.0,,Asian
+False,Investment Banking,600.0,,White
+False,Technology,640.0,,Hispanic
+False,Other,640.0,Waitlist,White
+False,CPG,650.0,,Asian
+False,Nonprofit/Gov,670.0,,Black
+True,Other,620.0,,
+False,Technology,710.0,Admit,Asian
+True,Nonprofit/Gov,720.0,,
+True,Health Care,570.0,,
+False,Health Care,600.0,,Asian
+False,Nonprofit/Gov,620.0,,Black
+True,CPG,590.0,,
+False,Technology,630.0,,White
+False,Nonprofit/Gov,630.0,,White
+False,PE/VC,690.0,Waitlist,Asian
+False,Consulting,630.0,,White
+False,Investment Banking,670.0,Admit,Asian
+False,Other,670.0,,Black
+True,Consulting,600.0,,
+False,Health Care,640.0,,White
+False,Investment Banking,720.0,,Asian
+False,Investment Banking,690.0,,Black
+True,Nonprofit/Gov,630.0,Admit,
+True,Investment Banking,570.0,,
+True,Consulting,640.0,,
+True,Nonprofit/Gov,630.0,,
+True,Technology,680.0,Admit,
+True,Health Care,700.0,,
+False,Consulting,590.0,,Other
+False,Other,710.0,Waitlist,Asian
+False,Health Care,760.0,,Asian
+True,PE/VC,720.0,Admit,
+False,Consulting,610.0,,Hispanic
+False,PE/VC,690.0,,Hispanic
+True,Other,660.0,,
+False,PE/VC,570.0,,Asian
+False,Consulting,660.0,,Hispanic
+False,Technology,650.0,,Black
+False,Consulting,780.0,Admit,Asian
+True,Technology,720.0,,
+False,Nonprofit/Gov,780.0,,White
+True,Other,740.0,,
+True,Technology,680.0,,
+True,Investment Management,740.0,Admit,
+True,Investment Banking,650.0,,
+False,Consulting,650.0,,White
+False,PE/VC,710.0,,Other
+True,Investment Banking,570.0,,
+False,Financial Services,580.0,,Black
+False,Investment Banking,700.0,,Asian
+True,Financial Services,630.0,,
+True,PE/VC,650.0,,
+False,PE/VC,680.0,Admit,Asian
+False,Consulting,650.0,,Hispanic
+False,Financial Services,650.0,,Asian
+False,Nonprofit/Gov,650.0,,Other
+True,Consulting,580.0,,
+False,Technology,670.0,,Black
+False,Technology,620.0,,Black
+True,Investment Banking,780.0,,
+False,Other,740.0,,Hispanic
+False,Investment Banking,630.0,,White
+False,Consulting,580.0,,White
+False,Health Care,610.0,,White
+False,PE/VC,700.0,Admit,Black
+False,Nonprofit/Gov,700.0,Admit,Hispanic
+True,Health Care,670.0,,
+False,Health Care,690.0,,Asian
+False,Financial Services,740.0,,White
+False,Real Estate,570.0,,Asian
+False,Financial Services,730.0,Admit,Asian
+False,Health Care,610.0,,White
+False,Other,730.0,,Other
+False,Consulting,620.0,,Asian
+False,Financial Services,630.0,,White
+False,Investment Banking,640.0,,Black
+False,PE/VC,630.0,,Hispanic
+False,PE/VC,710.0,Admit,Other
+False,PE/VC,700.0,Admit,White
+True,Other,650.0,,
+False,Technology,650.0,,Black
+True,PE/VC,690.0,,
+False,Health Care,670.0,,Asian
+False,Technology,590.0,,Black
+False,PE/VC,650.0,,Black
+True,PE/VC,660.0,,
+False,Real Estate,610.0,,Hispanic
+True,Technology,700.0,,
+False,Health Care,640.0,,White
+False,Other,780.0,,Asian
+False,Investment Banking,630.0,,White
+False,Consulting,610.0,,Asian
+True,Investment Banking,700.0,Admit,
+False,PE/VC,600.0,,Hispanic
+False,Investment Banking,620.0,,White
+False,Technology,580.0,,White
+False,Financial Services,720.0,,White
+False,Real Estate,620.0,,Asian
+False,PE/VC,710.0,,White
+False,Investment Banking,660.0,,Hispanic
+False,Nonprofit/Gov,720.0,,Asian
+True,Investment Banking,630.0,,
+True,Consulting,570.0,,
+True,PE/VC,610.0,,
+True,Consulting,650.0,,
+True,Financial Services,690.0,,
+True,Nonprofit/Gov,640.0,,
+False,Consulting,680.0,Admit,Black
+False,Consulting,610.0,,Other
+False,Health Care,650.0,,Asian
+False,Financial Services,590.0,,Hispanic
+False,Investment Banking,600.0,,White
+True,PE/VC,710.0,,
+False,PE/VC,570.0,,White
+False,Nonprofit/Gov,610.0,,Hispanic
+True,Technology,590.0,,
+True,Consulting,600.0,,
+False,Technology,640.0,,Asian
+False,Investment Banking,650.0,,Other
+False,Health Care,690.0,,White
+True,Technology,610.0,,
+False,Technology,740.0,,Hispanic
+False,Other,600.0,,White
+False,Investment Banking,660.0,Admit,Asian
+False,Real Estate,650.0,,White
+False,Consulting,720.0,Admit,Black
+False,Technology,670.0,,Hispanic
+False,PE/VC,620.0,,Asian
+False,PE/VC,620.0,,White
+False,Nonprofit/Gov,700.0,,Hispanic
+True,PE/VC,630.0,,
+True,Consulting,600.0,,
+True,Consulting,580.0,,
+True,Health Care,640.0,,
+False,Technology,600.0,,Asian
+False,Investment Banking,610.0,,Hispanic
+False,Financial Services,660.0,,Hispanic
+False,Technology,630.0,,Black
+False,Consulting,570.0,,Other
+False,Health Care,680.0,Admit,White
+False,Health Care,610.0,,White
+True,Consulting,630.0,,
+True,Financial Services,680.0,Admit,
+False,Real Estate,610.0,,Black
+False,Investment Management,680.0,,White
+False,Other,700.0,,Hispanic
+False,Consulting,580.0,,Asian
+True,Nonprofit/Gov,620.0,,
+False,Investment Banking,620.0,,White
+False,PE/VC,720.0,,White
+True,PE/VC,620.0,,
+False,Nonprofit/Gov,690.0,,Asian
+False,Consulting,680.0,,White
+False,PE/VC,570.0,,Asian
+False,Consulting,720.0,,Asian
+False,PE/VC,600.0,,Black
+False,Consulting,710.0,Admit,Black
+False,Consulting,700.0,Waitlist,Asian
+False,PE/VC,720.0,,Black
+True,Consulting,760.0,,
+False,Health Care,630.0,,Black
+True,PE/VC,570.0,,
+False,Consulting,570.0,,Hispanic
+False,Consulting,660.0,,Black
+False,Consulting,650.0,,Asian
+True,PE/VC,620.0,,
+False,Other,590.0,,Hispanic
+False,Technology,680.0,,Other
+False,Consulting,580.0,,White
+False,Investment Management,710.0,,White
+False,PE/VC,640.0,,Asian
+False,Consulting,650.0,,Asian
+False,Consulting,580.0,,Hispanic
+False,Consulting,650.0,,Other
+False,Health Care,600.0,,Hispanic
+False,Real Estate,610.0,,Asian
+False,Nonprofit/Gov,650.0,,White
+False,Technology,610.0,,White
+True,Media/Entertainment,690.0,,
+False,Consulting,700.0,Admit,White
+False,Nonprofit/Gov,590.0,,Black
+False,Nonprofit/Gov,610.0,,Asian
+False,Consulting,590.0,,Black
+True,Consulting,670.0,,
+True,Other,570.0,,
+True,PE/VC,700.0,,
+False,PE/VC,690.0,,Other
+True,Consulting,670.0,Admit,
+False,PE/VC,590.0,,White
+False,Consulting,720.0,,Asian
+False,Consulting,650.0,,White
+True,Consulting,570.0,,
+False,Investment Management,740.0,,White
+False,Consulting,590.0,,White
+False,Technology,630.0,,White
+False,Consulting,590.0,,White
+False,Consulting,590.0,,Hispanic
+False,Technology,680.0,,Black
+False,Technology,650.0,,Asian
+False,Real Estate,660.0,,White
+True,Financial Services,700.0,,
+False,Technology,680.0,,Asian
+True,Technology,680.0,,
+False,Financial Services,660.0,,White
+False,Other,660.0,,Hispanic
+False,Investment Banking,630.0,,White
+False,Consulting,660.0,Waitlist,Black
+False,Technology,590.0,,White
+False,Financial Services,700.0,,Asian
+False,Consulting,580.0,,White
+False,Real Estate,700.0,,Hispanic
+False,PE/VC,580.0,,Asian
+True,Nonprofit/Gov,680.0,,
+True,Consulting,600.0,,
+False,Consulting,680.0,,Asian
+False,Other,570.0,,White
+False,Investment Banking,740.0,,Black
+False,Other,650.0,,Black
+True,Consulting,580.0,,
+True,Consulting,700.0,,
+False,Consulting,620.0,,Black
+True,Investment Management,610.0,,
+False,Real Estate,650.0,,Hispanic
+True,Technology,570.0,,
+False,PE/VC,640.0,,White
+True,Investment Banking,680.0,,
+True,Technology,680.0,,
+True,Financial Services,580.0,,
+False,Other,580.0,,Black
+False,Health Care,720.0,,Black
+False,PE/VC,660.0,,White
+False,Investment Banking,660.0,Admit,Asian
+True,Consulting,640.0,,
+False,PE/VC,690.0,,White
+True,Technology,610.0,,
+False,Technology,700.0,,Asian
+False,Financial Services,660.0,,Hispanic
+True,Consulting,680.0,Admit,
+True,Health Care,720.0,,
+False,Consulting,600.0,,Asian
+False,Health Care,750.0,,Asian
+False,Nonprofit/Gov,710.0,Admit,Asian
+False,Other,640.0,,Asian
+False,Health Care,630.0,,Hispanic
+True,Financial Services,640.0,,
+False,Technology,680.0,,Asian
+False,Nonprofit/Gov,690.0,,Asian
+False,Real Estate,670.0,,White
+False,Investment Management,650.0,,Black
+False,Consulting,700.0,,Asian
+False,Consulting,620.0,,Other
+True,Consulting,650.0,,
+False,Technology,650.0,,Black
+True,Financial Services,640.0,,
+False,Nonprofit/Gov,630.0,,Asian
+True,Investment Banking,630.0,,
+False,Consulting,610.0,Admit,White
+False,Investment Management,660.0,,Asian
+False,Consulting,710.0,Admit,Black
+True,Investment Banking,610.0,,
+True,Consulting,600.0,,
+False,Financial Services,610.0,,Asian
+False,Nonprofit/Gov,620.0,,Asian
+False,Investment Banking,640.0,,Asian
+False,Financial Services,620.0,,Black
+False,Consulting,640.0,,Asian
+False,Consulting,650.0,,White
+False,Media/Entertainment,590.0,,Black
+False,Retail,650.0,,White
+False,CPG,580.0,,Hispanic
+False,Investment Banking,680.0,,Black
+True,Financial Services,590.0,,
+False,CPG,630.0,,Black
+False,Consulting,640.0,,Other
+False,Media/Entertainment,670.0,Waitlist,White
+False,Consulting,660.0,,Other
+False,Consulting,730.0,,Black
+True,PE/VC,690.0,Admit,
+False,PE/VC,630.0,,Black
+False,Nonprofit/Gov,650.0,,White
+False,Investment Management,680.0,Admit,Asian
+False,Consulting,670.0,,Black
+True,Other,700.0,,
+False,Consulting,660.0,Admit,Asian
+False,Retail,690.0,,White
+False,Investment Management,640.0,,Black
+False,Investment Banking,610.0,,Asian
+True,Consulting,670.0,Admit,
+False,PE/VC,590.0,,Asian
+False,Financial Services,610.0,,White
+True,Consulting,670.0,,
+False,PE/VC,740.0,,Hispanic
+True,Health Care,600.0,,
+True,Nonprofit/Gov,700.0,,
+False,Technology,700.0,,Black
+False,Consulting,670.0,,Black
+True,Consulting,750.0,Admit,
+False,Consulting,710.0,,Asian
+False,Nonprofit/Gov,620.0,,Hispanic
+False,PE/VC,650.0,,Other
+False,Consulting,620.0,,Asian
+False,Financial Services,670.0,Admit,Other
+False,Consulting,600.0,,Asian
+True,Consulting,640.0,,
+False,Technology,650.0,,Black
+False,Nonprofit/Gov,680.0,,Asian
+True,Nonprofit/Gov,680.0,,
+False,Technology,620.0,Admit,White
+True,Technology,730.0,,
+True,Consulting,640.0,,
+False,Consulting,580.0,,Hispanic
+True,Investment Management,700.0,,
+False,Investment Banking,690.0,Admit,Black
+False,Investment Banking,640.0,,White
+False,Investment Management,570.0,,Hispanic
+False,Consulting,630.0,,Black
+True,Consulting,600.0,,
+True,Consulting,650.0,,
+False,Consulting,680.0,,Black
+False,Technology,650.0,,Other
+False,Nonprofit/Gov,620.0,,Asian
+False,Consulting,590.0,,Asian
+False,Consulting,710.0,,White
+False,Consulting,570.0,,White
+False,Technology,690.0,,White
+False,PE/VC,640.0,,Hispanic
+False,Health Care,690.0,,Hispanic
+True,PE/VC,730.0,,
+True,Consulting,570.0,,
+True,Retail,610.0,,
+True,Nonprofit/Gov,650.0,,
+True,Consulting,680.0,Admit,
+False,Investment Banking,650.0,,White
+False,Real Estate,570.0,,Hispanic
+False,Investment Banking,610.0,,Black
+True,Consulting,760.0,,
+False,PE/VC,630.0,,Asian
+True,Other,630.0,,
+True,Consulting,680.0,,
+True,Consulting,630.0,,
+False,PE/VC,620.0,,Black
+False,Consulting,640.0,,White
+True,Consulting,720.0,Admit,
+False,Other,620.0,,Hispanic
+False,Consulting,670.0,,Asian
+True,Consulting,700.0,,
+True,PE/VC,670.0,,
+True,Consulting,750.0,,
+False,Technology,630.0,,Hispanic
+False,Investment Management,590.0,,White
+True,Investment Banking,640.0,,
+False,Consulting,650.0,,White
+True,PE/VC,710.0,,
+False,Investment Banking,690.0,Admit,Black
+False,PE/VC,660.0,,White
+False,Consulting,660.0,,Asian
+True,Technology,570.0,,
+False,PE/VC,740.0,Admit,Asian
+True,Consulting,670.0,Admit,
+True,Real Estate,720.0,,
+False,Consulting,580.0,,Other
+False,Technology,680.0,,White
+True,Nonprofit/Gov,660.0,,
+True,Technology,720.0,Admit,
+False,Investment Management,620.0,,Hispanic
+False,Consulting,640.0,,Hispanic
+False,Financial Services,780.0,Admit,Asian
+True,Investment Banking,620.0,,
+False,Investment Banking,650.0,,Hispanic
+True,Investment Banking,670.0,,
+True,Consulting,700.0,,
+False,PE/VC,590.0,,Hispanic
+True,Investment Management,700.0,Admit,
+True,Investment Banking,650.0,,
+False,Technology,640.0,,Other
+True,Investment Banking,670.0,,
+False,Financial Services,630.0,,Other
+False,Financial Services,680.0,Admit,White
+False,Consulting,650.0,,Hispanic
+False,Consulting,590.0,,Asian
+True,Nonprofit/Gov,650.0,,
+True,Consulting,680.0,,
+False,Consulting,670.0,,White
+False,PE/VC,690.0,,Hispanic
+False,Real Estate,570.0,,White
+False,Consulting,580.0,,White
+True,Technology,670.0,Admit,
+False,Nonprofit/Gov,590.0,,White
+False,Consulting,620.0,,Asian
+False,Technology,630.0,,Black
+False,PE/VC,690.0,,Asian
+False,Consulting,680.0,,Hispanic
+False,Financial Services,700.0,,Asian
+False,Technology,630.0,,Asian
+False,PE/VC,750.0,,White
+False,Nonprofit/Gov,720.0,,Black
+True,Consulting,780.0,Admit,
+False,Other,620.0,,Asian
+False,Consulting,570.0,,White
+False,Technology,720.0,,Hispanic
+False,Consulting,600.0,,Asian
+False,Investment Banking,610.0,,Black
+False,Technology,610.0,,White
+False,CPG,710.0,Admit,Asian
+False,Real Estate,680.0,,Black
+True,Consulting,640.0,,
+False,PE/VC,630.0,,Asian
+True,Consulting,630.0,Admit,
+False,PE/VC,620.0,,White
+False,PE/VC,700.0,,White
+True,Nonprofit/Gov,600.0,,
+False,Media/Entertainment,640.0,,White
+True,Health Care,660.0,,
+False,Technology,600.0,,Black
+False,Other,750.0,Admit,White
+False,Consulting,760.0,Admit,Asian
+True,Nonprofit/Gov,580.0,,
+False,Nonprofit/Gov,570.0,,White
+False,Consulting,650.0,,Hispanic
+False,PE/VC,690.0,,Asian
+False,Investment Banking,670.0,,White
+False,Consulting,670.0,,White
+False,Consulting,710.0,,Black
+False,Investment Banking,680.0,,Black
+True,PE/VC,570.0,,
+False,PE/VC,780.0,,Black
+True,Consulting,660.0,,
+False,PE/VC,660.0,,Asian
+False,Consulting,750.0,Admit,Hispanic
+True,PE/VC,670.0,,
+True,Other,640.0,,
+True,PE/VC,640.0,,
+False,Health Care,700.0,Admit,White
+True,Financial Services,690.0,Admit,
+False,Health Care,600.0,,Other
+True,Technology,610.0,,
+False,Consulting,640.0,Waitlist,White
+False,Nonprofit/Gov,610.0,,Black
+False,Consulting,680.0,Admit,Black
+True,Technology,590.0,,
+False,Nonprofit/Gov,640.0,,White
+False,Technology,670.0,,Black
+True,Consulting,620.0,,
+True,Consulting,620.0,,
+False,Financial Services,630.0,,Hispanic
+False,Nonprofit/Gov,640.0,,Hispanic
+False,PE/VC,630.0,,White
+True,Consulting,630.0,,
+True,PE/VC,590.0,,
+False,Nonprofit/Gov,630.0,,Asian
+True,Real Estate,570.0,,
+False,Other,680.0,,White
+False,Consulting,680.0,,White
+False,Nonprofit/Gov,720.0,Admit,White
+False,Financial Services,690.0,,Hispanic
+False,PE/VC,680.0,,Hispanic
+False,Consulting,600.0,,Hispanic
+False,Consulting,570.0,,Black
+False,Consulting,780.0,Admit,Black
+False,Investment Banking,630.0,,Black
+False,Nonprofit/Gov,660.0,,Black
+False,Technology,680.0,Admit,Asian
+True,Technology,640.0,,
+True,Financial Services,670.0,Waitlist,
+False,PE/VC,680.0,,Black
+False,Investment Banking,640.0,,Black
+False,Technology,590.0,,White
+False,Technology,630.0,,Asian
+True,Nonprofit/Gov,670.0,Waitlist,
+False,Nonprofit/Gov,660.0,,Black
+False,Consulting,670.0,,Black
+True,PE/VC,710.0,Admit,
+False,Consulting,720.0,Admit,Asian
+False,Consulting,720.0,,Asian
+True,Investment Banking,660.0,,
+False,Technology,730.0,Admit,Asian
+False,Other,640.0,,Asian
+False,Other,570.0,,White
+True,Consulting,640.0,Waitlist,
+False,Health Care,780.0,,Asian
+True,Health Care,780.0,Admit,
+False,Consulting,610.0,,White
+False,Technology,570.0,,Black
+False,Technology,650.0,,Hispanic
+False,Investment Banking,640.0,,Asian
+True,Consulting,580.0,,
+True,Nonprofit/Gov,670.0,,
+False,Technology,640.0,,Asian
+True,Nonprofit/Gov,620.0,Waitlist,
+True,Consulting,710.0,,
+True,Media/Entertainment,600.0,,
+True,PE/VC,670.0,Admit,
+True,Technology,570.0,,
+False,Technology,690.0,Admit,Asian
+False,Technology,620.0,Admit,White
+True,PE/VC,620.0,,
+True,Investment Banking,660.0,,
+False,Investment Banking,600.0,,White
+True,CPG,640.0,,
+True,Retail,650.0,,
+False,PE/VC,660.0,,Black
+False,CPG,660.0,,Asian
+False,PE/VC,570.0,,Black
+False,Financial Services,700.0,Admit,Asian
+False,Financial Services,580.0,,Black
+True,Other,640.0,,
+False,PE/VC,590.0,,Asian
+False,Consulting,670.0,,Black
+False,PE/VC,650.0,,Black
+False,Health Care,660.0,Admit,White
+True,Technology,700.0,,
+True,Consulting,620.0,,
+False,Consulting,580.0,,Hispanic
+False,Nonprofit/Gov,640.0,,Hispanic
+True,Technology,690.0,,
+False,Investment Management,660.0,,White
+False,Media/Entertainment,710.0,,Black
+False,Technology,710.0,,Hispanic
+False,Financial Services,690.0,,Black
+False,Media/Entertainment,780.0,,Asian
+False,Investment Banking,590.0,,Hispanic
+False,Consulting,730.0,,Other
+False,Real Estate,620.0,,Black
+True,Real Estate,680.0,,
+False,Consulting,720.0,,Black
+False,PE/VC,580.0,,White
+False,Consulting,670.0,Admit,White
+False,Investment Banking,630.0,Admit,Asian
+False,Nonprofit/Gov,620.0,,White
+True,Health Care,630.0,,
+True,Consulting,640.0,,
+False,PE/VC,680.0,,White
+False,Nonprofit/Gov,760.0,Admit,White
+False,Other,590.0,,Asian
+False,PE/VC,640.0,Waitlist,Hispanic
+False,Investment Banking,600.0,,Asian
+False,Nonprofit/Gov,620.0,,White
+True,Technology,640.0,,
+False,Financial Services,680.0,,Hispanic
+False,Health Care,740.0,,White
+True,Financial Services,750.0,Admit,
+False,Consulting,580.0,,White
+False,Investment Banking,670.0,,White
+False,Technology,570.0,,Black
+False,PE/VC,630.0,,White
+False,Health Care,700.0,,White
+True,Nonprofit/Gov,650.0,,
+False,Health Care,680.0,,Hispanic
+False,Technology,610.0,,White
+False,Financial Services,650.0,,White
+True,Real Estate,570.0,,
+False,PE/VC,730.0,,White
+False,PE/VC,660.0,Admit,Other
+False,Investment Banking,720.0,Admit,Asian
+False,PE/VC,670.0,,Hispanic
+False,Technology,670.0,,Black
+False,Investment Management,640.0,,Black
+False,Real Estate,660.0,Admit,Asian
+True,Consulting,690.0,,
+False,PE/VC,650.0,,Black
+True,Other,680.0,Admit,
+False,Financial Services,570.0,,Asian
+False,Nonprofit/Gov,630.0,,Hispanic
+False,Other,670.0,,Hispanic
+False,Investment Management,590.0,,Asian
+True,Consulting,650.0,,
+False,Consulting,640.0,,Black
+False,PE/VC,650.0,,White
+True,PE/VC,670.0,,
+False,Media/Entertainment,570.0,,White
+True,PE/VC,670.0,,
+False,Consulting,600.0,,Asian
+False,Nonprofit/Gov,670.0,,Asian
+False,Investment Management,660.0,,White
+False,Financial Services,570.0,,Asian
+False,Investment Banking,630.0,,White
+False,PE/VC,650.0,,Other
+True,Financial Services,670.0,,
+False,Health Care,640.0,,Black
+False,Financial Services,590.0,,White
+True,PE/VC,650.0,,
+False,Investment Banking,690.0,Admit,Asian
+False,Other,680.0,,Black
+True,Other,710.0,Admit,
+True,Investment Banking,780.0,,
+False,Other,650.0,,Asian
+False,Technology,680.0,,Asian
+False,Consulting,620.0,,Asian
+False,Technology,620.0,,White
+True,Investment Banking,640.0,,
+True,Health Care,680.0,Admit,
+True,Nonprofit/Gov,580.0,,
+False,Nonprofit/Gov,640.0,,Asian
+False,Consulting,640.0,,White
+True,Consulting,630.0,,
+False,Consulting,610.0,,Asian
+True,PE/VC,630.0,,
+False,Technology,680.0,,Black
+False,PE/VC,600.0,,Other
+False,Other,630.0,,White
+True,PE/VC,630.0,,
+False,Investment Banking,630.0,,Hispanic
+False,Real Estate,590.0,,Asian
+False,Other,710.0,,White
+False,PE/VC,670.0,,White
+False,Consulting,610.0,,White
+True,Health Care,640.0,,
+False,Consulting,610.0,Admit,White
+False,Health Care,660.0,,Black
+False,PE/VC,630.0,,Black
+True,Consulting,660.0,,
+False,PE/VC,710.0,,Asian
+False,Nonprofit/Gov,680.0,,Black
+False,Consulting,620.0,,Asian
+True,Consulting,690.0,,
+False,Other,690.0,Admit,Asian
+False,Other,690.0,,Asian
+False,Other,700.0,,White
+False,Health Care,600.0,,Asian
+False,Consulting,660.0,,White
+True,Financial Services,720.0,Waitlist,
+False,Technology,690.0,,Hispanic
+False,PE/VC,630.0,,White
+False,Consulting,570.0,,White
+False,PE/VC,700.0,,Black
+False,Other,600.0,,White
+False,Nonprofit/Gov,660.0,,Black
+False,Investment Management,690.0,Admit,Asian
+False,PE/VC,750.0,Admit,Hispanic
+False,Consulting,760.0,,Black
+False,PE/VC,750.0,Admit,White
+False,Technology,640.0,,Hispanic
+False,Nonprofit/Gov,740.0,,White
+False,CPG,650.0,,Hispanic
+False,Technology,590.0,,White
+False,Investment Banking,680.0,,Asian
+False,PE/VC,620.0,,Black
+False,CPG,570.0,,Asian
+True,Consulting,680.0,,
+True,Health Care,580.0,,
+False,Investment Banking,570.0,,White
+True,Investment Banking,610.0,,
+False,Consulting,730.0,Admit,White
+False,Consulting,580.0,,Black
+True,Consulting,570.0,,
+False,Consulting,570.0,,Black
+True,Other,750.0,,
+False,Nonprofit/Gov,570.0,,Hispanic
+False,Consulting,700.0,,Asian
+False,PE/VC,610.0,,Asian
+False,Technology,740.0,,White
+False,Consulting,610.0,,White
+True,Consulting,780.0,Admit,
+False,Other,680.0,,Black
+False,Financial Services,630.0,,White
+True,PE/VC,650.0,,
+True,Other,590.0,,
+True,Technology,660.0,,
+True,Investment Management,710.0,Admit,
+False,Investment Management,600.0,,Black
+False,Media/Entertainment,610.0,,White
+True,PE/VC,710.0,,
+False,Consulting,670.0,Admit,Asian
+False,Consulting,630.0,,White
+True,Other,640.0,,
+True,Consulting,640.0,,
+True,Consulting,610.0,,
+False,Consulting,610.0,,Other
+False,Technology,620.0,,White
+True,Technology,670.0,,
+True,Consulting,640.0,Admit,
+True,Consulting,570.0,,
+True,Consulting,620.0,,
+True,Health Care,730.0,,
+False,PE/VC,750.0,Admit,Black
+True,Nonprofit/Gov,620.0,,
+False,Consulting,700.0,,White
+False,Consulting,750.0,Admit,White
+False,Consulting,610.0,,Hispanic
+True,PE/VC,670.0,,
+False,Nonprofit/Gov,610.0,,Black
+False,Consulting,700.0,Admit,White
+False,Real Estate,600.0,,Asian
+False,Health Care,700.0,,Other
+True,Investment Banking,730.0,,
+True,PE/VC,570.0,,
+False,Technology,600.0,,Other
+False,Consulting,730.0,,White
+True,Nonprofit/Gov,650.0,,
+False,PE/VC,570.0,,Asian
+False,Health Care,620.0,,Hispanic
+False,PE/VC,570.0,,Asian
+True,Consulting,630.0,,
+True,Consulting,600.0,,
+False,PE/VC,610.0,,Asian
+False,Other,620.0,,Asian
+True,Consulting,750.0,Admit,
+False,Consulting,660.0,,White
+False,Consulting,680.0,,Black
+False,Consulting,730.0,,White
+False,Consulting,670.0,,Other
+False,Health Care,590.0,,Asian
+False,Consulting,590.0,,White
+True,Technology,610.0,,
+False,Investment Banking,620.0,,Asian
+True,Nonprofit/Gov,650.0,,
+False,Technology,630.0,,White
+False,PE/VC,660.0,,White
+False,Energy,660.0,,Black
+False,Consulting,690.0,,Asian
+False,Consulting,620.0,,White
+True,PE/VC,570.0,,
+False,Technology,610.0,,White
+True,Technology,650.0,,
+False,Financial Services,600.0,Admit,White
+False,PE/VC,670.0,,White
+False,Consulting,660.0,,White
+False,Consulting,620.0,,Hispanic
+True,Technology,680.0,,
+False,Nonprofit/Gov,660.0,,Asian
+False,Consulting,570.0,,Black
+False,PE/VC,640.0,,White
+False,Consulting,570.0,,White
+False,Investment Banking,630.0,,White
+True,Other,620.0,Waitlist,
+False,Consulting,640.0,,Hispanic
+True,Consulting,650.0,,
+False,PE/VC,710.0,,White
+True,PE/VC,650.0,,
+False,Technology,620.0,,White
+False,Consulting,650.0,,Hispanic
+False,Financial Services,680.0,,Asian
+True,Consulting,640.0,,
+False,CPG,670.0,Admit,Asian
+False,Technology,620.0,,Other
+False,Consulting,650.0,,White
+False,Nonprofit/Gov,780.0,Admit,Asian
+False,Technology,680.0,Admit,White
+False,Investment Management,630.0,,White
+False,Other,630.0,,Other
+False,Financial Services,640.0,,Black
+False,Consulting,660.0,,White
+False,Other,680.0,,White
+True,Nonprofit/Gov,700.0,,
+True,Real Estate,650.0,Admit,
+False,Other,600.0,,White
+True,Other,580.0,,
+False,Consulting,650.0,,White
+False,Consulting,680.0,,Asian
+True,Investment Banking,710.0,,
+False,Other,630.0,,White
+False,Technology,700.0,,Black
+True,PE/VC,730.0,Admit,
+False,Financial Services,640.0,,Asian
+False,Consulting,770.0,Admit,White
+False,PE/VC,600.0,,Asian
+False,Other,580.0,,White
+False,Consulting,600.0,,Other
+False,Other,710.0,,Asian
+False,Technology,640.0,,Asian
+False,Technology,730.0,Admit,Other
+True,Consulting,650.0,,
+True,Investment Banking,570.0,,
+True,Consulting,780.0,,
+False,Technology,620.0,,Hispanic
+False,Consulting,670.0,,Black
+True,Other,730.0,Admit,
+False,Media/Entertainment,630.0,,Black
+False,Health Care,620.0,,Other
+False,Technology,680.0,,Black
+True,Nonprofit/Gov,680.0,,
+False,PE/VC,660.0,,White
+False,Financial Services,570.0,,Other
+True,Investment Banking,610.0,,
+False,Media/Entertainment,620.0,,Black
+True,Technology,660.0,Admit,
+False,PE/VC,640.0,,White
+False,Consulting,600.0,,Hispanic
+False,Consulting,640.0,,White
+True,Consulting,610.0,,
+True,Consulting,710.0,,
+False,Nonprofit/Gov,720.0,Admit,White
+False,Consulting,570.0,,White
+False,Financial Services,620.0,,Asian
+False,Nonprofit/Gov,680.0,,Black
+False,PE/VC,600.0,,Black
+False,Energy,640.0,,Hispanic
+False,Consulting,640.0,,White
+False,Consulting,610.0,,Black
+False,Consulting,610.0,,Asian
+True,Technology,730.0,,
+False,Technology,680.0,,Asian
+True,Investment Management,620.0,,
+False,Health Care,590.0,,White
+False,Nonprofit/Gov,630.0,,Asian
+True,Other,590.0,,
+False,Investment Banking,670.0,Admit,White
+False,Nonprofit/Gov,630.0,,Asian
+False,Other,610.0,,Hispanic
+False,Consulting,700.0,Admit,Other
+False,PE/VC,620.0,,White
+False,Consulting,660.0,,Asian
+False,PE/VC,640.0,,White
+True,Consulting,590.0,,
+False,Consulting,630.0,,Black
+False,Technology,660.0,,Hispanic
+True,Investment Banking,670.0,,
+True,Health Care,620.0,,
+False,Nonprofit/Gov,630.0,,Asian
+False,Financial Services,610.0,,Asian
+False,Technology,640.0,,White
+False,Consulting,670.0,,White
+False,PE/VC,570.0,,Black
+False,Technology,610.0,,Asian
+False,Consulting,690.0,,Black
+False,Consulting,670.0,,Black
+False,Health Care,660.0,,Asian
+True,Investment Banking,650.0,,
+False,Health Care,630.0,,White
+False,Other,640.0,,Hispanic
+True,Consulting,570.0,,
+True,PE/VC,600.0,,
+False,Consulting,700.0,,Asian
+False,Investment Banking,710.0,,White
+True,Other,760.0,,
+False,Consulting,690.0,,Black
+True,Media/Entertainment,620.0,,
+False,Consulting,690.0,,Black
+False,Consulting,610.0,,Black
+False,Financial Services,670.0,,Hispanic
+True,Consulting,590.0,,
+True,Other,640.0,,
+False,Nonprofit/Gov,620.0,,Black
+False,Consulting,680.0,Admit,White
+True,Technology,600.0,,
+True,CPG,690.0,,
+False,Real Estate,620.0,,White
+True,Technology,640.0,,
+False,Other,650.0,,White
+True,Health Care,570.0,,
+False,Other,580.0,,White
+False,Other,590.0,,White
+False,PE/VC,630.0,,Hispanic
+False,Nonprofit/Gov,590.0,,White
+False,Investment Banking,620.0,,White
+True,Financial Services,680.0,Admit,
+False,PE/VC,610.0,,White
+False,Other,670.0,,White
+False,Investment Management,730.0,,Hispanic
+False,Consulting,590.0,,Asian
+False,Technology,630.0,,White
+False,PE/VC,690.0,Admit,Asian
+False,Other,630.0,,White
+True,Consulting,640.0,,
+False,PE/VC,650.0,,Black
+False,Technology,740.0,Admit,White
+False,Nonprofit/Gov,730.0,,White
+True,Other,700.0,,
+False,Consulting,700.0,Admit,Asian
+False,PE/VC,710.0,,Other
+False,Technology,690.0,Admit,Asian
+False,Financial Services,600.0,,White
+True,Nonprofit/Gov,640.0,,
+True,Consulting,620.0,,
+True,Financial Services,630.0,,
+False,Consulting,700.0,Admit,White
+True,Investment Banking,670.0,,
+False,Nonprofit/Gov,700.0,,White
+False,Nonprofit/Gov,610.0,Admit,Asian
+True,Technology,670.0,,
+True,PE/VC,600.0,,
+False,Investment Banking,640.0,Waitlist,White
+True,Investment Banking,690.0,,
+False,Other,780.0,,Other
+False,Financial Services,590.0,,White
+False,Financial Services,640.0,,Asian
+True,PE/VC,610.0,Admit,
+False,Financial Services,660.0,Admit,Asian
+False,Nonprofit/Gov,690.0,,White
+False,Consulting,670.0,,Black
+False,Consulting,610.0,,White
+False,PE/VC,750.0,,White
+False,Financial Services,630.0,,Black
+True,Nonprofit/Gov,620.0,,
+True,Technology,650.0,,
+False,PE/VC,620.0,,Hispanic
+False,Other,630.0,,Hispanic
+False,Financial Services,750.0,,Asian
+False,Consulting,670.0,,White
+False,Other,590.0,,White
+True,Consulting,730.0,,
+False,Nonprofit/Gov,690.0,,Black
+False,Nonprofit/Gov,630.0,,White
+True,Investment Management,730.0,,
+False,Technology,620.0,Admit,White
+False,Technology,630.0,,White
+True,Nonprofit/Gov,700.0,,
+False,Financial Services,670.0,,Hispanic
+True,Technology,780.0,,
+False,Technology,660.0,,Hispanic
+True,Financial Services,620.0,,
+False,Investment Banking,740.0,,White
+False,Consulting,660.0,,White
+False,Consulting,620.0,,White
+False,Consulting,710.0,,Asian
+False,Technology,650.0,,White
+False,Consulting,610.0,,White
+False,Nonprofit/Gov,700.0,,White
+True,PE/VC,670.0,,
+False,CPG,570.0,,Asian
+False,PE/VC,720.0,,Black
+False,Other,640.0,,Black
+True,Technology,600.0,,
+False,Consulting,640.0,,White
+True,PE/VC,650.0,,
+False,PE/VC,680.0,Admit,White
+True,Investment Management,710.0,,
+False,Other,690.0,,White
+False,Financial Services,680.0,,White
+False,Investment Banking,710.0,,White
+False,Investment Management,630.0,,White
+False,Health Care,640.0,,Asian
+False,Technology,650.0,,Hispanic
+False,Consulting,700.0,,Hispanic
+False,Financial Services,780.0,,Black
+False,Consulting,580.0,,White
+False,Consulting,690.0,,Asian
+False,Technology,690.0,Admit,Asian
+False,Investment Banking,720.0,,Black
+False,Consulting,620.0,,Asian
+True,Other,640.0,,
+True,Technology,600.0,,
+True,Other,670.0,,
+True,Financial Services,600.0,,
+False,Consulting,710.0,,Hispanic
+True,Other,650.0,,
+True,Nonprofit/Gov,570.0,,
+False,Health Care,610.0,,Asian
+False,PE/VC,680.0,,White
+False,Consulting,650.0,,Asian
+False,Nonprofit/Gov,630.0,,White
+False,Media/Entertainment,690.0,,Black
+True,Consulting,610.0,,
+True,Consulting,670.0,,
+False,PE/VC,740.0,Admit,White
+False,Investment Banking,610.0,,Black
+True,Nonprofit/Gov,620.0,,
+True,Nonprofit/Gov,710.0,Admit,
+False,Consulting,590.0,,Asian
+False,Technology,590.0,,White
+False,Consulting,690.0,,Hispanic
+True,Investment Banking,690.0,,
+False,Nonprofit/Gov,690.0,,Black
+True,Investment Banking,600.0,,
+False,Nonprofit/Gov,620.0,,Other
+False,Consulting,690.0,,Asian
+False,PE/VC,590.0,,Asian
+True,Technology,650.0,,
+True,Consulting,710.0,,
+False,Technology,650.0,,Asian
+False,PE/VC,570.0,,Black
+True,Real Estate,590.0,,
+False,Investment Banking,620.0,,Black
+False,Health Care,700.0,,Hispanic
+False,Media/Entertainment,580.0,,Hispanic
+False,Investment Banking,640.0,,White
+False,PE/VC,670.0,,Hispanic
+False,PE/VC,670.0,,Hispanic
+False,Investment Banking,720.0,Admit,White
+False,Investment Banking,690.0,,Black
+False,Other,660.0,,Asian
+False,Consulting,690.0,Waitlist,Hispanic
+False,Health Care,620.0,,White
+True,Technology,600.0,,
+False,Investment Banking,660.0,,Hispanic
+True,Consulting,620.0,,
+False,Consulting,780.0,,Black
+False,Consulting,680.0,,Other
+True,PE/VC,570.0,,
+True,Consulting,750.0,Admit,
+False,Consulting,680.0,,Other
+False,Technology,650.0,,Black
+True,Technology,570.0,,
+True,Consulting,600.0,,
+False,Financial Services,670.0,,Asian
+True,Consulting,600.0,,
+True,Nonprofit/Gov,570.0,,
+False,Technology,570.0,,Asian
+False,Investment Banking,640.0,,Asian
+False,PE/VC,690.0,,White
+False,Technology,620.0,,Black
+False,Consulting,630.0,,Black
+False,Nonprofit/Gov,630.0,,Black
+False,PE/VC,650.0,,Black
+False,Nonprofit/Gov,630.0,,White
+True,Nonprofit/Gov,600.0,,
+False,CPG,680.0,,Hispanic
+True,Consulting,620.0,,
+False,Consulting,660.0,Admit,Black
+False,Consulting,650.0,,Asian
+False,Technology,640.0,,White
+False,Other,620.0,,Asian
+False,Investment Management,650.0,,White
+False,Technology,600.0,,White
+False,Investment Management,670.0,,Black
+True,Consulting,620.0,,
+True,Nonprofit/Gov,670.0,,
+True,Technology,650.0,,
+False,PE/VC,710.0,,Asian
+False,PE/VC,670.0,,Hispanic
+False,Investment Banking,670.0,Admit,White
+False,Technology,690.0,,Other
+False,Investment Banking,650.0,Admit,Other
+True,Nonprofit/Gov,630.0,,
+True,Financial Services,650.0,,
+True,Technology,610.0,,
+False,PE/VC,620.0,,White
+False,Technology,640.0,,Black
+False,Investment Banking,570.0,,Black
+True,Consulting,700.0,,
+True,Consulting,730.0,Admit,
+True,Consulting,640.0,,
+True,Health Care,650.0,,
+False,Investment Management,690.0,,Hispanic
+False,Nonprofit/Gov,590.0,,Asian
+True,Technology,660.0,,
+False,PE/VC,640.0,,White
+True,Financial Services,600.0,,
+False,Consulting,610.0,,Other
+False,Health Care,660.0,Admit,White
+True,Energy,600.0,,
+False,Financial Services,660.0,,White
+False,Consulting,610.0,,White
+False,Investment Banking,630.0,,Asian
+False,Investment Management,650.0,,Black
+True,PE/VC,680.0,,
+False,Consulting,620.0,,Black
+False,Technology,570.0,,White
+False,Consulting,570.0,,White
+True,Nonprofit/Gov,640.0,,
+True,PE/VC,660.0,,
+False,PE/VC,720.0,,White
+False,Consulting,620.0,,White
+True,Investment Banking,680.0,,
+False,Health Care,660.0,,Other
+False,Investment Banking,730.0,,Other
+False,PE/VC,650.0,,Black
+False,Financial Services,680.0,,White
+False,Technology,660.0,,White
+False,Consulting,660.0,,Other
+True,Nonprofit/Gov,700.0,,
+True,Financial Services,600.0,,
+True,Technology,680.0,Admit,
+False,Consulting,690.0,,White
+False,Technology,690.0,,Asian
+False,PE/VC,630.0,,White
+False,Other,700.0,,White
+False,Technology,590.0,,White
+False,Investment Banking,710.0,,White
+False,Consulting,630.0,,White
+False,Investment Banking,580.0,,Hispanic
+False,Consulting,680.0,,White
+True,Real Estate,570.0,,
+False,Consulting,580.0,,White
+False,PE/VC,660.0,Admit,White
+False,Consulting,620.0,,White
+False,CPG,670.0,,White
+True,Consulting,700.0,Admit,
+True,Investment Banking,700.0,,
+False,Consulting,630.0,,White
+False,Technology,700.0,,Asian
+False,Technology,700.0,,Asian
+False,Other,610.0,,White
+False,Consulting,720.0,Admit,Other
+False,Energy,630.0,,Black
+True,PE/VC,670.0,,
+False,Technology,680.0,Admit,Hispanic
+True,Consulting,730.0,,
+False,Investment Management,740.0,Admit,Asian
+False,Consulting,630.0,,Asian
+False,Other,630.0,,Black
+False,Investment Banking,720.0,,White
+False,Investment Banking,680.0,,Asian
+False,Consulting,640.0,,White
+False,Consulting,680.0,,Other
+True,Technology,700.0,Admit,
+True,Consulting,640.0,,
+False,Consulting,680.0,,Black
+False,Technology,650.0,,Black
+True,Consulting,620.0,,
+True,Consulting,640.0,Admit,
+True,Consulting,650.0,,
+False,Financial Services,740.0,,Black
+True,Energy,710.0,,
+False,Financial Services,660.0,Admit,Hispanic
+False,Other,760.0,Admit,Other
+True,Consulting,610.0,,
+False,Nonprofit/Gov,640.0,,Hispanic
+False,Investment Management,660.0,,Hispanic
+False,Real Estate,680.0,Admit,Hispanic
+True,Investment Banking,590.0,,
+True,PE/VC,660.0,,
+False,Investment Banking,660.0,,Asian
+False,Technology,630.0,,Black
+False,Nonprofit/Gov,670.0,,Black
+True,Financial Services,570.0,,
+False,Consulting,680.0,,Black
+False,Technology,730.0,,Black
+False,Other,670.0,,Black
+True,Health Care,630.0,,
+False,Real Estate,650.0,,Black
+False,Nonprofit/Gov,590.0,,White
+True,Consulting,650.0,,
+True,PE/VC,660.0,Admit,
+False,Financial Services,570.0,,Black
+False,Consulting,620.0,,Asian
+True,Consulting,600.0,,
+False,Technology,670.0,,Hispanic
+True,Consulting,630.0,,
+True,Nonprofit/Gov,610.0,,
+False,Media/Entertainment,750.0,Admit,Asian
+True,PE/VC,630.0,,
+True,Consulting,730.0,,
+False,Consulting,570.0,,Black
+False,Investment Management,570.0,Admit,White
+False,Investment Banking,620.0,,White
+True,Consulting,690.0,Waitlist,
+False,PE/VC,570.0,,White
+False,Other,620.0,,Other
+True,Consulting,630.0,,
+False,Technology,660.0,Admit,Other
+False,Media/Entertainment,700.0,,Hispanic
+True,Consulting,630.0,Admit,
+False,Nonprofit/Gov,690.0,,White
+False,Consulting,580.0,,Asian
+True,Technology,630.0,,
+True,Nonprofit/Gov,580.0,,
+False,Consulting,640.0,,Asian
+False,Consulting,680.0,,Black
+False,Health Care,740.0,,Hispanic
+False,Technology,640.0,,Asian
+False,CPG,680.0,,White
+False,PE/VC,620.0,,Asian
+False,Consulting,630.0,,Black
+False,Other,640.0,Waitlist,Asian
+True,Financial Services,610.0,,
+True,PE/VC,660.0,,
+True,Consulting,710.0,,
+True,Nonprofit/Gov,670.0,,
+False,Nonprofit/Gov,610.0,,Hispanic
+False,Nonprofit/Gov,720.0,Admit,Asian
+False,Technology,640.0,,Other
+True,Consulting,690.0,,
+False,Investment Management,650.0,,Black
+False,Health Care,580.0,,Black
+False,Consulting,610.0,,Other
+True,Consulting,680.0,,
+False,PE/VC,740.0,,White
+False,Technology,730.0,Admit,White
+False,PE/VC,640.0,,White
+False,Financial Services,650.0,,Hispanic
+True,Technology,690.0,Admit,
+False,Technology,700.0,Admit,Asian
+False,Nonprofit/Gov,600.0,,White
+False,Health Care,570.0,,White
+True,Consulting,620.0,Admit,
+True,Nonprofit/Gov,620.0,Admit,
+False,Consulting,730.0,Admit,Asian
+False,Energy,650.0,,White
+False,Consulting,670.0,Admit,Black
+True,Financial Services,620.0,,
+False,Nonprofit/Gov,680.0,,White
+True,Nonprofit/Gov,720.0,,
+False,Nonprofit/Gov,680.0,,Black
+True,Nonprofit/Gov,690.0,,
+True,Investment Management,660.0,,
+False,Technology,650.0,,Black
+False,PE/VC,570.0,,White
+False,Financial Services,650.0,,Asian
+True,Financial Services,660.0,,
+False,Technology,640.0,,Black
+True,Real Estate,610.0,Admit,
+True,Financial Services,690.0,Admit,
+True,Financial Services,630.0,,
+True,Financial Services,640.0,,
+True,PE/VC,620.0,,
+False,Technology,620.0,,White
+True,Consulting,720.0,Admit,
+False,Consulting,570.0,,Hispanic
+True,Nonprofit/Gov,610.0,,
+False,Technology,630.0,,White
+True,Technology,650.0,,
+False,Financial Services,650.0,,White
+False,Health Care,620.0,,Black
+False,Investment Banking,760.0,Admit,White
+False,Consulting,710.0,Waitlist,Black
+True,Technology,770.0,Admit,
+False,Nonprofit/Gov,600.0,,White
+False,Consulting,670.0,,White
+True,Consulting,600.0,,
+True,Health Care,570.0,,
+True,PE/VC,570.0,,
+True,Investment Management,590.0,,
+False,Technology,600.0,,Black
+True,PE/VC,720.0,,
+False,Financial Services,700.0,Waitlist,Black
+True,Investment Banking,700.0,,
+False,Consulting,680.0,Admit,White
+False,Nonprofit/Gov,630.0,,White
+False,Consulting,680.0,Admit,Black
+False,Financial Services,580.0,,White
+False,Financial Services,590.0,,Black
+False,Financial Services,640.0,,Hispanic
+False,PE/VC,630.0,,Asian
+True,Technology,640.0,,
+False,Technology,640.0,,Black
+False,Health Care,640.0,,Black
+False,PE/VC,580.0,,Asian
+True,PE/VC,650.0,,
+False,PE/VC,610.0,,Asian
+False,PE/VC,570.0,,Hispanic
+False,Media/Entertainment,570.0,,Black
+True,PE/VC,690.0,Admit,
+True,Consulting,570.0,,
+True,Consulting,730.0,,
+False,Technology,710.0,Admit,White
+True,Nonprofit/Gov,730.0,,
+False,Nonprofit/Gov,570.0,,White
+True,Technology,680.0,Waitlist,
+False,Health Care,700.0,,Black
+False,Financial Services,680.0,,Asian
+False,PE/VC,680.0,,Black
+False,Consulting,630.0,,White
+True,Financial Services,750.0,,
+False,Financial Services,630.0,,Black
+False,Investment Banking,700.0,,Asian
+True,Consulting,660.0,,
+True,Consulting,650.0,,
+False,Technology,640.0,,Hispanic
+True,PE/VC,600.0,,
+True,Technology,680.0,,
+False,PE/VC,680.0,,White
+False,PE/VC,590.0,,Black
+True,Consulting,610.0,,
+False,Consulting,700.0,,Black
+False,Consulting,660.0,,Hispanic
+False,Consulting,610.0,,Black
+False,Consulting,710.0,Admit,White
+False,Investment Banking,640.0,,White
+False,PE/VC,650.0,,Asian
+False,Investment Banking,620.0,,Black
+False,PE/VC,610.0,,White
+False,Consulting,640.0,,Asian
+True,Nonprofit/Gov,570.0,,
+False,Nonprofit/Gov,610.0,,Black
+False,Consulting,710.0,,Hispanic
+False,Other,720.0,,Black
+True,PE/VC,640.0,Admit,
+True,Health Care,710.0,,
+True,Other,630.0,,
+False,Other,590.0,,Hispanic
+False,Nonprofit/Gov,640.0,,Hispanic
+False,Health Care,690.0,,Black
+False,Consulting,680.0,,Asian
+False,PE/VC,630.0,,Other
+True,Investment Banking,710.0,Admit,
+False,Technology,680.0,Admit,White
+True,PE/VC,640.0,,
+False,PE/VC,580.0,,White
+False,Technology,680.0,,Asian
+False,Technology,610.0,,Asian
+True,Investment Banking,680.0,,
+False,Financial Services,570.0,,Asian
+False,PE/VC,690.0,Admit,Asian
+False,Health Care,600.0,,Asian
+True,Nonprofit/Gov,670.0,Admit,
+False,Other,630.0,,Black
+False,Other,640.0,,Hispanic
+False,Consulting,640.0,,Asian
+False,Investment Banking,740.0,Admit,White
+False,Consulting,610.0,,White
+False,Technology,660.0,,Asian
+True,Real Estate,710.0,Waitlist,
+False,Consulting,620.0,,White
+False,Consulting,650.0,,Hispanic
+False,Investment Banking,690.0,Admit,White
+False,Consulting,670.0,,Asian
+False,Nonprofit/Gov,610.0,,Asian
+False,Consulting,630.0,,Black
+True,Consulting,670.0,Admit,
+False,Technology,710.0,,Asian
+False,Other,570.0,,Other
+False,Consulting,670.0,,White
+False,Nonprofit/Gov,690.0,Admit,White
+True,Nonprofit/Gov,670.0,,
+False,Investment Banking,630.0,,Black
+False,PE/VC,660.0,,Black
+False,Nonprofit/Gov,640.0,,White
+False,Investment Banking,640.0,,White
+False,Investment Banking,700.0,,Other
+False,Consulting,660.0,,Black
+False,Consulting,660.0,,White
+False,Technology,600.0,,White
+True,PE/VC,600.0,,
+False,CPG,710.0,Admit,Asian
+True,Nonprofit/Gov,590.0,,
+True,Financial Services,620.0,,
+True,Consulting,740.0,,
+True,Investment Banking,610.0,,
+False,Nonprofit/Gov,680.0,Admit,Black
+False,Nonprofit/Gov,620.0,,White
+True,PE/VC,740.0,,
+False,Nonprofit/Gov,590.0,,Asian
+False,Other,740.0,,Hispanic
+True,PE/VC,570.0,,
+True,Health Care,670.0,,
+False,Consulting,710.0,,Asian
+True,Consulting,570.0,,
+True,Consulting,660.0,,
+False,Investment Banking,630.0,,White
+False,Other,640.0,,Black
+False,Other,770.0,Admit,White
+True,PE/VC,570.0,,
+False,Health Care,730.0,,Other
+True,Financial Services,690.0,Admit,
+False,PE/VC,670.0,,Hispanic
+False,Nonprofit/Gov,640.0,,White
+False,Investment Banking,600.0,,Black
+False,Consulting,650.0,,White
+True,Technology,610.0,,
+True,PE/VC,640.0,,
+True,Technology,680.0,,
+False,PE/VC,620.0,,Black
+False,PE/VC,650.0,,Asian
+False,Consulting,730.0,Admit,Hispanic
+False,Other,610.0,,Black
+False,Consulting,640.0,,Asian
+False,Technology,640.0,,White
+False,Consulting,680.0,,White
+True,Consulting,590.0,,
+False,Financial Services,600.0,,White
+True,Investment Banking,630.0,,
+False,Technology,660.0,,Asian
+True,PE/VC,770.0,,
+False,Consulting,690.0,,Hispanic
+False,PE/VC,630.0,,White
+False,Investment Banking,590.0,,Black
+False,Investment Banking,600.0,,Asian
+False,PE/VC,710.0,,Hispanic
+False,Health Care,760.0,Admit,White
+True,PE/VC,680.0,,
+False,Health Care,610.0,,White
+False,Other,740.0,Admit,White
+False,Technology,570.0,,Black
+False,Health Care,700.0,,Black
+False,Investment Banking,600.0,,White
+True,Consulting,600.0,,
+False,Consulting,610.0,,Black
+False,PE/VC,670.0,,Hispanic
+True,Investment Management,580.0,,
+False,Other,580.0,,Asian
+True,Other,750.0,Admit,
+True,Technology,650.0,,
+False,Investment Management,630.0,,White
+False,Technology,750.0,,White
+False,Consulting,610.0,,White
+False,Nonprofit/Gov,680.0,Waitlist,Black
+False,Consulting,650.0,,Hispanic
+False,Technology,610.0,,Hispanic
+False,Investment Banking,670.0,,Asian
+True,Technology,600.0,,
+True,Other,730.0,Admit,
+True,Consulting,570.0,,
+False,Consulting,650.0,,White
+True,PE/VC,590.0,,
+False,Technology,580.0,,Asian
+True,Media/Entertainment,700.0,,
+False,Consulting,620.0,,White
+False,PE/VC,670.0,,Asian
+False,Consulting,700.0,Admit,White
+False,Other,690.0,,White
+False,PE/VC,590.0,,Asian
+True,Real Estate,600.0,,
+False,Investment Management,680.0,Admit,White
+True,Investment Banking,680.0,Admit,
+True,Technology,610.0,,
+True,PE/VC,570.0,,
+False,Investment Banking,730.0,,Hispanic
+True,PE/VC,680.0,,
+False,Financial Services,570.0,,Other
+False,Financial Services,720.0,Admit,Other
+False,Consulting,640.0,,Asian
+False,Financial Services,620.0,,White
+False,Other,720.0,,White
+False,Health Care,580.0,,White
+True,Real Estate,600.0,,
+False,PE/VC,650.0,,White
+False,Consulting,660.0,,White
+True,Consulting,620.0,,
+False,Consulting,710.0,,Hispanic
+False,Other,660.0,Admit,White
+True,Financial Services,620.0,,
+False,Technology,670.0,,Asian
+False,Nonprofit/Gov,670.0,Admit,White
+False,Financial Services,610.0,,Black
+False,Consulting,650.0,,Hispanic
+False,Real Estate,610.0,,Hispanic
+False,Investment Banking,600.0,,Black
+True,Investment Banking,610.0,,
+True,Health Care,700.0,,
+False,Other,660.0,,Asian
+False,Consulting,640.0,,White
+False,PE/VC,620.0,,Hispanic
+False,Consulting,620.0,,Black
+True,Consulting,660.0,,
+False,Consulting,590.0,,Black
+True,Consulting,600.0,,
+False,Investment Banking,580.0,,Asian
+False,Health Care,670.0,,White
+True,Investment Banking,650.0,,
+True,Consulting,600.0,,
+False,Real Estate,670.0,,Asian
+False,Investment Banking,690.0,,White
+True,PE/VC,660.0,,
+False,Investment Banking,640.0,,Black
+False,Consulting,660.0,Admit,White
+False,Investment Banking,700.0,,Black
+False,Investment Banking,660.0,,Asian
+False,Other,630.0,,Black
+False,Investment Management,650.0,,Black
+False,Other,610.0,,White
+False,Health Care,640.0,,Black
+False,Health Care,710.0,,Black
+False,PE/VC,640.0,Admit,Asian
+True,Investment Banking,720.0,Admit,
+False,Consulting,620.0,,White
+False,Consulting,650.0,Waitlist,Other
+True,Consulting,630.0,,
+False,Consulting,610.0,,White
+False,Consulting,710.0,Admit,White
+False,Technology,750.0,,Black
+False,Financial Services,610.0,,Black
+False,Financial Services,660.0,,Black
+False,Technology,640.0,,Other
+True,PE/VC,620.0,,
+False,Real Estate,640.0,,Asian
+False,Nonprofit/Gov,590.0,,White
+True,Investment Banking,600.0,,
+False,Investment Banking,590.0,,White
+True,CPG,640.0,,
+True,PE/VC,610.0,,
+True,Consulting,720.0,,
+False,Other,630.0,,Hispanic
+False,Consulting,700.0,Admit,White
+False,Consulting,720.0,,Asian
+True,CPG,670.0,,
+True,Technology,570.0,,
+False,Technology,760.0,,Asian
+False,Technology,710.0,,Hispanic
+False,Technology,570.0,,White
+True,PE/VC,710.0,Admit,
+False,Consulting,680.0,,Asian
+True,Health Care,570.0,,
+False,Other,630.0,,Black
+False,Real Estate,670.0,,Black
+False,Investment Banking,570.0,,White
+True,Nonprofit/Gov,660.0,,
+False,Other,660.0,,Black
+False,Nonprofit/Gov,590.0,,Black
+True,Nonprofit/Gov,660.0,,
+False,Nonprofit/Gov,620.0,,White
+False,Investment Banking,590.0,,White
+True,Technology,650.0,,
+False,Technology,640.0,,White
+False,Consulting,650.0,,Hispanic
+True,Health Care,590.0,,
+False,Financial Services,630.0,,Black
+False,Other,600.0,,White
+False,Health Care,640.0,,White
+True,Other,610.0,,
+True,Technology,700.0,,
+False,Consulting,600.0,,White
+False,Other,640.0,,Other
+False,Other,650.0,,White
+False,Technology,630.0,,White
+False,Consulting,610.0,,Black
+False,Other,690.0,,White
+False,Consulting,700.0,,Black
+False,Nonprofit/Gov,700.0,,White
+False,PE/VC,640.0,,Asian
+False,PE/VC,690.0,,Black
+False,Nonprofit/Gov,570.0,,White
+False,PE/VC,570.0,,White
+True,Nonprofit/Gov,570.0,,
+True,Health Care,670.0,,
+False,PE/VC,780.0,Admit,Asian
+False,Consulting,660.0,,Black
+False,Technology,780.0,Admit,Other
+False,Investment Banking,600.0,,White
+False,Nonprofit/Gov,670.0,,White
+False,Investment Banking,740.0,,Black
+True,Consulting,720.0,,
+False,Technology,640.0,,Other
+False,PE/VC,600.0,,Asian
+True,PE/VC,690.0,Admit,
+False,Consulting,590.0,,White
+False,Nonprofit/Gov,620.0,Admit,White
+True,Consulting,570.0,,
+False,Technology,720.0,,Asian
+True,Financial Services,630.0,,
+True,Investment Banking,570.0,,
+False,PE/VC,600.0,,Asian
+False,Financial Services,750.0,,Black
+False,Consulting,670.0,,White
+False,CPG,650.0,,White
+True,Other,600.0,,
+False,Consulting,580.0,,Hispanic
+False,Consulting,610.0,,Other
+False,PE/VC,730.0,Admit,Black
+False,Health Care,780.0,,White
+False,Other,660.0,Waitlist,Hispanic
+True,PE/VC,660.0,,
+False,Real Estate,650.0,,Asian
+True,Financial Services,650.0,,
+False,Investment Banking,620.0,,Black
+False,Technology,600.0,,Black
+False,Nonprofit/Gov,640.0,,White
+False,PE/VC,670.0,,Hispanic
+True,Investment Banking,690.0,,
+False,Consulting,650.0,,Asian
+False,Investment Banking,620.0,,Black
+False,Consulting,610.0,,White
+False,Energy,570.0,,White
+False,Other,670.0,,White
+False,Media/Entertainment,650.0,,Hispanic
+False,Financial Services,570.0,,White
+False,Other,570.0,,Asian
+False,CPG,640.0,,Asian
+True,Technology,670.0,Admit,
+False,Consulting,680.0,Waitlist,Hispanic
+False,Investment Banking,680.0,,Hispanic
+True,Other,640.0,,
+True,Investment Banking,650.0,,
+False,Consulting,690.0,,Asian
+True,Consulting,630.0,Admit,
+False,Financial Services,620.0,,White
+False,Investment Banking,690.0,,White
+False,PE/VC,680.0,Admit,White
+False,Other,570.0,,Black
+False,Consulting,720.0,,Hispanic
+False,Real Estate,670.0,,Asian
+False,Investment Banking,620.0,,White
+False,Investment Banking,660.0,Admit,Other
+True,Consulting,690.0,Admit,
+True,Consulting,660.0,,
+False,PE/VC,690.0,,Black
+False,Consulting,680.0,,Asian
+True,Health Care,580.0,,
+False,Real Estate,580.0,,White
+False,Health Care,680.0,Admit,Asian
+False,Financial Services,580.0,,Black
+False,Other,670.0,Admit,Asian
+False,Investment Banking,630.0,,Black
+False,Consulting,670.0,,Asian
+False,Financial Services,740.0,Admit,Hispanic
+True,PE/VC,610.0,,
+True,Health Care,690.0,,
+False,Nonprofit/Gov,570.0,,White
+False,Consulting,640.0,,Asian
+True,Nonprofit/Gov,660.0,,
+True,Consulting,620.0,,
+True,Real Estate,620.0,,
+True,PE/VC,650.0,,
+False,PE/VC,660.0,,White
+False,Investment Banking,640.0,,Hispanic
+False,Investment Banking,690.0,Admit,Black
+True,PE/VC,690.0,,
+False,Consulting,690.0,Admit,White
+True,Consulting,620.0,,
+False,Health Care,650.0,,Other
+False,Nonprofit/Gov,780.0,Admit,Hispanic
+True,Consulting,580.0,,
+False,Nonprofit/Gov,730.0,,Asian
+False,Consulting,680.0,,Black
+True,Financial Services,600.0,,
+False,Technology,620.0,,White
+False,Consulting,600.0,,Other
+True,PE/VC,570.0,,
+True,Other,570.0,,
+False,Health Care,640.0,,Asian
+True,Other,680.0,Admit,
+False,Nonprofit/Gov,700.0,,Other
+False,Technology,670.0,,Other
+True,Investment Banking,590.0,,
+True,Consulting,590.0,,
+True,Health Care,630.0,Admit,
+False,Investment Management,670.0,Admit,Asian
+False,Investment Banking,620.0,,Asian
+True,Investment Banking,570.0,,
+True,PE/VC,570.0,,
+True,Health Care,660.0,Admit,
+False,PE/VC,650.0,,Asian
+False,Nonprofit/Gov,720.0,,Black
+False,Consulting,720.0,Admit,Hispanic
+False,Health Care,650.0,,Asian
+False,Other,590.0,,Black
+False,Consulting,570.0,,Hispanic
+False,Real Estate,590.0,,White
+False,Other,710.0,,Asian
+True,Investment Management,650.0,,
+False,Consulting,620.0,,White
+False,Consulting,680.0,,Hispanic
+False,Consulting,580.0,,White
+False,Technology,700.0,,White
+False,CPG,640.0,,Asian
+False,Investment Banking,590.0,,Black
+False,Consulting,660.0,Admit,White
+False,Consulting,610.0,,White
+True,PE/VC,700.0,Admit,
+False,PE/VC,640.0,,Hispanic
+False,Nonprofit/Gov,600.0,,Black
+True,Real Estate,680.0,,
+False,Consulting,680.0,,Hispanic
+False,Health Care,620.0,,Asian
+False,Consulting,760.0,,Black
+False,Consulting,680.0,,Asian
+True,Consulting,620.0,,
+False,PE/VC,640.0,,Asian
+True,Financial Services,660.0,Waitlist,
+True,Technology,570.0,,
+True,Consulting,650.0,,
+False,Financial Services,670.0,,Black
+False,PE/VC,600.0,,Asian
+False,Technology,710.0,,Black
+True,Consulting,690.0,,
+False,PE/VC,630.0,,Hispanic
+True,Technology,640.0,,
+True,Financial Services,610.0,,
+True,Technology,650.0,Waitlist,
+False,Investment Management,620.0,,White
+False,PE/VC,620.0,,Asian
+False,PE/VC,680.0,,White
+False,Consulting,660.0,,Black
+True,Technology,600.0,,
+True,Nonprofit/Gov,670.0,,
+False,Consulting,700.0,,White
+False,PE/VC,600.0,,Asian
+True,CPG,580.0,,
+False,Investment Banking,650.0,,White
+True,PE/VC,680.0,Admit,
+True,Consulting,650.0,,
+False,PE/VC,650.0,,Asian
+False,Consulting,650.0,Waitlist,White
+False,Consulting,670.0,Admit,White
+False,Health Care,700.0,,Asian
+False,Investment Banking,590.0,,Black
+True,Technology,570.0,,
+False,Consulting,570.0,,Asian
+False,Investment Banking,650.0,,Asian
+False,Consulting,660.0,Admit,White
+False,Consulting,570.0,,White
+True,PE/VC,730.0,,
+False,PE/VC,690.0,,Hispanic
+True,Financial Services,570.0,,
+False,PE/VC,680.0,,White
+True,Technology,590.0,,
+False,Nonprofit/Gov,710.0,,White
+False,Nonprofit/Gov,700.0,,Asian
+False,Consulting,730.0,,White
+False,Technology,630.0,,White
+False,Investment Management,630.0,,White
+False,Investment Management,660.0,,White
+False,Consulting,610.0,,White
+True,Consulting,590.0,,
+False,Investment Management,660.0,,Black
+True,Investment Banking,630.0,,
+False,PE/VC,650.0,,Black
+False,Consulting,670.0,Admit,White
+False,Consulting,640.0,,Black
+False,Investment Banking,630.0,,White
+False,Consulting,670.0,,Hispanic
+False,Other,690.0,Admit,Asian
+False,Health Care,640.0,,White
+False,Technology,570.0,,Asian
+False,PE/VC,650.0,,Black
+False,Consulting,650.0,,White
+True,Investment Banking,700.0,,
+False,Health Care,720.0,,Black
+False,Consulting,640.0,,Hispanic
+False,PE/VC,630.0,,Asian
+False,Consulting,570.0,,White
+False,Other,620.0,,Asian
+False,Health Care,570.0,,Hispanic
+False,PE/VC,650.0,,White
+False,Health Care,730.0,,Hispanic
+False,Nonprofit/Gov,700.0,Admit,Hispanic
+False,Consulting,730.0,,Asian
+False,Financial Services,680.0,,Other
+False,Nonprofit/Gov,660.0,,White
+False,Consulting,610.0,,Black
+True,Consulting,630.0,,
+False,Consulting,580.0,,White
+False,Consulting,760.0,Admit,White
+True,Financial Services,610.0,,
+True,Technology,620.0,,
+True,Investment Management,630.0,,
+True,CPG,640.0,,
+False,Nonprofit/Gov,610.0,Admit,White
+False,Consulting,680.0,,White
+False,Financial Services,740.0,,White
+True,Consulting,620.0,,
+False,Nonprofit/Gov,670.0,,Black
+True,Technology,630.0,,
+False,Nonprofit/Gov,690.0,,White
+False,Consulting,580.0,,Asian
+False,Investment Banking,700.0,,White
+False,Consulting,670.0,,White
+False,Retail,660.0,,Black
+True,Financial Services,720.0,,
+True,Financial Services,620.0,,
+False,Consulting,600.0,,Other
+False,Technology,750.0,Admit,White
+False,Technology,570.0,,Other
+False,Technology,600.0,,Black
+True,Health Care,570.0,,
+True,Nonprofit/Gov,660.0,Admit,
+False,PE/VC,710.0,Admit,White
+False,Technology,570.0,,Asian
+False,PE/VC,670.0,,Hispanic
+False,Consulting,570.0,,White
+False,PE/VC,680.0,,Asian
+True,Investment Management,750.0,Admit,
+False,Investment Banking,640.0,,Asian
+True,Nonprofit/Gov,750.0,,
+False,Financial Services,690.0,,White
+False,Financial Services,690.0,Admit,Hispanic
+True,Health Care,600.0,,
+False,Investment Management,700.0,,Black
+False,Financial Services,630.0,,Asian
+False,Other,670.0,,Asian
+True,Financial Services,600.0,,
+True,Investment Management,730.0,Admit,
+False,Media/Entertainment,660.0,,White
+False,Consulting,580.0,,Asian
+False,Consulting,650.0,,Hispanic
+False,Consulting,680.0,,Black
+False,Consulting,620.0,,Black
+False,PE/VC,640.0,,Asian
+False,Other,640.0,,Hispanic
+True,Technology,640.0,,
+True,Technology,730.0,,
+False,Nonprofit/Gov,680.0,,White
+False,PE/VC,670.0,Waitlist,White
+True,Financial Services,640.0,,
+False,PE/VC,570.0,,White
+False,PE/VC,580.0,,White
+False,Consulting,600.0,,White
+False,Consulting,600.0,,Asian
+False,Technology,710.0,,Asian
+False,Nonprofit/Gov,570.0,,Asian
+False,PE/VC,610.0,,Black
+False,PE/VC,760.0,Admit,Asian
+False,Investment Management,630.0,,White
+True,Consulting,680.0,,
+False,Other,630.0,,Other
+False,Technology,620.0,,Hispanic
+True,Real Estate,670.0,,
+False,Other,610.0,,White
+True,Consulting,670.0,,
+False,Other,670.0,Admit,Asian
+False,Investment Banking,730.0,,White
+False,CPG,600.0,,Black
+False,Financial Services,760.0,,Black
+False,Consulting,710.0,Admit,White
+False,Technology,720.0,,Asian
+False,Technology,680.0,Admit,Asian
+False,Technology,720.0,Admit,Black
+False,PE/VC,620.0,,Hispanic
+False,Other,700.0,Admit,Asian
+False,Other,590.0,,Asian
+True,Nonprofit/Gov,640.0,,
+False,PE/VC,690.0,,Hispanic
+False,Consulting,650.0,,White
+False,Technology,610.0,,Hispanic
+False,PE/VC,660.0,,White
+False,Investment Banking,620.0,,Black
+False,Investment Banking,610.0,,Hispanic
+False,Technology,600.0,,White
+False,CPG,640.0,,Other
+True,Consulting,740.0,,
+False,Technology,610.0,,Other
+True,Other,680.0,,
+False,Technology,650.0,,Other
+False,Consulting,680.0,,White
+False,Health Care,710.0,,Black
+True,Nonprofit/Gov,600.0,,
+False,Real Estate,640.0,,White
+True,Other,660.0,,
+True,Retail,580.0,Waitlist,
+False,PE/VC,570.0,,White
+False,Health Care,700.0,,Black
+False,Consulting,680.0,,Other
+False,Technology,680.0,,Asian
+True,Consulting,650.0,,
+False,Consulting,680.0,,Asian
+True,Consulting,670.0,Admit,
+False,Health Care,700.0,,Black
+False,Other,710.0,,Black
+False,Consulting,670.0,Admit,White
+False,Other,650.0,,White
+False,Other,720.0,,Asian
+True,PE/VC,610.0,,
+False,Other,640.0,,Hispanic
+True,PE/VC,650.0,,
+True,Real Estate,580.0,,
+False,Other,620.0,,Asian
+False,Consulting,610.0,,Hispanic
+True,CPG,630.0,,
+False,Health Care,690.0,Waitlist,Asian
+False,PE/VC,620.0,,Hispanic
+False,Investment Banking,620.0,,Asian
+True,Investment Banking,600.0,,
+False,PE/VC,600.0,,Black
+False,Investment Banking,630.0,,Asian
+False,Consulting,580.0,,Asian
+False,Consulting,570.0,,Black
+True,Consulting,720.0,,
+False,Consulting,640.0,,White
+True,Nonprofit/Gov,720.0,,
+False,Nonprofit/Gov,730.0,,Hispanic
+False,Nonprofit/Gov,570.0,,Hispanic
+False,PE/VC,650.0,,White
+False,Financial Services,660.0,,Asian
+True,Nonprofit/Gov,620.0,,
+False,Nonprofit/Gov,570.0,,Hispanic
+False,Consulting,570.0,,White
+False,Health Care,670.0,,Hispanic
+False,Technology,700.0,,White
+False,PE/VC,650.0,,Asian
+False,Technology,660.0,,Black
+False,PE/VC,720.0,,White
+False,Nonprofit/Gov,680.0,Admit,Asian
+False,PE/VC,610.0,,Asian
+False,Financial Services,650.0,,Hispanic
+False,Investment Management,690.0,,Asian
+False,Nonprofit/Gov,590.0,Waitlist,Hispanic
+True,Other,610.0,,
+False,Financial Services,660.0,Admit,Black
+False,Other,630.0,,White
+False,Investment Banking,620.0,,White
+False,Consulting,620.0,,Asian
+True,Investment Banking,630.0,,
+True,Real Estate,660.0,,
+True,Technology,620.0,,
+False,Investment Management,620.0,,White
+True,CPG,600.0,,
+True,Consulting,640.0,,
+False,Investment Banking,610.0,,Asian
+False,Consulting,720.0,Admit,Black
+True,Other,710.0,,
+False,Consulting,570.0,,Hispanic
+False,Energy,620.0,,Black
+False,Nonprofit/Gov,730.0,Admit,White
+False,Health Care,770.0,Admit,Asian
+True,Consulting,650.0,,
+False,Consulting,670.0,,Asian
+True,Consulting,740.0,,
+False,Health Care,600.0,,Black
+False,Financial Services,590.0,,White
+True,Technology,590.0,,
+True,Consulting,610.0,,
+False,PE/VC,650.0,,Black
+True,Consulting,720.0,,
+False,PE/VC,700.0,Admit,Asian
+False,PE/VC,600.0,,Asian
+False,Health Care,660.0,,White
+True,Other,710.0,Admit,
+False,PE/VC,660.0,Admit,White
+False,PE/VC,610.0,,White
+False,Technology,660.0,,White
+False,Nonprofit/Gov,610.0,,Hispanic
+False,PE/VC,600.0,,White
+False,Real Estate,610.0,,Asian
+False,Consulting,700.0,,Other
+False,PE/VC,690.0,,Asian
+False,Financial Services,690.0,,Asian
+True,Other,620.0,,
+True,Financial Services,600.0,,
+False,Consulting,620.0,,White
+True,Consulting,640.0,,
+False,PE/VC,720.0,Admit,Asian
+False,Consulting,590.0,,White
+False,Nonprofit/Gov,690.0,,Hispanic
+False,Nonprofit/Gov,630.0,,Black
+True,Investment Banking,700.0,Waitlist,
+False,Technology,650.0,,Black
+False,Consulting,610.0,,Asian
+True,Real Estate,740.0,,
+True,PE/VC,630.0,,
+False,Financial Services,590.0,,Other
+False,Retail,700.0,,Asian
+False,Consulting,630.0,,Black
+False,Consulting,620.0,,Black
+False,Consulting,650.0,,Hispanic
+False,Consulting,710.0,,White
+False,Health Care,660.0,,Black
+True,Nonprofit/Gov,660.0,Admit,
+True,PE/VC,640.0,,
+False,Investment Banking,640.0,,Hispanic
+False,Other,660.0,,Hispanic
+False,Technology,650.0,,White
+False,Investment Management,570.0,,White
+True,Technology,590.0,,
+False,Consulting,640.0,,Black
+False,PE/VC,630.0,,Asian
+True,Health Care,680.0,Admit,
+False,Financial Services,620.0,,White
+False,Nonprofit/Gov,710.0,,Hispanic
+False,Health Care,590.0,,White
+False,Nonprofit/Gov,610.0,,Asian
+False,Nonprofit/Gov,610.0,,Black
+False,PE/VC,570.0,,White
+False,Retail,670.0,,Black
+False,Technology,650.0,,Black
+False,Technology,600.0,Waitlist,Asian
+False,CPG,590.0,,Other
+True,PE/VC,580.0,,
+False,Consulting,580.0,,White
+False,Real Estate,590.0,,Black
+False,Investment Banking,680.0,,White
+False,PE/VC,620.0,,White
+True,Nonprofit/Gov,570.0,,
+False,PE/VC,570.0,,Asian
+False,Consulting,650.0,,Black
+False,Media/Entertainment,670.0,Admit,White
+False,Consulting,600.0,,White
+False,Consulting,640.0,,Black
+True,PE/VC,630.0,,
+False,CPG,580.0,,White
+False,Nonprofit/Gov,580.0,,Asian
+True,Investment Management,740.0,Admit,
+True,Investment Banking,700.0,,
+False,CPG,640.0,,Hispanic
+False,PE/VC,650.0,,White
+False,Other,680.0,,Hispanic
+True,Financial Services,670.0,,
+False,Consulting,620.0,,Asian
+False,Investment Banking,610.0,,Asian
+False,Investment Management,760.0,,Black
+False,Investment Banking,600.0,,White
+False,Investment Management,700.0,Admit,Hispanic
+True,Technology,620.0,,
+False,Consulting,670.0,,Asian
+False,Consulting,570.0,,White
+False,Investment Banking,630.0,,White
+False,Consulting,600.0,,White
+False,Consulting,760.0,Admit,Asian
+True,Financial Services,610.0,,
+True,Technology,630.0,,
+False,Consulting,690.0,Admit,Hispanic
+False,PE/VC,630.0,,Hispanic
+False,PE/VC,690.0,,Asian
+True,Consulting,680.0,,
+False,Consulting,650.0,,White
+True,PE/VC,630.0,,
+False,Consulting,700.0,Admit,White
+True,Investment Banking,640.0,,
+True,Consulting,650.0,,
+False,Other,690.0,,Asian
+False,PE/VC,670.0,,Hispanic
+False,Investment Banking,630.0,,White
+False,Health Care,650.0,,Black
+False,Other,630.0,,White
+True,Consulting,690.0,Admit,
+False,Technology,740.0,,Hispanic
+True,Technology,720.0,,
+False,Financial Services,660.0,Admit,Black
+False,Nonprofit/Gov,610.0,,Hispanic
+False,Financial Services,700.0,,White
+False,Investment Banking,580.0,,White
+False,Technology,660.0,,Hispanic
+False,Nonprofit/Gov,570.0,,White
+False,Other,780.0,Admit,White
+False,Consulting,600.0,,Asian
+False,Investment Banking,580.0,,White
+False,Consulting,740.0,Admit,Asian
+True,Nonprofit/Gov,570.0,,
+False,Consulting,660.0,,Hispanic
+True,Technology,660.0,,
+False,Investment Management,650.0,,Hispanic
+True,Financial Services,590.0,,
+False,Consulting,780.0,,Asian
+True,Technology,660.0,,
+False,Consulting,620.0,,White
+True,Investment Banking,670.0,,
+False,Health Care,570.0,,Hispanic
+False,PE/VC,640.0,,Asian
+False,Health Care,740.0,Admit,Black
+False,Consulting,640.0,,Asian
+False,Financial Services,660.0,,Asian
+False,PE/VC,660.0,,White
+False,Other,650.0,,Other
+False,PE/VC,670.0,,Black
+True,Consulting,640.0,,
+True,PE/VC,610.0,,
+False,Consulting,660.0,Admit,White
+False,Nonprofit/Gov,680.0,,Black
+False,PE/VC,630.0,,White
+True,Technology,590.0,,
+False,Other,620.0,,Black
+False,Consulting,660.0,,White
+True,Investment Banking,670.0,,
+False,Consulting,690.0,,Other
+False,Investment Banking,650.0,,Asian
+False,Technology,660.0,Admit,White
+False,PE/VC,600.0,,Hispanic
+True,PE/VC,710.0,,
+False,Financial Services,630.0,,Black
+False,Technology,670.0,,Hispanic
+False,Technology,660.0,,Asian
+False,Consulting,640.0,,Asian
+False,Investment Banking,620.0,,Asian
+False,Consulting,690.0,,White
+False,Nonprofit/Gov,670.0,,Asian
+True,Investment Banking,640.0,,
+True,Investment Management,660.0,,
+True,Investment Banking,670.0,Admit,
+True,Nonprofit/Gov,750.0,,
+False,Real Estate,660.0,,Asian
+False,Consulting,740.0,Waitlist,Black
+True,PE/VC,590.0,,
+False,Health Care,670.0,,Asian
+False,Consulting,620.0,,Asian
+True,Other,570.0,,
+False,Consulting,690.0,,Asian
+True,Consulting,710.0,,
+True,Nonprofit/Gov,650.0,,
+False,Technology,620.0,,Asian
+False,Investment Management,610.0,,Asian
+False,Technology,710.0,,White
+False,Technology,700.0,,White
+True,Nonprofit/Gov,600.0,,
+True,Consulting,670.0,Admit,
+True,Investment Banking,610.0,,
+False,Nonprofit/Gov,570.0,,White
+True,Consulting,640.0,,
+True,PE/VC,760.0,Admit,
+False,Nonprofit/Gov,660.0,,Hispanic
+True,Technology,640.0,,
+False,Nonprofit/Gov,670.0,,Hispanic
+False,Health Care,580.0,,Asian
+False,PE/VC,640.0,,Hispanic
+True,Media/Entertainment,650.0,,
+False,Nonprofit/Gov,690.0,,White
+False,PE/VC,670.0,,Asian
+True,Consulting,690.0,,
+False,Financial Services,670.0,,White
+False,Consulting,660.0,,White
+False,Consulting,730.0,,White
+False,PE/VC,680.0,Admit,Hispanic
+False,Financial Services,740.0,,Black
+False,Technology,670.0,Waitlist,Asian
+False,CPG,640.0,,Asian
+True,Consulting,620.0,,
+False,Consulting,650.0,,White
+False,PE/VC,680.0,,Asian
+False,Consulting,660.0,,White
+False,Consulting,680.0,,Asian
+False,Financial Services,640.0,,Hispanic
+False,Consulting,610.0,,White
+False,Consulting,760.0,,Other
+False,Consulting,570.0,,Hispanic
+False,Investment Banking,660.0,,White
+True,Technology,620.0,,
+False,Investment Banking,710.0,,Black
+True,Consulting,700.0,Admit,
+False,Nonprofit/Gov,670.0,Admit,Asian
+True,Consulting,620.0,,
+False,Investment Banking,640.0,,White
+False,Investment Banking,620.0,,White
+True,Investment Banking,570.0,,
+False,Nonprofit/Gov,630.0,,Asian
+True,Consulting,680.0,,
+True,Consulting,640.0,,
+False,Consulting,770.0,,Asian
+True,CPG,630.0,,
+True,Investment Management,630.0,,
+False,Investment Banking,630.0,,Hispanic
+False,Consulting,620.0,,Black
+False,PE/VC,690.0,,White
+True,CPG,670.0,Admit,
+True,PE/VC,700.0,Admit,
+False,Consulting,720.0,,White
+False,PE/VC,570.0,,Hispanic
+True,Nonprofit/Gov,610.0,,
+False,Media/Entertainment,640.0,,Black
+False,Health Care,600.0,,White
+False,Nonprofit/Gov,610.0,,Asian
+True,Other,590.0,,
+False,Investment Banking,670.0,,Hispanic
+False,PE/VC,670.0,,Asian
+False,Nonprofit/Gov,670.0,,Black
+False,Consulting,570.0,,Hispanic
+False,PE/VC,720.0,Admit,Black
+False,Consulting,690.0,,Black
+False,Technology,610.0,,White
+True,Health Care,750.0,Admit,
+True,PE/VC,700.0,Admit,
+False,Investment Management,580.0,,White
+False,Financial Services,660.0,,White
+False,PE/VC,590.0,,Black
+False,Consulting,590.0,,Hispanic
+False,Consulting,630.0,,Asian
+True,Real Estate,570.0,,
+False,Media/Entertainment,750.0,Admit,Asian
+False,Investment Banking,620.0,,White
+True,Nonprofit/Gov,580.0,,
+True,Financial Services,620.0,,
+True,Health Care,580.0,,
+True,Technology,570.0,,
+False,Other,630.0,,Hispanic
+False,Consulting,660.0,Admit,Asian
+False,Technology,660.0,Admit,White
+False,Technology,780.0,Waitlist,Black
+False,Consulting,620.0,,Black
+False,PE/VC,670.0,,White
+False,Technology,630.0,,White
+False,Nonprofit/Gov,610.0,,Asian
+False,CPG,720.0,Admit,White
+True,Investment Banking,680.0,Admit,
+True,Consulting,610.0,,
+True,Investment Banking,670.0,Admit,
+False,Nonprofit/Gov,700.0,Admit,Black
+False,Consulting,690.0,,Other
+False,Financial Services,570.0,,Asian
+False,PE/VC,570.0,,White
+False,Technology,570.0,,Other
+False,Health Care,620.0,,Asian
+True,Investment Banking,660.0,,
+False,Other,570.0,,Asian
+True,Consulting,700.0,,
+False,Financial Services,630.0,,Black
+False,Technology,620.0,,White
+True,Health Care,670.0,,
+False,Consulting,590.0,,Asian
+False,Health Care,660.0,,Black
+False,Investment Banking,660.0,Admit,Black
+False,Nonprofit/Gov,590.0,,White
+True,PE/VC,610.0,,
+True,Consulting,690.0,,
+False,Technology,670.0,Admit,Black
+True,Technology,660.0,,
+False,Nonprofit/Gov,610.0,,Black
+False,CPG,620.0,,Black
+False,PE/VC,700.0,,Black
+False,Nonprofit/Gov,670.0,,White
+False,Retail,630.0,,Black
+True,Investment Banking,660.0,,
+False,Consulting,710.0,Admit,Black
+True,PE/VC,620.0,,
+False,Other,630.0,,Black
+True,Consulting,590.0,,
+False,Health Care,570.0,,Hispanic
+True,Health Care,660.0,,
+False,Financial Services,670.0,Admit,Asian
+False,Consulting,620.0,,Hispanic
+False,Consulting,680.0,,White
+False,Health Care,660.0,Admit,White
+False,PE/VC,710.0,,Asian
+False,Consulting,780.0,,Hispanic
+False,Financial Services,640.0,,Asian
+False,Investment Management,580.0,,Asian
+False,Nonprofit/Gov,640.0,,White
+True,Consulting,600.0,Admit,
+True,Financial Services,580.0,,
+True,Consulting,570.0,,
+True,Technology,580.0,,
+False,Health Care,680.0,Admit,Asian
+True,Technology,700.0,,
+False,Other,670.0,,Black
+False,Consulting,660.0,,Asian
+False,Technology,750.0,Admit,White
+False,PE/VC,660.0,,White
+True,Consulting,680.0,,
+False,Financial Services,670.0,,Asian
+False,CPG,590.0,,White
+False,CPG,620.0,,Other
+False,Technology,650.0,,Black
+False,Energy,590.0,,White
+False,Technology,650.0,,Asian
+False,PE/VC,750.0,,White
+False,Technology,760.0,,Black
+True,PE/VC,680.0,Admit,
+False,Nonprofit/Gov,660.0,,Asian
+True,Other,630.0,,
+False,Nonprofit/Gov,590.0,,Hispanic
+False,Technology,690.0,Admit,Asian
+False,Financial Services,660.0,,Asian
+True,Investment Management,580.0,,
+False,Consulting,640.0,,White
+True,Consulting,630.0,,
+True,Investment Management,680.0,,
+False,Health Care,720.0,,Hispanic
+False,Health Care,650.0,,White
+False,Technology,690.0,,Hispanic
+True,PE/VC,780.0,Admit,
+False,Media/Entertainment,630.0,,White
+False,Nonprofit/Gov,610.0,,White
+False,PE/VC,620.0,,White
+False,Nonprofit/Gov,570.0,,Asian
+False,Other,680.0,,White
+True,Nonprofit/Gov,720.0,,
+False,Consulting,580.0,,Black
+False,Nonprofit/Gov,620.0,,Black
+False,Technology,580.0,,Hispanic
+False,Financial Services,580.0,,Black
+False,Technology,630.0,,White
+True,PE/VC,640.0,,
+False,Investment Banking,690.0,,Black
+False,Consulting,620.0,,White
+True,Other,690.0,Admit,
+False,Investment Banking,710.0,Admit,White
+False,Investment Banking,600.0,,Asian
+False,Consulting,570.0,,Black
+False,Technology,660.0,,White
+False,Consulting,780.0,Admit,White
+False,Investment Banking,630.0,,Other
+False,Technology,710.0,,Black
+False,PE/VC,590.0,,Black
+True,Nonprofit/Gov,640.0,Waitlist,
+True,Consulting,630.0,,
+False,Health Care,670.0,,Black
+True,Technology,630.0,,
+False,Financial Services,650.0,,Black
+True,CPG,760.0,,
+False,PE/VC,650.0,,Asian
+False,Consulting,650.0,,Asian
+False,Investment Banking,630.0,,Other
+False,PE/VC,570.0,,Other
+False,Investment Banking,610.0,,Asian
+False,PE/VC,690.0,,White
+True,Consulting,600.0,,
+False,PE/VC,710.0,,Black
+False,Technology,640.0,,White
+True,Health Care,640.0,,
+False,Consulting,710.0,,White
+False,Technology,600.0,,Black
+False,PE/VC,630.0,,Black
+False,CPG,740.0,,Asian
+True,PE/VC,650.0,,
+True,Technology,630.0,,
+False,Retail,610.0,,White
+False,Investment Management,720.0,,Hispanic
+False,Technology,660.0,Admit,Black
+False,Consulting,690.0,,Black
+True,Nonprofit/Gov,630.0,,
+True,PE/VC,610.0,,
+True,Consulting,650.0,,
+True,Real Estate,660.0,Admit,
+False,Consulting,650.0,,Black
+False,Nonprofit/Gov,690.0,,Asian
+False,Nonprofit/Gov,670.0,,Black
+True,PE/VC,630.0,,
+False,Investment Banking,620.0,,Black
+False,Consulting,570.0,,Asian
+False,Consulting,660.0,Waitlist,Hispanic
+False,Investment Banking,620.0,,White
+False,PE/VC,620.0,,Asian
+False,Consulting,690.0,Admit,White
+True,Consulting,660.0,Admit,
+False,Consulting,670.0,Admit,Hispanic
+False,Consulting,630.0,,White
+False,PE/VC,690.0,Admit,Hispanic
+True,Consulting,590.0,,
+True,Consulting,660.0,,
+True,Consulting,580.0,,
+False,PE/VC,660.0,Admit,White
+True,Investment Banking,620.0,,
+False,Other,570.0,Admit,Asian
+True,Technology,660.0,,
+True,Technology,610.0,,
+False,PE/VC,580.0,,White
+False,PE/VC,660.0,,Asian
+False,Technology,730.0,Admit,White
+False,Health Care,670.0,Waitlist,Asian
+True,Investment Banking,630.0,,
+True,Financial Services,670.0,,
+False,Consulting,680.0,,White
+True,PE/VC,640.0,,
+False,Investment Banking,600.0,,Hispanic
+False,Technology,610.0,,White
+False,PE/VC,780.0,Waitlist,Asian
+False,Consulting,580.0,,Asian
+False,Consulting,710.0,,Hispanic
+False,Health Care,680.0,Admit,White
+False,Nonprofit/Gov,670.0,,Hispanic
+False,Consulting,630.0,,White
+True,Consulting,700.0,Admit,
+False,Nonprofit/Gov,650.0,,White
+False,PE/VC,730.0,,Hispanic
+False,Consulting,620.0,,White
+False,Other,650.0,,White
+False,Consulting,650.0,,Asian
+False,Health Care,570.0,,White
+False,Consulting,580.0,,Other
+False,Consulting,600.0,,Asian
+False,Financial Services,710.0,,Asian
+False,Financial Services,600.0,,White
+False,Consulting,570.0,,Asian
+True,Investment Banking,630.0,,
+False,PE/VC,600.0,,Asian
+False,CPG,670.0,,Hispanic
+True,Investment Management,570.0,,
+False,PE/VC,610.0,,Black
+False,Nonprofit/Gov,650.0,,White
+True,Investment Banking,710.0,Admit,
+False,Real Estate,690.0,Admit,White
+True,Other,670.0,,
+False,CPG,670.0,,Black
+False,Nonprofit/Gov,570.0,,Black
+True,Consulting,660.0,,
+True,Technology,590.0,,
+False,Health Care,600.0,,White
+False,Consulting,580.0,,White
+False,Consulting,620.0,,Hispanic
+False,Nonprofit/Gov,650.0,,Hispanic
+False,Investment Banking,700.0,,Hispanic
+False,Other,650.0,,White
+False,Health Care,680.0,Admit,Black
+False,Investment Management,670.0,,White
+True,Nonprofit/Gov,710.0,,
+False,Consulting,650.0,,Black
+False,Investment Banking,570.0,,White
+False,Financial Services,660.0,,Asian
+True,Financial Services,710.0,Admit,
+False,PE/VC,630.0,,Asian
+False,Investment Banking,740.0,,Asian
+False,Consulting,710.0,,White
+False,PE/VC,680.0,,Black
+False,PE/VC,690.0,,Black
+False,Financial Services,670.0,Admit,Asian
+True,PE/VC,570.0,,
+False,PE/VC,610.0,,Black
+True,Nonprofit/Gov,740.0,,
+False,Health Care,760.0,,White
+False,Other,620.0,,Black
+True,Consulting,650.0,,
+False,Real Estate,650.0,,Black
+False,Health Care,680.0,,Asian
+False,CPG,690.0,Admit,Black
+True,Consulting,610.0,,
+True,Media/Entertainment,670.0,,
+False,PE/VC,650.0,,Hispanic
+False,Other,680.0,,Asian
+False,Financial Services,650.0,,Asian
+False,Technology,760.0,Admit,White
+False,CPG,650.0,,White
+False,Financial Services,600.0,,White
+False,PE/VC,580.0,,Hispanic
+True,Financial Services,630.0,,
+False,Technology,670.0,,Hispanic
+True,Consulting,680.0,,
+False,Consulting,740.0,,White
+False,Technology,650.0,,White
+False,Investment Management,670.0,Admit,White
+False,PE/VC,610.0,,Asian
+False,Financial Services,610.0,,White
+False,PE/VC,570.0,,Hispanic
+True,PE/VC,620.0,,
+False,Consulting,670.0,,Black
+False,PE/VC,670.0,Admit,White
+True,Consulting,640.0,,
+False,Consulting,680.0,,Black
+True,Financial Services,630.0,,
+False,Nonprofit/Gov,620.0,,Hispanic
+False,Investment Banking,570.0,,Black
+False,Consulting,600.0,,White
+False,Technology,640.0,,White
+False,Investment Banking,750.0,,White
+False,Other,660.0,,Black
+True,Health Care,630.0,,
+False,Consulting,700.0,,Asian
+False,Consulting,630.0,,White
+True,Nonprofit/Gov,590.0,,
+False,Investment Banking,650.0,,Asian
+True,PE/VC,650.0,,
+False,PE/VC,720.0,,White
+True,Other,600.0,,
+True,Consulting,670.0,,
+True,Consulting,700.0,Waitlist,
+False,Other,600.0,,White
+False,Consulting,710.0,,Black
+False,Financial Services,770.0,,Hispanic
+False,Nonprofit/Gov,660.0,,White
+True,Investment Management,590.0,,
+False,Technology,660.0,Admit,Black
+False,Technology,680.0,,White
+True,Technology,700.0,,
+False,Investment Banking,600.0,,Hispanic
+True,Other,710.0,,
+False,Consulting,680.0,,Asian
+True,Real Estate,640.0,,
+True,PE/VC,670.0,,
+True,Investment Banking,570.0,,
+True,Consulting,590.0,,
+False,Financial Services,680.0,Admit,White
+False,Financial Services,620.0,,Asian
+False,Nonprofit/Gov,770.0,,White
+True,Consulting,660.0,,
+False,Technology,710.0,Admit,White
+True,Consulting,650.0,,
+False,Investment Banking,610.0,,Black
+False,Investment Banking,700.0,,Asian
+False,Nonprofit/Gov,690.0,,White
+True,Consulting,750.0,,
+False,Financial Services,680.0,,White
+False,Consulting,780.0,Admit,White
+False,PE/VC,590.0,,White
+False,CPG,740.0,Admit,White
+False,Consulting,690.0,Admit,White
+True,Consulting,690.0,,
+False,Nonprofit/Gov,700.0,,Black
+False,Investment Management,650.0,,Asian
+False,Other,650.0,,Hispanic
+False,Nonprofit/Gov,660.0,,Black
+True,Media/Entertainment,660.0,,
+True,Nonprofit/Gov,680.0,,
+True,Technology,660.0,,
+False,Nonprofit/Gov,670.0,,Asian
+True,Energy,770.0,Admit,
+True,Other,630.0,,
+False,Financial Services,570.0,,White
+False,Investment Management,620.0,,Hispanic
+False,Investment Banking,570.0,,Asian
+False,Financial Services,720.0,,Asian
+True,Health Care,660.0,,
+False,Investment Banking,620.0,,White
+True,Nonprofit/Gov,650.0,,
+False,Consulting,670.0,,Other
+False,Financial Services,610.0,,Other
+False,Consulting,650.0,,Black
+False,Financial Services,580.0,,Asian
+False,Consulting,650.0,,Asian
+False,PE/VC,570.0,,White
+True,Technology,680.0,,
+False,Financial Services,680.0,Admit,White
+False,Consulting,630.0,,White
+False,Health Care,610.0,,White
+True,Investment Banking,700.0,Admit,
+True,PE/VC,670.0,,
+False,Investment Banking,750.0,,Asian
+False,Other,640.0,,White
+True,PE/VC,620.0,,
+True,PE/VC,590.0,,
+False,PE/VC,650.0,,White
+False,Technology,570.0,,White
+False,PE/VC,670.0,Admit,Asian
+False,Other,620.0,,Black
+False,Technology,570.0,,White
+False,PE/VC,690.0,,White
+True,PE/VC,690.0,,
+False,Technology,650.0,,Black
+True,PE/VC,710.0,Admit,
+False,Technology,660.0,,White
+False,PE/VC,690.0,,Asian
+True,Investment Banking,710.0,,
+False,Technology,660.0,,White
+True,Investment Banking,610.0,,
+True,Investment Banking,670.0,Admit,
+False,Investment Management,590.0,,Black
+False,Investment Banking,630.0,,Asian
+False,Technology,690.0,,Hispanic
+True,Investment Banking,640.0,,
+False,Financial Services,640.0,,Black
+False,Consulting,620.0,,Black
+False,PE/VC,680.0,Admit,Asian
+True,Nonprofit/Gov,620.0,,
+False,Investment Banking,670.0,,White
+True,Health Care,700.0,,
+True,Technology,570.0,,
+False,Technology,720.0,,White
+False,Energy,660.0,,Hispanic
+False,PE/VC,670.0,,Hispanic
+False,Consulting,660.0,Admit,White
+False,Other,610.0,,White
+True,Nonprofit/Gov,680.0,,
+False,Other,610.0,,Other
+True,Technology,680.0,,
+True,Investment Banking,630.0,Waitlist,
+False,Technology,650.0,,Black
+True,PE/VC,630.0,Waitlist,
+False,Financial Services,740.0,,Asian
+False,Other,610.0,,Asian
+True,Financial Services,670.0,Admit,
+False,PE/VC,570.0,,White
+True,Other,710.0,,
+True,Consulting,710.0,,
+True,PE/VC,650.0,,
+False,Consulting,690.0,,White
+False,Technology,730.0,Admit,Asian
+False,Technology,620.0,,Hispanic
+False,Nonprofit/Gov,590.0,,Asian
+True,Consulting,580.0,,
+False,Investment Banking,660.0,Waitlist,Black
+False,Consulting,620.0,,Hispanic
+False,Nonprofit/Gov,620.0,,Hispanic
+False,Health Care,660.0,,Hispanic
+False,Consulting,660.0,,Asian
+False,Technology,660.0,,White
+False,Consulting,740.0,Admit,Black
+False,Consulting,720.0,,Black
+False,Technology,690.0,Admit,White
+False,Technology,570.0,,Hispanic
+False,Consulting,600.0,,White
+True,Consulting,650.0,,
+False,Investment Banking,620.0,,Other
+False,PE/VC,580.0,,Asian
+True,Real Estate,650.0,,
+False,Consulting,620.0,,Black
+False,Investment Banking,710.0,Admit,Hispanic
+False,Consulting,640.0,,Hispanic
+False,Technology,640.0,,Asian
+False,Investment Banking,720.0,,Black
+False,Consulting,670.0,,Black
+False,Consulting,710.0,,White
+True,Health Care,590.0,,
+False,PE/VC,640.0,,Asian
+False,PE/VC,690.0,Admit,Asian
+False,Technology,660.0,Admit,White
+True,CPG,650.0,,
+False,PE/VC,600.0,,Asian
+False,Nonprofit/Gov,660.0,,White
+False,PE/VC,730.0,,White
+False,CPG,660.0,Admit,Hispanic
+False,Consulting,780.0,,Black
+True,Other,680.0,Admit,
+False,Consulting,640.0,,Black
+False,Consulting,680.0,,White
+False,Investment Management,680.0,,Black
+True,Nonprofit/Gov,620.0,,
+False,Consulting,660.0,,Black
+False,Health Care,660.0,,Other
+False,Nonprofit/Gov,680.0,,Hispanic
+False,Investment Banking,620.0,,Asian
+True,PE/VC,730.0,,
+True,Consulting,620.0,,
+False,Technology,660.0,Admit,Asian
+True,Other,640.0,,
+False,PE/VC,700.0,Admit,Asian
+True,Consulting,690.0,,
+False,Investment Banking,720.0,,Black
+False,Nonprofit/Gov,610.0,,Asian
+True,Other,680.0,,
+False,Technology,670.0,Admit,Asian
+False,Health Care,670.0,,White
+False,Technology,760.0,,Asian
+True,Consulting,680.0,Admit,
+False,Consulting,700.0,,Asian
+True,Consulting,620.0,,
+False,Consulting,690.0,Waitlist,White
+True,PE/VC,640.0,,
+True,Technology,650.0,,
+True,PE/VC,680.0,,
+True,Nonprofit/Gov,630.0,,
+True,Nonprofit/Gov,640.0,,
+False,Technology,610.0,,Asian
+True,Nonprofit/Gov,620.0,,
+False,Consulting,630.0,,Black
+False,Nonprofit/Gov,670.0,Admit,White
+True,Retail,610.0,,
+False,Nonprofit/Gov,600.0,,White
+True,Investment Management,650.0,,
+False,Media/Entertainment,620.0,,White
+True,Health Care,590.0,,
+False,PE/VC,570.0,,Asian
+True,Consulting,630.0,Waitlist,
+False,Other,660.0,,Hispanic
+False,Real Estate,570.0,,Other
+False,Investment Banking,610.0,,Asian
+False,Consulting,650.0,,Asian
+False,PE/VC,570.0,,Black
+False,Financial Services,690.0,Admit,Asian
+True,Consulting,680.0,,
+False,Investment Banking,590.0,,White
+True,Financial Services,570.0,,
+True,Technology,580.0,,
+False,Nonprofit/Gov,720.0,Admit,White
+False,Technology,570.0,,Black
+False,Investment Management,710.0,Admit,White
+False,Consulting,650.0,,White
+False,Health Care,780.0,,White
+True,Investment Banking,670.0,,
+False,Other,660.0,,Hispanic
+True,Other,650.0,,
+False,Retail,630.0,,Asian
+False,PE/VC,670.0,,White
+True,PE/VC,680.0,,
+True,Consulting,690.0,Admit,
+False,Consulting,680.0,,Other
+False,Consulting,610.0,,White
+False,Energy,650.0,,Asian
+False,Investment Banking,750.0,Admit,Other
+False,Consulting,620.0,,Black
+True,Financial Services,610.0,,
+False,Technology,600.0,,White
+False,PE/VC,660.0,Waitlist,Asian
+False,PE/VC,760.0,Admit,Asian
+False,Technology,650.0,,Black
+True,Other,670.0,,
+True,Consulting,600.0,,
+False,Investment Management,710.0,,White
+False,Technology,650.0,,White
+False,Nonprofit/Gov,600.0,,Hispanic
+True,Technology,650.0,,
+True,CPG,680.0,Admit,
+False,Consulting,750.0,,White
+True,Health Care,680.0,,
+False,Consulting,610.0,,White
+False,Investment Banking,630.0,,Asian
+True,Consulting,640.0,,
+False,Consulting,670.0,,White
+True,Nonprofit/Gov,620.0,,
+False,PE/VC,630.0,,White
+False,Consulting,630.0,,Asian
+True,Technology,660.0,,
+False,Consulting,620.0,,Black
+False,Real Estate,660.0,Admit,Asian
+False,Consulting,780.0,,Black
+False,Investment Management,640.0,,Black
+False,Health Care,690.0,,Asian
+True,Consulting,610.0,,
+False,Other,640.0,,Black
+False,Consulting,620.0,,Other
+False,Real Estate,620.0,,Other
+False,Other,700.0,Admit,White
+True,Technology,730.0,Admit,
+True,CPG,610.0,,
+False,Consulting,580.0,,White
+True,Consulting,650.0,,
+False,Investment Banking,640.0,,White
+True,PE/VC,650.0,,
+False,Technology,610.0,,Asian
+True,Other,610.0,,
+False,Nonprofit/Gov,680.0,,Asian
+False,Financial Services,710.0,Admit,White
+True,PE/VC,650.0,,
+False,PE/VC,590.0,,Black
+True,Consulting,570.0,Admit,
+False,Investment Banking,700.0,,White
+False,Investment Banking,700.0,,White
+False,Investment Banking,670.0,,Black
+False,Consulting,650.0,,Asian
+False,PE/VC,570.0,,Asian
+True,PE/VC,600.0,,
+False,Nonprofit/Gov,690.0,Waitlist,Asian
+True,Investment Banking,640.0,,
+False,PE/VC,570.0,,Black
+False,Investment Banking,650.0,,Asian
+False,Nonprofit/Gov,660.0,,White
+True,Consulting,570.0,,
+False,PE/VC,670.0,,Hispanic
+True,Consulting,660.0,Admit,
+False,Technology,690.0,,Black
+False,Health Care,660.0,,Hispanic
+False,Investment Banking,640.0,,White
+False,Consulting,700.0,,Asian
+False,Consulting,640.0,,Black
+False,Investment Banking,610.0,,Black
+True,Investment Banking,680.0,,
+True,Consulting,620.0,,
+True,Health Care,570.0,,
+False,Consulting,570.0,,Hispanic
+False,PE/VC,730.0,,White
+True,Investment Management,610.0,,
+False,Other,670.0,,Hispanic
+True,Investment Banking,650.0,,
+False,Consulting,600.0,,Black
+False,Consulting,780.0,,Black
+True,Technology,620.0,,
+False,Nonprofit/Gov,590.0,,White
+False,PE/VC,660.0,Admit,Hispanic
+False,Nonprofit/Gov,610.0,,Hispanic
+True,Financial Services,640.0,,
+False,Consulting,680.0,,Hispanic
+False,PE/VC,570.0,,Black
+False,Technology,660.0,,Black
+True,Nonprofit/Gov,570.0,,
+False,Other,580.0,,Hispanic
+False,Consulting,640.0,,White
+True,Financial Services,620.0,,
+False,Nonprofit/Gov,680.0,,White
+False,Nonprofit/Gov,600.0,,Asian
+False,Nonprofit/Gov,570.0,,Hispanic
+False,Technology,680.0,Admit,Other
+True,Media/Entertainment,680.0,Waitlist,
+False,Investment Banking,760.0,,Asian
+True,Investment Banking,600.0,,
+False,Consulting,700.0,Admit,White
+False,Consulting,610.0,,White
+False,Technology,570.0,,Hispanic
+False,Real Estate,630.0,,Asian
+True,Retail,700.0,,
+True,Consulting,620.0,,
+False,Health Care,640.0,Waitlist,Asian
+False,PE/VC,570.0,,Hispanic
+False,Technology,740.0,,Black
+True,Nonprofit/Gov,610.0,,
+False,Consulting,680.0,Admit,Asian
+False,Investment Banking,650.0,,Black
+True,PE/VC,760.0,,
+False,Consulting,600.0,,Hispanic
+False,PE/VC,670.0,,White
+False,Consulting,590.0,,White
+False,Consulting,740.0,,Hispanic
+True,Investment Banking,610.0,,
+False,Consulting,570.0,,Black
+False,Consulting,760.0,,White
+False,Financial Services,670.0,,Asian
+False,Financial Services,740.0,,Hispanic
+True,Investment Banking,680.0,Admit,
+False,Investment Banking,600.0,,White
+False,Consulting,700.0,,White
+True,Other,660.0,,
+False,PE/VC,610.0,,White
+True,Consulting,660.0,,
+False,Consulting,580.0,,White
+True,Technology,700.0,,
+True,Other,600.0,,
+True,PE/VC,740.0,,
+False,Nonprofit/Gov,680.0,,Hispanic
+True,Consulting,630.0,Admit,
+False,Nonprofit/Gov,650.0,,Asian
+False,Investment Banking,720.0,Admit,White
+False,CPG,730.0,Admit,Black
+False,Investment Management,660.0,,Black
+False,Consulting,720.0,Admit,White
+False,Consulting,710.0,,Hispanic
+False,Technology,720.0,,Asian
+False,Health Care,730.0,,White
+False,Consulting,660.0,,Asian
+False,PE/VC,620.0,,White
+False,Health Care,640.0,,Black
+True,Financial Services,620.0,,
+True,PE/VC,600.0,,
+False,CPG,710.0,Admit,Other
+True,Retail,610.0,,
+True,Real Estate,760.0,,
+False,Other,660.0,,Black
+False,Consulting,570.0,,White
+False,Real Estate,620.0,Admit,Other
+True,Consulting,640.0,,
+True,Other,670.0,,
+False,PE/VC,570.0,,Asian
+False,Investment Banking,570.0,,Hispanic
+False,PE/VC,610.0,,Hispanic
+False,Consulting,740.0,,Hispanic
+True,Nonprofit/Gov,630.0,Admit,
+False,PE/VC,700.0,Admit,Asian
+True,PE/VC,660.0,,
+False,Financial Services,660.0,,Asian
+False,Technology,660.0,,White
+False,Nonprofit/Gov,700.0,,Black
+False,Investment Banking,690.0,,Asian
+False,Health Care,740.0,,Asian
+False,Other,650.0,,Asian
+True,Financial Services,650.0,,
+False,Financial Services,670.0,,Asian
+False,Nonprofit/Gov,700.0,,Other
+False,PE/VC,720.0,Admit,Asian
+False,PE/VC,670.0,,White
+False,Consulting,660.0,,Asian
+True,Nonprofit/Gov,660.0,,
+False,Consulting,700.0,,Asian
+False,Investment Banking,610.0,,White
+False,Investment Banking,750.0,,Black
+False,Consulting,680.0,,Hispanic
+False,Consulting,620.0,,White
+False,Real Estate,690.0,,White
+False,Investment Management,570.0,,Black
+False,Health Care,570.0,,White
+False,Consulting,620.0,,Hispanic
+False,PE/VC,700.0,,Asian
+False,Consulting,660.0,,Other
+False,Nonprofit/Gov,700.0,,Hispanic
+False,Health Care,640.0,,Hispanic
+False,Financial Services,590.0,,Asian
+False,PE/VC,580.0,,Hispanic
+False,Consulting,600.0,,White
+False,Investment Banking,620.0,,White
+False,Financial Services,630.0,,White
+False,Consulting,630.0,,Black
+False,Consulting,640.0,,Hispanic
+False,Technology,580.0,,Asian
+False,Nonprofit/Gov,710.0,,Asian
+False,Consulting,600.0,,White
+False,Technology,680.0,,Black
+True,Nonprofit/Gov,620.0,,
+False,Consulting,650.0,,Hispanic
+False,Consulting,590.0,,Black
+False,Consulting,680.0,,White
+False,Consulting,600.0,,Other
+False,Financial Services,760.0,,Asian
+True,Consulting,700.0,,
+False,Technology,600.0,,White
+False,Consulting,630.0,,Black
+False,Technology,690.0,,White
+False,Consulting,640.0,,Asian
+True,PE/VC,670.0,Admit,
+False,Consulting,700.0,,Black
+False,Other,640.0,,White
+False,Investment Banking,660.0,,Hispanic
+False,Consulting,620.0,,Asian
+True,Nonprofit/Gov,610.0,,
+True,Technology,710.0,,
+False,Nonprofit/Gov,660.0,,Asian
+False,Financial Services,640.0,,Hispanic
+True,Financial Services,660.0,,
+False,Consulting,610.0,,White
+False,Other,660.0,,Hispanic
+True,Consulting,570.0,,
+False,Consulting,710.0,,Black
+False,Consulting,690.0,,Asian
+True,Nonprofit/Gov,700.0,Admit,
+False,Nonprofit/Gov,720.0,Admit,White
+True,Consulting,740.0,,
+False,Consulting,590.0,,Black
+False,Consulting,570.0,,Asian
+True,PE/VC,670.0,,
+False,Technology,640.0,,Asian
+False,Investment Management,690.0,,White
+False,Consulting,570.0,,White
+True,Consulting,570.0,,
+False,PE/VC,660.0,,White
+True,Energy,750.0,,
+False,Nonprofit/Gov,600.0,,Asian
+False,Technology,630.0,,Asian
+True,Consulting,570.0,,
+True,Investment Management,590.0,,
+False,Consulting,630.0,,White
+False,Financial Services,700.0,,Black
+False,PE/VC,690.0,,White
+False,Other,700.0,Admit,Black
+False,Health Care,650.0,,Hispanic
+False,Other,680.0,,Other
+False,Financial Services,640.0,,Other
+False,Investment Banking,700.0,,Black
+False,Other,680.0,,Hispanic
+True,Other,700.0,Admit,
+False,Technology,700.0,,Black
+True,PE/VC,630.0,,
+True,Consulting,580.0,,
+False,Investment Management,590.0,,Asian
+False,Health Care,630.0,,Hispanic
+True,Consulting,680.0,Admit,
+True,Other,750.0,,
+False,Other,640.0,,White
+True,Technology,670.0,,
+False,Investment Banking,620.0,,Black
+True,Consulting,580.0,,
+True,PE/VC,680.0,,
+False,Investment Management,570.0,,Asian
+False,Consulting,660.0,,White
+True,Financial Services,750.0,Admit,
+True,Real Estate,630.0,,
+False,Consulting,680.0,,Hispanic
+False,PE/VC,680.0,,Hispanic
+False,Consulting,780.0,,White
+False,Technology,690.0,Admit,White
+False,Nonprofit/Gov,780.0,,Black
+False,Investment Banking,780.0,,Hispanic
+True,Real Estate,650.0,,
+False,Consulting,570.0,,White
+False,Consulting,670.0,Admit,Black
+False,Investment Management,570.0,,Black
+True,Investment Banking,620.0,,
+False,Nonprofit/Gov,700.0,Admit,White
+False,Consulting,670.0,,White
+False,Health Care,570.0,,White
+False,Technology,600.0,,White
+True,Investment Banking,630.0,,
+False,Health Care,650.0,,Asian
+False,PE/VC,730.0,Admit,Asian
+False,PE/VC,730.0,,Hispanic
+False,Consulting,610.0,,White
+True,Consulting,570.0,,
+False,Investment Banking,680.0,,Hispanic
+False,Other,610.0,,Asian
+False,PE/VC,580.0,,Asian
+False,Investment Management,610.0,,White
+False,Consulting,750.0,Admit,White
+False,Technology,600.0,,Black
+False,Consulting,640.0,,Asian
+True,CPG,570.0,,
+False,Technology,690.0,,Black
+True,Technology,620.0,,
+False,Investment Banking,750.0,,White
+False,Nonprofit/Gov,750.0,,Black
+False,Consulting,650.0,,Asian
+False,Consulting,700.0,,Asian
+False,Financial Services,680.0,Admit,White
+True,Technology,690.0,,
+False,Health Care,630.0,,Asian
+True,Consulting,670.0,,
+False,CPG,650.0,,Asian
+False,Technology,660.0,,Asian
+False,Consulting,740.0,,White
+True,Other,660.0,,
+False,PE/VC,700.0,,Black
+True,Consulting,620.0,,
+True,Nonprofit/Gov,740.0,,
+True,PE/VC,690.0,Admit,
+False,PE/VC,650.0,,White
+True,Consulting,690.0,,
+False,PE/VC,680.0,,Asian
+True,Nonprofit/Gov,670.0,,
+True,Technology,670.0,,
+False,Media/Entertainment,570.0,,White
+True,Investment Banking,620.0,,
+False,Health Care,620.0,,Black
+True,Other,720.0,,
+False,Consulting,640.0,,White
+False,Consulting,570.0,,White
+False,Other,670.0,,Asian
+False,Financial Services,750.0,Admit,Asian
+True,Consulting,610.0,,
+False,Consulting,630.0,,Black
+False,Technology,760.0,,Hispanic
+False,Consulting,770.0,,White
+False,Investment Banking,590.0,,Black
+True,Other,640.0,,
+True,Nonprofit/Gov,720.0,,
+True,Investment Banking,590.0,,
+False,Investment Banking,720.0,,White
+True,Financial Services,570.0,,
+False,Investment Banking,580.0,,Other
+False,Nonprofit/Gov,590.0,,White
+False,Technology,610.0,,Black
+False,PE/VC,780.0,,White
+False,Consulting,760.0,Admit,Asian
+False,Technology,750.0,,Black
+False,Consulting,700.0,Admit,Asian
+False,Other,600.0,,Asian
+False,Consulting,650.0,Admit,White
+False,Consulting,660.0,,Other
+False,Consulting,590.0,,White
+True,Technology,710.0,Admit,
+False,Nonprofit/Gov,600.0,,Hispanic
+False,Nonprofit/Gov,570.0,,Hispanic
+False,Consulting,690.0,,White
+False,Consulting,700.0,,Hispanic
+False,Health Care,690.0,,Black
+False,Investment Banking,610.0,,Asian
+True,Consulting,660.0,,
+False,Consulting,680.0,,White
+False,Nonprofit/Gov,670.0,,Asian
+True,Technology,640.0,,
+False,Health Care,610.0,,Other
+False,Consulting,570.0,,Asian
+False,Investment Banking,660.0,,Hispanic
+False,PE/VC,780.0,Admit,White
+False,Technology,630.0,,White
+False,PE/VC,620.0,,Hispanic
+False,PE/VC,620.0,,Black
+False,Real Estate,690.0,,Black
+False,Consulting,700.0,,Black
+True,Technology,570.0,,
+True,Health Care,710.0,,
+True,Health Care,660.0,,
+False,Consulting,640.0,,Black
+False,Consulting,580.0,,Hispanic
+True,Investment Management,640.0,,
+False,Nonprofit/Gov,610.0,,White
+False,Investment Banking,620.0,,Other
+False,PE/VC,760.0,,Asian
+False,Health Care,570.0,,Other
+False,Consulting,680.0,,White
+True,Financial Services,660.0,,
+False,PE/VC,660.0,,Asian
+False,Consulting,680.0,Admit,Asian
+False,Nonprofit/Gov,730.0,,Black
+True,PE/VC,600.0,,
+False,Consulting,660.0,,Black
+False,Nonprofit/Gov,570.0,,White
+False,Health Care,660.0,Admit,White
+False,Financial Services,660.0,Admit,White
+False,PE/VC,680.0,Admit,White
+False,Consulting,570.0,,Asian
+False,Financial Services,640.0,,White
+False,Consulting,640.0,,White
+False,Investment Banking,570.0,,White
+False,Consulting,590.0,,White
+True,Technology,610.0,,
+True,PE/VC,600.0,,
+False,Consulting,760.0,,Black
+True,CPG,690.0,,
+True,Other,620.0,,
+True,Health Care,740.0,,
+False,Consulting,610.0,,Hispanic
+True,Nonprofit/Gov,620.0,,
+False,Investment Banking,710.0,Admit,Hispanic
+True,Consulting,650.0,,
+False,Consulting,630.0,Admit,Asian
+True,Technology,690.0,,
+False,Other,620.0,,Asian
+False,Health Care,680.0,,White
+True,Nonprofit/Gov,660.0,Admit,
+False,Other,660.0,,Black
+True,PE/VC,600.0,,
+False,Consulting,570.0,,Asian
+True,Investment Banking,670.0,Admit,
+False,PE/VC,740.0,,Black
+False,Consulting,670.0,,White
+False,Nonprofit/Gov,660.0,,White
+False,Consulting,570.0,,Hispanic
+False,Nonprofit/Gov,680.0,,White
+False,PE/VC,630.0,,Asian
+False,Nonprofit/Gov,690.0,,White
+False,Health Care,580.0,,Asian
+False,Technology,590.0,,Asian
+False,Consulting,650.0,,Asian
+False,PE/VC,720.0,,Hispanic
+False,Financial Services,580.0,,Black
+True,Other,680.0,Admit,
+False,Consulting,590.0,,White
+False,Consulting,580.0,,Asian
+True,Consulting,710.0,Admit,
+False,Investment Banking,730.0,,Asian
+False,Financial Services,630.0,,White
+False,Technology,700.0,,Black
+False,Nonprofit/Gov,700.0,,Asian
+False,Financial Services,640.0,,Hispanic
+False,Other,670.0,Admit,Asian
+False,Financial Services,580.0,Admit,Other
+False,Retail,710.0,Admit,Black
+False,Nonprofit/Gov,620.0,,White
+False,PE/VC,580.0,,Asian
+False,PE/VC,720.0,Admit,White
+True,Consulting,610.0,,
+False,PE/VC,670.0,Admit,White
+False,Other,580.0,,White
+False,Nonprofit/Gov,580.0,,White
+False,Consulting,680.0,,Black
+False,Consulting,670.0,,Hispanic
+False,PE/VC,690.0,,Hispanic
+False,PE/VC,640.0,,White
+True,PE/VC,640.0,,
+True,Investment Banking,670.0,,
+False,Other,570.0,,Asian
+False,Technology,620.0,,Hispanic
+False,Financial Services,740.0,,White
+True,Financial Services,680.0,,
+False,Financial Services,600.0,,Hispanic
+False,Consulting,620.0,,Asian
+False,Nonprofit/Gov,680.0,Admit,White
+False,Consulting,660.0,,Black
+True,Consulting,590.0,,
+True,Consulting,670.0,Admit,
+False,Consulting,630.0,,White
+False,Consulting,630.0,Admit,White
+False,Consulting,730.0,,Black
+True,Nonprofit/Gov,720.0,Admit,
+False,Consulting,710.0,Admit,White
+False,Consulting,680.0,,Hispanic
+False,Consulting,620.0,,Asian
+False,PE/VC,590.0,,Black
+False,Nonprofit/Gov,580.0,,White
+True,PE/VC,740.0,Admit,
+True,Nonprofit/Gov,650.0,,
+True,Consulting,600.0,Waitlist,
+False,Consulting,700.0,Admit,White
+False,Consulting,580.0,,Hispanic
+True,Consulting,680.0,,
+True,Technology,630.0,,
+False,Investment Banking,600.0,,Hispanic
+False,Investment Banking,670.0,,Asian
+False,Consulting,700.0,,Other
+True,Technology,710.0,,
+True,PE/VC,710.0,,
+True,Consulting,580.0,,
+True,PE/VC,570.0,,
+False,Financial Services,760.0,Admit,Asian
+False,Consulting,620.0,,Asian
+False,Technology,640.0,,White
+True,Consulting,610.0,,
+False,Technology,580.0,,Asian
+True,PE/VC,640.0,,
+True,PE/VC,700.0,,
+True,Consulting,640.0,,
+False,Nonprofit/Gov,680.0,,White
+True,Nonprofit/Gov,630.0,Admit,
+False,Consulting,700.0,,Black
+False,Nonprofit/Gov,570.0,,Black
+False,PE/VC,690.0,,Black
+False,Investment Banking,720.0,Admit,Other
+False,PE/VC,680.0,Admit,Asian
+True,Consulting,650.0,,
+False,Consulting,590.0,,Other
+True,Investment Banking,710.0,Admit,
+False,Technology,590.0,,Black
+True,Other,660.0,,
+False,Nonprofit/Gov,630.0,,Black
+True,Investment Banking,590.0,,
+False,Technology,710.0,Admit,Asian
+False,Nonprofit/Gov,700.0,,Asian
+False,PE/VC,590.0,,Asian
+True,Consulting,640.0,,
+False,Technology,580.0,,Asian
+False,Financial Services,630.0,,Hispanic
+False,Investment Management,700.0,,Asian
+False,Consulting,650.0,,Asian
+True,Consulting,640.0,,
+True,Consulting,740.0,Admit,
+False,Technology,580.0,,White
+False,Financial Services,620.0,,Black
+True,Investment Banking,680.0,,
+False,Consulting,580.0,,Asian
+False,Technology,610.0,,Asian
+True,Real Estate,650.0,,
+False,PE/VC,610.0,,White
+False,Consulting,570.0,,White
+False,Consulting,680.0,,Hispanic
+True,Consulting,670.0,,
+False,Consulting,600.0,,Asian
+False,Technology,680.0,,Asian
+True,Consulting,570.0,,
+False,Consulting,690.0,,Black
+True,Financial Services,660.0,Admit,
+False,Financial Services,640.0,,Other
+False,PE/VC,650.0,,White
+False,Nonprofit/Gov,690.0,,White
+True,Retail,650.0,,
+False,Consulting,620.0,,Hispanic
+False,Technology,590.0,,Asian
+False,Consulting,720.0,Admit,Asian
+False,PE/VC,640.0,,Asian
+False,Investment Management,590.0,,Asian
+False,PE/VC,590.0,,White
+False,Investment Banking,670.0,Admit,White
+True,Consulting,650.0,,
+True,Consulting,740.0,,
+True,Consulting,600.0,Admit,
+True,Investment Banking,650.0,,
+False,Technology,720.0,Admit,White
+False,Consulting,640.0,,Hispanic
+False,Nonprofit/Gov,580.0,,Hispanic
+False,Health Care,750.0,Admit,Other
+False,Investment Banking,580.0,,White
+True,Technology,740.0,,
+False,PE/VC,700.0,,Hispanic
+True,Consulting,730.0,Admit,
+False,PE/VC,670.0,Admit,Hispanic
+False,Financial Services,710.0,,White
+False,Technology,700.0,,White
+True,Investment Banking,680.0,Waitlist,
+True,Consulting,650.0,,
+False,Other,640.0,,Asian
+False,Technology,650.0,,Asian
+True,Nonprofit/Gov,710.0,Admit,
+False,Technology,620.0,,Asian
+False,PE/VC,660.0,Admit,White
+True,Technology,620.0,,
+False,Other,680.0,Admit,Other
+False,Nonprofit/Gov,670.0,Admit,White
+True,Consulting,650.0,,
+False,Real Estate,590.0,,Asian
+False,Consulting,590.0,,Black
+False,PE/VC,610.0,,Asian
+False,Nonprofit/Gov,710.0,Admit,Black
+True,PE/VC,600.0,,
+False,Consulting,630.0,,Asian
+True,PE/VC,670.0,Admit,
+False,Consulting,680.0,Admit,Asian
+False,Nonprofit/Gov,720.0,Admit,Hispanic
+False,Financial Services,660.0,,Black
+True,Nonprofit/Gov,620.0,,
+False,Investment Banking,610.0,,Asian
+False,Investment Management,660.0,,Black
+True,Other,670.0,Admit,
+True,Nonprofit/Gov,580.0,,
+False,PE/VC,670.0,,Hispanic
+True,Investment Banking,670.0,,
+False,Other,660.0,,Black
+False,Nonprofit/Gov,610.0,,Black
+False,Investment Management,610.0,,Hispanic
+True,Nonprofit/Gov,680.0,,
+False,Consulting,720.0,Admit,White
+False,Nonprofit/Gov,690.0,Admit,Hispanic
+False,Financial Services,780.0,,Asian
+False,CPG,610.0,Waitlist,White
+True,Investment Banking,670.0,,
+False,PE/VC,690.0,,Hispanic
+False,Financial Services,630.0,,White
+True,Technology,620.0,,
+False,Consulting,610.0,,White
+False,Financial Services,720.0,,Black
+False,PE/VC,580.0,,White
+False,Health Care,680.0,,White
+True,Technology,600.0,,
+True,Consulting,580.0,Admit,
+False,Health Care,650.0,,White
+False,Consulting,650.0,,White
+False,Consulting,590.0,,White
+False,Consulting,740.0,Admit,Hispanic
+False,Investment Banking,600.0,,Hispanic
+False,Technology,610.0,,Asian
+True,Nonprofit/Gov,660.0,,
+True,Financial Services,740.0,,
+False,Financial Services,720.0,,Hispanic
+False,Other,590.0,,Hispanic
+False,Technology,690.0,Admit,White
+False,Other,620.0,,Asian
+False,Investment Banking,680.0,Admit,White
+False,CPG,630.0,,Black
+False,Consulting,600.0,,Hispanic
+False,Investment Banking,610.0,,White
+False,Financial Services,710.0,,Asian
+False,Financial Services,680.0,Admit,White
+False,Retail,570.0,,White
+True,Financial Services,670.0,Admit,
+False,PE/VC,600.0,,Other
+True,Health Care,660.0,,
+True,PE/VC,670.0,,
+False,Consulting,680.0,,Black
+False,Other,690.0,,Asian
+False,Nonprofit/Gov,670.0,Admit,Other
+False,Consulting,590.0,,White
+False,Consulting,760.0,,White
+False,Other,620.0,,Hispanic
+False,Nonprofit/Gov,590.0,,Black
+True,Nonprofit/Gov,600.0,,
+False,PE/VC,670.0,,Black
+False,Nonprofit/Gov,600.0,,White
+True,Real Estate,750.0,Admit,
+False,Investment Banking,720.0,,White
+True,Health Care,640.0,,
+False,Consulting,670.0,,Asian
+True,Investment Banking,680.0,,
+False,Other,600.0,,Asian
+False,Financial Services,670.0,Waitlist,White
+False,Media/Entertainment,570.0,,White
+False,Investment Management,640.0,,White
+False,Nonprofit/Gov,710.0,,White
+True,PE/VC,630.0,,
+False,Nonprofit/Gov,680.0,,Black
+True,Consulting,680.0,,
+False,Consulting,700.0,,Hispanic
+False,PE/VC,700.0,,Asian
+False,Health Care,710.0,,White
+False,Consulting,700.0,,Black
+False,Real Estate,610.0,,Asian
+False,Investment Management,680.0,Admit,Asian
+False,Consulting,610.0,,Asian
+False,Investment Banking,590.0,,White
+False,PE/VC,780.0,,White
+True,Investment Banking,590.0,,
+False,Nonprofit/Gov,590.0,,White
+False,Technology,650.0,,Asian
+False,Technology,710.0,,White
+False,Technology,680.0,,White
+False,Investment Banking,700.0,Admit,Asian
+True,Other,690.0,Admit,
+False,Technology,570.0,,Asian
+False,Other,700.0,,Black
+False,Health Care,620.0,,Black
+False,Nonprofit/Gov,680.0,,Black
+False,Other,640.0,,Hispanic
+False,Health Care,660.0,,White
+True,Consulting,600.0,,
+False,Health Care,720.0,Admit,Asian
+True,Consulting,570.0,,
+False,Investment Banking,580.0,,Asian
+True,Other,600.0,,
+False,Consulting,670.0,,Asian
+True,Financial Services,640.0,,
+False,Health Care,660.0,,White
+False,PE/VC,620.0,,Hispanic
+True,Consulting,620.0,,
+False,Technology,650.0,,Black
+False,Consulting,660.0,,White
+True,Other,700.0,,
+True,Consulting,700.0,,
+False,PE/VC,680.0,,White
+False,Investment Banking,620.0,,Asian
+False,Other,620.0,,Black
+False,Consulting,670.0,,White
+False,Consulting,590.0,,Black
+False,Consulting,630.0,,Black
+False,Consulting,690.0,,Asian
+False,PE/VC,580.0,,White
+False,Consulting,620.0,,White
+True,PE/VC,630.0,,
+False,Nonprofit/Gov,680.0,,Asian
+False,Financial Services,760.0,Admit,White
+False,Technology,610.0,,White
+False,Financial Services,600.0,,White
+False,Consulting,630.0,,White
+False,Consulting,690.0,,Asian
+False,Technology,630.0,,White
+True,Technology,580.0,,
+False,Financial Services,760.0,Admit,White
+False,Consulting,680.0,,Asian
+False,Financial Services,700.0,Admit,Asian
+False,PE/VC,630.0,,Black
+True,Technology,700.0,Admit,
+False,Consulting,630.0,,Asian
+False,Financial Services,580.0,,Asian
+True,Other,600.0,,
+False,Technology,630.0,,Asian
+True,Technology,650.0,,
+False,Consulting,590.0,,Other
+True,Consulting,720.0,,
+False,Consulting,670.0,,Black
+False,Technology,710.0,,Hispanic
+True,PE/VC,640.0,,
+False,Nonprofit/Gov,650.0,,Asian
+False,Financial Services,710.0,,White
+False,Health Care,570.0,,Hispanic
+True,Technology,710.0,Admit,
+True,PE/VC,730.0,,
+False,PE/VC,630.0,,Hispanic
+True,Consulting,680.0,Admit,
+True,Other,720.0,,
+True,Nonprofit/Gov,620.0,,
+False,Financial Services,660.0,,Black
+True,Real Estate,610.0,,
+False,Other,620.0,,Hispanic
+True,Consulting,610.0,,
+False,Investment Banking,690.0,,Asian
+False,Consulting,650.0,,Asian
+False,Investment Management,770.0,,Black
+False,PE/VC,730.0,,Asian
+False,Financial Services,690.0,,Black
+True,Consulting,640.0,,
+False,Consulting,700.0,,White
+True,Consulting,730.0,Admit,
+False,Technology,650.0,,White
+True,Investment Banking,700.0,,
+False,Consulting,670.0,,Asian
+True,Nonprofit/Gov,600.0,,
+True,Investment Banking,670.0,Admit,
+False,Nonprofit/Gov,710.0,,Asian
+False,PE/VC,660.0,Admit,White
+True,Financial Services,690.0,Admit,
+False,PE/VC,610.0,,White
+True,Financial Services,680.0,,
+False,Financial Services,570.0,,White
+True,Consulting,730.0,Admit,
+True,Technology,620.0,,
+True,Financial Services,660.0,Admit,
+False,Consulting,700.0,Admit,White
+False,Nonprofit/Gov,630.0,,Hispanic
+False,Consulting,750.0,Waitlist,Asian
+False,Consulting,700.0,,Asian
+True,Investment Management,650.0,,
+True,Nonprofit/Gov,680.0,,
+False,Consulting,660.0,,Black
+False,Consulting,620.0,,Asian
+True,Media/Entertainment,600.0,,
+False,Financial Services,650.0,,White
+False,Consulting,620.0,,Asian
+True,Financial Services,710.0,Admit,
+False,Technology,570.0,,Asian
+True,Consulting,640.0,,
+False,Consulting,580.0,Admit,Asian
+False,Other,650.0,,White
+True,Consulting,630.0,,
+True,Consulting,610.0,,
+True,Financial Services,670.0,,
+False,Consulting,660.0,Admit,White
+True,Consulting,660.0,Admit,
+True,Technology,680.0,,
+True,Nonprofit/Gov,630.0,,
+False,PE/VC,650.0,,White
+True,Financial Services,660.0,,
+False,Other,750.0,,White
+True,Nonprofit/Gov,570.0,,
+False,PE/VC,630.0,,White
+True,Consulting,620.0,,
+False,Technology,690.0,Waitlist,Asian
+False,Investment Banking,570.0,,Black
+False,Consulting,630.0,,Asian
+False,Consulting,580.0,,Hispanic
+False,Investment Banking,610.0,,Hispanic
+True,Investment Management,670.0,,
+False,PE/VC,610.0,,Black
+True,Consulting,690.0,,
+False,Investment Management,580.0,,White
+False,PE/VC,680.0,,Black
+True,Technology,620.0,,
+True,PE/VC,610.0,,
+False,Consulting,580.0,,White
+False,Consulting,590.0,,Black
+True,Other,670.0,,
+False,Technology,690.0,Admit,Asian
+False,Energy,690.0,,Asian
+False,Technology,690.0,,White
+True,Consulting,690.0,,
+True,Financial Services,670.0,,
+False,Consulting,650.0,,Black
+True,PE/VC,690.0,Admit,
+False,Consulting,610.0,,Asian
+False,Investment Management,650.0,,White
+False,Nonprofit/Gov,680.0,Admit,Asian
+False,Nonprofit/Gov,620.0,,Asian
+False,Investment Banking,600.0,,Asian
+False,Consulting,650.0,,Asian
+False,Investment Management,600.0,,White
+False,CPG,650.0,,Black
+False,Media/Entertainment,710.0,Admit,Asian
+False,Nonprofit/Gov,600.0,,Asian
+False,Nonprofit/Gov,630.0,,Hispanic
+False,PE/VC,670.0,,Asian
+False,Consulting,680.0,,Black
+False,Other,710.0,,Asian
+False,Consulting,580.0,,Black
+False,Consulting,630.0,,White
+False,Nonprofit/Gov,740.0,Admit,Asian
+True,Consulting,620.0,,
+False,Investment Banking,690.0,,Black
+False,PE/VC,670.0,Admit,Hispanic
+True,Media/Entertainment,630.0,,
+False,PE/VC,650.0,,Black
+True,Consulting,620.0,,
+False,Consulting,570.0,,Black
+False,Financial Services,690.0,,Black
+True,Financial Services,660.0,,
+True,Health Care,730.0,,
+False,Investment Banking,660.0,,White
+False,Consulting,720.0,,Hispanic
+False,Financial Services,660.0,Admit,White
+True,Investment Banking,660.0,Admit,
+True,Technology,570.0,,
+False,Consulting,610.0,,White
+False,Technology,710.0,Admit,Asian
+False,Other,720.0,,White
+False,Investment Banking,590.0,,Asian
+False,PE/VC,600.0,,Asian
+True,Nonprofit/Gov,640.0,,
+False,PE/VC,650.0,,White
+False,Technology,690.0,Admit,Hispanic
+True,Consulting,710.0,,
+False,Nonprofit/Gov,600.0,,Black
+False,Energy,660.0,,Black
+False,Investment Banking,650.0,,White
+True,Consulting,600.0,,
+False,Nonprofit/Gov,620.0,,White
+True,Nonprofit/Gov,670.0,Admit,
+False,PE/VC,620.0,,Asian
+False,Technology,670.0,,Black
+False,Nonprofit/Gov,620.0,,White
+False,Health Care,690.0,,Hispanic
+False,Other,640.0,,Asian
+True,Consulting,730.0,Admit,
+False,Media/Entertainment,640.0,,White
+False,Investment Management,600.0,,Hispanic
+True,Nonprofit/Gov,670.0,,
+False,Financial Services,660.0,,Asian
+False,Financial Services,620.0,,Asian
+True,Retail,640.0,,
+True,Investment Banking,710.0,,
+False,Consulting,760.0,Admit,Asian
+False,Energy,690.0,,Hispanic
+False,Consulting,570.0,,Black
+False,Technology,620.0,,Asian
+True,Other,630.0,,
+False,Consulting,700.0,Admit,Hispanic
+False,Other,570.0,,Black
+True,Consulting,650.0,,
+False,Investment Banking,660.0,,Asian
+True,Consulting,640.0,,
+False,Consulting,610.0,,Asian
+False,Technology,650.0,,Black
+False,PE/VC,620.0,,Other
+False,Consulting,680.0,Admit,White
+False,Media/Entertainment,680.0,,White
+True,Investment Banking,630.0,,
+False,Investment Banking,610.0,,Black
+True,Investment Banking,690.0,,
+True,Nonprofit/Gov,650.0,,
+False,Consulting,740.0,,White
+False,Consulting,600.0,,White
+False,Consulting,640.0,,Black
+True,Nonprofit/Gov,660.0,,
+True,Other,620.0,,
+True,Consulting,620.0,,
+False,Real Estate,750.0,Admit,White
+False,Other,700.0,Admit,Asian
+False,Technology,670.0,,Asian
+True,Consulting,680.0,,
+False,Technology,660.0,Admit,Black
+False,Technology,720.0,Admit,Asian
+False,Technology,630.0,,Hispanic
+False,Health Care,680.0,,White
+False,Financial Services,730.0,,White
+False,Consulting,660.0,,White
+False,Technology,630.0,,Asian
+False,Financial Services,630.0,,Asian
+False,PE/VC,680.0,,White
+False,Consulting,660.0,,Black
+True,Consulting,670.0,,
+True,Consulting,600.0,,
+False,Technology,690.0,,White
+True,Consulting,590.0,,
+True,PE/VC,690.0,,
+True,Investment Management,710.0,Admit,
+False,Investment Banking,610.0,,Black
+False,Financial Services,630.0,,White
+False,Nonprofit/Gov,640.0,,Black
+False,PE/VC,710.0,,Black
+False,Financial Services,700.0,Waitlist,White
+False,Financial Services,660.0,,Asian
+False,Investment Banking,670.0,,Hispanic
+False,Consulting,680.0,,Asian
+False,PE/VC,710.0,Admit,White
+True,Other,680.0,,
+True,Other,710.0,Admit,
+False,Nonprofit/Gov,700.0,,Other
+False,Consulting,570.0,,White
+False,Nonprofit/Gov,680.0,Admit,Hispanic
+True,Consulting,670.0,,
+False,Consulting,710.0,Admit,Other
+True,Nonprofit/Gov,660.0,Waitlist,
+True,Health Care,580.0,,
+False,Financial Services,670.0,,White
+False,CPG,690.0,Admit,Asian
+False,PE/VC,620.0,,White
+True,Consulting,620.0,,
+False,Investment Banking,680.0,Admit,Black
+False,Health Care,600.0,,Hispanic
+False,Consulting,690.0,Admit,Black
+False,Technology,640.0,,White
+False,Investment Banking,580.0,Admit,White
+False,Technology,580.0,,White
+False,Consulting,630.0,,Black
+False,PE/VC,670.0,,Asian
+False,PE/VC,660.0,,White
+False,PE/VC,670.0,,White
+False,Real Estate,570.0,,Asian
+True,Consulting,640.0,,
+True,Consulting,680.0,Admit,
+False,Investment Management,710.0,Admit,White
+False,Technology,720.0,,Asian
+True,Consulting,690.0,Admit,
+True,PE/VC,570.0,,
+False,Consulting,600.0,,Hispanic
+True,Nonprofit/Gov,610.0,,
+True,Investment Banking,650.0,,
+False,Technology,660.0,,Asian
+False,Other,640.0,,White
+False,PE/VC,570.0,,White
+False,Consulting,710.0,,White
+False,Investment Banking,600.0,,Asian
+True,Consulting,610.0,,
+False,PE/VC,600.0,,Black
+False,Consulting,650.0,,Black
+False,Investment Banking,730.0,Admit,White
+False,Financial Services,710.0,Admit,Hispanic
+False,Health Care,620.0,,Asian
+False,Health Care,660.0,,Hispanic
+False,PE/VC,670.0,Waitlist,Black
+True,Consulting,680.0,,
+False,CPG,690.0,Admit,White
+False,Financial Services,650.0,,Asian
+True,Technology,570.0,,
+False,Consulting,660.0,,Other
+False,PE/VC,590.0,,Asian
+False,Health Care,600.0,,Asian
+False,PE/VC,720.0,,White
+False,Nonprofit/Gov,610.0,,White
+False,Consulting,670.0,Admit,Black
+False,Nonprofit/Gov,630.0,,White
+False,Consulting,590.0,Admit,Asian
+True,Financial Services,690.0,Admit,
+False,Other,650.0,,Black
+False,Investment Banking,660.0,,White
+False,Nonprofit/Gov,590.0,,Asian
+False,Other,610.0,,Black
+False,Health Care,610.0,,White
+True,Technology,620.0,,
+False,Technology,660.0,,Black
+False,Technology,670.0,Admit,Asian
+False,PE/VC,650.0,Admit,Other
+False,Financial Services,640.0,,White
+False,Investment Banking,600.0,,Asian
+False,Health Care,650.0,,Asian
+True,Consulting,570.0,,
+True,Technology,640.0,,
+False,Health Care,680.0,Admit,Asian
+False,PE/VC,750.0,Admit,White
+True,PE/VC,770.0,Admit,
+False,Consulting,680.0,,Asian
+False,Nonprofit/Gov,600.0,Admit,White
+True,Consulting,600.0,,
+False,Investment Banking,770.0,,Black
+True,Consulting,570.0,,
+False,Media/Entertainment,710.0,,Asian
+False,Other,610.0,,Black
+False,Investment Banking,570.0,,White
+False,Investment Banking,640.0,,Asian
+False,Financial Services,700.0,Admit,Asian
+False,Nonprofit/Gov,620.0,,Asian
+False,Consulting,580.0,,White
+False,Investment Banking,680.0,,Black
+False,Nonprofit/Gov,770.0,Admit,White
+False,Nonprofit/Gov,630.0,,Black
+False,Investment Banking,640.0,,Asian
+True,CPG,630.0,,
+False,Technology,740.0,,Asian
+False,PE/VC,580.0,,Asian
+False,Retail,690.0,,Asian
+False,Technology,750.0,,Asian
+False,Consulting,640.0,,Black
+False,Investment Management,750.0,,Asian
+False,Consulting,610.0,,White
+False,CPG,690.0,Admit,White
+True,Nonprofit/Gov,620.0,,
+False,Technology,670.0,,Hispanic
+False,Consulting,600.0,,Black
+False,Nonprofit/Gov,610.0,,Black
+False,Investment Banking,630.0,,Black
+True,Media/Entertainment,760.0,,
+True,Consulting,570.0,,
+True,Nonprofit/Gov,690.0,,
+False,Other,730.0,,White
+True,Investment Banking,660.0,,
+False,Investment Banking,700.0,,Asian
+False,Investment Banking,640.0,,Black
+False,Technology,710.0,,Asian
+False,Other,670.0,Admit,Asian
+False,Consulting,610.0,,White
+True,Technology,710.0,Admit,
+True,Other,710.0,,
+False,Consulting,680.0,,White
+True,Health Care,720.0,,
+False,PE/VC,680.0,,Hispanic
+True,Other,660.0,,
+False,Other,670.0,Admit,White
+True,Investment Banking,600.0,,
+False,Retail,700.0,,White
+False,Financial Services,740.0,,White
+False,Consulting,590.0,,Black
+True,Consulting,630.0,,
+False,Consulting,660.0,,Asian
+True,Investment Banking,600.0,,
+False,Other,610.0,,White
+False,Health Care,720.0,,Black
+False,Financial Services,700.0,Admit,Black
+False,Consulting,630.0,,White
+False,Consulting,740.0,,Other
+False,Nonprofit/Gov,690.0,,Asian
+False,Nonprofit/Gov,570.0,,Black
+True,PE/VC,570.0,,
+False,Consulting,660.0,,White
+False,PE/VC,610.0,,Asian
+True,Technology,690.0,Admit,
+True,Consulting,650.0,,
+False,Nonprofit/Gov,630.0,,Black
+False,Financial Services,660.0,Admit,White
+False,Consulting,750.0,,Asian
+False,PE/VC,630.0,,Black
+True,Investment Banking,570.0,,
+False,CPG,670.0,Admit,Asian
+False,Consulting,610.0,,Hispanic
+False,Financial Services,660.0,,Asian
+True,Other,710.0,,
+True,Consulting,700.0,Admit,
+False,Technology,570.0,,White
+False,Technology,660.0,,White
+True,PE/VC,620.0,,
+False,PE/VC,630.0,,Black
+False,Retail,670.0,,Other
+False,Real Estate,670.0,,Asian
+False,PE/VC,650.0,,Asian
+True,Consulting,670.0,,
+False,Health Care,610.0,,Hispanic
+True,Nonprofit/Gov,720.0,,
+True,Technology,680.0,,
+True,Investment Banking,600.0,,
+False,Nonprofit/Gov,700.0,,White
+False,Consulting,630.0,,Black
+False,Retail,640.0,,Asian
+True,Financial Services,680.0,Admit,
+False,Consulting,580.0,,Asian
+False,Investment Banking,630.0,,Hispanic
+False,Consulting,630.0,,Hispanic
+False,Consulting,650.0,,Asian
+False,PE/VC,670.0,,Black
+False,Technology,590.0,,White
+True,Health Care,610.0,,
+False,Technology,620.0,,White
+False,Consulting,660.0,Admit,Asian
+False,Health Care,640.0,,White
+False,Nonprofit/Gov,660.0,,Asian
+False,Consulting,680.0,,Hispanic
+False,PE/VC,690.0,,Asian
+False,Technology,720.0,,Asian
+True,Health Care,710.0,,
+False,Health Care,670.0,,Hispanic
+True,Technology,680.0,,
+False,Investment Banking,680.0,,Other
+False,Other,610.0,,White
+False,Consulting,760.0,Admit,Black
+False,Health Care,680.0,,Black
+True,PE/VC,720.0,,
+False,Other,690.0,,Black
+True,Investment Banking,740.0,Admit,
+True,PE/VC,690.0,Admit,
+False,Consulting,710.0,,Hispanic
+False,Nonprofit/Gov,630.0,,White
+False,Consulting,610.0,,White
+True,PE/VC,580.0,,
+True,Nonprofit/Gov,590.0,,
+False,Financial Services,570.0,,Black
+True,Consulting,610.0,,
+True,Consulting,680.0,,
+False,Consulting,720.0,Admit,Black
+False,Financial Services,610.0,,Black
+False,Investment Banking,660.0,Admit,Asian
+True,Nonprofit/Gov,710.0,,
+False,Consulting,640.0,,Asian
+False,Technology,720.0,,Asian
+False,Health Care,740.0,Admit,Black
+True,Technology,670.0,,
+False,Investment Banking,580.0,,White
+True,Other,650.0,,
+False,Technology,640.0,,Asian
+True,PE/VC,690.0,Admit,
+False,Financial Services,680.0,Admit,Black
+False,Consulting,640.0,,Asian
+False,Consulting,610.0,,Hispanic
+True,Nonprofit/Gov,570.0,,
+False,Nonprofit/Gov,670.0,,Hispanic
+True,Consulting,640.0,,
+False,Consulting,610.0,,Black
+False,Consulting,740.0,Admit,Hispanic
+False,Investment Banking,630.0,,Asian
+False,Nonprofit/Gov,660.0,,White
+False,Financial Services,710.0,,Other
+True,Technology,610.0,,
+True,Consulting,710.0,,
+False,Real Estate,670.0,Admit,Hispanic
+False,Consulting,590.0,,White
+False,Investment Management,690.0,,White
+False,Consulting,640.0,,Hispanic
+True,Nonprofit/Gov,710.0,,
+False,Technology,590.0,Admit,Other
+False,Consulting,670.0,,Asian
+False,Consulting,720.0,,Asian
+False,Energy,640.0,,Asian
+True,PE/VC,640.0,,
+False,Nonprofit/Gov,590.0,,Hispanic
+False,Technology,660.0,Admit,Black
+False,Consulting,630.0,,Hispanic
+False,PE/VC,580.0,,Hispanic
+False,Consulting,660.0,,Black
+False,Technology,750.0,,White
+True,PE/VC,620.0,,
+True,Consulting,700.0,Admit,
+False,Consulting,720.0,,Asian
+False,Investment Banking,770.0,,White
+False,Other,610.0,,White
+False,Investment Management,670.0,,White
+False,Financial Services,570.0,,White
+False,Other,610.0,,White
+True,Investment Banking,650.0,Admit,
+True,Technology,630.0,,
+True,PE/VC,650.0,,
+True,PE/VC,640.0,,
+True,PE/VC,630.0,,
+True,Other,700.0,Admit,
+False,PE/VC,600.0,,Hispanic
+False,PE/VC,680.0,,Asian
+False,Other,600.0,,Black
+True,Investment Management,610.0,,
+False,Retail,660.0,,Black
+False,Investment Banking,570.0,,Hispanic
+True,Financial Services,590.0,,
+False,PE/VC,610.0,,Hispanic
+False,Investment Management,570.0,,Black
+False,Investment Banking,680.0,,Black
+False,Consulting,620.0,,White
+False,Consulting,600.0,,Black
+False,PE/VC,650.0,,White
+False,PE/VC,660.0,,Hispanic
+False,Consulting,670.0,,Black
+False,Nonprofit/Gov,600.0,,Black
+False,Other,620.0,,Asian
+False,Other,640.0,,White
+True,PE/VC,630.0,,
+True,Investment Banking,650.0,,
+True,Real Estate,670.0,,
+False,Consulting,740.0,,Asian
+False,Consulting,680.0,,White
+False,PE/VC,690.0,,Hispanic
+False,Other,610.0,,Asian
+False,Investment Banking,610.0,,Black
+False,Nonprofit/Gov,570.0,,White
+False,PE/VC,570.0,,White
+True,Nonprofit/Gov,720.0,Admit,
+False,Investment Banking,640.0,,White
+True,Technology,690.0,,
+False,Other,670.0,,White
+True,Other,670.0,Admit,
+False,Financial Services,640.0,,Other
+False,Other,670.0,,Other
+False,Investment Banking,640.0,,Black
+False,Financial Services,680.0,,White
+False,PE/VC,690.0,,Black
+True,Nonprofit/Gov,670.0,,
+False,PE/VC,670.0,,Black
+True,PE/VC,600.0,,
+True,Investment Banking,720.0,,
+False,Investment Banking,660.0,,Black
+False,Investment Management,710.0,Admit,Asian
+False,PE/VC,650.0,,White
+False,Financial Services,600.0,,Hispanic
+False,PE/VC,610.0,,Other
+False,Other,630.0,,White
+False,PE/VC,680.0,Admit,White
+False,Consulting,650.0,,Black
+False,Real Estate,660.0,Admit,Hispanic
+True,Financial Services,650.0,,
+True,Consulting,770.0,Admit,
+True,Technology,620.0,,
+True,Investment Banking,570.0,,
+True,Consulting,630.0,,
+False,PE/VC,650.0,,Black
+False,Nonprofit/Gov,620.0,,Asian
+False,Consulting,570.0,,Black
+True,Technology,650.0,,
+True,Media/Entertainment,730.0,,
+True,Consulting,640.0,,
+False,Health Care,570.0,,Asian
+True,Consulting,620.0,,
+True,PE/VC,580.0,,
+False,Nonprofit/Gov,610.0,,Asian
+False,Investment Banking,620.0,,White
+False,Technology,630.0,,Asian
+False,Media/Entertainment,630.0,,Hispanic
+True,Consulting,720.0,,
+False,Technology,700.0,,Black
+False,PE/VC,650.0,,Other
+False,Investment Banking,690.0,Admit,Asian
+False,Consulting,710.0,Admit,Other
+False,PE/VC,650.0,,Black
+False,Nonprofit/Gov,620.0,,Black
+False,Consulting,680.0,,Asian
+False,Investment Management,620.0,,Hispanic
+False,Consulting,620.0,,Black
+False,Investment Management,650.0,,Asian
+False,Nonprofit/Gov,750.0,,White
+False,PE/VC,680.0,,White
+False,Retail,720.0,,Black
+False,PE/VC,710.0,Admit,Asian
+True,Investment Banking,680.0,,
+False,Technology,680.0,,White
+False,Nonprofit/Gov,640.0,,Black
+True,Other,660.0,,
+False,Other,620.0,,Black
+False,Consulting,670.0,Waitlist,Asian
+False,Consulting,580.0,,Black
+False,PE/VC,630.0,,Black
+False,Technology,700.0,,Asian
+True,Consulting,680.0,,
+False,Financial Services,570.0,,White
+True,Nonprofit/Gov,620.0,,
+False,Other,650.0,,White
+True,PE/VC,730.0,Admit,
+False,Energy,750.0,,Hispanic
+False,PE/VC,630.0,,Black
+False,Consulting,620.0,,Asian
+True,Investment Banking,690.0,,
+True,Consulting,670.0,,
+True,Nonprofit/Gov,730.0,,
+False,Technology,610.0,,Asian
+False,PE/VC,570.0,,Asian
+True,Consulting,620.0,,
+True,Nonprofit/Gov,570.0,,
+False,Consulting,760.0,Admit,White
+True,Financial Services,640.0,,
+False,Technology,580.0,,White
+False,Nonprofit/Gov,700.0,,Black
+False,Investment Management,580.0,,Black
+True,Technology,720.0,,
+True,Technology,670.0,,
+False,Consulting,660.0,Admit,White
+False,Other,600.0,,Black
+False,Consulting,630.0,,Black
+False,Nonprofit/Gov,730.0,Admit,Hispanic
+False,Nonprofit/Gov,670.0,,Black
+False,Other,640.0,,Black
+True,Nonprofit/Gov,630.0,,
+False,Consulting,680.0,,Black
+True,PE/VC,640.0,,
+False,Other,670.0,,Asian
+False,Investment Banking,660.0,,White
+False,Nonprofit/Gov,690.0,,Asian
+True,CPG,650.0,,
+False,Financial Services,610.0,,Black
+False,Technology,580.0,,White
+False,Nonprofit/Gov,620.0,,Black
+True,Technology,640.0,,
+False,Other,650.0,,Hispanic
+False,Consulting,570.0,,White
+True,PE/VC,670.0,Admit,
+False,CPG,700.0,Admit,Other
+False,Technology,670.0,Admit,White
+False,Consulting,640.0,,Black
+False,CPG,650.0,,White
+True,Investment Banking,590.0,Admit,
+False,Financial Services,570.0,,Hispanic
+False,Technology,590.0,,White
+False,PE/VC,630.0,,Hispanic
+False,PE/VC,570.0,,Hispanic
+False,Investment Banking,600.0,,Hispanic
+True,Financial Services,670.0,Admit,
+False,Other,720.0,,Black
+False,Technology,650.0,,White
+False,Technology,580.0,,White
+False,Investment Management,610.0,,White
+False,Financial Services,610.0,,White
+False,Consulting,630.0,,Asian
+False,Nonprofit/Gov,610.0,,White
+True,Other,690.0,Admit,
+True,Other,630.0,,
+False,PE/VC,650.0,,White
+False,Nonprofit/Gov,630.0,,Asian
+False,Nonprofit/Gov,590.0,,Black
+False,Health Care,650.0,,Black
+False,PE/VC,600.0,,White
+False,Financial Services,630.0,,Asian
+True,PE/VC,570.0,,
+False,Nonprofit/Gov,620.0,,Asian
+False,Financial Services,700.0,,Black
+True,Nonprofit/Gov,590.0,,
+False,Consulting,670.0,Admit,Black
+False,Nonprofit/Gov,600.0,,Hispanic
+False,Health Care,670.0,,White
+False,Investment Banking,590.0,,Asian
+False,PE/VC,680.0,,White
+False,Financial Services,600.0,,White
+True,Financial Services,610.0,,
+True,Investment Banking,620.0,,
+False,Technology,690.0,,White
+False,Consulting,640.0,,White
+True,Nonprofit/Gov,600.0,Admit,
+False,Consulting,620.0,,White
+True,Nonprofit/Gov,670.0,,
+False,Retail,600.0,,Asian
+False,Consulting,630.0,,Black
+False,Consulting,680.0,Admit,White
+False,Media/Entertainment,640.0,,Asian
+True,Technology,670.0,,
+False,Consulting,620.0,Admit,White
+True,PE/VC,590.0,,
+True,PE/VC,620.0,,
+False,PE/VC,650.0,,Hispanic
+False,Investment Banking,580.0,,Hispanic
+False,Consulting,660.0,Admit,Black
+False,Consulting,630.0,,Black
+False,Health Care,620.0,,White
+False,Technology,690.0,,Black
+False,Consulting,620.0,,Asian
+True,Other,740.0,Admit,
+False,PE/VC,780.0,,Other
+True,Financial Services,600.0,,
+True,Nonprofit/Gov,710.0,,
+False,PE/VC,590.0,,Hispanic
+False,Technology,710.0,,White
+False,Consulting,780.0,,White
+True,Consulting,630.0,,
+False,Consulting,740.0,Admit,White
+False,Other,660.0,,Hispanic
+True,Other,650.0,,
+False,Technology,700.0,,Hispanic
+False,Consulting,620.0,,Black
+False,Consulting,570.0,,Hispanic
+True,PE/VC,620.0,,
+True,PE/VC,710.0,,
+False,Consulting,660.0,,Asian
+False,Nonprofit/Gov,700.0,,White
+True,PE/VC,700.0,,
+False,Energy,650.0,,Asian
+True,Consulting,640.0,,
+False,Health Care,600.0,,Asian
+True,PE/VC,650.0,,
+True,Nonprofit/Gov,660.0,,
+True,Investment Banking,600.0,,
+False,PE/VC,700.0,,Asian
+False,Energy,630.0,,White
+True,Investment Banking,580.0,,
+True,Nonprofit/Gov,640.0,,
+False,Technology,630.0,,Asian
+False,Financial Services,650.0,,White
+True,Technology,640.0,,
+False,Health Care,650.0,,Asian
+False,Nonprofit/Gov,630.0,,Hispanic
+True,Nonprofit/Gov,630.0,,
+True,Investment Banking,610.0,,
+False,Nonprofit/Gov,670.0,,Other
+True,Health Care,610.0,,
+False,Investment Banking,570.0,,White
+False,Consulting,680.0,,White
+False,Investment Banking,600.0,,White
+False,Investment Banking,630.0,,White
+False,Consulting,670.0,,White
+False,Investment Management,700.0,Admit,Asian
+False,PE/VC,640.0,,Black
+True,Consulting,570.0,,
+False,Consulting,660.0,Admit,White
+True,Consulting,570.0,,
+False,Investment Banking,590.0,,Hispanic
+False,Technology,680.0,,White
+True,Investment Management,730.0,Admit,
+False,CPG,700.0,,White
+False,Investment Banking,690.0,,White
+True,Consulting,680.0,,
+True,Real Estate,640.0,Admit,
+False,Health Care,590.0,,Black
+False,Investment Banking,660.0,,Hispanic
+False,Technology,660.0,Admit,Hispanic
+False,CPG,600.0,,Hispanic
+False,Technology,570.0,,Asian
+False,Investment Banking,680.0,Admit,White
+False,Nonprofit/Gov,710.0,,Asian
+False,Investment Banking,630.0,,Black
+False,Nonprofit/Gov,730.0,,Asian
+False,Consulting,710.0,,White
+False,Technology,610.0,,White
+False,Health Care,590.0,,Asian
+False,PE/VC,660.0,,White
+False,Financial Services,600.0,,Asian
+False,Investment Banking,620.0,,Black
+True,Financial Services,680.0,Admit,
+False,CPG,720.0,,Asian
+False,Other,660.0,,White
+False,Investment Management,680.0,,Black
+True,Nonprofit/Gov,580.0,Admit,
+False,Consulting,620.0,,Asian
+False,Nonprofit/Gov,620.0,,Asian
+False,Technology,630.0,,Other
+True,Financial Services,720.0,Admit,
+False,Technology,600.0,Admit,White
+False,PE/VC,670.0,,Hispanic
+False,Investment Banking,610.0,,White
+False,PE/VC,660.0,Admit,Hispanic
+False,PE/VC,620.0,,White
+False,Health Care,600.0,,Asian
+False,Financial Services,710.0,Admit,Asian
+True,Consulting,650.0,,
+False,PE/VC,630.0,,White
+True,Financial Services,640.0,,
+False,PE/VC,620.0,,Black
+False,Technology,570.0,,White
+False,Financial Services,740.0,,Asian
+False,Consulting,590.0,,Asian
+False,Investment Management,730.0,Admit,Other
+False,PE/VC,610.0,,White
+False,Health Care,600.0,,Asian
+True,Consulting,660.0,Waitlist,
+False,PE/VC,570.0,,Asian
+False,Consulting,700.0,Waitlist,Other
+False,Consulting,760.0,Waitlist,White
+True,Consulting,680.0,,
+False,Consulting,650.0,,White
+False,Consulting,620.0,,Other
+False,PE/VC,650.0,,Black
+False,CPG,570.0,,Asian
+False,Consulting,770.0,,Hispanic
+False,Nonprofit/Gov,630.0,,White
+False,PE/VC,680.0,,White
+False,Consulting,590.0,,Black
+False,PE/VC,660.0,,Asian
+False,Financial Services,600.0,,White
+False,PE/VC,710.0,,White
+False,Financial Services,570.0,,White
+False,Health Care,620.0,,White
+True,Technology,640.0,,
+False,Consulting,660.0,,White
+False,PE/VC,690.0,,Black
+False,Media/Entertainment,570.0,,Black
+False,Real Estate,670.0,,White
+False,Consulting,640.0,,Other
+False,Financial Services,670.0,,White
+False,Nonprofit/Gov,570.0,,White
+True,Consulting,600.0,,
+False,Other,670.0,,Asian
+True,Consulting,660.0,,
+False,Financial Services,600.0,,White
+False,Consulting,590.0,,Black
+True,PE/VC,620.0,,
+False,PE/VC,680.0,,Other
+False,Nonprofit/Gov,670.0,,White
+True,Consulting,650.0,,
+False,CPG,700.0,Admit,Asian
+True,Nonprofit/Gov,570.0,,
+True,Financial Services,650.0,,
+False,Health Care,660.0,,White
+False,Consulting,580.0,,Black
+False,PE/VC,700.0,Admit,Asian
+False,Investment Management,770.0,Admit,White
+True,Nonprofit/Gov,660.0,,
+True,Nonprofit/Gov,650.0,,
+False,PE/VC,680.0,,Black
+False,PE/VC,730.0,Admit,Asian
+True,Investment Banking,630.0,,
+False,Financial Services,720.0,Admit,Asian
+False,Nonprofit/Gov,700.0,Admit,White
+True,Consulting,620.0,,
+False,PE/VC,640.0,,White
+False,Consulting,580.0,,White
+True,Other,580.0,,
+True,Financial Services,600.0,,
+True,Investment Banking,690.0,Admit,
+True,Consulting,610.0,,
+False,PE/VC,660.0,,White
+False,Financial Services,600.0,,White
+False,Technology,670.0,,Asian
+False,Consulting,620.0,,Black
+False,Consulting,720.0,Admit,White
+True,Nonprofit/Gov,750.0,Admit,
+False,Nonprofit/Gov,600.0,,White
+False,Consulting,620.0,,Hispanic
+False,Other,700.0,,Asian
+False,PE/VC,690.0,,White
+True,Nonprofit/Gov,640.0,,
+False,Investment Banking,680.0,Admit,Hispanic
+False,Nonprofit/Gov,670.0,,White
+False,Consulting,580.0,,Hispanic
+False,PE/VC,630.0,,Asian
+False,Real Estate,570.0,,White
+True,Consulting,660.0,,
+False,Technology,620.0,,White
+True,Health Care,650.0,Admit,
+False,PE/VC,570.0,,White
+False,Consulting,660.0,,Asian
+True,Consulting,620.0,,
+False,PE/VC,660.0,,Asian
+True,Financial Services,690.0,,
+True,Investment Banking,740.0,,
+False,Consulting,660.0,Admit,Black
+True,Health Care,640.0,,
+False,Nonprofit/Gov,730.0,,Hispanic
+False,Financial Services,660.0,,White
+False,Consulting,650.0,,Black
+False,Health Care,780.0,,Asian
+False,Financial Services,570.0,,Other
+True,Consulting,660.0,,
+False,Investment Banking,650.0,,White
+True,CPG,660.0,,
+True,PE/VC,740.0,,
+True,Consulting,650.0,,
+False,Investment Banking,710.0,,Black
+False,Financial Services,740.0,,Black
+False,PE/VC,570.0,,White
+True,Financial Services,670.0,,
+False,Investment Banking,740.0,Admit,White
+False,Consulting,690.0,,Black
+False,Consulting,720.0,Waitlist,Asian
+False,Consulting,610.0,,Other
+False,Investment Banking,640.0,,Asian
+False,Consulting,710.0,,White
+False,Financial Services,670.0,,Black
+False,PE/VC,630.0,Admit,Asian
+False,Nonprofit/Gov,660.0,,Black
+False,Consulting,780.0,,White
+False,Nonprofit/Gov,590.0,,White
+True,Other,740.0,,
+False,Other,640.0,,Asian
+False,Other,660.0,,Black
+False,Consulting,680.0,,White
+True,Other,570.0,,
+False,Investment Banking,670.0,,White
+False,PE/VC,680.0,Admit,Other
+False,Consulting,630.0,Waitlist,White
+False,Consulting,750.0,Admit,White
+True,Real Estate,580.0,,
+True,Consulting,770.0,,
+True,Investment Management,660.0,Admit,
+False,Nonprofit/Gov,650.0,,Black
+False,Financial Services,570.0,,White
+False,Health Care,730.0,,Black
+True,Other,710.0,,
+False,Investment Management,580.0,,Asian
+True,Nonprofit/Gov,610.0,,
+False,Financial Services,600.0,,White
+False,Consulting,700.0,Admit,White
+True,Financial Services,610.0,,
+False,PE/VC,670.0,,White
+True,Financial Services,620.0,,
+True,Nonprofit/Gov,570.0,,
+False,Real Estate,580.0,,Black
+False,Consulting,660.0,,White
+False,Consulting,730.0,,Hispanic
+False,Consulting,760.0,,Hispanic
+False,Nonprofit/Gov,720.0,Admit,Asian
+True,Nonprofit/Gov,680.0,,
+False,Financial Services,610.0,,White
+False,PE/VC,650.0,,Black
+False,PE/VC,710.0,,Other
+False,Nonprofit/Gov,660.0,,White
+False,Consulting,720.0,,Black
+False,Nonprofit/Gov,630.0,,Asian
+True,Technology,610.0,,
+False,Nonprofit/Gov,670.0,,Black
+True,Technology,650.0,,
+False,Financial Services,610.0,,Asian
+False,Other,730.0,Admit,Black
+False,Other,580.0,,Hispanic
+True,Nonprofit/Gov,730.0,,
+False,PE/VC,650.0,,Asian
+False,PE/VC,720.0,,White
+True,PE/VC,700.0,,
+False,Consulting,600.0,,White
+False,Consulting,640.0,,Black
+False,Technology,700.0,,Other
+False,Consulting,650.0,,White
+False,Nonprofit/Gov,610.0,,Black
+False,PE/VC,600.0,,Asian
+False,Technology,670.0,,White
+True,Technology,700.0,Admit,
+False,Health Care,650.0,,White
+True,Technology,610.0,,
+False,Nonprofit/Gov,780.0,Admit,Black
+False,Technology,580.0,,Black
+False,Health Care,570.0,,White
+False,Consulting,600.0,,White
+False,Other,620.0,,White
+False,Consulting,640.0,,Hispanic
+True,Media/Entertainment,670.0,,
+False,Nonprofit/Gov,570.0,,Black
+False,PE/VC,650.0,,Asian
+True,Other,570.0,,
+True,Consulting,570.0,,
+True,Consulting,620.0,,
+True,Investment Management,770.0,,
+False,Technology,640.0,,Other
+False,Nonprofit/Gov,640.0,,Other
+False,Consulting,650.0,,Black
+True,Consulting,680.0,,
+False,Consulting,660.0,,Other
+False,Media/Entertainment,690.0,Admit,Asian
+False,Real Estate,710.0,,Black
+False,Consulting,710.0,Waitlist,White
+False,Nonprofit/Gov,600.0,Admit,White
+False,Investment Banking,740.0,Admit,Asian
+True,Consulting,670.0,,
+False,Other,570.0,,Asian
+False,Consulting,570.0,,Asian
+False,PE/VC,680.0,,Black
+False,Real Estate,620.0,,Asian
+False,PE/VC,630.0,,Hispanic
+False,Consulting,660.0,,Asian
+False,PE/VC,570.0,,Black
+True,Financial Services,620.0,,
+False,PE/VC,710.0,Admit,Asian
+True,Media/Entertainment,610.0,,
+False,Technology,680.0,,Asian
+True,PE/VC,630.0,,
+False,Technology,670.0,Admit,Asian
+False,Technology,670.0,Admit,Asian
+True,Consulting,670.0,,
+False,Consulting,670.0,,Black
+False,Technology,700.0,,White
+True,Other,720.0,,
+True,Consulting,690.0,,
+False,PE/VC,710.0,Admit,Black
+False,Other,660.0,,White
+False,Technology,660.0,,Asian
+False,Consulting,570.0,,Black
+False,Consulting,610.0,,Hispanic
+False,Nonprofit/Gov,570.0,,Asian
+False,Investment Banking,670.0,,Hispanic
+False,Nonprofit/Gov,700.0,,Black
+False,Nonprofit/Gov,670.0,,Asian
+False,Consulting,660.0,,Hispanic
+False,Other,570.0,,Asian
+False,PE/VC,670.0,,Asian
+False,Consulting,590.0,,Asian
+False,Nonprofit/Gov,590.0,,White
+True,Investment Management,660.0,Admit,
+True,Technology,600.0,,
+False,Technology,610.0,,Asian
+True,Other,590.0,,
+False,Consulting,630.0,,Black
+False,PE/VC,650.0,,White
+True,Technology,640.0,,
+True,Other,630.0,,
+True,Technology,720.0,,
+True,Other,620.0,,
+False,Technology,640.0,,Asian
+False,CPG,610.0,,White
+True,Investment Banking,640.0,,
+False,Consulting,610.0,,Black
+False,Consulting,640.0,,White
+False,Investment Management,660.0,,Black
+False,Other,670.0,,Hispanic
+False,Real Estate,710.0,Admit,White
+True,PE/VC,720.0,Admit,
+False,Investment Banking,630.0,,White
+True,Health Care,750.0,Admit,
+False,Nonprofit/Gov,700.0,Admit,White
+False,PE/VC,670.0,,White
+False,PE/VC,660.0,,Black
+False,PE/VC,630.0,,Black
+False,PE/VC,600.0,,White
+False,Technology,630.0,,White
+False,Consulting,710.0,Admit,Black
+False,PE/VC,760.0,Admit,Asian
+False,Other,660.0,Admit,White
+False,Consulting,570.0,,Black
+True,Investment Banking,650.0,,
+False,Consulting,600.0,,Hispanic
+False,Consulting,660.0,,Black
+True,PE/VC,590.0,Admit,
+True,PE/VC,700.0,Admit,
+True,Technology,650.0,,
+False,Investment Management,670.0,Admit,Black
+False,Health Care,660.0,,Hispanic
+False,Real Estate,650.0,,White
+False,Energy,780.0,Admit,White
+True,Technology,570.0,,
+False,Technology,670.0,Waitlist,Black
+True,Investment Management,660.0,Admit,
+False,Financial Services,610.0,,Asian
+False,Technology,590.0,,White
+True,Health Care,660.0,Admit,
+True,Technology,580.0,,
+False,Consulting,710.0,,Hispanic
+False,Consulting,620.0,,Hispanic
+False,Consulting,680.0,,Black
+True,Financial Services,650.0,Admit,
+False,Financial Services,600.0,,White
+False,PE/VC,570.0,,Black
+False,Technology,610.0,,White
+False,PE/VC,610.0,Admit,Other
+False,Nonprofit/Gov,680.0,Admit,Asian
+False,Consulting,700.0,Admit,Asian
+False,Consulting,640.0,,Asian
+False,Technology,620.0,,Black
+False,Consulting,570.0,,Asian
+False,Technology,580.0,,White
+False,Consulting,680.0,,White
+True,Investment Banking,620.0,,
+True,Consulting,610.0,,
+True,Health Care,700.0,,
+False,PE/VC,600.0,,Asian
+False,Nonprofit/Gov,570.0,,Black
+False,Investment Banking,660.0,,Asian
+False,Consulting,640.0,,Asian
+False,Consulting,720.0,,Black
+False,Consulting,640.0,,Asian
+False,PE/VC,640.0,Waitlist,White
+False,Technology,670.0,Admit,Black
+False,Technology,660.0,,White
+False,Health Care,680.0,,Asian
+False,Nonprofit/Gov,590.0,,Asian
+False,Nonprofit/Gov,620.0,,White
+False,Consulting,620.0,,Black
+True,Financial Services,570.0,,
+False,Technology,690.0,,Black
+True,Nonprofit/Gov,640.0,,
+False,Consulting,710.0,,White
+True,Consulting,660.0,Admit,
+False,Retail,700.0,Admit,Hispanic
+False,Technology,620.0,,Black
+False,CPG,670.0,,Black
+True,Financial Services,640.0,,
+True,PE/VC,700.0,Admit,
+True,Technology,680.0,Admit,
+False,Nonprofit/Gov,630.0,,White
+False,Technology,720.0,,White
+True,Real Estate,700.0,,
+False,PE/VC,730.0,,Asian
+True,Financial Services,660.0,,
+False,Consulting,680.0,,Black
+False,Investment Banking,620.0,,Black
+False,Nonprofit/Gov,610.0,,Other
+False,PE/VC,630.0,,Black
+True,Consulting,660.0,Admit,
+False,Health Care,680.0,,Black
+False,PE/VC,650.0,,Black
+False,Investment Banking,670.0,,Hispanic
+False,PE/VC,690.0,,Black
+False,Nonprofit/Gov,690.0,,Hispanic
+False,Technology,700.0,Admit,Black
+False,Technology,700.0,Admit,Black
+False,Investment Banking,640.0,,White
+False,Consulting,590.0,,Black
+False,Financial Services,690.0,Admit,White
+False,Media/Entertainment,660.0,,Hispanic
+False,Financial Services,600.0,,Asian
+True,Health Care,640.0,,
+False,Investment Banking,660.0,,Asian
+False,Consulting,650.0,,Hispanic
+False,Financial Services,700.0,,Asian
+False,Real Estate,730.0,,Asian
+False,PE/VC,710.0,,White
+False,Consulting,660.0,,Asian
+False,Financial Services,730.0,Admit,White
+False,Nonprofit/Gov,690.0,Admit,Hispanic
+False,Other,680.0,,White
+False,Health Care,690.0,Admit,Asian
+False,Nonprofit/Gov,620.0,,Hispanic
+False,Technology,570.0,,Hispanic
+False,Other,630.0,,Asian
+False,Technology,610.0,,Asian
+True,Consulting,600.0,,
+False,PE/VC,610.0,,Asian
+True,Other,660.0,,
+False,Technology,670.0,Admit,Asian
+False,Consulting,570.0,,White
+True,Technology,610.0,,
+True,Consulting,600.0,,
+False,Investment Management,690.0,,Asian
+False,Financial Services,670.0,,Black
+False,PE/VC,700.0,,Black
+False,Investment Banking,730.0,,Black
+True,Consulting,580.0,,
+True,PE/VC,610.0,,
+False,Investment Banking,640.0,,Hispanic
+False,Consulting,610.0,,Black
+False,Other,690.0,Admit,Asian
+False,Consulting,600.0,,Black
+True,Health Care,690.0,Admit,
+False,PE/VC,690.0,,Hispanic
+False,Financial Services,650.0,,Other
+False,Health Care,680.0,,Asian
+True,Investment Banking,650.0,,
+True,Consulting,690.0,Admit,
+True,Investment Banking,780.0,Admit,
+False,PE/VC,650.0,,Black
+False,Financial Services,620.0,Admit,Asian
+False,Consulting,620.0,,Asian
+False,Consulting,660.0,,Asian
+False,Real Estate,680.0,,Hispanic
+False,CPG,690.0,,White
+False,Technology,620.0,,Hispanic
+False,Technology,610.0,,White
+True,PE/VC,590.0,,
+True,Consulting,680.0,,
+True,Investment Banking,610.0,,
+False,Other,710.0,,Asian
+True,Financial Services,600.0,,
+False,Investment Banking,660.0,Admit,White
+True,Other,620.0,,
+False,PE/VC,720.0,Admit,Asian
+False,Technology,610.0,,Black
+True,Technology,640.0,,
+False,Investment Banking,750.0,,Asian
+False,Consulting,660.0,Admit,White
+True,Investment Banking,700.0,,
+False,Real Estate,620.0,,Asian
+False,PE/VC,660.0,,White
+True,Nonprofit/Gov,620.0,,
+False,Investment Management,730.0,,Asian
+True,Financial Services,660.0,Admit,
+False,Consulting,700.0,,Hispanic
+False,Technology,620.0,,White
+False,Investment Banking,680.0,Admit,Asian
+False,Real Estate,570.0,,White
+True,Health Care,760.0,,
+True,Consulting,650.0,,
+False,Technology,600.0,,Asian
+False,PE/VC,650.0,,White
+False,Real Estate,680.0,,White
+False,PE/VC,710.0,Waitlist,White
+False,PE/VC,700.0,,White
+False,Technology,700.0,Admit,White
+False,Technology,680.0,,Asian
+False,Health Care,630.0,,Asian
+False,Consulting,670.0,,Black
+True,Financial Services,660.0,,
+False,Technology,660.0,Admit,White
+True,Financial Services,650.0,,
+False,Consulting,780.0,Admit,Hispanic
+False,Nonprofit/Gov,660.0,Admit,White
+False,Nonprofit/Gov,680.0,,Black
+False,Health Care,570.0,,White
+False,Nonprofit/Gov,710.0,Admit,White
+True,Financial Services,630.0,,
+True,PE/VC,650.0,,
+False,Health Care,610.0,,White
+True,Consulting,700.0,,
+True,PE/VC,580.0,,
+False,Consulting,570.0,,Black
+True,PE/VC,660.0,,
+False,Media/Entertainment,720.0,Admit,White
+False,PE/VC,720.0,Admit,Asian
+False,Technology,630.0,,White
+False,Financial Services,570.0,,Black
+True,Consulting,600.0,,
+False,Investment Banking,650.0,,White
+True,Nonprofit/Gov,660.0,,
+False,Consulting,630.0,,Asian
+False,Other,690.0,,Other
+False,PE/VC,620.0,,Asian
+False,Nonprofit/Gov,680.0,,White
+False,Financial Services,720.0,,Asian
+False,Energy,670.0,,Black
+False,Nonprofit/Gov,660.0,,Asian
+True,Investment Management,650.0,,
+False,Investment Banking,650.0,,White
+False,Investment Banking,680.0,,White
+True,Consulting,660.0,,
+False,Technology,690.0,Admit,White
+False,Nonprofit/Gov,660.0,,Hispanic
+False,Financial Services,620.0,,Asian
+True,PE/VC,690.0,Admit,
+False,Investment Banking,600.0,,White
+False,Financial Services,610.0,,Asian
+True,Health Care,660.0,Admit,
+True,Consulting,630.0,,
+True,CPG,680.0,,
+True,Investment Banking,680.0,Admit,
+False,Health Care,570.0,,Other
+True,Financial Services,650.0,Admit,
+False,Consulting,570.0,,Asian
+False,Technology,700.0,,Asian
+False,Nonprofit/Gov,730.0,Admit,White
+False,Financial Services,660.0,Admit,White
+False,Nonprofit/Gov,620.0,,White
+False,Consulting,640.0,,Hispanic
+False,Consulting,670.0,Waitlist,White
+False,Consulting,600.0,,Black
+False,Other,590.0,,Hispanic
+False,PE/VC,750.0,,White
+True,Technology,570.0,,
+False,Technology,660.0,,White
+False,Nonprofit/Gov,640.0,,Hispanic
+True,Investment Banking,670.0,,
+False,PE/VC,620.0,,Asian
+False,Consulting,690.0,,Asian
+True,Consulting,670.0,,
+False,Health Care,670.0,,White
+True,Investment Management,670.0,Admit,
+False,PE/VC,590.0,,White
+False,Nonprofit/Gov,650.0,,Asian
+False,Consulting,630.0,,Asian
+False,Investment Banking,650.0,,White
+True,Real Estate,650.0,,
+False,PE/VC,690.0,,White
+False,Other,780.0,,Black
+False,Consulting,660.0,,White
+False,Health Care,710.0,,Black
+True,Technology,780.0,Admit,
+False,Technology,570.0,,White
+False,Consulting,660.0,,Black
+False,PE/VC,670.0,,White
+False,Technology,610.0,,White
+True,Health Care,620.0,,
+True,Consulting,650.0,,
+True,Investment Banking,660.0,,
+True,Investment Banking,670.0,,
+False,Consulting,620.0,,White
+False,Financial Services,670.0,Admit,Asian
+False,Technology,590.0,,Black
+False,Other,640.0,,White
+False,Financial Services,600.0,,Asian
+True,Financial Services,740.0,Admit,
+False,PE/VC,680.0,,Asian
+False,Nonprofit/Gov,620.0,,White
+False,Other,690.0,,Asian
+True,PE/VC,640.0,,
+True,Consulting,680.0,,
+True,Nonprofit/Gov,730.0,,
+False,Consulting,640.0,,White
+False,Consulting,730.0,,Asian
+False,PE/VC,670.0,,White
+True,Consulting,650.0,,
+False,PE/VC,710.0,,Asian
+False,Investment Management,670.0,,White
+False,Consulting,570.0,,White
+True,Consulting,630.0,,
+True,Consulting,610.0,,
+False,CPG,580.0,,Black
+False,PE/VC,650.0,,Asian
+False,Other,660.0,,Asian
+False,Real Estate,640.0,,White
+False,PE/VC,600.0,,Asian
+False,Financial Services,650.0,,Hispanic
+True,Other,600.0,,
+True,Nonprofit/Gov,710.0,,
+False,Other,670.0,Admit,White
+False,Financial Services,710.0,,Black
+True,Investment Banking,620.0,,
+False,Consulting,650.0,,Other
+True,Other,720.0,Admit,
+True,Consulting,620.0,,
+False,Investment Banking,620.0,Admit,White
+False,PE/VC,650.0,,Asian
+False,Health Care,660.0,,White
+False,Nonprofit/Gov,620.0,,Hispanic
+True,Technology,630.0,,
+False,Nonprofit/Gov,570.0,,Hispanic
+True,Consulting,730.0,,
+True,Consulting,700.0,,
+False,Financial Services,640.0,,Black
+True,Investment Management,590.0,,
+False,Investment Banking,710.0,Admit,White
+False,Consulting,690.0,,Hispanic
+False,Health Care,610.0,,White
+False,Consulting,650.0,,Black
+False,Consulting,660.0,,White
+False,Technology,670.0,Admit,White
+False,Consulting,740.0,,Asian
+False,PE/VC,570.0,,White
+False,Consulting,690.0,Admit,Black
+True,Consulting,570.0,,
+True,Technology,730.0,Admit,
+False,Investment Banking,650.0,,Black
+False,Technology,780.0,Admit,Hispanic
+False,Consulting,600.0,,White
+True,Consulting,620.0,,
+False,Health Care,590.0,,White
+False,Nonprofit/Gov,590.0,Admit,White
+False,Health Care,680.0,,Black
+False,Consulting,740.0,Admit,Black
+False,Consulting,770.0,Admit,White
+False,Investment Banking,740.0,Admit,White
+False,PE/VC,630.0,,Black
+True,Consulting,670.0,Admit,
+True,Investment Banking,720.0,,
+True,Consulting,730.0,Admit,
+False,Investment Management,650.0,,Asian
+False,Nonprofit/Gov,670.0,Admit,Hispanic
+False,Consulting,670.0,,Asian
+False,Financial Services,690.0,,Asian
+False,Energy,650.0,,Asian
+True,CPG,570.0,,
+True,Consulting,630.0,,
+True,Technology,720.0,,
+False,Investment Banking,680.0,,White
+True,Investment Banking,710.0,,
+False,CPG,630.0,,Black
+False,Nonprofit/Gov,650.0,,Black
+True,Financial Services,640.0,,
+True,Consulting,760.0,Admit,
+True,Consulting,610.0,,
+False,Technology,660.0,,White
+True,Consulting,630.0,,
+False,PE/VC,610.0,,Other
+False,PE/VC,640.0,,Asian
+True,Technology,570.0,,
+False,Consulting,740.0,,White
+False,Investment Management,590.0,,Black
+False,Financial Services,640.0,,Asian
+False,Technology,620.0,,White
+True,Consulting,710.0,Admit,
+False,Consulting,720.0,,White
+False,Financial Services,690.0,,Black
+False,Investment Banking,710.0,Admit,Asian
+False,Nonprofit/Gov,670.0,Admit,Hispanic
+False,PE/VC,700.0,,Other
+False,Consulting,590.0,,White
+False,Consulting,720.0,,Black
+False,PE/VC,620.0,,Asian
+False,Technology,570.0,,Black
+False,Consulting,700.0,,Hispanic
+False,Consulting,700.0,Admit,Asian
+True,Consulting,580.0,,
+False,Consulting,570.0,,Black
+False,Technology,680.0,,White
+True,Nonprofit/Gov,710.0,,
+True,Investment Banking,750.0,Admit,
+False,Investment Management,690.0,Admit,Hispanic
+False,Health Care,660.0,Waitlist,Asian
+False,Consulting,660.0,,Black
+False,Consulting,690.0,,White
+False,PE/VC,750.0,Waitlist,Hispanic
+True,Investment Banking,650.0,Admit,
+True,Nonprofit/Gov,660.0,,
+True,Health Care,570.0,,
+False,Consulting,670.0,,Asian
+False,Retail,720.0,,Black
+False,PE/VC,660.0,,White
+False,Nonprofit/Gov,670.0,,Black
+True,Financial Services,770.0,Admit,
+False,Investment Banking,610.0,,Asian
+False,Consulting,740.0,,Black
+False,Health Care,660.0,,Asian
+True,Consulting,640.0,,
+False,Consulting,680.0,,White
+False,PE/VC,650.0,,White
+False,Consulting,670.0,,White
+False,Financial Services,660.0,,Asian
+False,Media/Entertainment,630.0,,Black
+False,Consulting,620.0,,Asian
+False,Nonprofit/Gov,750.0,,Asian
+False,Technology,760.0,Admit,Asian
+True,Investment Management,630.0,Admit,
+False,PE/VC,630.0,,White
+False,Health Care,740.0,Admit,White
+True,Technology,620.0,,
+True,CPG,620.0,,
+False,PE/VC,680.0,,Asian
+True,Other,650.0,,
+False,Consulting,660.0,,White
+False,Media/Entertainment,640.0,,Black
+True,Financial Services,720.0,,
+False,CPG,670.0,,White
+True,PE/VC,690.0,,
+False,Health Care,620.0,,Asian
+False,Nonprofit/Gov,710.0,,Hispanic
+False,Health Care,710.0,,Other
+True,PE/VC,590.0,Admit,
+False,Technology,630.0,,White
+False,Health Care,650.0,,Hispanic
+False,Financial Services,720.0,Admit,Hispanic
+False,Consulting,690.0,,Hispanic
+False,Nonprofit/Gov,640.0,,Hispanic
+False,Other,610.0,,Asian
+False,Investment Banking,640.0,,White
+False,Real Estate,700.0,,Black
+False,Health Care,610.0,,Other
+False,Other,580.0,,Hispanic
+True,PE/VC,700.0,,
+False,Consulting,590.0,,White
+False,Consulting,660.0,,White
+False,PE/VC,600.0,,White
+False,Consulting,700.0,,Asian
+False,CPG,680.0,,Asian
+True,Nonprofit/Gov,650.0,,
+True,Investment Banking,620.0,,
+False,CPG,700.0,,White
+False,Other,630.0,,Hispanic
+False,Health Care,710.0,,Other
+False,Consulting,640.0,,White
+False,Nonprofit/Gov,690.0,Admit,White
+False,Financial Services,630.0,,Hispanic
+False,Technology,660.0,,Black
+False,Consulting,600.0,,White
+False,Consulting,630.0,,White
+True,PE/VC,660.0,,
+False,PE/VC,710.0,Admit,White
+True,Nonprofit/Gov,700.0,,
+False,Investment Banking,660.0,,White
+True,Consulting,580.0,,
+True,Real Estate,650.0,,
+False,Consulting,700.0,Admit,White
+False,Nonprofit/Gov,670.0,Admit,White
+True,Investment Banking,590.0,,
+False,Nonprofit/Gov,630.0,,White
+False,Financial Services,610.0,,Black
+False,Consulting,590.0,,Asian
+False,Health Care,650.0,,White
+True,Technology,630.0,,
+False,Financial Services,680.0,,White
+True,Investment Management,590.0,,
+False,PE/VC,630.0,,Black
+False,Health Care,640.0,,Black
+False,Consulting,690.0,,Black
+True,Media/Entertainment,720.0,Admit,
+False,Nonprofit/Gov,590.0,,White
+True,PE/VC,600.0,,
+True,PE/VC,660.0,,
+False,PE/VC,630.0,,Black
+False,Investment Banking,680.0,,White
+False,Investment Banking,680.0,Admit,Other
+False,Technology,700.0,,Other
+False,Nonprofit/Gov,690.0,,Black
+False,Consulting,610.0,,Black
+True,Consulting,760.0,,
+True,Consulting,680.0,Admit,
+False,Health Care,710.0,Admit,Hispanic
+False,Consulting,700.0,,Asian
+False,Financial Services,640.0,,Black
+False,Nonprofit/Gov,630.0,,Hispanic
+False,Nonprofit/Gov,640.0,,White
+True,Health Care,640.0,,
+False,Financial Services,620.0,,White
+True,Consulting,660.0,,
+False,PE/VC,670.0,,Hispanic
+True,Consulting,650.0,,
+False,Technology,660.0,Admit,White
+False,Consulting,570.0,,Black
+False,Financial Services,610.0,,Black
+True,Technology,610.0,,
+False,PE/VC,570.0,,White
+True,Investment Banking,610.0,,
+False,Nonprofit/Gov,590.0,,Other
+True,Technology,700.0,Admit,
+False,Consulting,570.0,,Asian
+False,Media/Entertainment,610.0,,Asian
+True,Consulting,660.0,,
+False,PE/VC,580.0,,Hispanic
+False,Investment Banking,630.0,,Hispanic
+False,Consulting,590.0,,Asian
+False,Consulting,700.0,,Hispanic
+True,Consulting,690.0,,
+False,Consulting,570.0,,White
+True,Investment Banking,570.0,,
+True,Technology,710.0,Admit,
+True,PE/VC,690.0,,
+False,Consulting,660.0,,Asian
+False,Consulting,630.0,,Asian
+False,Nonprofit/Gov,690.0,Admit,White
+False,PE/VC,620.0,,Hispanic
+False,PE/VC,710.0,Admit,Asian
+False,Investment Banking,650.0,,White
+False,PE/VC,640.0,,Asian
+False,Consulting,630.0,,Hispanic
+True,Consulting,570.0,,
+False,Consulting,670.0,,White
+False,Health Care,690.0,,White
+False,Investment Banking,630.0,,White
+False,Investment Banking,690.0,,Black
+False,Nonprofit/Gov,670.0,,Asian
+False,Technology,670.0,,Black
+False,Financial Services,640.0,,White
+False,Other,710.0,,White
+True,PE/VC,650.0,,
+False,Consulting,620.0,,White
+True,Other,750.0,,
+False,Consulting,670.0,,Asian
+True,CPG,770.0,,
+False,Investment Banking,660.0,,Black
+False,Other,660.0,,Black
+False,Consulting,590.0,,Asian
+False,PE/VC,670.0,Admit,White
+True,Investment Banking,600.0,,
+False,PE/VC,610.0,,Black
+False,Consulting,580.0,,Black
+False,Nonprofit/Gov,570.0,,Hispanic
+False,Investment Banking,620.0,,Other
+True,PE/VC,740.0,,
+False,CPG,620.0,,White
+True,Consulting,640.0,,
+True,Health Care,660.0,,
+False,Technology,710.0,Admit,Asian
+False,Consulting,710.0,,Asian
+False,Health Care,730.0,,Asian
+True,Consulting,610.0,,
+False,Technology,660.0,,Asian
+False,Consulting,660.0,,Black
+False,Nonprofit/Gov,680.0,,White
+True,Consulting,640.0,,
+True,Consulting,620.0,,
+False,Consulting,630.0,,Hispanic
+True,Technology,630.0,,
+False,Health Care,600.0,,Asian
+False,Consulting,620.0,,White
+True,Consulting,680.0,,
+True,Technology,600.0,,
+False,Technology,640.0,,Asian
+False,Technology,660.0,,Black
+False,Nonprofit/Gov,590.0,,Black
+False,Investment Banking,690.0,,Black
+False,Consulting,600.0,,Asian
+False,Consulting,640.0,Waitlist,Asian
+False,Other,730.0,,Other
+False,PE/VC,570.0,,Asian
+False,Investment Banking,600.0,,White
+False,Consulting,760.0,Admit,White
+True,Nonprofit/Gov,570.0,,
+False,Energy,670.0,Admit,Black
+False,Health Care,660.0,,White
+True,Financial Services,710.0,Admit,
+False,Consulting,720.0,,Black
+False,Consulting,620.0,,Black
+True,Other,640.0,,
+False,Technology,620.0,,Asian
+True,Other,640.0,,
+True,Investment Banking,590.0,,
+False,Nonprofit/Gov,670.0,,Black
+True,Technology,670.0,Admit,
+False,Technology,630.0,Waitlist,Asian
+True,Consulting,580.0,,
+True,Financial Services,570.0,,
+False,Consulting,610.0,,Black
+False,Health Care,570.0,,White
+False,PE/VC,740.0,,Black
+False,Energy,590.0,,White
+False,PE/VC,590.0,,Asian
+True,Consulting,640.0,,
+False,Investment Banking,750.0,,White
+False,PE/VC,570.0,,Black
+True,Investment Banking,720.0,Admit,
+False,Consulting,650.0,,Hispanic
+False,Investment Banking,640.0,,Other
+False,Investment Banking,590.0,,White
+True,Technology,590.0,,
+True,Financial Services,640.0,,
+True,Consulting,570.0,,
+False,Financial Services,650.0,,Black
+False,Consulting,670.0,,Hispanic
+False,Consulting,680.0,Admit,White
+False,PE/VC,720.0,,Asian
+False,Health Care,680.0,Waitlist,White
+False,Nonprofit/Gov,720.0,Admit,White
+True,Financial Services,620.0,,
+True,Consulting,650.0,,
+True,Nonprofit/Gov,640.0,,
+False,PE/VC,640.0,,Hispanic
+False,Technology,670.0,,Hispanic
+False,PE/VC,720.0,Admit,Hispanic
+False,Investment Banking,610.0,,Other
+False,Consulting,670.0,Admit,White
+True,PE/VC,630.0,,
+True,Other,670.0,,
+True,PE/VC,680.0,Admit,
+False,Technology,690.0,,White
+False,Investment Banking,690.0,,White
+True,PE/VC,640.0,,
+False,Consulting,720.0,,Black
+False,Financial Services,600.0,,Hispanic
+False,PE/VC,650.0,,Black
+False,PE/VC,600.0,,Asian
+True,Investment Banking,590.0,,
+True,Other,690.0,,
+False,Technology,660.0,,Black
+False,Consulting,580.0,,Black
+False,Investment Banking,620.0,,White
+False,Other,670.0,,White
+False,Other,640.0,,Other
+False,Consulting,660.0,Waitlist,White
+False,Other,690.0,Admit,Black
+False,Consulting,720.0,,White
+False,Other,660.0,,Asian
+False,PE/VC,570.0,,Asian
+True,CPG,630.0,,
+False,Financial Services,720.0,Admit,White
+True,Consulting,690.0,,
+False,Health Care,570.0,,White
+False,Technology,630.0,,Asian
+False,Technology,710.0,,Hispanic
+True,Nonprofit/Gov,570.0,,
+True,CPG,660.0,,
+False,Health Care,580.0,,Hispanic
+False,PE/VC,620.0,,Hispanic
+False,Financial Services,620.0,,Asian
+False,Technology,640.0,,Other
+True,Other,610.0,Admit,
+False,Health Care,700.0,,Black
+True,Technology,650.0,,
+False,Health Care,570.0,,Black
+False,Consulting,710.0,Admit,Asian
+True,Consulting,600.0,,
+False,Consulting,660.0,Admit,Hispanic
+False,Technology,630.0,,White
+True,PE/VC,720.0,,
+True,Technology,640.0,,
+False,PE/VC,610.0,,Asian
+False,Consulting,690.0,Admit,Asian
+True,Investment Banking,600.0,,
+False,PE/VC,720.0,,Hispanic

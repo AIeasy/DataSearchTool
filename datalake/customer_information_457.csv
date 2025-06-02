@@ -1,0 +1,809 @@
+Owner_play_time_minutes,Preferred_food,Neutered_or_spayed,Age_in_months,Fur_pattern,Latitude,Gender,Body_length,Weight,Longitude,Country,Breed,Age_in_years
+29,wet,True,26,solid,53.408371,male,93,11.3,-2.991573,UK,Maine coon,2.17
+10,wet,False,72,solid,42.35843,male,83,10.0,-71.05977,USA,Maine coon,6.0
+17,dry,True,12,colorpoint,38.89511,male,31,4.4,-77.03637,USA,Ragdoll,1.0
+18,dry,True,68,solid,51.049999,female,71,5.2,-114.066666,Canada,Maine coon,5.67
+34,wet,True,82,solid,51.227741,female,37,6.98,6.773456,Germany,Maine coon,6.83
+21,wet,True,30,solid,48.137154,male,61,9.7,11.576124,Germany,Maine coon,2.5
+16,wet,True,38,colorpoint,45.52345,female,41,6.77,-122.67621,USA,Ragdoll,3.17
+33,dry,False,80,tabby,40.71427,male,84,10.2,-74.00597,USA,Maine coon,6.67
+27,wet,True,111,solid,38.89511,male,38,5.0,-77.03637,USA,Angora,9.25
+24,dry,False,117,colorpoint,40.71427,male,47,6.0,-74.00597,USA,Ragdoll,9.75
+1,dry,True,29,tortie,47.60621,female,22,5.3,-122.33207,USA,Ragdoll,2.42
+16,dry,False,61,solid,45.52345,female,36,2.3,-122.67621,USA,Angora,5.08
+35,dry,False,91,solid,47.60621,male,85,7.9,-122.33207,USA,Maine coon,7.58
+31,wet,False,113,bicolor,38.89511,male,69,8.7,-77.03637,USA,Maine coon,9.42
+39,dry,False,73,solid,40.71427,male,41,3.7,-74.00597,USA,Angora,6.08
+18,wet,False,67,tortie,45.508888,female,70,4.6,-73.561668,Canada,Maine coon,5.58
+15,wet,False,72,mitted,40.71427,female,45,3.73,-74.00597,USA,Ragdoll,6.0
+3,wet,True,54,colorpoint,37.77493,female,40,6.93,-122.41942,USA,Ragdoll,4.5
+32,wet,False,2,solid,50.110924,female,14,0.7,8.682127,Germany,Angora,0.17
+19,wet,False,53,solid,38.89511,female,79,6.25,-77.03637,USA,Maine coon,4.42
+34,wet,False,86,colorpoint,38.89511,female,46,5.04,-77.03637,USA,Ragdoll,7.17
+38,wet,False,26,solid,52.486244,female,56,6.09,-1.890401,UK,Maine coon,2.17
+47,wet,True,8,colorpoint,48.137154,female,21,3.7,11.576124,Germany,Ragdoll,0.67
+56,wet,True,8,bicolor,50.110924,male,31,4.3,8.682127,Germany,Ragdoll,0.67
+32,wet,True,9,colorpoint,51.227741,female,25,3.8,6.773456,Germany,Ragdoll,0.75
+16,wet,True,37,bicolor,38.89511,female,45,4.06,-77.03637,USA,Ragdoll,3.08
+23,dry,True,57,solid,38.89511,female,38,3.1,-77.03637,USA,Angora,4.75
+9,wet,False,49,tortie,38.89511,female,26,4.3,-77.03637,USA,Ragdoll,4.08
+35,wet,False,2,solid,51.507351,female,15,1.2,-0.127758,UK,Maine coon,0.17
+6,dry,True,81,colorpoint,52.520008,female,44,4.41,13.404954,Germany,Ragdoll,6.75
+16,dry,True,64,solid,48.137154,female,37,2.9,11.576124,Germany,Angora,5.33
+12,dry,True,23,tabby,51.227741,male,40,3.4,6.773456,Germany,Maine coon,1.92
+24,wet,False,75,solid,37.77493,male,39,4.2,-122.41942,USA,Angora,6.25
+28,dry,True,115,solid,40.71427,male,36,4.0,-74.00597,USA,Angora,9.58
+18,dry,False,52,colorpoint,45.52345,male,47,5.64,-122.67621,USA,Ragdoll,4.33
+26,wet,False,101,solid,53.800755,male,40,4.3,-1.549077,UK,Angora,8.42
+13,wet,False,109,colorpoint,40.71427,male,46,6.15,-74.00597,USA,Ragdoll,9.08
+16,wet,True,39,bicolor,38.89511,male,48,7.78,-77.03637,USA,Ragdoll,3.25
+20,wet,True,39,colorpoint,39.29038,male,49,7.87,-76.61219,USA,Ragdoll,3.25
+17,dry,True,53,bicolor,38.89511,male,53,5.7,-77.03637,USA,Ragdoll,4.42
+17,dry,True,77,solid,42.35843,female,38,7.82,-71.05977,USA,Maine coon,6.42
+39,dry,False,69,solid,50.110924,male,39,4.4,8.682127,Germany,Angora,5.75
+25,wet,True,38,colorpoint,41.881832,male,43,6.56,-87.623177,USA,Ragdoll,3.17
+39,wet,True,26,tabby,53.408371,male,51,9.4,-2.991573,UK,Maine coon,2.17
+25,dry,True,55,solid,38.89511,female,35,2.8,-77.03637,USA,Angora,4.58
+10,wet,True,70,colorpoint,41.881832,male,44,8.59,-87.623177,USA,Ragdoll,5.83
+17,wet,False,56,colorpoint,40.71427,female,48,5.81,-74.00597,USA,Ragdoll,4.67
+4,wet,True,50,solid,40.71427,female,39,8.21,-74.00597,USA,Maine coon,4.17
+24,wet,False,50,solid,38.89511,male,41,4.5,-77.03637,USA,Angora,4.17
+40,wet,True,13,solid,52.486244,female,42,3.1,-1.890401,UK,Maine coon,1.08
+29,dry,False,69,solid,53.800755,male,31,3.9,-1.549077,UK,Maine coon,5.75
+12,dry,True,108,solid,40.71427,male,75,9.7,-74.00597,USA,Maine coon,9.0
+11,wet,True,85,solid,45.52345,female,80,5.62,-122.67621,USA,Maine coon,7.08
+15,wet,True,107,colorpoint,41.881832,male,55,9.13,-87.623177,USA,Ragdoll,8.92
+37,wet,True,19,solid,51.507351,female,60,3.7,-0.127758,UK,Maine coon,1.58
+23,wet,True,83,tabby,51.227741,male,48,6.2,6.773456,Germany,Maine coon,6.92
+12,wet,True,89,tabby,42.35843,male,77,11.3,-71.05977,USA,Maine coon,7.42
+11,wet,False,106,bicolor,38.89511,female,41,5.72,-77.03637,USA,Ragdoll,8.83
+32,wet,True,83,solid,45.508888,male,38,4.5,-73.561668,Canada,Angora,6.92
+25,wet,True,15,solid,43.296482,female,26,3.4,5.36978,France,Angora,1.25
+19,wet,True,62,solid,48.137154,male,36,4.3,11.576124,Germany,Angora,5.17
+38,wet,False,62,tabby,53.408371,female,38,4.0,-2.991573,UK,Maine coon,5.17
+14,wet,False,38,colorpoint,40.71427,female,47,4.38,-74.00597,USA,Ragdoll,3.17
+25,dry,True,43,colorpoint,44.837789,male,43,6.68,-0.57918,France,Ragdoll,3.58
+28,dry,True,68,tabby,49.246292,male,83,8.1,-123.116226,Canada,Maine coon,5.67
+60,wet,True,3,bicolor,38.89511,female,21,3.1,-77.03637,USA,Ragdoll,0.25
+41,wet,True,28,solid,52.486244,female,80,6.9,-1.890401,UK,Maine coon,2.33
+18,wet,True,81,solid,41.881832,male,56,9.7,-87.623177,USA,Maine coon,6.75
+27,wet,True,93,bicolor,51.049999,male,43,8.89,-114.066666,Canada,Ragdoll,7.75
+20,wet,False,54,colorpoint,37.77493,female,45,6.47,-122.41942,USA,Ragdoll,4.5
+13,wet,True,93,colorpoint,45.508888,female,38,5.52,-73.561668,Canada,Ragdoll,7.75
+22,wet,True,102,colorpoint,37.77493,male,52,8.33,-122.41942,USA,Ragdoll,8.5
+18,wet,True,30,solid,44.837789,female,35,3.6,-0.57918,France,Angora,2.5
+24,wet,False,75,solid,39.29038,male,41,4.4,-76.61219,USA,Angora,6.25
+23,dry,True,36,bicolor,51.507351,female,35,3.3,-0.127758,UK,Angora,3.0
+33,wet,False,72,solid,40.71427,male,36,4.8,-74.00597,USA,Angora,6.0
+13,wet,True,46,bicolor,47.60621,male,46,8.6,-122.33207,USA,Ragdoll,3.83
+21,wet,True,35,solid,40.71427,male,41,3.8,-74.00597,USA,Angora,2.92
+33,wet,True,35,solid,48.864716,female,32,2.5,2.349014,France,Angora,2.92
+23,wet,False,47,solid,41.881832,male,39,4.4,-87.623177,USA,Angora,3.92
+46,wet,True,9,solid,48.864716,male,27,3.3,2.349014,France,Angora,0.75
+13,wet,True,112,colorpoint,40.71427,female,39,6.15,-74.00597,USA,Ragdoll,9.33
+31,wet,True,9,tabby,51.507351,female,34,3.8,-0.127758,UK,Maine coon,0.75
+10,wet,False,77,solid,38.89511,female,66,5.0,-77.03637,USA,Maine coon,6.42
+15,wet,True,41,tabby,50.110924,male,60,10.1,8.682127,Germany,Maine coon,3.42
+32,dry,True,32,bicolor,37.77493,male,53,6.15,-122.41942,USA,Ragdoll,2.67
+38,wet,True,31,solid,48.864716,male,40,4.5,2.349014,France,Angora,2.58
+5,wet,True,74,colorpoint,52.486244,male,43,8.27,-1.890401,UK,Ragdoll,6.17
+28,wet,True,36,solid,45.52345,male,70,7.1,-122.67621,USA,Maine coon,3.0
+36,wet,True,90,solid,37.77493,female,51,7.86,-122.41942,USA,Maine coon,7.5
+32,wet,False,58,solid,38.89511,male,36,3.7,-77.03637,USA,Angora,4.83
+20,wet,False,2,colorpoint,40.71427,female,14,0.9,-74.00597,USA,Ragdoll,0.17
+29,wet,True,110,colorpoint,47.60621,male,50,7.52,-122.33207,USA,Ragdoll,9.17
+19,wet,True,37,colorpoint,52.520008,male,25,4.5,13.404954,Germany,Ragdoll,3.08
+18,wet,False,36,solid,39.29038,female,41,5.36,-76.61219,USA,Maine coon,3.0
+34,wet,False,1,tabby,40.71427,female,15,0.8,-74.00597,USA,Maine coon,0.08
+19,wet,True,50,colorpoint,45.52345,female,42,4.19,-122.67621,USA,Ragdoll,4.17
+4,dry,False,14,colorpoint,45.508888,female,22,3.8,-73.561668,Canada,Ragdoll,1.17
+6,wet,False,44,colorpoint,48.864716,female,44,4.91,2.349014,France,Ragdoll,3.67
+9,wet,True,86,solid,49.246292,male,40,5.4,-123.116226,Canada,Angora,7.17
+9,wet,True,85,bicolor,40.71427,male,36,4.8,-74.00597,USA,Angora,7.08
+27,wet,True,90,solid,40.71427,male,48,8.2,-74.00597,USA,Maine coon,7.5
+36,wet,True,83,solid,51.227741,male,59,9.8,6.773456,Germany,Maine coon,6.92
+34,dry,True,59,solid,42.35843,female,39,4.54,-71.05977,USA,Maine coon,4.92
+12,wet,True,94,solid,37.77493,male,56,11.1,-122.41942,USA,Maine coon,7.83
+60,wet,False,2,solid,38.89511,male,25,3.7,-77.03637,USA,Maine coon,0.17
+20,wet,False,5,solid,40.71427,male,25,3.3,-74.00597,USA,Maine coon,0.42
+48,wet,False,4,colorpoint,51.507351,male,22,3.2,-0.127758,UK,Ragdoll,0.33
+23,wet,False,44,solid,47.60621,male,39,4.5,-122.33207,USA,Angora,3.67
+33,wet,True,77,tabby,39.29038,male,66,11.3,-76.61219,USA,Maine coon,6.42
+25,wet,True,22,colorpoint,49.246292,female,28,4.0,-123.116226,Canada,Ragdoll,1.83
+30,dry,True,71,tabby,42.35843,male,56,7.0,-71.05977,USA,Maine coon,5.92
+27,wet,True,17,solid,39.29038,female,37,3.2,-76.61219,USA,Maine coon,1.42
+24,wet,True,40,solid,50.110924,female,80,5.47,8.682127,Germany,Maine coon,3.33
+35,wet,False,19,bicolor,53.800755,male,28,4.4,-1.549077,UK,Ragdoll,1.58
+30,wet,False,1,tabby,39.29038,female,13,0.8,-76.61219,USA,Maine coon,0.08
+19,dry,True,15,colorpoint,49.246292,female,27,3.8,-123.116226,Canada,Ragdoll,1.25
+11,wet,False,14,bicolor,43.296482,male,35,4.3,5.36978,France,Maine coon,1.17
+35,wet,False,20,solid,43.61166,male,36,3.9,3.87771,France,Angora,1.67
+38,wet,True,8,solid,43.61166,male,26,3.3,3.87771,France,Angora,0.67
+54,wet,False,6,tabby,53.408371,male,26,3.3,-2.991573,UK,Maine coon,0.5
+36,wet,True,98,colorpoint,40.71427,male,44,8.59,-74.00597,USA,Ragdoll,8.17
+25,wet,False,108,colorpoint,38.89511,male,52,7.99,-77.03637,USA,Ragdoll,9.0
+37,wet,False,58,tabby,47.60621,male,54,7.0,-122.33207,USA,Maine coon,4.83
+11,wet,False,49,bicolor,38.89511,male,86,8.4,-77.03637,USA,Maine coon,4.08
+4,dry,True,63,solid,37.77493,male,88,8.8,-122.41942,USA,Maine coon,5.25
+15,wet,True,55,colorpoint,40.71427,male,47,8.38,-74.00597,USA,Ragdoll,4.58
+16,dry,True,54,solid,43.296482,male,60,5.2,5.36978,France,Maine coon,4.5
+41,wet,True,34,colorpoint,37.77493,male,49,8.92,-122.41942,USA,Ragdoll,2.83
+34,wet,False,2,solid,41.881832,male,16,1.2,-87.623177,USA,Angora,0.17
+29,wet,True,92,colorpoint,51.049999,female,49,4.87,-114.066666,Canada,Ragdoll,7.67
+31,dry,False,2,tortie,42.35843,female,16,1.1,-71.05977,USA,Ragdoll,0.17
+29,dry,True,60,solid,45.52345,male,37,5.2,-122.67621,USA,Angora,5.0
+27,wet,False,112,colorpoint,40.71427,male,50,7.16,-74.00597,USA,Ragdoll,9.33
+15,wet,False,74,colorpoint,53.408371,male,51,7.25,-2.991573,UK,Ragdoll,6.17
+15,wet,True,93,solid,38.89511,male,37,4.2,-77.03637,USA,Angora,7.75
+9,wet,False,42,colorpoint,39.29038,female,47,5.36,-76.61219,USA,Ragdoll,3.5
+35,wet,True,67,solid,51.049999,female,73,6.15,-114.066666,Canada,Maine coon,5.58
+27,wet,False,62,solid,45.52345,female,36,2.5,-122.67621,USA,Angora,5.17
+37,wet,False,87,solid,49.246292,male,39,4.0,-123.116226,Canada,Angora,7.25
+12,dry,True,35,bicolor,40.71427,male,52,8.4,-74.00597,USA,Maine coon,2.92
+13,wet,True,48,colorpoint,45.52345,female,40,3.97,-122.67621,USA,Ragdoll,4.0
+22,wet,True,83,solid,49.246292,female,39,4.3,-123.116226,Canada,Angora,6.92
+30,wet,False,115,colorpoint,41.881832,male,50,6.91,-87.623177,USA,Ragdoll,9.58
+14,dry,True,69,solid,41.881832,male,51,8.9,-87.623177,USA,Maine coon,5.75
+28,wet,True,26,solid,48.864716,female,35,2.6,2.349014,France,Angora,2.17
+27,wet,False,5,bicolor,51.507351,female,22,3.2,-0.127758,UK,Ragdoll,0.42
+39,wet,False,91,solid,41.881832,male,36,3.6,-87.623177,USA,Angora,7.58
+37,dry,False,91,solid,39.29038,male,85,7.4,-76.61219,USA,Maine coon,7.58
+14,wet,True,32,tabby,53.480759,male,60,9.6,-2.242631,UK,Maine coon,2.67
+29,dry,False,86,solid,38.89511,male,36,3.5,-77.03637,USA,Angora,7.17
+13,wet,False,22,solid,51.507351,female,59,6.3,-0.127758,UK,Maine coon,1.83
+23,wet,True,87,solid,38.89511,female,72,5.28,-77.03637,USA,Maine coon,7.25
+34,dry,True,60,solid,47.60621,female,59,5.76,-122.33207,USA,Maine coon,5.0
+30,dry,False,32,solid,43.296482,male,40,4.0,5.36978,France,Angora,2.67
+41,wet,False,6,solid,44.837789,male,20,2.8,-0.57918,France,Angora,0.5
+23,wet,False,75,solid,43.61166,male,38,3.6,3.87771,France,Angora,6.25
+36,wet,False,79,solid,47.218371,male,48,3.9,-1.553621,France,Maine coon,6.58
+21,wet,False,2,tabby,53.480759,male,15,1.3,-2.242631,UK,Maine coon,0.17
+37,dry,False,42,solid,41.881832,female,33,4.3,-87.623177,USA,Angora,3.5
+31,wet,False,39,colorpoint,45.52345,female,39,4.22,-122.67621,USA,Ragdoll,3.25
+29,dry,True,59,solid,40.71427,male,36,4.4,-74.00597,USA,Angora,4.92
+31,wet,False,60,solid,37.77493,male,48,8.1,-122.41942,USA,Maine coon,5.0
+39,wet,False,85,tortie,52.486244,male,40,5.0,-1.890401,UK,Angora,7.08
+28,wet,True,72,colorpoint,38.89511,male,44,5.71,-77.03637,USA,Ragdoll,6.0
+22,dry,False,98,solid,39.29038,male,67,7.0,-76.61219,USA,Maine coon,8.17
+30,dry,True,63,colorpoint,47.60621,male,45,5.97,-122.33207,USA,Ragdoll,5.25
+18,wet,False,105,colorpoint,47.60621,female,43,6.4,-122.33207,USA,Ragdoll,8.75
+30,dry,False,17,colorpoint,37.77493,female,21,4.3,-122.41942,USA,Ragdoll,1.42
+11,wet,False,48,tortie,39.29038,female,74,5.3,-76.61219,USA,Maine coon,4.0
+14,wet,False,25,solid,53.480759,female,78,7.3,-2.242631,UK,Maine coon,2.08
+14,wet,False,41,colorpoint,52.520008,female,22,4.4,13.404954,Germany,Ragdoll,3.42
+22,wet,True,78,colorpoint,52.520008,male,51,7.31,13.404954,Germany,Ragdoll,6.5
+39,dry,False,17,bicolor,45.76342,female,30,3.2,4.834277,France,Maine coon,1.42
+20,wet,False,1,colorpoint,38.89511,male,11,0.6,-77.03637,USA,Ragdoll,0.08
+38,wet,True,8,colorpoint,48.137154,female,22,3.8,11.576124,Germany,Ragdoll,0.67
+47,wet,True,8,tabby,53.480759,female,36,3.2,-2.242631,UK,Maine coon,0.67
+21,wet,False,35,colorpoint,40.71427,male,29,5.0,-74.00597,USA,Ragdoll,2.92
+38,wet,False,91,solid,42.35843,female,80,7.9,-71.05977,USA,Maine coon,7.58
+0,wet,True,114,colorpoint,40.71427,male,58,9.06,-74.00597,USA,Ragdoll,9.5
+45,dry,True,20,bicolor,48.137154,female,22,4.3,11.576124,Germany,Ragdoll,1.67
+33,dry,False,63,colorpoint,40.71427,female,50,4.88,-74.00597,USA,Ragdoll,5.25
+46,wet,False,4,colorpoint,51.507351,female,22,3.2,-0.127758,UK,Ragdoll,0.33
+11,dry,True,37,solid,44.837789,male,40,5.3,-0.57918,France,Angora,3.08
+22,wet,False,2,solid,41.881832,male,15,1.1,-87.623177,USA,Angora,0.17
+27,wet,False,62,solid,48.137154,female,38,2.7,11.576124,Germany,Angora,5.17
+16,wet,True,60,solid,41.881832,female,68,4.23,-87.623177,USA,Maine coon,5.0
+7,dry,True,99,colorpoint,47.60621,male,46,9.07,-122.33207,USA,Ragdoll,8.25
+18,wet,True,73,colorpoint,40.71427,male,51,7.25,-74.00597,USA,Ragdoll,6.08
+9,wet,True,86,solid,42.35843,male,62,7.0,-71.05977,USA,Maine coon,7.17
+14,wet,False,103,colorpoint,38.89511,male,46,6.61,-77.03637,USA,Ragdoll,8.58
+15,dry,False,27,tabby,53.800755,female,66,8.42,-1.549077,UK,Maine coon,2.25
+36,dry,True,17,bicolor,43.65107,female,27,4.1,-79.347015,Canada,Ragdoll,1.42
+13,wet,True,36,colorpoint,41.881832,male,22,5.5,-87.623177,USA,Ragdoll,3.0
+31,dry,True,130,colorpoint,40.71427,female,41,6.51,-74.00597,USA,Ragdoll,10.83
+9,dry,False,76,solid,40.71427,female,62,8.31,-74.00597,USA,Maine coon,6.33
+13,wet,True,92,bicolor,51.049999,male,62,7.2,-114.066666,Canada,Ragdoll,7.67
+37,dry,True,86,solid,37.77493,female,48,7.3,-122.41942,USA,Maine coon,7.17
+24,wet,False,68,colorpoint,50.110924,female,43,5.58,8.682127,Germany,Ragdoll,5.67
+26,wet,True,99,colorpoint,45.52345,male,44,6.76,-122.67621,USA,Ragdoll,8.25
+26,wet,True,93,solid,38.89511,female,33,3.1,-77.03637,USA,Angora,7.75
+27,wet,True,67,solid,49.246292,female,73,7.6,-123.116226,Canada,Maine coon,5.58
+7,wet,True,85,colorpoint,40.71427,female,31,5.28,-74.00597,USA,Ragdoll,7.08
+19,wet,True,17,bicolor,51.049999,female,28,4.2,-114.066666,Canada,Ragdoll,1.42
+34,wet,False,95,colorpoint,39.29038,male,49,6.28,-76.61219,USA,Ragdoll,7.92
+15,wet,True,42,solid,45.52345,male,39,4.8,-122.67621,USA,Angora,3.5
+37,wet,False,102,solid,38.89511,female,70,6.01,-77.03637,USA,Maine coon,8.5
+10,wet,True,38,solid,41.881832,female,62,7.12,-87.623177,USA,Maine coon,3.17
+36,wet,False,13,solid,47.218371,male,55,3.8,-1.553621,France,Maine coon,1.08
+33,wet,True,44,solid,37.77493,male,37,4.2,-122.41942,USA,Angora,3.67
+15,wet,True,96,colorpoint,42.35843,male,45,7.67,-71.05977,USA,Ragdoll,8.0
+8,wet,True,98,colorpoint,41.881832,male,50,8.7,-87.623177,USA,Ragdoll,8.17
+21,wet,True,7,colorpoint,50.110924,female,21,3.9,8.682127,Germany,Ragdoll,0.58
+5,wet,True,78,tortie,37.77493,female,38,6.93,-122.41942,USA,Ragdoll,6.5
+39,wet,False,1,tortie,45.52345,female,10,0.8,-122.67621,USA,Ragdoll,0.08
+27,dry,True,75,colorpoint,53.408371,male,47,6.21,-2.991573,UK,Ragdoll,6.25
+17,wet,True,95,tabby,39.29038,male,81,7.3,-76.61219,USA,Maine coon,7.92
+18,dry,True,19,solid,48.864716,female,33,3.5,2.349014,France,Angora,1.58
+24,wet,True,30,tabby,48.137154,male,72,9.1,11.576124,Germany,Maine coon,2.5
+18,dry,True,36,tabby,45.52345,female,60,4.96,-122.67621,USA,Maine coon,3.0
+12,dry,False,90,colorpoint,42.35843,male,49,7.25,-71.05977,USA,Ragdoll,7.5
+34,wet,False,90,tabby,38.89511,female,65,7.86,-77.03637,USA,Maine coon,7.5
+15,wet,False,33,bicolor,42.35843,female,48,6.0,-71.05977,USA,Ragdoll,2.75
+21,wet,True,58,bicolor,53.480759,female,32,4.0,-2.242631,UK,Maine coon,4.83
+16,dry,False,67,colorpoint,39.29038,female,45,4.31,-76.61219,USA,Ragdoll,5.58
+19,dry,True,54,solid,40.71427,male,41,5.1,-74.00597,USA,Angora,4.5
+42,wet,False,78,bicolor,51.507351,male,26,4.2,-0.127758,UK,Ragdoll,6.5
+34,wet,True,71,solid,40.71427,female,35,3.3,-74.00597,USA,Angora,5.92
+15,wet,False,111,bicolor,38.89511,female,48,3.71,-77.03637,USA,Ragdoll,9.25
+3,wet,False,30,colorpoint,45.52345,male,29,6.77,-122.67621,USA,Ragdoll,2.5
+20,wet,True,72,solid,38.89511,female,59,7.56,-77.03637,USA,Maine coon,6.0
+22,wet,True,42,colorpoint,37.77493,male,51,7.32,-122.41942,USA,Ragdoll,3.5
+35,wet,False,73,tabby,40.71427,male,72,9.3,-74.00597,USA,Maine coon,6.08
+34,wet,True,91,colorpoint,38.89511,male,45,6.31,-77.03637,USA,Ragdoll,7.58
+30,dry,True,39,colorpoint,42.35843,female,47,4.44,-71.05977,USA,Ragdoll,3.25
+37,wet,False,56,bicolor,50.110924,male,26,4.5,8.682127,Germany,Ragdoll,4.67
+35,wet,False,95,solid,40.71427,male,75,9.5,-74.00597,USA,Maine coon,7.92
+25,dry,True,47,solid,40.71427,female,34,4.7,-74.00597,USA,Angora,3.92
+27,dry,False,104,solid,37.77493,female,54,7.99,-122.41942,USA,Maine coon,8.67
+30,wet,True,105,colorpoint,42.35843,female,38,6.04,-71.05977,USA,Ragdoll,8.75
+38,wet,False,46,solid,38.89511,male,37,4.1,-77.03637,USA,Angora,3.83
+23,dry,False,63,solid,52.520008,female,37,3.1,13.404954,Germany,Angora,5.25
+8,wet,False,30,colorpoint,45.52345,male,27,6.72,-122.67621,USA,Ragdoll,2.5
+10,wet,True,110,solid,40.71427,male,88,10.5,-74.00597,USA,Maine coon,9.17
+29,wet,True,49,colorpoint,42.35843,male,51,5.89,-71.05977,USA,Ragdoll,4.08
+20,dry,True,84,solid,49.246292,male,40,4.7,-123.116226,Canada,Angora,7.0
+13,wet,True,135,solid,53.480759,male,40,4.4,-2.242631,UK,Angora,11.25
+28,wet,False,93,colorpoint,45.508888,female,47,5.91,-73.561668,Canada,Ragdoll,7.75
+5,wet,True,32,colorpoint,42.35843,male,52,7.41,-71.05977,USA,Ragdoll,2.67
+30,dry,True,14,colorpoint,45.42153,female,20,4.3,-75.697193,Canada,Ragdoll,1.17
+12,wet,False,43,tabby,48.137154,male,67,10.5,11.576124,Germany,Maine coon,3.58
+10,dry,True,97,colorpoint,42.35843,male,47,8.41,-71.05977,USA,Ragdoll,8.08
+2,dry,False,94,colorpoint,45.508888,female,44,7.07,-73.561668,Canada,Ragdoll,7.83
+7,wet,True,56,colorpoint,42.35843,male,44,6.27,-71.05977,USA,Ragdoll,4.67
+23,wet,True,98,solid,42.35843,male,52,8.7,-71.05977,USA,Maine coon,8.17
+31,dry,False,74,solid,38.89511,female,55,5.0,-77.03637,USA,Maine coon,6.17
+27,dry,True,52,tabby,41.881832,male,63,10.3,-87.623177,USA,Maine coon,4.33
+43,wet,False,6,bicolor,48.137154,male,30,4.2,11.576124,Germany,Ragdoll,0.5
+44,wet,True,57,tabby,53.408371,male,56,4.0,-2.991573,UK,Maine coon,4.75
+20,dry,False,50,solid,45.52345,female,35,2.8,-122.67621,USA,Angora,4.17
+32,wet,False,92,bicolor,38.89511,female,34,3.61,-77.03637,USA,Maine coon,7.67
+9,wet,True,72,colorpoint,40.71427,female,42,6.69,-74.00597,USA,Ragdoll,6.0
+27,wet,True,57,colorpoint,40.71427,male,44,5.73,-74.00597,USA,Ragdoll,4.75
+22,wet,True,32,tortie,45.52345,female,40,4.61,-122.67621,USA,Ragdoll,2.67
+14,dry,True,22,solid,52.486244,female,58,5.3,-1.890401,UK,Maine coon,1.83
+18,wet,True,61,tortie,38.89511,female,38,4.37,-77.03637,USA,Ragdoll,5.08
+31,wet,False,1,colorpoint,41.881832,male,12,0.8,-87.623177,USA,Ragdoll,0.08
+24,dry,False,2,solid,38.89511,female,14,0.8,-77.03637,USA,Angora,0.17
+34,wet,False,2,colorpoint,40.71427,female,16,0.8,-74.00597,USA,Ragdoll,0.17
+33,wet,False,105,colorpoint,40.71427,male,50,6.79,-74.00597,USA,Ragdoll,8.75
+25,wet,True,55,mitted,39.29038,male,46,8.05,-76.61219,USA,Ragdoll,4.58
+9,wet,True,90,colorpoint,42.35843,female,50,4.39,-71.05977,USA,Ragdoll,7.5
+11,wet,False,58,bicolor,38.89511,male,43,6.95,-77.03637,USA,Ragdoll,4.83
+33,wet,True,48,solid,45.76342,male,39,4.6,4.834277,France,Angora,4.0
+20,dry,True,21,bicolor,53.480759,female,53,4.0,-2.242631,UK,Maine coon,1.75
+17,wet,False,87,tabby,42.35843,female,73,8.14,-71.05977,USA,Maine coon,7.25
+13,dry,True,80,solid,51.049999,male,40,4.8,-114.066666,Canada,Angora,6.67
+12,dry,True,21,solid,53.408371,female,60,4.5,-2.991573,UK,Maine coon,1.75
+27,wet,False,65,solid,51.227741,female,39,4.1,6.773456,Germany,Angora,5.42
+26,dry,False,71,solid,40.71427,male,38,4.3,-74.00597,USA,Angora,5.92
+14,wet,True,48,solid,37.77493,female,36,2.4,-122.41942,USA,Angora,4.0
+16,wet,False,4,colorpoint,53.480759,male,21,3.0,-2.242631,UK,Ragdoll,0.33
+23,wet,True,75,tabby,38.89511,male,56,8.2,-77.03637,USA,Maine coon,6.25
+15,dry,False,69,tortie,39.29038,female,68,5.58,-76.61219,USA,Maine coon,5.75
+6,wet,True,113,colorpoint,38.89511,male,54,9.15,-77.03637,USA,Ragdoll,9.42
+23,wet,True,48,colorpoint,53.800755,female,27,4.5,-1.549077,UK,Ragdoll,4.0
+29,wet,True,46,solid,47.60621,female,37,5.96,-122.33207,USA,Maine coon,3.83
+24,wet,True,24,solid,51.507351,female,46,3.8,-0.127758,UK,Maine coon,2.0
+13,dry,False,50,solid,38.89511,female,57,7.44,-77.03637,USA,Maine coon,4.17
+29,dry,True,39,colorpoint,41.881832,male,30,4.9,-87.623177,USA,Ragdoll,3.25
+25,wet,True,76,solid,38.89511,female,65,5.4,-77.03637,USA,Maine coon,6.33
+12,dry,True,37,colorpoint,47.60621,female,39,6.75,-122.33207,USA,Ragdoll,3.08
+49,wet,False,5,colorpoint,53.480759,male,23,3.5,-2.242631,UK,Ragdoll,0.42
+9,dry,True,102,colorpoint,40.71427,female,47,5.86,-74.00597,USA,Ragdoll,8.5
+27,wet,False,18,solid,43.296482,male,40,3.6,5.36978,France,Angora,1.5
+18,dry,True,92,tabby,37.77493,male,55,8.4,-122.41942,USA,Maine coon,7.67
+11,wet,True,112,colorpoint,40.71427,female,47,7.34,-74.00597,USA,Ragdoll,9.33
+23,dry,True,50,solid,42.35843,female,37,3.8,-71.05977,USA,Angora,4.17
+8,wet,False,56,mitted,41.881832,female,47,5.0,-87.623177,USA,Ragdoll,4.67
+16,wet,True,91,colorpoint,45.52345,male,47,5.79,-122.67621,USA,Ragdoll,7.58
+12,dry,True,39,solid,50.110924,male,72,10.8,8.682127,Germany,Maine coon,3.25
+29,wet,False,83,tabby,50.110924,male,78,8.8,8.682127,Germany,Maine coon,6.92
+30,dry,True,23,solid,52.520008,male,53,4.0,13.404954,Germany,Maine coon,1.92
+28,wet,True,59,solid,41.881832,female,38,4.6,-87.623177,USA,Angora,4.92
+19,dry,False,28,solid,47.218371,female,36,4.0,-1.553621,France,Angora,2.33
+23,dry,False,94,tabby,42.35843,female,77,5.84,-71.05977,USA,Maine coon,7.83
+38,dry,True,59,solid,51.507351,female,35,2.9,-0.127758,UK,Angora,4.92
+9,dry,False,61,colorpoint,37.77493,female,44,6.75,-122.41942,USA,Ragdoll,5.08
+12,wet,True,68,solid,52.520008,male,39,5.5,13.404954,Germany,Angora,5.67
+11,dry,True,65,colorpoint,39.29038,male,61,9.19,-76.61219,USA,Ragdoll,5.42
+13,dry,True,42,solid,47.60621,male,40,3.9,-122.33207,USA,Angora,3.5
+21,wet,True,56,tabby,42.35843,male,51,9.0,-71.05977,USA,Maine coon,4.67
+29,dry,True,71,colorpoint,42.35843,male,27,8.62,-71.05977,USA,Ragdoll,5.92
+26,dry,True,94,solid,42.35843,male,68,11.6,-71.05977,USA,Maine coon,7.83
+42,wet,True,10,tortie,52.520008,female,24,3.9,13.404954,Germany,Ragdoll,0.83
+13,wet,True,115,bicolor,40.71427,male,61,5.0,-74.00597,USA,Angora,9.58
+39,wet,False,2,bicolor,41.881832,male,17,1.2,-87.623177,USA,Ragdoll,0.17
+7,dry,True,28,colorpoint,40.71427,male,28,6.3,-74.00597,USA,Ragdoll,2.33
+26,dry,True,68,colorpoint,38.89511,female,40,5.49,-77.03637,USA,Ragdoll,5.67
+28,wet,True,35,solid,43.296482,female,34,4.1,5.36978,France,Angora,2.92
+10,wet,False,97,colorpoint,42.35843,male,51,7.66,-71.05977,USA,Ragdoll,8.08
+15,wet,True,115,tabby,41.881832,female,76,7.11,-87.623177,USA,Maine coon,9.58
+10,wet,False,75,colorpoint,53.408371,female,50,3.99,-2.991573,UK,Ragdoll,6.25
+30,wet,True,22,bicolor,48.864716,female,24,4.3,2.349014,France,Angora,1.83
+31,wet,False,41,colorpoint,52.486244,male,30,4.8,-1.890401,UK,Ragdoll,3.42
+39,wet,False,54,solid,37.77493,male,39,4.3,-122.41942,USA,Angora,4.5
+13,wet,False,61,solid,53.800755,female,33,2.4,-1.549077,UK,Angora,5.08
+31,dry,False,58,colorpoint,42.35843,male,57,7.98,-71.05977,USA,Ragdoll,4.83
+14,wet,True,51,bicolor,45.52345,male,28,4.8,-122.67621,USA,Ragdoll,4.25
+12,wet,True,103,colorpoint,39.29038,female,44,5.7,-76.61219,USA,Ragdoll,8.58
+34,wet,True,15,colorpoint,45.508888,female,21,3.5,-73.561668,Canada,Ragdoll,1.25
+35,dry,False,62,solid,50.110924,female,39,3.9,8.682127,Germany,Angora,5.17
+34,dry,True,33,colorpoint,38.89511,female,47,4.63,-77.03637,USA,Ragdoll,2.75
+30,wet,False,108,colorpoint,38.89511,female,47,6.36,-77.03637,USA,Ragdoll,9.0
+23,dry,False,116,tabby,42.35843,female,65,6.61,-71.05977,USA,Maine coon,9.67
+27,dry,True,92,colorpoint,49.246292,female,48,6.75,-123.116226,Canada,Ragdoll,7.67
+31,wet,False,78,tabby,51.507351,male,53,4.0,-0.127758,UK,Maine coon,6.5
+31,wet,False,2,solid,53.480759,female,12,0.9,-2.242631,UK,Maine coon,0.17
+28,wet,False,9,solid,52.486244,female,34,3.6,-1.890401,UK,Maine coon,0.75
+18,dry,True,73,colorpoint,45.52345,female,41,6.47,-122.67621,USA,Ragdoll,6.08
+14,dry,False,120,tortie,42.35843,female,53,6.5,-71.05977,USA,Maine coon,10.0
+14,wet,False,59,colorpoint,40.71427,male,48,7.78,-74.00597,USA,Ragdoll,4.92
+29,wet,True,103,solid,47.60621,female,71,7.05,-122.33207,USA,Maine coon,8.58
+21,wet,False,78,solid,42.35843,female,34,3.8,-71.05977,USA,Angora,6.5
+30,wet,True,103,solid,38.89511,male,52,5.0,-77.03637,USA,Angora,8.58
+34,wet,True,24,solid,52.486244,male,31,3.0,-1.890401,UK,Maine coon,2.0
+18,wet,True,71,solid,42.35843,female,43,5.59,-71.05977,USA,Maine coon,5.92
+25,wet,False,37,colorpoint,37.77493,female,45,4.4,-122.41942,USA,Ragdoll,3.08
+4,wet,False,42,colorpoint,39.29038,male,46,6.79,-76.61219,USA,Ragdoll,3.5
+9,wet,False,49,solid,37.77493,female,38,5.06,-122.41942,USA,Maine coon,4.08
+13,wet,True,81,solid,45.52345,male,51,8.7,-122.67621,USA,Maine coon,6.75
+24,wet,True,56,colorpoint,47.60621,female,49,4.62,-122.33207,USA,Ragdoll,4.67
+33,wet,True,25,solid,53.480759,female,76,6.31,-2.242631,UK,Maine coon,2.08
+29,wet,True,34,colorpoint,37.77493,male,43,5.97,-122.41942,USA,Ragdoll,2.83
+16,dry,True,117,tabby,38.89511,male,74,7.4,-77.03637,USA,Maine coon,9.75
+9,wet,True,62,solid,48.137154,female,38,3.9,11.576124,Germany,Angora,5.17
+39,wet,True,55,solid,38.89511,female,37,2.5,-77.03637,USA,Angora,4.58
+32,wet,False,26,tabby,53.480759,male,85,9.0,-2.242631,UK,Maine coon,2.17
+30,wet,True,40,bicolor,47.60621,female,42,6.07,-122.33207,USA,Ragdoll,3.33
+20,wet,False,19,colorpoint,52.486244,female,26,4.1,-1.890401,UK,Ragdoll,1.58
+34,dry,True,108,tabby,40.71427,female,64,6.93,-74.00597,USA,Maine coon,9.0
+36,wet,False,67,tabby,49.246292,male,68,10.2,-123.116226,Canada,Maine coon,5.58
+31,wet,True,61,solid,42.35843,male,40,4.7,-71.05977,USA,Angora,5.08
+21,wet,True,70,solid,40.71427,male,51,7.9,-74.00597,USA,Maine coon,5.83
+21,wet,True,30,bicolor,47.60621,male,27,6.8,-122.33207,USA,Ragdoll,2.5
+38,wet,True,73,solid,38.89511,female,38,3.4,-77.03637,USA,Angora,6.08
+16,wet,False,26,solid,53.408371,female,59,6.61,-2.991573,UK,Maine coon,2.17
+21,wet,True,85,colorpoint,40.71427,male,48,7.18,-74.00597,USA,Ragdoll,7.08
+27,wet,False,58,tortie,40.71427,female,74,4.95,-74.00597,USA,Maine coon,4.83
+24,wet,True,56,colorpoint,41.881832,female,42,3.74,-87.623177,USA,Ragdoll,4.67
+36,wet,True,69,tortie,43.65107,female,43,7.65,-79.347015,Canada,Maine coon,5.75
+26,dry,False,72,solid,45.76342,female,36,3.6,4.834277,France,Angora,6.0
+10,wet,True,99,bicolor,42.35843,female,39,5.03,-71.05977,USA,Ragdoll,8.25
+13,wet,False,43,colorpoint,45.76342,male,50,8.02,4.834277,France,Ragdoll,3.58
+29,dry,True,101,colorpoint,42.35843,female,41,5.7,-71.05977,USA,Ragdoll,8.42
+44,dry,True,23,solid,51.507351,female,36,3.2,-0.127758,UK,Maine coon,1.92
+37,wet,False,1,colorpoint,39.29038,female,13,0.7,-76.61219,USA,Ragdoll,0.08
+32,dry,True,60,solid,40.71427,female,39,4.7,-74.00597,USA,Angora,5.0
+17,wet,False,62,solid,50.110924,female,39,4.1,8.682127,Germany,Angora,5.17
+17,wet,True,67,solid,48.864716,male,56,4.2,2.349014,France,Maine coon,5.58
+29,dry,False,24,tabby,51.507351,female,38,3.3,-0.127758,UK,Maine coon,2.0
+12,dry,False,62,colorpoint,42.35843,male,49,7.06,-71.05977,USA,Ragdoll,5.17
+23,wet,True,44,colorpoint,48.864716,female,38,4.26,2.349014,France,Ragdoll,3.67
+38,wet,True,14,colorpoint,41.881832,female,26,4.1,-87.623177,USA,Ragdoll,1.17
+36,wet,False,2,bicolor,51.507351,female,17,1.0,-0.127758,UK,Maine coon,0.17
+12,wet,True,19,solid,48.864716,female,33,3.2,2.349014,France,Angora,1.58
+40,dry,False,2,solid,40.71427,male,17,0.8,-74.00597,USA,Angora,0.17
+13,dry,True,107,bicolor,40.71427,female,34,4.5,-74.00597,USA,Angora,8.92
+23,dry,True,21,solid,45.76342,female,34,4.7,4.834277,France,Angora,1.75
+36,dry,False,52,solid,44.837789,male,25,4.0,-0.57918,France,Angora,4.33
+27,dry,True,78,colorpoint,51.507351,female,46,6.21,-0.127758,UK,Ragdoll,6.5
+17,wet,True,96,solid,40.71427,female,34,4.9,-74.00597,USA,Angora,8.0
+13,wet,True,67,solid,45.52345,female,65,5.16,-122.67621,USA,Maine coon,5.58
+25,wet,True,99,solid,39.29038,female,34,3.6,-76.61219,USA,Angora,8.25
+21,wet,False,59,solid,40.71427,female,78,5.1,-74.00597,USA,Maine coon,4.92
+27,dry,False,40,colorpoint,40.71427,female,47,4.59,-74.00597,USA,Ragdoll,3.33
+39,wet,False,2,solid,37.77493,female,17,0.8,-122.41942,USA,Angora,0.17
+27,dry,False,88,bicolor,37.77493,male,41,3.9,-122.41942,USA,Angora,7.33
+13,wet,True,114,colorpoint,40.71427,female,48,4.76,-74.00597,USA,Ragdoll,9.5
+16,wet,False,90,solid,38.89511,female,36,3.5,-77.03637,USA,Angora,7.5
+25,dry,True,84,solid,40.71427,female,41,8.23,-74.00597,USA,Maine coon,7.0
+9,dry,True,70,solid,48.864716,male,37,4.6,2.349014,France,Angora,5.83
+18,wet,True,58,solid,37.77493,male,40,4.5,-122.41942,USA,Angora,4.83
+25,wet,True,94,solid,38.89511,male,40,5.3,-77.03637,USA,Angora,7.83
+28,dry,False,13,solid,51.507351,female,31,3.0,-0.127758,UK,Maine coon,1.08
+33,wet,False,1,tabby,40.71427,female,12,0.8,-74.00597,USA,Maine coon,0.08
+16,dry,False,79,solid,43.65107,male,41,3.9,-79.347015,Canada,Angora,6.58
+34,wet,False,53,solid,38.89511,male,39,4.4,-77.03637,USA,Angora,4.42
+11,wet,False,67,tortie,39.29038,female,35,5.59,-76.61219,USA,Ragdoll,5.58
+39,wet,False,6,tabby,52.486244,female,30,3.5,-1.890401,UK,Maine coon,0.5
+27,wet,True,55,tortie,42.35843,female,38,5.71,-71.05977,USA,Ragdoll,4.58
+1,wet,False,67,bicolor,48.137154,male,52,7.3,11.576124,Germany,Ragdoll,5.58
+11,dry,True,96,solid,45.52345,male,97,10.9,-122.67621,USA,Maine coon,8.0
+53,dry,True,10,colorpoint,50.110924,female,26,3.5,8.682127,Germany,Ragdoll,0.83
+38,wet,False,49,solid,39.29038,male,37,4.8,-76.61219,USA,Angora,4.08
+22,wet,True,113,colorpoint,40.71427,male,46,8.17,-74.00597,USA,Ragdoll,9.42
+29,wet,False,67,colorpoint,38.89511,female,49,4.57,-77.03637,USA,Ragdoll,5.58
+38,wet,False,2,solid,42.35843,female,17,0.9,-71.05977,USA,Angora,0.17
+19,wet,True,118,colorpoint,45.52345,female,41,5.76,-122.67621,USA,Ragdoll,9.83
+31,wet,False,34,colorpoint,38.89511,female,38,5.3,-77.03637,USA,Ragdoll,2.83
+26,wet,True,83,colorpoint,48.137154,male,45,7.67,11.576124,Germany,Ragdoll,6.92
+17,wet,True,76,tabby,38.89511,female,41,4.2,-77.03637,USA,Maine coon,6.33
+25,dry,True,89,solid,42.35843,female,35,3.9,-71.05977,USA,Angora,7.42
+14,dry,False,4,bicolor,52.486244,female,21,3.3,-1.890401,UK,Ragdoll,0.33
+12,wet,True,54,colorpoint,51.049999,male,26,5.1,-114.066666,Canada,Ragdoll,4.5
+26,wet,False,38,bicolor,48.137154,male,53,7.1,11.576124,Germany,Maine coon,3.17
+29,dry,True,17,colorpoint,45.508888,female,21,3.8,-73.561668,Canada,Ragdoll,1.42
+11,wet,False,78,tabby,37.77493,male,84,11.3,-122.41942,USA,Maine coon,6.5
+21,wet,False,114,colorpoint,41.881832,male,53,7.09,-87.623177,USA,Ragdoll,9.5
+39,wet,True,20,solid,43.296482,male,28,3.1,5.36978,France,Angora,1.67
+10,dry,True,26,tabby,52.486244,female,65,4.9,-1.890401,UK,Maine coon,2.17
+37,wet,True,92,solid,45.52345,female,39,7.98,-122.67621,USA,Maine coon,7.67
+2,wet,False,40,colorpoint,38.89511,male,50,6.3,-77.03637,USA,Ragdoll,3.33
+16,wet,True,92,solid,47.60621,male,102,10.1,-122.33207,USA,Maine coon,7.67
+11,wet,False,24,solid,47.218371,female,32,2.4,-1.553621,France,Angora,2.0
+11,wet,False,21,colorpoint,49.246292,male,29,4.1,-123.116226,Canada,Ragdoll,1.75
+23,wet,True,65,solid,50.110924,male,38,4.3,8.682127,Germany,Angora,5.42
+19,wet,True,96,colorpoint,37.77493,male,46,7.62,-122.41942,USA,Ragdoll,8.0
+17,dry,False,18,tabby,48.864716,female,38,3.2,2.349014,France,Maine coon,1.5
+0,wet,True,94,colorpoint,47.60621,female,38,6.2,-122.33207,USA,Ragdoll,7.83
+13,dry,True,38,colorpoint,40.71427,male,46,7.79,-74.00597,USA,Ragdoll,3.17
+22,wet,True,17,tabby,44.837789,male,47,3.6,-0.57918,France,Maine coon,1.42
+18,dry,True,68,colorpoint,51.507351,male,26,4.7,-0.127758,UK,Ragdoll,5.67
+29,wet,True,71,solid,42.35843,male,41,3.9,-71.05977,USA,Angora,5.92
+17,dry,True,35,bicolor,38.89511,male,44,6.7,-77.03637,USA,Ragdoll,2.92
+27,wet,False,36,colorpoint,40.71427,male,50,7.48,-74.00597,USA,Ragdoll,3.0
+44,dry,True,31,tabby,52.520008,male,85,9.4,13.404954,Germany,Maine coon,2.58
+31,wet,True,59,tabby,40.71427,male,40,4.0,-74.00597,USA,Angora,4.92
+20,wet,True,58,solid,43.296482,female,37,3.0,5.36978,France,Angora,4.83
+27,dry,False,46,bicolor,42.35843,female,42,7.01,-71.05977,USA,Maine coon,3.83
+34,dry,True,66,solid,43.65107,male,57,10.0,-79.347015,Canada,Maine coon,5.5
+1,wet,True,78,mitted,51.507351,male,46,7.54,-0.127758,UK,Ragdoll,6.5
+36,wet,False,1,solid,42.35843,male,12,0.8,-71.05977,USA,Angora,0.08
+23,dry,False,24,solid,52.486244,female,32,3.8,-1.890401,UK,Maine coon,2.0
+35,wet,False,103,bicolor,40.71427,male,86,10.0,-74.00597,USA,Maine coon,8.58
+17,wet,True,116,solid,40.71427,female,36,4.1,-74.00597,USA,Angora,9.67
+39,wet,True,26,tabby,52.486244,female,66,5.36,-1.890401,UK,Maine coon,2.17
+10,wet,True,49,bicolor,38.89511,female,49,6.28,-77.03637,USA,Maine coon,4.08
+32,dry,True,22,colorpoint,51.049999,male,26,4.9,-114.066666,Canada,Ragdoll,1.83
+23,dry,True,24,solid,44.837789,male,38,3.7,-0.57918,France,Angora,2.0
+23,wet,True,113,tabby,47.60621,female,49,6.45,-122.33207,USA,Maine coon,9.42
+27,dry,False,75,colorpoint,51.507351,female,48,5.26,-0.127758,UK,Ragdoll,6.25
+8,wet,False,32,colorpoint,38.89511,female,38,4.59,-77.03637,USA,Ragdoll,2.67
+12,wet,True,12,solid,52.486244,male,28,3.6,-1.890401,UK,Maine coon,1.0
+9,dry,True,62,solid,52.520008,female,34,3.4,13.404954,Germany,Angora,5.17
+35,wet,True,15,tabby,45.76342,male,40,3.8,4.834277,France,Angora,1.25
+19,wet,False,28,solid,45.76342,female,36,2.4,4.834277,France,Angora,2.33
+5,wet,True,49,colorpoint,39.29038,male,49,8.81,-76.61219,USA,Ragdoll,4.08
+21,wet,False,33,mitted,40.71427,female,43,4.65,-74.00597,USA,Ragdoll,2.75
+5,wet,False,84,tortie,52.520008,female,40,5.79,13.404954,Germany,Ragdoll,7.0
+39,dry,False,1,colorpoint,37.77493,male,15,0.8,-122.41942,USA,Ragdoll,0.08
+17,wet,True,16,solid,48.864716,female,50,3.3,2.349014,France,Maine coon,1.33
+1,dry,True,39,colorpoint,39.29038,male,52,6.8,-76.61219,USA,Ragdoll,3.25
+19,wet,True,78,solid,40.71427,male,70,10.9,-74.00597,USA,Maine coon,6.5
+16,dry,False,81,solid,45.42153,female,37,2.4,-75.697193,Canada,Angora,6.75
+34,dry,False,80,solid,43.65107,female,34,2.2,-79.347015,Canada,Angora,6.67
+8,wet,True,25,mitted,42.35843,female,23,4.33,-71.05977,USA,Ragdoll,2.08
+15,wet,True,101,bicolor,37.77493,female,65,7.79,-122.41942,USA,Maine coon,8.42
+19,dry,True,79,tortie,37.77493,female,48,6.53,-122.41942,USA,Ragdoll,6.58
+12,wet,True,69,bicolor,40.71427,male,43,7.13,-74.00597,USA,Ragdoll,5.75
+23,wet,False,14,solid,48.864716,female,34,3.8,2.349014,France,Angora,1.17
+40,dry,False,8,solid,53.408371,male,38,3.6,-2.991573,UK,Maine coon,0.67
+37,wet,True,32,solid,44.837789,female,38,3.9,-0.57918,France,Angora,2.67
+6,dry,False,46,colorpoint,38.89511,male,53,7.54,-77.03637,USA,Ragdoll,3.83
+37,dry,True,60,solid,38.89511,female,64,5.23,-77.03637,USA,Maine coon,5.0
+9,dry,False,76,colorpoint,51.507351,female,47,6.89,-0.127758,UK,Ragdoll,6.33
+30,dry,True,36,colorpoint,40.71427,male,51,7.65,-74.00597,USA,Ragdoll,3.0
+30,wet,True,62,solid,40.71427,female,42,6.11,-74.00597,USA,Maine coon,5.17
+10,wet,False,27,solid,43.61166,female,34,3.7,3.87771,France,Angora,2.25
+22,dry,True,74,solid,40.71427,female,45,3.65,-74.00597,USA,Maine coon,6.17
+28,dry,True,13,bicolor,53.408371,female,31,3.7,-2.991573,UK,Maine coon,1.08
+21,wet,False,47,colorpoint,41.881832,female,38,5.81,-87.623177,USA,Ragdoll,3.92
+21,wet,True,88,colorpoint,42.35843,male,47,8.95,-71.05977,USA,Ragdoll,7.33
+20,wet,True,34,solid,53.480759,female,53,3.75,-2.242631,UK,Maine coon,2.83
+21,wet,False,2,bicolor,40.71427,female,14,1.3,-74.00597,USA,Ragdoll,0.17
+17,wet,False,118,tabby,40.71427,female,72,7.57,-74.00597,USA,Maine coon,9.83
+32,dry,False,57,solid,40.71427,male,37,4.0,-74.00597,USA,Angora,4.75
+31,dry,True,43,colorpoint,44.837789,female,48,3.98,-0.57918,France,Ragdoll,3.58
+47,wet,False,7,solid,47.218371,male,22,3.0,-1.553621,France,Angora,0.58
+26,wet,True,91,colorpoint,51.049999,male,49,7.91,-114.066666,Canada,Ragdoll,7.58
+18,wet,True,55,colorpoint,37.77493,female,39,4.23,-122.41942,USA,Ragdoll,4.58
+30,wet,False,93,solid,40.71427,male,41,3.8,-74.00597,USA,Angora,7.75
+22,dry,True,56,colorpoint,37.77493,male,57,8.54,-122.41942,USA,Ragdoll,4.67
+9,wet,True,78,solid,40.71427,female,38,5.2,-74.00597,USA,Angora,6.5
+25,wet,False,94,solid,42.35843,male,37,3.5,-71.05977,USA,Angora,7.83
+24,dry,True,81,solid,49.246292,male,39,4.4,-123.116226,Canada,Angora,6.75
+34,dry,False,84,solid,47.60621,female,33,3.0,-122.33207,USA,Angora,7.0
+29,wet,True,38,colorpoint,38.89511,female,39,5.34,-77.03637,USA,Ragdoll,3.17
+13,wet,True,62,colorpoint,40.71427,female,26,4.7,-74.00597,USA,Ragdoll,5.17
+39,wet,False,2,solid,51.507351,female,15,1.1,-0.127758,UK,Maine coon,0.17
+34,wet,True,28,solid,45.76342,male,39,3.9,4.834277,France,Angora,2.33
+5,wet,True,107,tabby,40.71427,female,36,5.77,-74.00597,USA,Maine coon,8.92
+18,wet,True,81,bicolor,50.110924,male,53,7.92,8.682127,Germany,Ragdoll,6.75
+30,dry,True,51,colorpoint,38.89511,male,43,6.85,-77.03637,USA,Ragdoll,4.25
+36,dry,False,1,tabby,38.89511,male,13,0.7,-77.03637,USA,Maine coon,0.08
+14,dry,True,91,tabby,38.89511,male,40,5.5,-77.03637,USA,Angora,7.58
+38,wet,False,2,solid,45.52345,male,15,0.8,-122.67621,USA,Angora,0.17
+13,wet,False,109,solid,40.71427,male,60,8.3,-74.00597,USA,Maine coon,9.08
+25,dry,True,37,tabby,47.60621,male,39,5.1,-122.33207,USA,Angora,3.08
+36,dry,False,55,solid,38.89511,male,35,4.3,-77.03637,USA,Angora,4.58
+17,dry,False,87,solid,51.049999,male,40,4.2,-114.066666,Canada,Angora,7.25
+30,wet,True,96,colorpoint,39.29038,female,41,5.77,-76.61219,USA,Ragdoll,8.0
+29,wet,True,99,solid,40.71427,male,79,10.4,-74.00597,USA,Maine coon,8.25
+37,wet,True,52,solid,42.35843,female,34,4.3,-71.05977,USA,Angora,4.33
+36,wet,False,25,solid,48.864716,female,33,2.9,2.349014,France,Angora,2.08
+16,wet,True,116,colorpoint,40.71427,female,42,6.31,-74.00597,USA,Ragdoll,9.67
+29,dry,True,61,solid,40.71427,female,37,3.1,-74.00597,USA,Angora,5.08
+31,wet,True,96,bicolor,41.881832,female,48,4.28,-87.623177,USA,Ragdoll,8.0
+4,wet,True,88,colorpoint,40.71427,male,58,8.29,-74.00597,USA,Ragdoll,7.33
+20,dry,True,66,bicolor,47.60621,male,47,7.43,-122.33207,USA,Ragdoll,5.5
+48,wet,False,4,solid,43.61166,male,19,2.5,3.87771,France,Angora,0.33
+18,dry,True,65,solid,43.65107,male,51,9.2,-79.347015,Canada,Maine coon,5.42
+15,wet,True,67,colorpoint,50.110924,male,46,6.17,8.682127,Germany,Ragdoll,5.58
+41,wet,True,12,solid,45.76342,male,35,3.9,4.834277,France,Angora,1.0
+11,wet,True,86,tabby,42.35843,male,65,8.7,-71.05977,USA,Maine coon,7.17
+9,wet,True,54,solid,47.218371,male,37,5.6,-1.553621,France,Angora,4.5
+38,dry,True,16,tabby,48.864716,male,30,3.5,2.349014,France,Angora,1.33
+31,wet,True,73,colorpoint,38.89511,female,45,6.06,-77.03637,USA,Ragdoll,6.08
+14,wet,True,59,colorpoint,41.881832,male,47,7.19,-87.623177,USA,Ragdoll,4.92
+30,dry,False,31,solid,44.837789,female,32,3.0,-0.57918,France,Angora,2.58
+14,dry,True,31,colorpoint,39.29038,male,28,5.0,-76.61219,USA,Ragdoll,2.58
+31,wet,False,4,tortie,51.507351,female,21,3.0,-0.127758,UK,Ragdoll,0.33
+38,dry,False,51,solid,40.71427,female,33,2.7,-74.00597,USA,Angora,4.25
+18,dry,False,102,solid,45.52345,male,40,4.0,-122.67621,USA,Angora,8.5
+2,wet,True,47,colorpoint,53.800755,male,28,5.0,-1.549077,UK,Ragdoll,3.92
+42,wet,False,12,solid,43.296482,male,31,3.5,5.36978,France,Angora,1.0
+37,dry,True,51,tabby,47.60621,male,83,10.5,-122.33207,USA,Maine coon,4.25
+32,wet,False,61,colorpoint,39.29038,female,40,4.16,-76.61219,USA,Ragdoll,5.08
+30,wet,True,109,bicolor,42.35843,male,58,5.2,-71.05977,USA,Angora,9.08
+20,wet,False,36,bicolor,52.486244,male,26,4.9,-1.890401,UK,Ragdoll,3.0
+24,wet,True,118,colorpoint,37.77493,male,45,9.08,-122.41942,USA,Ragdoll,9.83
+38,wet,False,2,tabby,40.71427,male,14,1.2,-74.00597,USA,Maine coon,0.17
+18,wet,True,81,tabby,37.77493,male,75,11.7,-122.41942,USA,Maine coon,6.75
+17,dry,True,66,solid,52.520008,male,40,5.2,13.404954,Germany,Angora,5.5
+22,wet,True,13,bicolor,47.60621,female,21,3.8,-122.33207,USA,Ragdoll,1.08
+5,wet,False,35,colorpoint,42.35843,male,43,6.96,-71.05977,USA,Ragdoll,2.92
+27,wet,False,80,colorpoint,53.408371,female,26,4.0,-2.991573,UK,Ragdoll,6.67
+29,wet,True,84,tabby,50.110924,male,78,11.0,8.682127,Germany,Maine coon,7.0
+11,wet,False,48,solid,48.864716,male,54,4.0,2.349014,France,Maine coon,4.0
+37,wet,False,41,solid,52.520008,male,73,9.8,13.404954,Germany,Maine coon,3.42
+25,wet,False,32,bicolor,40.71427,male,51,5.53,-74.00597,USA,Ragdoll,2.67
+10,wet,False,67,solid,43.65107,female,39,4.76,-79.347015,Canada,Maine coon,5.58
+24,wet,True,34,colorpoint,38.89511,male,51,5.67,-77.03637,USA,Ragdoll,2.83
+33,dry,True,28,solid,43.296482,female,39,2.7,5.36978,France,Angora,2.33
+12,wet,True,111,solid,42.35843,male,66,11.3,-71.05977,USA,Maine coon,9.25
+36,dry,False,82,solid,45.508888,female,37,2.8,-73.561668,Canada,Angora,6.83
+39,wet,False,8,solid,43.296482,female,26,3.0,5.36978,France,Angora,0.67
+34,dry,False,82,solid,48.137154,female,49,8.41,11.576124,Germany,Maine coon,6.83
+31,wet,True,116,colorpoint,39.29038,female,38,6.37,-76.61219,USA,Ragdoll,9.67
+27,dry,True,31,solid,53.480759,male,85,9.6,-2.242631,UK,Maine coon,2.58
+21,wet,False,92,colorpoint,43.65107,male,45,7.03,-79.347015,Canada,Ragdoll,7.67
+2,wet,True,70,mitted,41.881832,female,39,6.9,-87.623177,USA,Ragdoll,5.83
+36,dry,False,75,tabby,47.60621,male,87,8.3,-122.33207,USA,Maine coon,6.25
+32,wet,True,44,tabby,51.507351,female,53,4.0,-0.127758,UK,Maine coon,3.67
+29,wet,True,26,colorpoint,38.89511,male,35,8.29,-77.03637,USA,Ragdoll,2.17
+6,wet,True,62,colorpoint,37.77493,male,51,7.78,-122.41942,USA,Ragdoll,5.17
+16,dry,True,114,solid,47.60621,male,87,7.3,-122.33207,USA,Maine coon,9.5
+25,wet,False,1,solid,38.89511,male,15,0.7,-77.03637,USA,Maine coon,0.08
+38,wet,True,91,solid,42.35843,male,59,8.1,-71.05977,USA,Maine coon,7.58
+26,wet,True,12,solid,53.800755,female,31,3.2,-1.549077,UK,Maine coon,1.0
+12,dry,True,89,solid,42.35843,female,42,7.27,-71.05977,USA,Maine coon,7.42
+28,dry,True,111,colorpoint,39.29038,female,48,5.49,-76.61219,USA,Ragdoll,9.25
+46,wet,False,3,solid,43.296482,female,19,2.0,5.36978,France,Angora,0.25
+18,wet,True,101,solid,53.480759,female,36,4.0,-2.242631,UK,Angora,8.42
+32,dry,False,33,solid,52.486244,female,69,7.77,-1.890401,UK,Maine coon,2.75
+29,dry,True,24,colorpoint,45.508888,male,27,4.9,-73.561668,Canada,Ragdoll,2.0
+18,dry,True,69,bicolor,42.35843,female,38,4.4,-71.05977,USA,Angora,5.75
+16,wet,False,59,solid,38.89511,female,48,4.86,-77.03637,USA,Maine coon,4.92
+27,wet,False,85,solid,45.42153,female,35,2.5,-75.697193,Canada,Angora,7.08
+22,wet,False,78,tortie,51.507351,female,26,4.1,-0.127758,UK,Ragdoll,6.5
+12,wet,True,49,solid,42.35843,male,37,5.6,-71.05977,USA,Angora,4.08
+37,dry,True,68,solid,52.520008,male,36,5.1,13.404954,Germany,Angora,5.67
+17,dry,True,84,solid,42.35843,male,63,8.9,-71.05977,USA,Maine coon,7.0
+26,wet,True,85,solid,40.71427,female,65,6.7,-74.00597,USA,Maine coon,7.08
+37,wet,True,21,tabby,43.61166,male,36,3.3,3.87771,France,Maine coon,1.75
+14,wet,True,68,colorpoint,52.520008,male,45,5.87,13.404954,Germany,Ragdoll,5.67
+9,wet,False,70,colorpoint,42.35843,female,45,7.08,-71.05977,USA,Ragdoll,5.83
+16,dry,True,28,tabby,53.408371,male,68,9.9,-2.991573,UK,Maine coon,2.33
+9,wet,True,97,bicolor,42.35843,male,41,4.2,-71.05977,USA,Angora,8.08
+14,wet,True,19,tabby,53.800755,male,54,4.5,-1.549077,UK,Maine coon,1.58
+22,wet,False,9,bicolor,53.480759,male,52,3.4,-2.242631,UK,Maine coon,0.75
+11,wet,False,49,solid,40.71427,female,35,4.7,-74.00597,USA,Angora,4.08
+4,wet,True,47,colorpoint,40.71427,male,46,7.33,-74.00597,USA,Ragdoll,3.92
+3,wet,True,91,colorpoint,45.42153,male,43,7.08,-75.697193,Canada,Ragdoll,7.58
+29,dry,True,63,solid,38.89511,female,51,7.89,-77.03637,USA,Maine coon,5.25
+10,dry,True,115,bicolor,47.60621,male,78,12.1,-122.33207,USA,Maine coon,9.58
+25,wet,False,94,solid,42.35843,male,40,4.3,-71.05977,USA,Angora,7.83
+13,wet,False,117,solid,52.486244,male,37,4.9,-1.890401,UK,Angora,9.75
+28,wet,False,35,solid,40.71427,male,39,4.1,-74.00597,USA,Angora,2.92
+10,dry,True,89,solid,42.35843,male,89,10.5,-71.05977,USA,Maine coon,7.42
+25,wet,True,69,solid,42.35843,female,38,3.2,-71.05977,USA,Angora,5.75
+17,wet,True,81,solid,43.65107,male,40,4.5,-79.347015,Canada,Angora,6.75
+16,wet,False,12,colorpoint,40.71427,female,28,4.4,-74.00597,USA,Ragdoll,1.0
+23,wet,True,92,colorpoint,51.049999,male,49,7.24,-114.066666,Canada,Ragdoll,7.67
+18,wet,False,97,solid,40.71427,female,33,3.1,-74.00597,USA,Angora,8.08
+16,dry,True,4,colorpoint,53.480759,female,22,3.2,-2.242631,UK,Ragdoll,0.33
+25,wet,False,21,solid,44.837789,female,34,4.0,-0.57918,France,Angora,1.75
+4,dry,True,119,colorpoint,39.29038,female,33,6.07,-76.61219,USA,Ragdoll,9.92
+18,dry,True,115,colorpoint,40.71427,male,48,8.58,-74.00597,USA,Ragdoll,9.58
+11,wet,False,38,solid,40.71427,female,36,4.0,-74.00597,USA,Angora,3.17
+21,wet,True,56,tabby,40.71427,male,71,7.0,-74.00597,USA,Maine coon,4.67
+18,wet,True,76,tortie,53.480759,female,38,5.6,-2.242631,UK,Ragdoll,6.33
+26,dry,False,1,bicolor,41.881832,male,10,0.8,-87.623177,USA,Ragdoll,0.08
+24,wet,False,6,solid,51.507351,female,31,3.0,-0.127758,UK,Maine coon,0.5
+12,wet,False,79,tabby,39.29038,male,40,4.2,-76.61219,USA,Angora,6.58
+20,wet,True,46,solid,39.29038,female,47,5.65,-76.61219,USA,Maine coon,3.83
+20,wet,False,110,solid,47.60621,female,35,4.1,-122.33207,USA,Angora,9.17
+3,wet,True,68,colorpoint,51.227741,female,43,7.21,6.773456,Germany,Ragdoll,5.67
+14,dry,False,116,solid,39.29038,male,39,5.2,-76.61219,USA,Angora,9.67
+25,wet,False,83,solid,52.520008,male,75,9.3,13.404954,Germany,Maine coon,6.92
+31,dry,True,34,tabby,42.35843,male,83,10.8,-71.05977,USA,Maine coon,2.83
+10,wet,True,41,colorpoint,53.800755,male,28,4.9,-1.549077,UK,Ragdoll,3.42
+10,wet,True,27,solid,52.486244,female,55,8.47,-1.890401,UK,Maine coon,2.25
+2,wet,True,39,colorpoint,45.52345,male,31,5.4,-122.67621,USA,Ragdoll,3.25
+24,dry,False,68,solid,50.110924,male,41,4.3,8.682127,Germany,Angora,5.67
+18,wet,True,82,tortie,48.137154,female,63,7.82,11.576124,Germany,Maine coon,6.83
+6,dry,True,111,colorpoint,45.52345,male,47,8.61,-122.67621,USA,Ragdoll,9.25
+16,wet,True,73,solid,37.77493,male,38,4.4,-122.41942,USA,Angora,6.08
+18,wet,True,50,tabby,40.71427,male,79,11.5,-74.00597,USA,Maine coon,4.17
+31,wet,False,1,solid,38.89511,female,13,0.8,-77.03637,USA,Angora,0.08
+11,wet,False,116,solid,39.29038,female,37,4.6,-76.61219,USA,Angora,9.67
+32,wet,False,38,colorpoint,41.881832,female,48,6.39,-87.623177,USA,Ragdoll,3.17
+22,dry,True,24,colorpoint,45.42153,female,21,4.0,-75.697193,Canada,Ragdoll,2.0
+17,wet,True,55,solid,38.89511,male,38,5.1,-77.03637,USA,Angora,4.58
+45,wet,True,112,solid,39.29038,female,64,5.18,-76.61219,USA,Maine coon,9.33
+20,wet,True,74,solid,41.881832,male,58,9.1,-87.623177,USA,Maine coon,6.17
+28,wet,False,7,colorpoint,52.520008,female,20,4.3,13.404954,Germany,Ragdoll,0.58
+9,dry,True,74,bicolor,51.507351,female,40,6.84,-0.127758,UK,Ragdoll,6.17
+4,wet,True,45,colorpoint,47.218371,male,42,6.76,-1.553621,France,Ragdoll,3.75
+27,wet,False,67,solid,52.520008,male,40,4.4,13.404954,Germany,Angora,5.58
+30,wet,False,6,solid,43.61166,female,21,3.0,3.87771,France,Angora,0.5
+12,wet,True,36,colorpoint,40.71427,male,55,9.0,-74.00597,USA,Ragdoll,3.0
+18,wet,False,95,colorpoint,42.35843,female,48,4.65,-71.05977,USA,Ragdoll,7.92
+19,wet,True,107,colorpoint,47.60621,male,52,7.18,-122.33207,USA,Ragdoll,8.92
+25,dry,True,47,solid,42.35843,female,37,3.3,-71.05977,USA,Angora,3.92
+13,wet,True,48,bicolor,51.049999,male,30,5.0,-114.066666,Canada,Ragdoll,4.0
+16,dry,True,120,colorpoint,37.77493,male,48,7.59,-122.41942,USA,Ragdoll,10.0
+23,dry,True,87,solid,38.89511,female,33,2.5,-77.03637,USA,Angora,7.25
+29,wet,False,1,colorpoint,47.60621,male,12,0.9,-122.33207,USA,Ragdoll,0.08
+13,wet,True,94,bicolor,40.71427,male,50,6.42,-74.00597,USA,Ragdoll,7.83
+39,wet,True,62,solid,50.110924,male,40,4.9,8.682127,Germany,Angora,5.17
+18,wet,False,6,colorpoint,51.507351,female,25,3.8,-0.127758,UK,Ragdoll,0.5
+26,wet,False,48,colorpoint,53.408371,female,27,4.4,-2.991573,UK,Ragdoll,4.0
+19,wet,True,14,solid,45.76342,female,25,3.0,4.834277,France,Angora,1.17
+13,dry,False,101,colorpoint,42.35843,male,53,5.99,-71.05977,USA,Ragdoll,8.42
+11,wet,False,27,tabby,44.837789,male,38,4.6,-0.57918,France,Angora,2.25
+22,wet,False,1,tortie,40.71427,female,15,0.5,-74.00597,USA,Maine coon,0.08
+2,dry,True,98,tortie,38.89511,female,38,6.99,-77.03637,USA,Ragdoll,8.17
+40,wet,True,22,solid,44.837789,female,22,2.9,-0.57918,France,Angora,1.83
+29,wet,True,63,solid,48.137154,female,31,2.4,11.576124,Germany,Angora,5.25
+11,wet,True,46,bicolor,40.71427,male,40,4.8,-74.00597,USA,Angora,3.83
+14,wet,False,55,bicolor,40.71427,female,46,5.5,-74.00597,USA,Ragdoll,4.58
+9,wet,True,62,solid,39.29038,male,68,9.7,-76.61219,USA,Maine coon,5.17
+24,dry,True,41,solid,45.52345,male,41,4.4,-122.67621,USA,Angora,3.42
+14,wet,False,59,solid,38.89511,male,41,4.9,-77.03637,USA,Angora,4.92
+40,dry,False,2,solid,40.71427,male,14,0.7,-74.00597,USA,Angora,0.17
+16,wet,True,36,solid,43.296482,male,38,5.0,5.36978,France,Angora,3.0
+55,wet,True,11,solid,44.837789,female,31,3.9,-0.57918,France,Angora,0.92
+34,dry,True,61,solid,47.60621,female,49,8.26,-122.33207,USA,Maine coon,5.08
+16,wet,True,93,solid,45.52345,male,42,4.7,-122.67621,USA,Angora,7.75
+30,wet,False,20,colorpoint,53.800755,male,31,4.7,-1.549077,UK,Ragdoll,1.67
+36,wet,True,58,tortie,38.89511,female,42,5.12,-77.03637,USA,Maine coon,4.83
+23,dry,True,61,solid,40.71427,male,85,9.8,-74.00597,USA,Maine coon,5.08
+21,wet,True,30,colorpoint,40.71427,female,24,4.88,-74.00597,USA,Ragdoll,2.5
+23,wet,False,2,tabby,53.800755,female,15,1.4,-1.549077,UK,Maine coon,0.17
+9,dry,False,85,mitted,45.52345,female,48,3.92,-122.67621,USA,Ragdoll,7.08
+31,wet,False,40,tortie,42.35843,female,39,4.72,-71.05977,USA,Ragdoll,3.33
+17,wet,False,7,colorpoint,50.110924,female,24,3.7,8.682127,Germany,Ragdoll,0.58
+20,wet,True,64,solid,44.837789,male,44,4.6,-0.57918,France,Angora,5.33
+30,dry,False,76,solid,40.71427,female,37,3.1,-74.00597,USA,Angora,6.33
+32,dry,True,43,tabby,42.35843,female,51,6.67,-71.05977,USA,Maine coon,3.58
+31,dry,False,59,solid,47.218371,male,41,5.0,-1.553621,France,Angora,4.92
+36,wet,True,44,tabby,45.52345,male,53,7.3,-122.67621,USA,Maine coon,3.67
+12,wet,False,37,solid,42.35843,female,79,6.55,-71.05977,USA,Maine coon,3.08
+37,wet,False,1,solid,40.71427,female,14,0.7,-74.00597,USA,Angora,0.08
+19,dry,True,94,colorpoint,38.89511,female,45,3.98,-77.03637,USA,Ragdoll,7.83
+36,wet,True,80,solid,42.35843,male,76,9.4,-71.05977,USA,Maine coon,6.67
+12,wet,True,25,colorpoint,42.35843,female,28,4.57,-71.05977,USA,Ragdoll,2.08
+11,wet,False,25,solid,48.864716,male,41,4.1,2.349014,France,Angora,2.08
+7,wet,True,92,colorpoint,51.049999,female,50,5.04,-114.066666,Canada,Ragdoll,7.67
+16,wet,False,88,solid,38.89511,female,39,4.3,-77.03637,USA,Angora,7.33
+27,wet,False,61,solid,42.35843,female,39,3.4,-71.05977,USA,Angora,5.08
+27,dry,True,80,solid,40.71427,male,59,8.4,-74.00597,USA,Maine coon,6.67
+36,wet,False,55,solid,40.71427,female,35,3.4,-74.00597,USA,Angora,4.58
+22,wet,True,16,solid,44.837789,male,56,3.8,-0.57918,France,Maine coon,1.33
+20,dry,True,102,solid,42.35843,male,67,10.9,-71.05977,USA,Maine coon,8.5
+51,wet,False,6,tabby,48.864716,male,21,3.0,2.349014,France,Angora,0.5
+20,wet,False,87,colorpoint,38.89511,female,50,3.66,-77.03637,USA,Ragdoll,7.25
+21,wet,True,84,solid,50.110924,female,42,3.99,8.682127,Germany,Maine coon,7.0
+30,wet,True,73,colorpoint,40.71427,female,45,5.84,-74.00597,USA,Ragdoll,6.08
+28,dry,True,50,solid,45.52345,female,35,2.8,-122.67621,USA,Angora,4.17
+17,dry,False,42,colorpoint,43.61166,female,40,4.69,3.87771,France,Ragdoll,3.5
+7,dry,False,41,colorpoint,47.60621,male,50,6.83,-122.33207,USA,Ragdoll,3.42
+11,dry,False,116,solid,40.71427,female,54,8.13,-74.00597,USA,Maine coon,9.67
+32,wet,True,82,solid,42.35843,female,36,3.6,-71.05977,USA,Angora,6.83
+27,wet,True,59,colorpoint,38.89511,female,38,6.21,-77.03637,USA,Ragdoll,4.92
+16,wet,True,88,mitted,45.52345,female,38,6.24,-122.67621,USA,Ragdoll,7.33
+24,wet,True,68,colorpoint,40.71427,male,53,7.12,-74.00597,USA,Ragdoll,5.67
+10,wet,True,20,solid,45.76342,female,35,5.0,4.834277,France,Angora,1.67
+3,wet,True,43,colorpoint,48.864716,male,45,6.79,2.349014,France,Ragdoll,3.58
+13,dry,False,18,tabby,47.218371,male,46,4.3,-1.553621,France,Maine coon,1.5
+4,dry,True,18,colorpoint,53.800755,female,23,3.9,-1.549077,UK,Ragdoll,1.5
+36,wet,True,65,bicolor,37.77493,female,48,4.15,-122.41942,USA,Maine coon,5.42
+26,wet,False,93,bicolor,43.65107,male,48,7.72,-79.347015,Canada,Ragdoll,7.75
+34,wet,False,103,colorpoint,38.89511,male,53,6.37,-77.03637,USA,Ragdoll,8.58
+40,wet,False,1,solid,51.507351,female,15,0.7,-0.127758,UK,Angora,0.08
+20,dry,True,87,colorpoint,42.35843,male,43,5.84,-71.05977,USA,Ragdoll,7.25
+23,dry,True,79,tabby,40.71427,male,41,3.8,-74.00597,USA,Angora,6.58
+26,wet,True,54,tortie,38.89511,female,45,4.33,-77.03637,USA,Ragdoll,4.5
+20,wet,False,2,tabby,51.507351,male,14,0.7,-0.127758,UK,Maine coon,0.17
+8,dry,True,109,colorpoint,38.89511,male,47,7.91,-77.03637,USA,Ragdoll,9.08
+39,wet,True,27,solid,47.218371,male,25,3.1,-1.553621,France,Angora,2.25
+44,wet,False,30,solid,44.837789,male,37,4.7,-0.57918,France,Angora,2.5
+18,wet,False,117,solid,52.486244,male,38,4.4,-1.890401,UK,Angora,9.75
+32,wet,False,44,solid,43.61166,male,37,4.6,3.87771,France,Angora,3.67
+18,dry,False,109,solid,39.29038,male,61,7.9,-76.61219,USA,Maine coon,9.08
+37,wet,False,62,solid,47.60621,male,83,10.5,-122.33207,USA,Maine coon,5.17
+44,wet,False,36,solid,37.77493,male,39,4.8,-122.41942,USA,Angora,3.0
+20,wet,True,24,colorpoint,45.42153,female,20,3.5,-75.697193,Canada,Ragdoll,2.0
+19,dry,True,76,tabby,38.89511,female,42,8.13,-77.03637,USA,Maine coon,6.33
+25,wet,False,87,colorpoint,40.71427,male,50,6.34,-74.00597,USA,Ragdoll,7.25
+18,wet,False,39,colorpoint,53.800755,male,25,4.3,-1.549077,UK,Ragdoll,3.25
+23,wet,True,70,solid,41.881832,female,35,2.6,-87.623177,USA,Angora,5.83
+13,wet,False,105,solid,39.29038,female,55,7.35,-76.61219,USA,Maine coon,8.75
+20,wet,True,108,colorpoint,38.89511,male,43,6.42,-77.03637,USA,Ragdoll,9.0
+21,dry,True,32,solid,45.76342,female,34,3.9,4.834277,France,Angora,2.67
+8,dry,False,53,colorpoint,38.89511,female,46,4.75,-77.03637,USA,Ragdoll,4.42
+18,wet,False,55,tabby,38.89511,male,58,7.5,-77.03637,USA,Maine coon,4.58
+25,dry,False,26,solid,53.480759,female,70,6.0,-2.242631,UK,Maine coon,2.17
+18,dry,True,96,colorpoint,42.35843,male,48,6.58,-71.05977,USA,Ragdoll,8.0
+17,dry,False,49,solid,40.71427,female,37,3.51,-74.00597,USA,Maine coon,4.08
+20,dry,False,43,solid,50.110924,female,71,5.79,8.682127,Germany,Maine coon,3.58
+32,dry,True,28,solid,45.76342,female,36,3.3,4.834277,France,Angora,2.33
+34,wet,True,57,solid,37.77493,female,48,6.31,-122.41942,USA,Maine coon,4.75
+30,wet,True,78,solid,47.60621,female,37,4.5,-122.33207,USA,Angora,6.5
+16,dry,True,76,solid,53.480759,female,38,4.8,-2.242631,UK,Angora,6.33
+27,wet,False,87,solid,49.246292,male,38,4.4,-123.116226,Canada,Angora,7.25
+9,wet,False,67,colorpoint,51.227741,female,42,6.52,6.773456,Germany,Ragdoll,5.58
+30,wet,True,110,colorpoint,42.35843,female,49,5.73,-71.05977,USA,Ragdoll,9.17
+10,dry,False,75,colorpoint,53.800755,female,48,6.29,-1.549077,UK,Ragdoll,6.25
+25,wet,True,78,solid,38.89511,male,39,3.5,-77.03637,USA,Angora,6.5
+26,wet,True,46,bicolor,38.89511,female,72,7.1,-77.03637,USA,Maine coon,3.83
+30,wet,False,2,colorpoint,40.71427,female,13,0.8,-74.00597,USA,Ragdoll,0.17
+13,wet,False,21,solid,51.507351,male,42,3.7,-0.127758,UK,Maine coon,1.75
+14,wet,False,57,solid,40.71427,female,38,3.9,-74.00597,USA,Angora,4.75
+20,wet,True,43,solid,41.881832,female,34,3.3,-87.623177,USA,Angora,3.58
+36,dry,False,75,tabby,40.71427,female,54,4.13,-74.00597,USA,Maine coon,6.25
+24,dry,True,40,colorpoint,42.35843,male,53,6.67,-71.05977,USA,Ragdoll,3.33
+22,wet,True,41,colorpoint,47.60621,male,29,8.5,-122.33207,USA,Ragdoll,3.42
+39,wet,True,86,tabby,39.29038,male,78,11.0,-76.61219,USA,Maine coon,7.17
+5,wet,True,86,bicolor,40.71427,male,43,9.0,-74.00597,USA,Ragdoll,7.17
+24,wet,False,64,bicolor,51.049999,female,64,6.67,-114.066666,Canada,Maine coon,5.33
+27,wet,True,95,colorpoint,45.52345,female,47,6.73,-122.67621,USA,Ragdoll,7.92
+12,wet,False,39,bicolor,47.60621,male,40,4.5,-122.33207,USA,Angora,3.25
+11,dry,False,60,solid,45.52345,male,72,8.1,-122.67621,USA,Maine coon,5.0
+12,wet,False,53,tortie,42.35843,female,46,6.62,-71.05977,USA,Maine coon,4.42
+31,wet,False,103,tabby,40.71427,male,85,9.2,-74.00597,USA,Maine coon,8.58
+18,dry,False,46,tabby,47.218371,male,39,4.0,-1.553621,France,Angora,3.83
+19,wet,True,120,solid,40.71427,female,37,3.7,-74.00597,USA,Angora,10.0
+12,wet,True,77,solid,41.881832,male,36,4.7,-87.623177,USA,Angora,6.42
+17,dry,True,31,tabby,52.486244,male,55,8.0,-1.890401,UK,Maine coon,2.58
+19,dry,True,55,solid,40.71427,male,57,8.7,-74.00597,USA,Maine coon,4.58
+5,wet,True,25,colorpoint,47.60621,male,25,6.05,-122.33207,USA,Ragdoll,2.08
+15,wet,True,57,solid,40.71427,male,84,11.3,-74.00597,USA,Maine coon,4.75
+27,dry,False,40,colorpoint,38.89511,female,50,4.88,-77.03637,USA,Ragdoll,3.33
+17,wet,False,12,bicolor,53.408371,male,46,3.5,-2.991573,UK,Maine coon,1.0
+10,wet,True,21,solid,48.864716,female,28,4.9,2.349014,France,Angora,1.75
+9,wet,True,68,colorpoint,38.89511,female,41,4.95,-77.03637,USA,Ragdoll,5.67
+30,wet,True,19,colorpoint,52.486244,female,22,4.2,-1.890401,UK,Ragdoll,1.58
+18,wet,False,103,solid,42.35843,male,39,4.4,-71.05977,USA,Angora,8.58
+34,wet,False,2,tabby,52.486244,male,16,1.1,-1.890401,UK,Maine coon,0.17
+15,wet,False,78,bicolor,47.60621,male,39,4.2,-122.33207,USA,Angora,6.5
+30,wet,True,69,solid,51.049999,female,39,6.29,-114.066666,Canada,Maine coon,5.75
+4,wet,False,73,colorpoint,40.71427,female,36,5.43,-74.00597,USA,Ragdoll,6.08
+14,wet,True,65,tabby,43.65107,female,57,8.18,-79.347015,Canada,Maine coon,5.42
+36,dry,True,48,bicolor,40.71427,female,44,3.91,-74.00597,USA,Ragdoll,4.0
+12,wet,False,88,solid,40.71427,female,79,8.5,-74.00597,USA,Maine coon,7.33
+32,wet,True,52,colorpoint,42.35843,male,49,8.2,-71.05977,USA,Ragdoll,4.33
+27,dry,True,15,tortie,45.42153,female,26,3.8,-75.697193,Canada,Ragdoll,1.25
+24,wet,True,62,solid,40.71427,female,72,5.31,-74.00597,USA,Maine coon,5.17
+31,wet,False,1,colorpoint,47.60621,male,10,0.9,-122.33207,USA,Ragdoll,0.08
+14,wet,True,116,colorpoint,41.881832,male,43,9.33,-87.623177,USA,Ragdoll,9.67
+25,wet,True,37,solid,47.60621,male,38,3.7,-122.33207,USA,Angora,3.08
+7,wet,True,61,colorpoint,38.89511,female,48,6.71,-77.03637,USA,Ragdoll,5.08
+27,wet,True,113,colorpoint,42.35843,female,45,6.48,-71.05977,USA,Ragdoll,9.42
+27,wet,False,77,tabby,39.29038,male,70,8.1,-76.61219,USA,Maine coon,6.42
+33,wet,True,53,solid,39.29038,female,77,6.39,-76.61219,USA,Maine coon,4.42
+11,wet,False,95,tabby,41.881832,male,81,7.6,-87.623177,USA,Maine coon,7.92

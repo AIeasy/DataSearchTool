@@ -1,0 +1,6195 @@
+application_id,race,work_exp,work_industry
+1,Asian,3.0,Financial Services
+2,Black,5.0,Investment Management
+3,,5.0,Technology
+4,Black,6.0,Technology
+5,Hispanic,5.0,Consulting
+6,White,6.0,Consulting
+7,Other,3.0,Technology
+8,,6.0,Financial Services
+9,White,2.0,Nonprofit/Gov
+10,Asian,3.0,Consulting
+11,White,5.0,Technology
+12,,4.0,PE/VC
+13,Hispanic,6.0,PE/VC
+14,Black,4.0,Nonprofit/Gov
+15,White,5.0,Technology
+16,,4.0,Consulting
+17,Asian,5.0,PE/VC
+18,Black,4.0,Health Care
+19,White,6.0,Financial Services
+20,,8.0,Consulting
+21,White,5.0,Investment Banking
+22,Black,6.0,Financial Services
+23,,6.0,Consulting
+24,White,6.0,PE/VC
+25,White,5.0,Consulting
+26,Asian,5.0,Technology
+27,,5.0,Consulting
+28,Other,4.0,Other
+29,Asian,7.0,Retail
+30,,5.0,Consulting
+31,,4.0,Consulting
+32,White,5.0,PE/VC
+33,Black,6.0,Investment Banking
+34,White,5.0,Consulting
+35,White,7.0,Consulting
+36,,4.0,Other
+37,Hispanic,5.0,Health Care
+38,Black,4.0,Investment Management
+39,Asian,6.0,Investment Banking
+40,Asian,3.0,PE/VC
+41,,4.0,PE/VC
+42,,7.0,Nonprofit/Gov
+43,Asian,5.0,Consulting
+44,Other,4.0,Consulting
+45,Other,5.0,Consulting
+46,Asian,4.0,Health Care
+47,,5.0,PE/VC
+48,Hispanic,7.0,Consulting
+49,Black,6.0,Other
+50,Hispanic,5.0,Consulting
+51,White,6.0,Consulting
+52,Asian,4.0,Nonprofit/Gov
+53,White,5.0,Financial Services
+54,Asian,6.0,PE/VC
+55,Black,6.0,Consulting
+56,Black,4.0,PE/VC
+57,Other,6.0,Consulting
+58,,7.0,Health Care
+59,,6.0,Consulting
+60,White,4.0,Financial Services
+61,White,5.0,Consulting
+62,Black,5.0,Financial Services
+63,,3.0,Financial Services
+64,Black,5.0,Technology
+65,White,5.0,Investment Banking
+66,,4.0,Nonprofit/Gov
+67,Other,6.0,Other
+68,White,5.0,Technology
+69,Black,4.0,Energy
+70,White,6.0,Technology
+71,,5.0,Nonprofit/Gov
+72,Hispanic,5.0,Consulting
+73,,5.0,PE/VC
+74,,5.0,Consulting
+75,,5.0,PE/VC
+76,Hispanic,4.0,Nonprofit/Gov
+77,Black,4.0,PE/VC
+78,,5.0,Nonprofit/Gov
+79,Hispanic,4.0,Other
+80,Asian,4.0,Health Care
+81,Hispanic,4.0,Technology
+82,,4.0,PE/VC
+83,Hispanic,6.0,Consulting
+84,White,6.0,Consulting
+85,Hispanic,4.0,PE/VC
+86,Hispanic,6.0,Nonprofit/Gov
+87,Hispanic,7.0,Financial Services
+88,White,5.0,Consulting
+89,Asian,6.0,Consulting
+90,Other,6.0,Consulting
+91,Hispanic,6.0,Consulting
+92,Asian,4.0,Consulting
+93,White,5.0,PE/VC
+94,White,7.0,Nonprofit/Gov
+95,White,5.0,Other
+96,Black,4.0,Consulting
+97,Asian,5.0,Technology
+98,,5.0,CPG
+99,White,5.0,Health Care
+100,White,5.0,Consulting
+101,Hispanic,6.0,Real Estate
+102,Hispanic,4.0,Investment Banking
+103,Black,6.0,Health Care
+104,,5.0,Financial Services
+105,Hispanic,4.0,Nonprofit/Gov
+106,Asian,6.0,PE/VC
+107,,4.0,Health Care
+108,White,5.0,Consulting
+109,,5.0,Other
+110,Black,4.0,PE/VC
+111,Black,6.0,Consulting
+112,Hispanic,6.0,Investment Banking
+113,Hispanic,5.0,Other
+114,Asian,7.0,Consulting
+115,Asian,5.0,Nonprofit/Gov
+116,Hispanic,4.0,Media/Entertainment
+117,White,5.0,Consulting
+118,Black,4.0,Consulting
+119,White,4.0,Financial Services
+120,,6.0,Real Estate
+121,Black,5.0,Technology
+122,,4.0,Consulting
+123,,4.0,PE/VC
+124,Asian,6.0,Technology
+125,,6.0,Technology
+126,White,6.0,PE/VC
+127,,5.0,Nonprofit/Gov
+128,Black,7.0,Nonprofit/Gov
+129,Black,7.0,Other
+130,White,6.0,Other
+131,White,4.0,Consulting
+132,Other,6.0,Other
+133,,2.0,PE/VC
+134,White,7.0,Real Estate
+135,White,6.0,Consulting
+136,Black,5.0,Consulting
+137,White,4.0,Financial Services
+138,,5.0,Consulting
+139,Asian,5.0,Investment Banking
+140,Hispanic,5.0,Technology
+141,Asian,6.0,Consulting
+142,,4.0,Investment Banking
+143,,5.0,PE/VC
+144,Asian,5.0,Nonprofit/Gov
+145,Asian,5.0,Investment Management
+146,White,6.0,Technology
+147,Black,7.0,Investment Management
+148,Black,6.0,Financial Services
+149,Asian,4.0,Investment Banking
+150,Hispanic,6.0,Technology
+151,Asian,5.0,Technology
+152,Asian,5.0,Technology
+153,,5.0,Real Estate
+154,,4.0,Consulting
+155,Asian,6.0,PE/VC
+156,White,5.0,PE/VC
+157,,6.0,Financial Services
+158,Asian,6.0,Nonprofit/Gov
+159,,6.0,Nonprofit/Gov
+160,,7.0,PE/VC
+161,White,3.0,PE/VC
+162,White,4.0,Consulting
+163,Black,4.0,PE/VC
+164,,5.0,Consulting
+165,Asian,9.0,Consulting
+166,White,4.0,Nonprofit/Gov
+167,White,3.0,Consulting
+168,Black,5.0,PE/VC
+169,,5.0,Investment Banking
+170,Black,6.0,Health Care
+171,Asian,4.0,CPG
+172,Asian,6.0,Financial Services
+173,Asian,7.0,PE/VC
+174,Hispanic,3.0,PE/VC
+175,,6.0,Nonprofit/Gov
+176,Asian,6.0,Technology
+177,White,5.0,Consulting
+178,Other,3.0,Other
+179,Asian,3.0,Consulting
+180,,4.0,Technology
+181,,4.0,Nonprofit/Gov
+182,Black,5.0,Investment Management
+183,White,5.0,Consulting
+184,,6.0,Energy
+185,,6.0,Nonprofit/Gov
+186,,6.0,Other
+187,,6.0,Technology
+188,Hispanic,5.0,Other
+189,White,6.0,PE/VC
+190,,6.0,Consulting
+191,White,5.0,Nonprofit/Gov
+192,Asian,7.0,Investment Management
+193,Black,3.0,Real Estate
+194,Asian,5.0,Energy
+195,,5.0,Financial Services
+196,White,3.0,Nonprofit/Gov
+197,,5.0,Consulting
+198,Hispanic,3.0,PE/VC
+199,Other,5.0,Consulting
+200,Hispanic,6.0,Investment Management
+201,Hispanic,5.0,Technology
+202,Black,5.0,Financial Services
+203,,6.0,Consulting
+204,,6.0,Nonprofit/Gov
+205,,3.0,Nonprofit/Gov
+206,White,8.0,Consulting
+207,Other,6.0,Consulting
+208,,6.0,Consulting
+209,White,5.0,Consulting
+210,White,5.0,Nonprofit/Gov
+211,,4.0,Nonprofit/Gov
+212,White,5.0,Technology
+213,Black,5.0,Technology
+214,White,6.0,Technology
+215,,5.0,Technology
+216,Asian,5.0,PE/VC
+217,Asian,5.0,Consulting
+218,Asian,4.0,Consulting
+219,White,3.0,Consulting
+220,Black,5.0,Technology
+221,Asian,5.0,Other
+222,Black,4.0,PE/VC
+223,White,6.0,Other
+224,Asian,5.0,Investment Banking
+225,Asian,4.0,Consulting
+226,Asian,4.0,PE/VC
+227,Asian,4.0,Consulting
+228,Black,5.0,Consulting
+229,,6.0,Other
+230,Hispanic,6.0,Nonprofit/Gov
+231,,6.0,Technology
+232,Asian,5.0,PE/VC
+233,,8.0,Technology
+234,,5.0,Nonprofit/Gov
+235,Black,4.0,Other
+236,Black,5.0,Consulting
+237,White,3.0,Consulting
+238,White,4.0,PE/VC
+239,White,5.0,Media/Entertainment
+240,Black,5.0,Health Care
+241,White,6.0,Technology
+242,Asian,4.0,Financial Services
+243,,5.0,Investment Management
+244,Asian,7.0,PE/VC
+245,Asian,6.0,Other
+246,Asian,5.0,Other
+247,,5.0,Other
+248,White,5.0,PE/VC
+249,,5.0,Consulting
+250,Hispanic,5.0,Nonprofit/Gov
+251,Asian,4.0,Investment Banking
+252,White,4.0,Nonprofit/Gov
+253,White,5.0,Financial Services
+254,Black,6.0,Health Care
+255,Black,5.0,Consulting
+256,,3.0,Nonprofit/Gov
+257,Black,4.0,Technology
+258,,4.0,Investment Banking
+259,Black,3.0,Technology
+260,Black,5.0,PE/VC
+261,,4.0,Consulting
+262,Black,6.0,Consulting
+263,White,6.0,Investment Management
+264,Hispanic,4.0,PE/VC
+265,,5.0,Technology
+266,White,5.0,Nonprofit/Gov
+267,White,5.0,Consulting
+268,Hispanic,5.0,Nonprofit/Gov
+269,Hispanic,4.0,PE/VC
+270,,5.0,Nonprofit/Gov
+271,,4.0,Consulting
+272,Other,5.0,Other
+273,Other,6.0,Investment Banking
+274,Asian,4.0,Investment Banking
+275,,5.0,Technology
+276,Asian,5.0,Consulting
+277,White,3.0,Investment Banking
+278,Black,5.0,Financial Services
+279,Black,6.0,Technology
+280,Asian,5.0,PE/VC
+281,,5.0,PE/VC
+282,White,6.0,Technology
+283,White,4.0,Investment Banking
+284,Asian,4.0,Nonprofit/Gov
+285,Black,5.0,PE/VC
+286,Asian,6.0,PE/VC
+287,,7.0,Consulting
+288,Hispanic,2.0,PE/VC
+289,Asian,3.0,Media/Entertainment
+290,,4.0,Technology
+291,Asian,7.0,Nonprofit/Gov
+292,,6.0,Nonprofit/Gov
+293,White,7.0,Nonprofit/Gov
+294,Asian,5.0,Technology
+295,Asian,4.0,Consulting
+296,Asian,5.0,Consulting
+297,,5.0,Consulting
+298,Black,5.0,Financial Services
+299,Asian,4.0,PE/VC
+300,White,3.0,Nonprofit/Gov
+301,Hispanic,5.0,Nonprofit/Gov
+302,Asian,4.0,Technology
+303,Hispanic,6.0,Technology
+304,Black,6.0,Consulting
+305,Asian,5.0,Investment Banking
+306,Hispanic,6.0,Consulting
+307,Asian,6.0,Technology
+308,Asian,4.0,PE/VC
+309,Asian,5.0,Health Care
+310,White,5.0,Investment Banking
+311,Other,5.0,Investment Management
+312,Hispanic,2.0,Investment Banking
+313,White,4.0,PE/VC
+314,Asian,5.0,Consulting
+315,White,5.0,Consulting
+316,Asian,4.0,Investment Management
+317,White,6.0,PE/VC
+318,,4.0,Health Care
+319,White,5.0,Consulting
+320,Asian,4.0,Consulting
+321,Black,6.0,Investment Banking
+322,,5.0,Other
+323,Black,6.0,Technology
+324,,5.0,Nonprofit/Gov
+325,Asian,4.0,Other
+326,Hispanic,5.0,Health Care
+327,White,4.0,Consulting
+328,,6.0,Technology
+329,White,6.0,Other
+330,Asian,4.0,Other
+331,Hispanic,5.0,Financial Services
+332,,5.0,Consulting
+333,White,5.0,Other
+334,,5.0,Financial Services
+335,,7.0,Real Estate
+336,White,6.0,PE/VC
+337,Asian,5.0,Nonprofit/Gov
+338,,4.0,Financial Services
+339,,5.0,Consulting
+340,,5.0,Consulting
+341,Other,6.0,Real Estate
+342,White,6.0,Investment Banking
+343,,4.0,Technology
+344,White,6.0,Nonprofit/Gov
+345,White,7.0,Financial Services
+346,,5.0,Investment Banking
+347,White,5.0,Technology
+348,Black,5.0,Technology
+349,White,4.0,Other
+350,Hispanic,5.0,Consulting
+351,Asian,5.0,Consulting
+352,,6.0,Financial Services
+353,White,4.0,Technology
+354,White,6.0,Consulting
+355,Black,5.0,PE/VC
+356,White,5.0,Consulting
+357,,6.0,Nonprofit/Gov
+358,,5.0,Consulting
+359,,3.0,Consulting
+360,Asian,5.0,PE/VC
+361,Black,4.0,Consulting
+362,,7.0,Health Care
+363,Black,5.0,Consulting
+364,Other,5.0,Other
+365,White,6.0,Consulting
+366,White,4.0,Consulting
+367,,6.0,PE/VC
+368,Black,6.0,Other
+369,Asian,5.0,Investment Banking
+370,White,5.0,Technology
+371,,6.0,Investment Banking
+372,White,6.0,Other
+373,Hispanic,4.0,PE/VC
+374,,4.0,Consulting
+375,Black,8.0,Technology
+376,Black,6.0,PE/VC
+377,,3.0,Financial Services
+378,,7.0,CPG
+379,Other,6.0,PE/VC
+380,,6.0,Technology
+381,White,6.0,Consulting
+382,Asian,4.0,Consulting
+383,Asian,5.0,Nonprofit/Gov
+384,,6.0,Consulting
+385,Hispanic,4.0,CPG
+386,White,5.0,Investment Banking
+387,Asian,5.0,Consulting
+388,,5.0,Health Care
+389,Hispanic,6.0,Investment Management
+390,White,6.0,Other
+391,Asian,3.0,Consulting
+392,White,4.0,Financial Services
+393,,5.0,Health Care
+394,White,5.0,Financial Services
+395,,5.0,Real Estate
+396,Other,5.0,CPG
+397,White,4.0,Financial Services
+398,White,4.0,PE/VC
+399,Hispanic,5.0,Other
+400,White,3.0,PE/VC
+401,Black,6.0,Consulting
+402,Black,6.0,PE/VC
+403,,5.0,Other
+404,White,6.0,Consulting
+405,White,4.0,PE/VC
+406,White,5.0,Investment Banking
+407,Black,5.0,Investment Banking
+408,White,6.0,Nonprofit/Gov
+409,,7.0,Investment Banking
+410,Asian,5.0,Health Care
+411,Asian,5.0,Consulting
+412,White,5.0,Consulting
+413,Asian,4.0,PE/VC
+414,Asian,6.0,PE/VC
+415,,5.0,Financial Services
+416,Asian,4.0,Technology
+417,White,5.0,Consulting
+418,Asian,5.0,Technology
+419,White,4.0,Consulting
+420,,5.0,Health Care
+421,Black,5.0,Nonprofit/Gov
+422,Asian,6.0,Investment Banking
+423,Asian,3.0,PE/VC
+424,White,4.0,Investment Banking
+425,Black,5.0,Consulting
+426,,5.0,Consulting
+427,,4.0,PE/VC
+428,Black,5.0,PE/VC
+429,,4.0,Consulting
+430,Asian,5.0,Health Care
+431,White,4.0,Consulting
+432,White,6.0,Technology
+433,White,4.0,Consulting
+434,,4.0,PE/VC
+435,Asian,5.0,Health Care
+436,Asian,5.0,Other
+437,White,5.0,Consulting
+438,Asian,3.0,Technology
+439,White,4.0,Consulting
+440,White,5.0,Technology
+441,White,7.0,PE/VC
+442,,5.0,Consulting
+443,White,4.0,Technology
+444,Hispanic,5.0,Technology
+445,White,5.0,Investment Management
+446,,5.0,Investment Banking
+447,Black,4.0,Consulting
+448,Black,4.0,Investment Banking
+449,White,5.0,Investment Banking
+450,Asian,6.0,Real Estate
+451,Black,5.0,Consulting
+452,,5.0,Consulting
+453,,4.0,Technology
+454,Asian,5.0,Nonprofit/Gov
+455,Black,6.0,Nonprofit/Gov
+456,Black,6.0,Technology
+457,White,5.0,Technology
+458,Asian,4.0,Real Estate
+459,Other,6.0,Technology
+460,Asian,5.0,Consulting
+461,Asian,3.0,PE/VC
+462,White,5.0,PE/VC
+463,,5.0,Real Estate
+464,Asian,6.0,Investment Banking
+465,White,6.0,Consulting
+466,Asian,4.0,Health Care
+467,White,5.0,Health Care
+468,Asian,4.0,Health Care
+469,Asian,4.0,Other
+470,White,6.0,Technology
+471,Hispanic,6.0,Nonprofit/Gov
+472,Black,6.0,Nonprofit/Gov
+473,Black,5.0,Investment Banking
+474,Other,5.0,Technology
+475,Hispanic,7.0,Consulting
+476,Asian,6.0,Consulting
+477,,4.0,Financial Services
+478,White,4.0,Technology
+479,Hispanic,5.0,PE/VC
+480,Hispanic,5.0,Investment Banking
+481,,2.0,PE/VC
+482,,6.0,PE/VC
+483,,6.0,Consulting
+484,Other,5.0,Financial Services
+485,,5.0,Real Estate
+486,,5.0,Nonprofit/Gov
+487,Hispanic,4.0,Media/Entertainment
+488,White,5.0,Technology
+489,,3.0,Consulting
+490,White,5.0,Nonprofit/Gov
+491,,5.0,Consulting
+492,White,3.0,PE/VC
+493,White,3.0,Nonprofit/Gov
+494,,4.0,Nonprofit/Gov
+495,White,8.0,CPG
+496,Hispanic,5.0,PE/VC
+497,White,4.0,PE/VC
+498,White,3.0,PE/VC
+499,White,5.0,Financial Services
+500,Black,5.0,PE/VC
+501,Black,3.0,Financial Services
+502,Black,5.0,PE/VC
+503,Asian,6.0,Other
+504,Black,4.0,Technology
+505,,6.0,Consulting
+506,,5.0,Consulting
+507,White,5.0,Technology
+508,Asian,4.0,Technology
+509,Asian,6.0,PE/VC
+510,White,5.0,Technology
+511,Asian,5.0,PE/VC
+512,,4.0,Investment Banking
+513,Asian,6.0,Nonprofit/Gov
+514,Asian,4.0,Consulting
+515,Other,4.0,Consulting
+516,White,5.0,Consulting
+517,,4.0,Health Care
+518,,6.0,Consulting
+519,,4.0,Real Estate
+520,Black,5.0,Health Care
+521,Asian,5.0,Nonprofit/Gov
+522,,6.0,Technology
+523,Hispanic,4.0,Financial Services
+524,,4.0,Technology
+525,,4.0,Other
+526,Hispanic,5.0,Nonprofit/Gov
+527,Asian,5.0,Technology
+528,White,5.0,Financial Services
+529,Other,5.0,Other
+530,Other,6.0,Investment Banking
+531,,5.0,Technology
+532,Asian,5.0,PE/VC
+533,Black,5.0,Investment Banking
+534,,6.0,Investment Banking
+535,White,5.0,Investment Banking
+536,Asian,5.0,Investment Banking
+537,Black,4.0,Retail
+538,Asian,6.0,PE/VC
+539,White,4.0,PE/VC
+540,Asian,5.0,Other
+541,,4.0,Consulting
+542,White,4.0,PE/VC
+543,Hispanic,5.0,Technology
+544,,4.0,Technology
+545,Hispanic,3.0,Nonprofit/Gov
+546,Hispanic,5.0,Consulting
+547,Other,4.0,Technology
+548,White,6.0,Consulting
+549,Black,4.0,Real Estate
+550,Asian,4.0,Other
+551,White,5.0,Consulting
+552,Asian,4.0,Nonprofit/Gov
+553,White,5.0,Investment Banking
+554,White,5.0,Financial Services
+555,Black,5.0,Investment Banking
+556,,4.0,Investment Banking
+557,Hispanic,5.0,PE/VC
+558,,6.0,Nonprofit/Gov
+559,White,6.0,Investment Banking
+560,,7.0,Financial Services
+561,Asian,6.0,Consulting
+562,,4.0,Consulting
+563,White,5.0,Consulting
+564,,5.0,Other
+565,Black,7.0,PE/VC
+566,Other,5.0,Other
+567,Black,4.0,PE/VC
+568,Black,4.0,Investment Management
+569,White,4.0,Other
+570,Black,6.0,Other
+571,Black,4.0,Investment Banking
+572,White,4.0,Consulting
+573,,4.0,Consulting
+574,White,4.0,Consulting
+575,,4.0,Consulting
+576,,6.0,Investment Management
+577,Asian,7.0,Technology
+578,Asian,4.0,Technology
+579,Hispanic,6.0,Technology
+580,Asian,5.0,Other
+581,White,4.0,Nonprofit/Gov
+582,Black,4.0,Nonprofit/Gov
+583,White,4.0,Investment Banking
+584,White,3.0,Consulting
+585,,5.0,Other
+586,Asian,5.0,Consulting
+587,Black,4.0,Consulting
+588,Black,3.0,PE/VC
+589,Black,5.0,Consulting
+590,White,3.0,Nonprofit/Gov
+591,,4.0,Nonprofit/Gov
+592,White,4.0,Nonprofit/Gov
+593,White,6.0,Consulting
+594,,5.0,Consulting
+595,Asian,6.0,Consulting
+596,,5.0,Financial Services
+597,White,7.0,Nonprofit/Gov
+598,,5.0,Nonprofit/Gov
+599,Asian,6.0,Real Estate
+600,,5.0,Nonprofit/Gov
+601,,5.0,Investment Management
+602,White,3.0,Other
+603,,7.0,PE/VC
+604,Black,7.0,Technology
+605,Black,6.0,Consulting
+606,White,5.0,Other
+607,,3.0,Consulting
+608,Hispanic,5.0,Technology
+609,Asian,6.0,Nonprofit/Gov
+610,Asian,6.0,Nonprofit/Gov
+611,Asian,5.0,Real Estate
+612,Asian,5.0,Technology
+613,White,5.0,PE/VC
+614,White,7.0,Consulting
+615,Black,5.0,Technology
+616,Black,5.0,PE/VC
+617,,5.0,Technology
+618,Black,5.0,Consulting
+619,Other,5.0,Health Care
+620,Asian,4.0,Consulting
+621,Other,5.0,Technology
+622,Hispanic,5.0,Technology
+623,Black,4.0,CPG
+624,Black,6.0,Consulting
+625,,7.0,Health Care
+626,,6.0,Real Estate
+627,,4.0,Technology
+628,Hispanic,5.0,Health Care
+629,Asian,6.0,Media/Entertainment
+630,Black,5.0,Investment Banking
+631,White,3.0,Consulting
+632,,6.0,Other
+633,Hispanic,5.0,Health Care
+634,Asian,4.0,Energy
+635,White,6.0,Technology
+636,,4.0,PE/VC
+637,Hispanic,5.0,Nonprofit/Gov
+638,,3.0,Consulting
+639,,5.0,Financial Services
+640,Asian,6.0,Health Care
+641,,5.0,PE/VC
+642,,5.0,Consulting
+643,Black,4.0,CPG
+644,White,6.0,Technology
+645,,5.0,Financial Services
+646,,5.0,Technology
+647,Asian,4.0,Nonprofit/Gov
+648,,6.0,PE/VC
+649,Asian,4.0,Technology
+650,Asian,6.0,Investment Banking
+651,Black,6.0,Consulting
+652,,3.0,Consulting
+653,,4.0,Consulting
+654,,4.0,Consulting
+655,,5.0,Financial Services
+656,,6.0,Consulting
+657,Asian,4.0,Technology
+658,Other,6.0,Other
+659,Other,6.0,Technology
+660,,5.0,Financial Services
+661,White,5.0,Financial Services
+662,Asian,6.0,PE/VC
+663,,4.0,Financial Services
+664,White,5.0,Financial Services
+665,,5.0,Financial Services
+666,,4.0,Technology
+667,,4.0,PE/VC
+668,Asian,7.0,Investment Management
+669,Black,6.0,Health Care
+670,,5.0,Consulting
+671,White,5.0,Health Care
+672,Hispanic,6.0,Financial Services
+673,White,4.0,Retail
+674,Other,5.0,PE/VC
+675,Black,4.0,Financial Services
+676,Hispanic,3.0,Investment Management
+677,Black,7.0,Consulting
+678,White,4.0,Consulting
+679,,3.0,Other
+680,White,6.0,Nonprofit/Gov
+681,,5.0,Consulting
+682,White,6.0,Consulting
+683,Black,4.0,Technology
+684,White,6.0,Technology
+685,White,5.0,Financial Services
+686,Other,5.0,Technology
+687,Asian,6.0,Health Care
+688,Hispanic,4.0,Consulting
+689,,6.0,Consulting
+690,White,6.0,Health Care
+691,,4.0,Consulting
+692,,5.0,Consulting
+693,,4.0,Technology
+694,,5.0,Other
+695,,6.0,Media/Entertainment
+696,Hispanic,5.0,Health Care
+697,White,5.0,PE/VC
+698,,4.0,Consulting
+699,Black,6.0,PE/VC
+700,,4.0,Investment Banking
+701,Asian,5.0,Consulting
+702,Asian,6.0,Other
+703,Black,6.0,Consulting
+704,Other,6.0,PE/VC
+705,Asian,6.0,Financial Services
+706,Asian,3.0,Investment Banking
+707,Asian,4.0,Consulting
+708,White,5.0,PE/VC
+709,,3.0,Consulting
+710,White,6.0,Consulting
+711,Asian,4.0,Retail
+712,Other,4.0,Consulting
+713,White,6.0,Consulting
+714,Asian,7.0,Consulting
+715,Asian,4.0,Retail
+716,,5.0,Nonprofit/Gov
+717,White,3.0,Consulting
+718,Hispanic,6.0,Consulting
+719,Asian,4.0,Technology
+720,,6.0,Consulting
+721,,3.0,Media/Entertainment
+722,Asian,6.0,Investment Management
+723,,5.0,Nonprofit/Gov
+724,,5.0,Health Care
+725,White,4.0,PE/VC
+726,,6.0,Nonprofit/Gov
+727,White,5.0,Financial Services
+728,Hispanic,4.0,Investment Banking
+729,,6.0,Consulting
+730,Asian,4.0,Technology
+731,White,5.0,Technology
+732,,6.0,Financial Services
+733,White,5.0,Consulting
+734,Asian,6.0,Nonprofit/Gov
+735,,5.0,Technology
+736,Black,4.0,PE/VC
+737,Black,4.0,Other
+738,Asian,3.0,Consulting
+739,White,2.0,Technology
+740,Hispanic,6.0,Investment Banking
+741,Black,5.0,Nonprofit/Gov
+742,Asian,5.0,Consulting
+743,White,4.0,Consulting
+744,White,5.0,Consulting
+745,Hispanic,5.0,Consulting
+746,White,5.0,PE/VC
+747,,4.0,Investment Banking
+748,,4.0,CPG
+749,White,4.0,Consulting
+750,,5.0,Consulting
+751,Hispanic,6.0,PE/VC
+752,,4.0,Health Care
+753,,6.0,Technology
+754,,5.0,Other
+755,Asian,3.0,Health Care
+756,Asian,5.0,Other
+757,,4.0,Nonprofit/Gov
+758,,4.0,Consulting
+759,White,3.0,Consulting
+760,Asian,6.0,Technology
+761,,5.0,Consulting
+762,Black,6.0,Consulting
+763,Asian,6.0,Consulting
+764,,5.0,Health Care
+765,Black,7.0,Consulting
+766,Black,4.0,Nonprofit/Gov
+767,,6.0,Consulting
+768,White,6.0,PE/VC
+769,Black,6.0,Technology
+770,Black,6.0,Nonprofit/Gov
+771,White,6.0,Health Care
+772,Black,5.0,Nonprofit/Gov
+773,,5.0,Technology
+774,,4.0,Consulting
+775,Black,5.0,Investment Management
+776,,3.0,Consulting
+777,Black,5.0,Other
+778,,5.0,Health Care
+779,Hispanic,4.0,Other
+780,,5.0,Investment Banking
+781,Black,6.0,Health Care
+782,Black,6.0,Investment Banking
+783,Asian,6.0,Consulting
+784,,3.0,Technology
+785,Asian,6.0,Nonprofit/Gov
+786,,6.0,Nonprofit/Gov
+787,White,4.0,Health Care
+788,,5.0,Financial Services
+789,,5.0,Consulting
+790,,5.0,Nonprofit/Gov
+791,Asian,5.0,PE/VC
+792,Hispanic,5.0,Other
+793,Black,7.0,PE/VC
+794,Black,6.0,Investment Management
+795,Asian,4.0,Financial Services
+796,,5.0,Consulting
+797,Hispanic,5.0,Financial Services
+798,,4.0,Other
+799,Hispanic,5.0,PE/VC
+800,Hispanic,5.0,Financial Services
+801,,6.0,Health Care
+802,White,3.0,Consulting
+803,,5.0,Financial Services
+804,Hispanic,7.0,PE/VC
+805,Black,4.0,Consulting
+806,,5.0,Nonprofit/Gov
+807,White,5.0,Investment Banking
+808,Asian,4.0,Investment Banking
+809,Black,4.0,Investment Banking
+810,White,5.0,PE/VC
+811,,5.0,Financial Services
+812,,6.0,Health Care
+813,White,4.0,PE/VC
+814,,4.0,Consulting
+815,Black,6.0,Nonprofit/Gov
+816,Hispanic,4.0,PE/VC
+817,White,3.0,Energy
+818,,3.0,Financial Services
+819,,4.0,Financial Services
+820,,5.0,Other
+821,,6.0,Investment Banking
+822,White,6.0,CPG
+823,,7.0,Consulting
+824,Black,5.0,PE/VC
+825,White,5.0,CPG
+826,,5.0,PE/VC
+827,Black,6.0,Technology
+828,,4.0,PE/VC
+829,Black,4.0,Health Care
+830,White,6.0,Consulting
+831,White,6.0,PE/VC
+832,Hispanic,6.0,Nonprofit/Gov
+833,White,5.0,Investment Banking
+834,Asian,4.0,Technology
+835,White,6.0,Other
+836,,4.0,Other
+837,Hispanic,6.0,Consulting
+838,,4.0,PE/VC
+839,Black,4.0,Nonprofit/Gov
+840,,6.0,Investment Banking
+841,Asian,6.0,Consulting
+842,Asian,7.0,PE/VC
+843,Asian,5.0,Consulting
+844,,3.0,Nonprofit/Gov
+845,Hispanic,6.0,PE/VC
+846,White,5.0,Financial Services
+847,,4.0,Consulting
+848,,4.0,Other
+849,Hispanic,6.0,Nonprofit/Gov
+850,Asian,6.0,Consulting
+851,White,5.0,Technology
+852,Black,6.0,Nonprofit/Gov
+853,,5.0,Retail
+854,,5.0,Health Care
+855,,5.0,Investment Banking
+856,Hispanic,4.0,Consulting
+857,Hispanic,6.0,CPG
+858,Asian,5.0,Other
+859,Hispanic,4.0,Health Care
+860,,5.0,Consulting
+861,White,4.0,Consulting
+862,White,5.0,Investment Management
+863,White,6.0,Nonprofit/Gov
+864,,7.0,Media/Entertainment
+865,,6.0,Nonprofit/Gov
+866,White,6.0,Technology
+867,White,5.0,CPG
+868,Asian,5.0,Media/Entertainment
+869,Black,7.0,Consulting
+870,Hispanic,3.0,Nonprofit/Gov
+871,,7.0,Nonprofit/Gov
+872,Asian,5.0,Consulting
+873,Hispanic,7.0,Consulting
+874,,3.0,Financial Services
+875,White,5.0,Investment Banking
+876,,5.0,Consulting
+877,Asian,6.0,Consulting
+878,Asian,5.0,Media/Entertainment
+879,White,6.0,Financial Services
+880,White,5.0,PE/VC
+881,,4.0,Other
+882,,7.0,PE/VC
+883,,5.0,Other
+884,White,7.0,Financial Services
+885,Hispanic,3.0,Financial Services
+886,Asian,5.0,Consulting
+887,Asian,7.0,Consulting
+888,Asian,4.0,Nonprofit/Gov
+889,,5.0,Consulting
+890,,3.0,Consulting
+891,Asian,5.0,PE/VC
+892,Hispanic,5.0,Other
+893,,7.0,Consulting
+894,White,5.0,Consulting
+895,Asian,6.0,Consulting
+896,,7.0,Health Care
+897,Hispanic,5.0,Technology
+898,Asian,5.0,PE/VC
+899,White,6.0,Technology
+900,Other,5.0,Nonprofit/Gov
+901,Asian,4.0,Consulting
+902,,4.0,PE/VC
+903,Black,5.0,Consulting
+904,Asian,6.0,Real Estate
+905,White,6.0,PE/VC
+906,Hispanic,6.0,Other
+907,,7.0,Consulting
+908,White,3.0,Technology
+909,Black,6.0,Consulting
+910,Asian,7.0,Investment Banking
+911,White,4.0,Consulting
+912,,6.0,Nonprofit/Gov
+913,,5.0,Technology
+914,Asian,4.0,PE/VC
+915,Black,5.0,Nonprofit/Gov
+916,White,5.0,Consulting
+917,,4.0,PE/VC
+918,,4.0,Consulting
+919,Asian,5.0,Consulting
+920,Asian,6.0,Nonprofit/Gov
+921,Hispanic,6.0,Nonprofit/Gov
+922,,4.0,Investment Management
+923,,5.0,Nonprofit/Gov
+924,,7.0,Nonprofit/Gov
+925,,5.0,Investment Banking
+926,Asian,5.0,Investment Management
+927,White,8.0,Other
+928,Hispanic,6.0,Consulting
+929,Hispanic,5.0,PE/VC
+930,Asian,5.0,Consulting
+931,Asian,5.0,Consulting
+932,White,4.0,PE/VC
+933,Asian,5.0,Other
+934,,4.0,PE/VC
+935,,5.0,Investment Banking
+936,,5.0,CPG
+937,,4.0,Consulting
+938,Black,6.0,Consulting
+939,White,3.0,Real Estate
+940,Black,4.0,Technology
+941,Asian,3.0,Consulting
+942,Asian,4.0,Nonprofit/Gov
+943,Black,5.0,Technology
+944,,6.0,Technology
+945,Hispanic,5.0,Technology
+946,Hispanic,6.0,Other
+947,Asian,5.0,Health Care
+948,Hispanic,7.0,CPG
+949,Asian,5.0,Investment Banking
+950,Hispanic,5.0,Consulting
+951,White,5.0,Financial Services
+952,White,4.0,PE/VC
+953,Black,6.0,Consulting
+954,Asian,4.0,Financial Services
+955,White,5.0,Technology
+956,Black,5.0,Consulting
+957,,4.0,PE/VC
+958,Black,5.0,PE/VC
+959,,5.0,PE/VC
+960,Asian,6.0,PE/VC
+961,,5.0,PE/VC
+962,White,6.0,Real Estate
+963,Hispanic,7.0,PE/VC
+964,,5.0,PE/VC
+965,Asian,3.0,Financial Services
+966,White,6.0,PE/VC
+967,Hispanic,5.0,Nonprofit/Gov
+968,Asian,6.0,PE/VC
+969,Asian,6.0,Technology
+970,Asian,5.0,Health Care
+971,White,7.0,Consulting
+972,,6.0,Consulting
+973,,3.0,PE/VC
+974,Asian,4.0,Other
+975,,5.0,Financial Services
+976,Black,6.0,Investment Management
+977,,5.0,PE/VC
+978,Asian,6.0,Consulting
+979,White,6.0,Consulting
+980,Asian,4.0,PE/VC
+981,White,5.0,Health Care
+982,Black,4.0,Health Care
+983,Hispanic,5.0,Financial Services
+984,Black,5.0,Technology
+985,White,5.0,Nonprofit/Gov
+986,Asian,4.0,Other
+987,Hispanic,5.0,Nonprofit/Gov
+988,Black,7.0,Real Estate
+989,,4.0,Nonprofit/Gov
+990,Other,6.0,PE/VC
+991,White,5.0,Nonprofit/Gov
+992,White,4.0,Consulting
+993,Black,3.0,PE/VC
+994,,4.0,Consulting
+995,White,5.0,PE/VC
+996,Black,5.0,Financial Services
+997,,5.0,PE/VC
+998,White,5.0,Technology
+999,Hispanic,5.0,Investment Banking
+1000,Other,6.0,Consulting
+1001,Black,5.0,PE/VC
+1002,Asian,5.0,Nonprofit/Gov
+1003,Black,3.0,Nonprofit/Gov
+1004,,5.0,PE/VC
+1005,Asian,3.0,Real Estate
+1006,White,4.0,Consulting
+1007,Asian,5.0,Consulting
+1008,Asian,6.0,Consulting
+1009,Asian,6.0,PE/VC
+1010,White,5.0,Consulting
+1011,White,5.0,Consulting
+1012,,6.0,Investment Banking
+1013,Hispanic,4.0,Health Care
+1014,White,5.0,PE/VC
+1015,,4.0,Financial Services
+1016,Other,4.0,PE/VC
+1017,Asian,7.0,CPG
+1018,,5.0,Consulting
+1019,,4.0,Nonprofit/Gov
+1020,White,5.0,PE/VC
+1021,,3.0,Consulting
+1022,Other,4.0,Consulting
+1023,Asian,6.0,Nonprofit/Gov
+1024,White,6.0,Technology
+1025,White,4.0,Consulting
+1026,White,5.0,Consulting
+1027,Hispanic,5.0,Nonprofit/Gov
+1028,Hispanic,5.0,Real Estate
+1029,White,6.0,Investment Banking
+1030,Asian,5.0,Technology
+1031,White,3.0,Consulting
+1032,Black,4.0,Consulting
+1033,Black,5.0,Technology
+1034,,5.0,Investment Management
+1035,Other,7.0,Other
+1036,,4.0,Real Estate
+1037,,4.0,Nonprofit/Gov
+1038,Black,6.0,Health Care
+1039,Asian,5.0,Technology
+1040,White,7.0,Investment Banking
+1041,White,5.0,Real Estate
+1042,Asian,5.0,Investment Banking
+1043,Hispanic,4.0,Technology
+1044,,5.0,PE/VC
+1045,,5.0,PE/VC
+1046,White,6.0,Nonprofit/Gov
+1047,,4.0,Financial Services
+1048,,5.0,Consulting
+1049,Black,4.0,Technology
+1050,White,6.0,Investment Banking
+1051,,5.0,Other
+1052,,4.0,Consulting
+1053,Hispanic,5.0,Health Care
+1054,Black,5.0,PE/VC
+1055,White,5.0,Technology
+1056,Hispanic,5.0,Investment Management
+1057,,5.0,Nonprofit/Gov
+1058,Asian,3.0,Other
+1059,Black,4.0,Health Care
+1060,Black,5.0,PE/VC
+1061,Asian,5.0,Consulting
+1062,White,4.0,Other
+1063,,7.0,Investment Management
+1064,White,4.0,Consulting
+1065,,6.0,Investment Banking
+1066,White,4.0,Other
+1067,Other,7.0,PE/VC
+1068,Asian,4.0,Consulting
+1069,Other,5.0,PE/VC
+1070,White,5.0,Health Care
+1071,Hispanic,6.0,Investment Banking
+1072,White,4.0,Technology
+1073,,5.0,PE/VC
+1074,White,6.0,Financial Services
+1075,Black,6.0,PE/VC
+1076,,5.0,Health Care
+1077,Asian,5.0,Consulting
+1078,,3.0,PE/VC
+1079,,6.0,Other
+1080,Hispanic,5.0,Nonprofit/Gov
+1081,White,5.0,Consulting
+1082,,8.0,Investment Banking
+1083,,3.0,Technology
+1084,Asian,5.0,PE/VC
+1085,White,5.0,Other
+1086,,5.0,Consulting
+1087,Asian,5.0,PE/VC
+1088,Asian,6.0,Health Care
+1089,White,6.0,PE/VC
+1090,,5.0,Nonprofit/Gov
+1091,,6.0,Financial Services
+1092,White,5.0,PE/VC
+1093,Asian,6.0,Consulting
+1094,White,5.0,Technology
+1095,White,6.0,Consulting
+1096,Other,3.0,PE/VC
+1097,,5.0,Financial Services
+1098,,5.0,Investment Banking
+1099,Hispanic,4.0,Nonprofit/Gov
+1100,Hispanic,8.0,Consulting
+1101,Asian,5.0,Nonprofit/Gov
+1102,White,5.0,Consulting
+1103,,6.0,Health Care
+1104,,5.0,Real Estate
+1105,White,5.0,Consulting
+1106,Asian,6.0,PE/VC
+1107,Hispanic,5.0,Health Care
+1108,,4.0,Consulting
+1109,Asian,5.0,Investment Banking
+1110,Other,5.0,PE/VC
+1111,Black,6.0,Technology
+1112,Other,5.0,PE/VC
+1113,Asian,4.0,PE/VC
+1114,,7.0,Real Estate
+1115,Hispanic,6.0,Consulting
+1116,,5.0,Consulting
+1117,Black,4.0,Other
+1118,White,4.0,PE/VC
+1119,,4.0,Other
+1120,,5.0,Investment Banking
+1121,White,5.0,Nonprofit/Gov
+1122,,6.0,Technology
+1123,,6.0,Health Care
+1124,,5.0,Nonprofit/Gov
+1125,White,5.0,Financial Services
+1126,Black,6.0,PE/VC
+1127,Asian,5.0,Other
+1128,,5.0,PE/VC
+1129,,7.0,Investment Banking
+1130,Black,5.0,Health Care
+1131,White,5.0,PE/VC
+1132,,5.0,Media/Entertainment
+1133,Hispanic,4.0,Technology
+1134,White,4.0,Investment Banking
+1135,,3.0,Nonprofit/Gov
+1136,Black,5.0,PE/VC
+1137,Black,4.0,Financial Services
+1138,Asian,6.0,PE/VC
+1139,Hispanic,5.0,Consulting
+1140,Hispanic,7.0,Consulting
+1141,Asian,7.0,PE/VC
+1142,,5.0,PE/VC
+1143,Asian,4.0,Other
+1144,Hispanic,4.0,CPG
+1145,Hispanic,5.0,Consulting
+1146,Hispanic,4.0,Investment Banking
+1147,Asian,4.0,Investment Banking
+1148,White,6.0,Investment Banking
+1149,,4.0,Nonprofit/Gov
+1150,Asian,5.0,Financial Services
+1151,,6.0,Consulting
+1152,Black,6.0,Investment Banking
+1153,White,5.0,Investment Banking
+1154,,6.0,PE/VC
+1155,Black,6.0,Nonprofit/Gov
+1156,White,4.0,Nonprofit/Gov
+1157,,6.0,Nonprofit/Gov
+1158,Asian,5.0,Health Care
+1159,White,5.0,Consulting
+1160,,2.0,Consulting
+1161,Asian,5.0,Consulting
+1162,,4.0,Nonprofit/Gov
+1163,,3.0,Technology
+1164,White,4.0,Investment Banking
+1165,White,5.0,PE/VC
+1166,Black,3.0,Financial Services
+1167,,4.0,Technology
+1168,Black,5.0,Nonprofit/Gov
+1169,Black,5.0,Consulting
+1170,White,3.0,Technology
+1171,Black,5.0,Investment Banking
+1172,Asian,5.0,CPG
+1173,White,5.0,Health Care
+1174,,4.0,Real Estate
+1175,,6.0,Consulting
+1176,White,5.0,Consulting
+1177,Asian,5.0,Technology
+1178,Asian,6.0,Retail
+1179,White,6.0,Technology
+1180,,5.0,Consulting
+1181,White,5.0,Investment Banking
+1182,White,4.0,Financial Services
+1183,,3.0,PE/VC
+1184,Black,4.0,Media/Entertainment
+1185,Hispanic,5.0,Media/Entertainment
+1186,Asian,4.0,Technology
+1187,White,4.0,Nonprofit/Gov
+1188,,6.0,PE/VC
+1189,Other,6.0,Consulting
+1190,,3.0,Health Care
+1191,,7.0,Consulting
+1192,,3.0,Nonprofit/Gov
+1193,White,6.0,Investment Banking
+1194,Black,4.0,Nonprofit/Gov
+1195,,4.0,Nonprofit/Gov
+1196,Black,6.0,Investment Banking
+1197,Black,5.0,Other
+1198,,5.0,Financial Services
+1199,Black,5.0,Energy
+1200,Asian,6.0,Nonprofit/Gov
+1201,Black,5.0,Consulting
+1202,Hispanic,7.0,Consulting
+1203,White,5.0,Consulting
+1204,Black,6.0,Consulting
+1205,,3.0,PE/VC
+1206,,5.0,Other
+1207,White,6.0,Technology
+1208,Black,5.0,PE/VC
+1209,,6.0,Consulting
+1210,,3.0,Technology
+1211,White,9.0,Consulting
+1212,,6.0,Health Care
+1213,Black,4.0,Investment Management
+1214,Black,5.0,Nonprofit/Gov
+1215,Asian,5.0,Technology
+1216,White,6.0,Investment Banking
+1217,White,5.0,Technology
+1218,,5.0,Health Care
+1219,White,4.0,Technology
+1220,White,3.0,Financial Services
+1221,White,5.0,Nonprofit/Gov
+1222,White,7.0,Financial Services
+1223,Other,5.0,PE/VC
+1224,,5.0,Technology
+1225,,6.0,PE/VC
+1226,White,4.0,Investment Banking
+1227,Hispanic,4.0,Consulting
+1228,Asian,6.0,PE/VC
+1229,White,5.0,Consulting
+1230,Asian,7.0,Investment Banking
+1231,Black,5.0,Nonprofit/Gov
+1232,White,6.0,Financial Services
+1233,Black,4.0,Health Care
+1234,,5.0,Technology
+1235,Black,4.0,Consulting
+1236,,7.0,PE/VC
+1237,,6.0,Investment Banking
+1238,,4.0,Other
+1239,Other,5.0,Financial Services
+1240,Black,5.0,Consulting
+1241,Hispanic,5.0,Nonprofit/Gov
+1242,White,5.0,Consulting
+1243,,5.0,PE/VC
+1244,Hispanic,4.0,Nonprofit/Gov
+1245,White,4.0,CPG
+1246,Black,5.0,Investment Banking
+1247,,4.0,Technology
+1248,White,6.0,Other
+1249,,5.0,Health Care
+1250,,4.0,Consulting
+1251,Other,4.0,Consulting
+1252,,5.0,Consulting
+1253,White,3.0,Consulting
+1254,White,5.0,Nonprofit/Gov
+1255,,5.0,Consulting
+1256,White,6.0,PE/VC
+1257,,4.0,Health Care
+1258,Asian,6.0,Consulting
+1259,Black,5.0,Investment Banking
+1260,,7.0,Consulting
+1261,Black,7.0,Consulting
+1262,Asian,5.0,Financial Services
+1263,Asian,5.0,Financial Services
+1264,White,5.0,Financial Services
+1265,,7.0,Media/Entertainment
+1266,Asian,5.0,PE/VC
+1267,Black,6.0,Media/Entertainment
+1268,White,5.0,Investment Management
+1269,Asian,6.0,PE/VC
+1270,White,4.0,PE/VC
+1271,White,5.0,CPG
+1272,,6.0,Consulting
+1273,White,4.0,CPG
+1274,,4.0,Technology
+1275,White,4.0,Consulting
+1276,,6.0,Consulting
+1277,,5.0,PE/VC
+1278,Asian,6.0,Other
+1279,White,5.0,Nonprofit/Gov
+1280,Black,5.0,Consulting
+1281,Hispanic,4.0,Investment Banking
+1282,Asian,3.0,Consulting
+1283,,5.0,Investment Banking
+1284,,5.0,Health Care
+1285,Black,5.0,Other
+1286,Asian,5.0,Consulting
+1287,,4.0,Consulting
+1288,White,6.0,Financial Services
+1289,Other,6.0,Consulting
+1290,Hispanic,5.0,Consulting
+1291,Black,5.0,Technology
+1292,White,5.0,Investment Banking
+1293,Asian,5.0,Consulting
+1294,,7.0,Consulting
+1295,,5.0,Investment Management
+1296,Hispanic,4.0,PE/VC
+1297,White,4.0,Consulting
+1298,White,7.0,Other
+1299,Black,6.0,Health Care
+1300,Asian,3.0,Investment Management
+1301,Black,4.0,Nonprofit/Gov
+1302,Hispanic,5.0,Financial Services
+1303,Asian,5.0,Technology
+1304,Other,4.0,Consulting
+1305,Other,6.0,Financial Services
+1306,Hispanic,4.0,Nonprofit/Gov
+1307,Black,5.0,Technology
+1308,,5.0,CPG
+1309,,5.0,Other
+1310,Black,5.0,Technology
+1311,,5.0,Consulting
+1312,,4.0,Other
+1313,,6.0,PE/VC
+1314,Black,5.0,Consulting
+1315,Hispanic,5.0,PE/VC
+1316,Other,4.0,Consulting
+1317,Hispanic,4.0,Nonprofit/Gov
+1318,Hispanic,5.0,Other
+1319,White,6.0,Investment Banking
+1320,Black,4.0,PE/VC
+1321,White,4.0,Nonprofit/Gov
+1322,Black,5.0,Consulting
+1323,White,5.0,Investment Banking
+1324,Black,5.0,Technology
+1325,White,5.0,Media/Entertainment
+1326,,5.0,Technology
+1327,Hispanic,6.0,Consulting
+1328,,6.0,PE/VC
+1329,Black,4.0,Consulting
+1330,Asian,4.0,Technology
+1331,,5.0,Consulting
+1332,White,7.0,Nonprofit/Gov
+1333,White,5.0,Investment Banking
+1334,,4.0,PE/VC
+1335,Asian,5.0,Nonprofit/Gov
+1336,Hispanic,6.0,Consulting
+1337,Asian,5.0,Financial Services
+1338,Asian,4.0,Technology
+1339,Asian,4.0,Consulting
+1340,Asian,6.0,Investment Banking
+1341,Asian,6.0,Technology
+1342,,6.0,Technology
+1343,Hispanic,5.0,Investment Banking
+1344,Asian,4.0,PE/VC
+1345,Asian,5.0,Consulting
+1346,,7.0,Investment Banking
+1347,,4.0,PE/VC
+1348,,6.0,Nonprofit/Gov
+1349,,1.0,PE/VC
+1350,,5.0,Technology
+1351,White,5.0,Investment Banking
+1352,White,5.0,Real Estate
+1353,Other,4.0,Nonprofit/Gov
+1354,Asian,6.0,Consulting
+1355,,6.0,Financial Services
+1356,,5.0,Investment Banking
+1357,,6.0,Nonprofit/Gov
+1358,,5.0,PE/VC
+1359,White,7.0,Investment Banking
+1360,Black,5.0,Consulting
+1361,White,5.0,Nonprofit/Gov
+1362,Other,4.0,Health Care
+1363,White,5.0,Consulting
+1364,Asian,7.0,Nonprofit/Gov
+1365,,6.0,Consulting
+1366,,4.0,Investment Banking
+1367,White,4.0,Investment Banking
+1368,Asian,5.0,Consulting
+1369,White,6.0,Consulting
+1370,Hispanic,6.0,CPG
+1371,,4.0,PE/VC
+1372,,3.0,PE/VC
+1373,Black,5.0,Other
+1374,,5.0,Investment Banking
+1375,Asian,6.0,Consulting
+1376,,5.0,Investment Banking
+1377,Black,5.0,Technology
+1378,,6.0,Investment Banking
+1379,Asian,5.0,Nonprofit/Gov
+1380,Hispanic,4.0,Consulting
+1381,White,5.0,Nonprofit/Gov
+1382,Other,5.0,Consulting
+1383,Other,3.0,Investment Banking
+1384,Asian,4.0,Nonprofit/Gov
+1385,Black,6.0,Health Care
+1386,Black,5.0,Investment Management
+1387,,5.0,Consulting
+1388,Asian,5.0,Financial Services
+1389,Asian,5.0,Technology
+1390,Hispanic,4.0,Nonprofit/Gov
+1391,,6.0,Consulting
+1392,,6.0,Consulting
+1393,,6.0,Nonprofit/Gov
+1394,White,5.0,Investment Banking
+1395,,5.0,Financial Services
+1396,,5.0,Consulting
+1397,,6.0,Technology
+1398,,6.0,Investment Management
+1399,,4.0,Investment Banking
+1400,,4.0,Consulting
+1401,Black,6.0,PE/VC
+1402,Black,4.0,Consulting
+1403,White,6.0,Consulting
+1404,Asian,5.0,PE/VC
+1405,Asian,5.0,Health Care
+1406,Hispanic,6.0,Nonprofit/Gov
+1407,Black,4.0,Nonprofit/Gov
+1408,,6.0,Consulting
+1409,Other,6.0,Other
+1410,Hispanic,6.0,Consulting
+1411,White,4.0,Investment Banking
+1412,Other,5.0,PE/VC
+1413,Hispanic,5.0,Media/Entertainment
+1414,,4.0,Consulting
+1415,White,4.0,Consulting
+1416,Other,4.0,Investment Banking
+1417,Black,3.0,Real Estate
+1418,Black,5.0,Consulting
+1419,Other,4.0,Consulting
+1420,Asian,6.0,Consulting
+1421,White,5.0,Investment Banking
+1422,Hispanic,4.0,Nonprofit/Gov
+1423,,4.0,PE/VC
+1424,White,7.0,Consulting
+1425,Asian,7.0,PE/VC
+1426,Other,5.0,Technology
+1427,White,4.0,Consulting
+1428,White,6.0,Technology
+1429,,6.0,Consulting
+1430,Black,7.0,Financial Services
+1431,Asian,4.0,Investment Banking
+1432,,4.0,CPG
+1433,Black,6.0,Retail
+1434,,5.0,Investment Banking
+1435,Hispanic,6.0,Consulting
+1436,,6.0,PE/VC
+1437,,5.0,Consulting
+1438,Black,3.0,Financial Services
+1439,,5.0,PE/VC
+1440,Black,4.0,Investment Management
+1441,Asian,4.0,PE/VC
+1442,,6.0,Nonprofit/Gov
+1443,White,4.0,Consulting
+1444,White,5.0,Health Care
+1445,Asian,7.0,Health Care
+1446,White,5.0,PE/VC
+1447,Asian,6.0,Health Care
+1448,Asian,5.0,Technology
+1449,White,5.0,Technology
+1450,Black,4.0,Consulting
+1451,White,4.0,PE/VC
+1452,White,5.0,Nonprofit/Gov
+1453,White,6.0,Nonprofit/Gov
+1454,,6.0,Other
+1455,Asian,7.0,Consulting
+1456,Asian,4.0,Investment Banking
+1457,Black,6.0,PE/VC
+1458,,4.0,Consulting
+1459,Asian,4.0,Consulting
+1460,Other,4.0,Technology
+1461,Black,6.0,Financial Services
+1462,,6.0,Consulting
+1463,Asian,5.0,CPG
+1464,,4.0,Technology
+1465,,5.0,Financial Services
+1466,Asian,5.0,Technology
+1467,,5.0,Consulting
+1468,,5.0,PE/VC
+1469,Black,4.0,Consulting
+1470,,7.0,Consulting
+1471,Hispanic,5.0,PE/VC
+1472,White,6.0,PE/VC
+1473,Hispanic,5.0,Real Estate
+1474,White,6.0,Health Care
+1475,Black,4.0,CPG
+1476,White,6.0,Consulting
+1477,White,6.0,Nonprofit/Gov
+1478,Other,5.0,Financial Services
+1479,Asian,5.0,Consulting
+1480,Other,4.0,Health Care
+1481,White,4.0,Technology
+1482,Other,4.0,Technology
+1483,,4.0,Energy
+1484,Asian,5.0,PE/VC
+1485,White,6.0,Investment Banking
+1486,,5.0,Other
+1487,White,4.0,Media/Entertainment
+1488,White,5.0,Investment Management
+1489,,6.0,Technology
+1490,Black,5.0,Nonprofit/Gov
+1491,,4.0,PE/VC
+1492,Asian,5.0,PE/VC
+1493,White,6.0,Technology
+1494,White,4.0,Real Estate
+1495,,5.0,Consulting
+1496,Black,6.0,Other
+1497,White,5.0,PE/VC
+1498,Hispanic,5.0,PE/VC
+1499,White,5.0,Other
+1500,White,5.0,Other
+1501,Asian,4.0,Health Care
+1502,Other,4.0,PE/VC
+1503,,3.0,Nonprofit/Gov
+1504,White,5.0,Nonprofit/Gov
+1505,Other,6.0,PE/VC
+1506,Black,4.0,Investment Banking
+1507,White,6.0,Nonprofit/Gov
+1508,Asian,6.0,PE/VC
+1509,Asian,5.0,Health Care
+1510,White,5.0,Investment Banking
+1511,,4.0,Other
+1512,,4.0,Other
+1513,Asian,3.0,PE/VC
+1514,White,6.0,PE/VC
+1515,Asian,5.0,Retail
+1516,White,5.0,Nonprofit/Gov
+1517,White,6.0,Health Care
+1518,White,5.0,Consulting
+1519,Black,5.0,PE/VC
+1520,White,5.0,Investment Banking
+1521,,4.0,Consulting
+1522,,5.0,Consulting
+1523,,4.0,Nonprofit/Gov
+1524,White,7.0,Investment Banking
+1525,Hispanic,5.0,Consulting
+1526,Black,5.0,PE/VC
+1527,,5.0,Investment Banking
+1528,Hispanic,5.0,Consulting
+1529,Asian,6.0,Other
+1530,,4.0,Technology
+1531,Asian,5.0,Technology
+1532,Hispanic,6.0,Consulting
+1533,,4.0,Consulting
+1534,Asian,4.0,PE/VC
+1535,Asian,6.0,Technology
+1536,White,5.0,PE/VC
+1537,Other,3.0,Consulting
+1538,Black,6.0,Investment Management
+1539,Asian,4.0,Nonprofit/Gov
+1540,,4.0,Other
+1541,,6.0,Consulting
+1542,White,5.0,Investment Banking
+1543,Black,4.0,Financial Services
+1544,,6.0,Investment Banking
+1545,Hispanic,4.0,Consulting
+1546,,5.0,Technology
+1547,White,6.0,Investment Banking
+1548,,4.0,Nonprofit/Gov
+1549,Black,5.0,Consulting
+1550,Hispanic,6.0,Health Care
+1551,,5.0,Consulting
+1552,White,5.0,Technology
+1553,,8.0,Financial Services
+1554,Hispanic,8.0,Other
+1555,White,5.0,Nonprofit/Gov
+1556,Asian,4.0,Investment Banking
+1557,,6.0,Technology
+1558,,4.0,Nonprofit/Gov
+1559,White,5.0,Consulting
+1560,,6.0,Other
+1561,Black,5.0,PE/VC
+1562,White,5.0,Investment Management
+1563,White,4.0,Consulting
+1564,Hispanic,3.0,PE/VC
+1565,White,5.0,Investment Management
+1566,,5.0,Consulting
+1567,,4.0,Nonprofit/Gov
+1568,,5.0,Financial Services
+1569,Black,5.0,Technology
+1570,White,5.0,PE/VC
+1571,Black,7.0,Investment Banking
+1572,,5.0,Health Care
+1573,White,6.0,Nonprofit/Gov
+1574,,5.0,Other
+1575,Hispanic,6.0,Investment Banking
+1576,Asian,7.0,Financial Services
+1577,White,4.0,Consulting
+1578,Asian,3.0,PE/VC
+1579,,2.0,Nonprofit/Gov
+1580,,5.0,PE/VC
+1581,,6.0,Technology
+1582,Black,6.0,Consulting
+1583,Other,5.0,Consulting
+1584,Asian,5.0,Other
+1585,,6.0,PE/VC
+1586,Hispanic,5.0,Investment Banking
+1587,Asian,3.0,Consulting
+1588,Asian,5.0,Financial Services
+1589,Black,4.0,PE/VC
+1590,,6.0,Technology
+1591,,5.0,Technology
+1592,,4.0,Technology
+1593,Hispanic,5.0,Consulting
+1594,Black,6.0,Technology
+1595,White,5.0,Consulting
+1596,White,6.0,Technology
+1597,Asian,6.0,Technology
+1598,,3.0,Consulting
+1599,,5.0,Investment Management
+1600,,5.0,Financial Services
+1601,Hispanic,4.0,Nonprofit/Gov
+1602,Asian,3.0,Technology
+1603,White,4.0,Investment Management
+1604,,5.0,Technology
+1605,White,6.0,Investment Banking
+1606,Black,5.0,Investment Banking
+1607,Asian,4.0,PE/VC
+1608,White,3.0,Consulting
+1609,Hispanic,5.0,Consulting
+1610,Asian,4.0,Technology
+1611,White,6.0,Nonprofit/Gov
+1612,,6.0,Technology
+1613,Asian,6.0,Other
+1614,White,4.0,Other
+1615,,5.0,Consulting
+1616,Asian,6.0,Consulting
+1617,White,4.0,Real Estate
+1618,Black,5.0,PE/VC
+1619,,4.0,Other
+1620,White,6.0,PE/VC
+1621,Hispanic,5.0,Financial Services
+1622,White,5.0,PE/VC
+1623,,3.0,PE/VC
+1624,Hispanic,4.0,Consulting
+1625,Asian,6.0,Consulting
+1626,Black,7.0,Investment Management
+1627,White,3.0,Technology
+1628,Black,3.0,Technology
+1629,,3.0,Financial Services
+1630,,5.0,Consulting
+1631,Black,5.0,Nonprofit/Gov
+1632,Asian,5.0,Investment Banking
+1633,Black,6.0,Technology
+1634,Asian,7.0,Consulting
+1635,Black,5.0,Energy
+1636,,5.0,Real Estate
+1637,Asian,3.0,Technology
+1638,White,5.0,PE/VC
+1639,Asian,4.0,Health Care
+1640,Black,5.0,Technology
+1641,Hispanic,6.0,Other
+1642,,5.0,Technology
+1643,,6.0,Other
+1644,Hispanic,5.0,Investment Banking
+1645,White,6.0,Consulting
+1646,Black,6.0,Consulting
+1647,,7.0,Consulting
+1648,Asian,7.0,Other
+1649,White,4.0,Nonprofit/Gov
+1650,Other,4.0,Consulting
+1651,,5.0,Consulting
+1652,Other,5.0,Technology
+1653,White,4.0,CPG
+1654,Other,5.0,Nonprofit/Gov
+1655,Asian,4.0,Technology
+1656,,6.0,Investment Banking
+1657,Hispanic,5.0,Consulting
+1658,Hispanic,4.0,Other
+1659,White,3.0,Consulting
+1660,Hispanic,5.0,Consulting
+1661,,6.0,Investment Banking
+1662,White,4.0,Health Care
+1663,White,7.0,Consulting
+1664,,5.0,Investment Banking
+1665,White,3.0,Technology
+1666,Asian,5.0,Real Estate
+1667,White,5.0,Consulting
+1668,White,5.0,Financial Services
+1669,,6.0,PE/VC
+1670,Asian,2.0,Consulting
+1671,,5.0,PE/VC
+1672,,5.0,Consulting
+1673,Hispanic,3.0,Consulting
+1674,,5.0,Health Care
+1675,,5.0,Technology
+1676,,6.0,Technology
+1677,,5.0,Retail
+1678,Black,5.0,Media/Entertainment
+1679,Asian,5.0,Consulting
+1680,,5.0,Financial Services
+1681,Black,4.0,PE/VC
+1682,,6.0,Health Care
+1683,White,4.0,Financial Services
+1684,,5.0,Investment Banking
+1685,Asian,6.0,PE/VC
+1686,,5.0,CPG
+1687,Black,6.0,Financial Services
+1688,Asian,5.0,Other
+1689,,5.0,Consulting
+1690,Hispanic,6.0,Investment Management
+1691,Black,3.0,PE/VC
+1692,White,4.0,Consulting
+1693,,6.0,Consulting
+1694,Asian,4.0,Consulting
+1695,,6.0,Technology
+1696,Asian,5.0,Technology
+1697,Asian,5.0,Investment Management
+1698,White,6.0,Financial Services
+1699,White,5.0,Consulting
+1700,Asian,4.0,Financial Services
+1701,Asian,4.0,Consulting
+1702,,4.0,Technology
+1703,,5.0,Consulting
+1704,White,3.0,Technology
+1705,Asian,6.0,Nonprofit/Gov
+1706,White,6.0,Investment Management
+1707,Asian,5.0,Technology
+1708,Other,4.0,Investment Banking
+1709,,5.0,PE/VC
+1710,Black,5.0,Investment Banking
+1711,Asian,6.0,CPG
+1712,Asian,5.0,Health Care
+1713,Asian,5.0,Investment Banking
+1714,Black,5.0,PE/VC
+1715,White,6.0,Consulting
+1716,White,5.0,Consulting
+1717,Asian,4.0,Health Care
+1718,White,5.0,Consulting
+1719,Hispanic,6.0,Other
+1720,White,4.0,Consulting
+1721,,5.0,Nonprofit/Gov
+1722,Black,5.0,Financial Services
+1723,,6.0,Investment Banking
+1724,White,7.0,PE/VC
+1725,White,5.0,Consulting
+1726,White,6.0,Consulting
+1727,Other,4.0,Consulting
+1728,,4.0,PE/VC
+1729,Asian,7.0,Other
+1730,Black,6.0,Health Care
+1731,Asian,6.0,Financial Services
+1732,White,7.0,Health Care
+1733,Hispanic,6.0,Nonprofit/Gov
+1734,White,5.0,Other
+1735,White,4.0,Other
+1736,Black,5.0,Nonprofit/Gov
+1737,Asian,2.0,Other
+1738,,5.0,Technology
+1739,,5.0,Financial Services
+1740,White,4.0,Health Care
+1741,,5.0,Other
+1742,,4.0,Technology
+1743,,4.0,Nonprofit/Gov
+1744,Asian,6.0,Consulting
+1745,Black,5.0,CPG
+1746,Other,5.0,Financial Services
+1747,,5.0,PE/VC
+1748,Asian,5.0,Consulting
+1749,Hispanic,5.0,PE/VC
+1750,Hispanic,5.0,PE/VC
+1751,Other,6.0,PE/VC
+1752,Asian,5.0,Financial Services
+1753,,5.0,Nonprofit/Gov
+1754,Other,6.0,Technology
+1755,,5.0,PE/VC
+1756,White,6.0,Nonprofit/Gov
+1757,Asian,6.0,Investment Banking
+1758,,5.0,Investment Management
+1759,Black,4.0,Financial Services
+1760,Black,6.0,Consulting
+1761,,5.0,Technology
+1762,White,5.0,Investment Banking
+1763,White,6.0,Health Care
+1764,,6.0,Financial Services
+1765,Black,6.0,Investment Banking
+1766,White,4.0,Consulting
+1767,,6.0,Nonprofit/Gov
+1768,White,5.0,PE/VC
+1769,,5.0,PE/VC
+1770,,6.0,Financial Services
+1771,,6.0,CPG
+1772,Asian,6.0,Technology
+1773,Hispanic,5.0,Consulting
+1774,Black,5.0,Consulting
+1775,White,5.0,PE/VC
+1776,Black,5.0,Consulting
+1777,,3.0,Consulting
+1778,Black,5.0,Other
+1779,,5.0,Technology
+1780,Asian,3.0,Health Care
+1781,White,5.0,Energy
+1782,Black,4.0,Consulting
+1783,Asian,4.0,Consulting
+1784,,4.0,PE/VC
+1785,Asian,5.0,Nonprofit/Gov
+1786,Black,4.0,Health Care
+1787,,6.0,PE/VC
+1788,,4.0,Investment Banking
+1789,,6.0,Other
+1790,,5.0,PE/VC
+1791,Asian,5.0,Consulting
+1792,,8.0,Investment Management
+1793,Black,5.0,Consulting
+1794,White,6.0,PE/VC
+1795,Asian,4.0,Other
+1796,White,4.0,Consulting
+1797,,4.0,Investment Banking
+1798,Black,3.0,Consulting
+1799,,5.0,Consulting
+1800,White,7.0,PE/VC
+1801,,5.0,Technology
+1802,White,6.0,Consulting
+1803,Hispanic,6.0,Consulting
+1804,Other,5.0,PE/VC
+1805,White,5.0,Financial Services
+1806,,4.0,Investment Banking
+1807,,5.0,Investment Banking
+1808,White,3.0,Financial Services
+1809,Black,5.0,Financial Services
+1810,White,5.0,Consulting
+1811,Black,5.0,Other
+1812,,5.0,Consulting
+1813,White,4.0,Other
+1814,White,5.0,Nonprofit/Gov
+1815,Black,5.0,Financial Services
+1816,,6.0,Financial Services
+1817,White,4.0,Investment Management
+1818,Asian,5.0,Consulting
+1819,,6.0,Investment Banking
+1820,White,5.0,Financial Services
+1821,Hispanic,5.0,PE/VC
+1822,Asian,6.0,Investment Banking
+1823,,5.0,Health Care
+1824,,6.0,PE/VC
+1825,White,4.0,Other
+1826,Asian,4.0,PE/VC
+1827,,3.0,Consulting
+1828,Asian,6.0,PE/VC
+1829,White,4.0,Nonprofit/Gov
+1830,Other,4.0,Other
+1831,Black,6.0,Investment Banking
+1832,,3.0,CPG
+1833,Black,5.0,PE/VC
+1834,Hispanic,5.0,Consulting
+1835,,4.0,Consulting
+1836,,5.0,Consulting
+1837,,5.0,Nonprofit/Gov
+1838,,6.0,PE/VC
+1839,Black,6.0,Consulting
+1840,White,4.0,Investment Banking
+1841,Black,5.0,PE/VC
+1842,White,6.0,Other
+1843,Other,5.0,Consulting
+1844,Hispanic,5.0,PE/VC
+1845,Asian,4.0,Health Care
+1846,Hispanic,6.0,Technology
+1847,,5.0,Consulting
+1848,White,5.0,Investment Banking
+1849,White,6.0,Health Care
+1850,White,6.0,Technology
+1851,Black,6.0,Investment Banking
+1852,,6.0,Real Estate
+1853,White,3.0,Other
+1854,,6.0,Nonprofit/Gov
+1855,Asian,6.0,Financial Services
+1856,Hispanic,6.0,Other
+1857,Hispanic,4.0,Nonprofit/Gov
+1858,Asian,4.0,PE/VC
+1859,,6.0,PE/VC
+1860,Hispanic,4.0,Nonprofit/Gov
+1861,White,5.0,PE/VC
+1862,,5.0,PE/VC
+1863,Hispanic,5.0,Investment Banking
+1864,,4.0,Technology
+1865,White,6.0,PE/VC
+1866,Other,6.0,Consulting
+1867,Hispanic,6.0,PE/VC
+1868,White,8.0,Financial Services
+1869,Asian,3.0,Financial Services
+1870,,5.0,Other
+1871,,5.0,Media/Entertainment
+1872,White,6.0,Financial Services
+1873,Asian,6.0,Technology
+1874,Hispanic,6.0,PE/VC
+1875,Hispanic,6.0,PE/VC
+1876,Asian,6.0,Other
+1877,,6.0,Other
+1878,Asian,5.0,Investment Banking
+1879,Asian,5.0,Consulting
+1880,White,5.0,Real Estate
+1881,Hispanic,6.0,Consulting
+1882,Other,5.0,Nonprofit/Gov
+1883,Black,5.0,Health Care
+1884,,4.0,PE/VC
+1885,Hispanic,5.0,Other
+1886,,5.0,Technology
+1887,,4.0,Media/Entertainment
+1888,Asian,3.0,Consulting
+1889,,6.0,Consulting
+1890,Hispanic,6.0,Consulting
+1891,,6.0,Consulting
+1892,Black,5.0,Other
+1893,Black,7.0,Financial Services
+1894,,4.0,Health Care
+1895,,4.0,Financial Services
+1896,Black,4.0,Technology
+1897,,7.0,PE/VC
+1898,White,4.0,Other
+1899,Asian,6.0,Consulting
+1900,White,6.0,Health Care
+1901,White,5.0,Technology
+1902,Hispanic,5.0,Consulting
+1903,Other,4.0,Consulting
+1904,,6.0,Investment Management
+1905,Black,6.0,Technology
+1906,White,4.0,PE/VC
+1907,,6.0,PE/VC
+1908,,6.0,PE/VC
+1909,,5.0,Consulting
+1910,Hispanic,5.0,Technology
+1911,,4.0,Consulting
+1912,,5.0,Consulting
+1913,,5.0,Nonprofit/Gov
+1914,Black,3.0,PE/VC
+1915,White,4.0,Nonprofit/Gov
+1916,,6.0,Nonprofit/Gov
+1917,,4.0,Nonprofit/Gov
+1918,White,4.0,CPG
+1919,Black,5.0,Consulting
+1920,White,5.0,Consulting
+1921,White,6.0,Nonprofit/Gov
+1922,,5.0,PE/VC
+1923,,7.0,PE/VC
+1924,Other,5.0,Nonprofit/Gov
+1925,,4.0,Health Care
+1926,White,6.0,PE/VC
+1927,,7.0,Real Estate
+1928,,3.0,Consulting
+1929,Black,5.0,Consulting
+1930,White,5.0,Consulting
+1931,White,5.0,Nonprofit/Gov
+1932,White,6.0,Investment Management
+1933,Asian,5.0,Consulting
+1934,,5.0,Nonprofit/Gov
+1935,,6.0,Consulting
+1936,,5.0,Real Estate
+1937,Asian,4.0,Technology
+1938,Black,5.0,Consulting
+1939,White,6.0,Consulting
+1940,,5.0,Investment Banking
+1941,,5.0,Investment Banking
+1942,White,3.0,Consulting
+1943,,5.0,Investment Banking
+1944,White,2.0,Media/Entertainment
+1945,White,6.0,PE/VC
+1946,,5.0,Financial Services
+1947,Black,6.0,Investment Banking
+1948,,5.0,Nonprofit/Gov
+1949,Asian,3.0,Investment Banking
+1950,,5.0,Technology
+1951,,6.0,Technology
+1952,White,5.0,Investment Banking
+1953,White,6.0,Consulting
+1954,White,6.0,PE/VC
+1955,Black,5.0,Nonprofit/Gov
+1956,White,5.0,Technology
+1957,White,5.0,Financial Services
+1958,,6.0,Investment Banking
+1959,White,5.0,Real Estate
+1960,Asian,3.0,Technology
+1961,,3.0,Consulting
+1962,White,5.0,PE/VC
+1963,,6.0,Technology
+1964,Black,6.0,Nonprofit/Gov
+1965,Asian,5.0,Financial Services
+1966,White,3.0,CPG
+1967,Black,7.0,Nonprofit/Gov
+1968,White,4.0,Consulting
+1969,Hispanic,5.0,Nonprofit/Gov
+1970,White,4.0,Consulting
+1971,Asian,5.0,Financial Services
+1972,White,6.0,Consulting
+1973,White,6.0,Consulting
+1974,White,5.0,Health Care
+1975,White,5.0,PE/VC
+1976,,6.0,Health Care
+1977,,4.0,Other
+1978,White,6.0,Consulting
+1979,,4.0,Consulting
+1980,Asian,6.0,Health Care
+1981,,6.0,PE/VC
+1982,Black,3.0,PE/VC
+1983,White,5.0,Other
+1984,White,7.0,CPG
+1985,Black,5.0,PE/VC
+1986,Asian,7.0,Consulting
+1987,,4.0,Financial Services
+1988,,6.0,Energy
+1989,White,7.0,Consulting
+1990,Asian,5.0,PE/VC
+1991,Black,5.0,Consulting
+1992,Asian,6.0,Investment Banking
+1993,,5.0,Consulting
+1994,,4.0,PE/VC
+1995,Hispanic,6.0,Investment Management
+1996,,6.0,PE/VC
+1997,White,6.0,Other
+1998,,5.0,Technology
+1999,Asian,5.0,Financial Services
+2000,Black,5.0,Investment Banking
+2001,White,6.0,Investment Management
+2002,,5.0,Technology
+2003,White,5.0,Investment Banking
+2004,White,5.0,Consulting
+2005,White,4.0,Health Care
+2006,White,7.0,Consulting
+2007,,6.0,Financial Services
+2008,Other,5.0,Technology
+2009,,5.0,PE/VC
+2010,Asian,5.0,Financial Services
+2011,White,4.0,Other
+2012,,6.0,Consulting
+2013,White,4.0,Nonprofit/Gov
+2014,Black,5.0,Health Care
+2015,White,6.0,Technology
+2016,White,5.0,Other
+2017,Hispanic,5.0,Media/Entertainment
+2018,Black,6.0,Technology
+2019,,6.0,Financial Services
+2020,Asian,6.0,Consulting
+2021,White,6.0,Technology
+2022,Asian,5.0,PE/VC
+2023,,5.0,Consulting
+2024,White,6.0,Health Care
+2025,,4.0,Nonprofit/Gov
+2026,,4.0,Health Care
+2027,Black,4.0,CPG
+2028,White,6.0,Consulting
+2029,,4.0,Consulting
+2030,,4.0,Technology
+2031,Asian,5.0,Consulting
+2032,Hispanic,4.0,Financial Services
+2033,White,4.0,Other
+2034,,4.0,Technology
+2035,White,5.0,Technology
+2036,Black,5.0,Technology
+2037,Hispanic,4.0,PE/VC
+2038,White,5.0,Financial Services
+2039,Black,5.0,Nonprofit/Gov
+2040,White,4.0,PE/VC
+2041,,5.0,Consulting
+2042,White,7.0,Consulting
+2043,White,6.0,Other
+2044,,4.0,Consulting
+2045,,5.0,Technology
+2046,Black,6.0,Consulting
+2047,Asian,5.0,Financial Services
+2048,Black,5.0,Real Estate
+2049,,5.0,Investment Banking
+2050,Black,4.0,PE/VC
+2051,Hispanic,5.0,Real Estate
+2052,White,6.0,Consulting
+2053,,4.0,Consulting
+2054,White,4.0,Consulting
+2055,,7.0,Real Estate
+2056,Black,4.0,Consulting
+2057,,5.0,Technology
+2058,Hispanic,5.0,Nonprofit/Gov
+2059,,5.0,Financial Services
+2060,,5.0,Nonprofit/Gov
+2061,,5.0,Investment Banking
+2062,,7.0,Consulting
+2063,,4.0,Consulting
+2064,Asian,5.0,Financial Services
+2065,,6.0,Consulting
+2066,Other,3.0,Other
+2067,Black,7.0,Investment Banking
+2068,Asian,4.0,PE/VC
+2069,Asian,5.0,Consulting
+2070,,3.0,Other
+2071,White,5.0,Other
+2072,White,5.0,Technology
+2073,White,7.0,PE/VC
+2074,,7.0,Investment Banking
+2075,Asian,6.0,Consulting
+2076,Asian,6.0,Consulting
+2077,,4.0,PE/VC
+2078,,4.0,Consulting
+2079,Black,6.0,Other
+2080,,5.0,Consulting
+2081,,4.0,Consulting
+2082,,6.0,Technology
+2083,White,5.0,Investment Management
+2084,Asian,6.0,CPG
+2085,Asian,7.0,Nonprofit/Gov
+2086,White,5.0,Other
+2087,Hispanic,4.0,Other
+2088,Asian,6.0,Consulting
+2089,White,4.0,Nonprofit/Gov
+2090,Asian,7.0,Consulting
+2091,Asian,6.0,Technology
+2092,Black,6.0,Other
+2093,Hispanic,6.0,Nonprofit/Gov
+2094,,5.0,Other
+2095,Other,4.0,Investment Banking
+2096,White,5.0,Consulting
+2097,White,5.0,PE/VC
+2098,Hispanic,6.0,Investment Banking
+2099,,4.0,Consulting
+2100,White,4.0,Technology
+2101,Black,5.0,PE/VC
+2102,,5.0,Nonprofit/Gov
+2103,Asian,4.0,Consulting
+2104,Asian,6.0,CPG
+2105,Black,6.0,Technology
+2106,Asian,6.0,Consulting
+2107,Black,4.0,Technology
+2108,White,7.0,Technology
+2109,Asian,5.0,Other
+2110,,5.0,PE/VC
+2111,,4.0,Technology
+2112,,5.0,PE/VC
+2113,White,4.0,Consulting
+2114,,6.0,PE/VC
+2115,White,4.0,Technology
+2116,Asian,5.0,Nonprofit/Gov
+2117,,7.0,Nonprofit/Gov
+2118,Hispanic,7.0,Real Estate
+2119,,5.0,PE/VC
+2120,,5.0,CPG
+2121,Black,5.0,Technology
+2122,,5.0,Other
+2123,Hispanic,5.0,Investment Management
+2124,,5.0,Real Estate
+2125,Hispanic,6.0,Retail
+2126,Other,5.0,Technology
+2127,Hispanic,3.0,Technology
+2128,Black,5.0,Consulting
+2129,Other,5.0,Nonprofit/Gov
+2130,,5.0,Financial Services
+2131,White,4.0,PE/VC
+2132,,4.0,Health Care
+2133,,5.0,Consulting
+2134,,6.0,PE/VC
+2135,,5.0,Consulting
+2136,White,4.0,Consulting
+2137,White,5.0,PE/VC
+2138,White,4.0,PE/VC
+2139,White,6.0,Technology
+2140,,5.0,PE/VC
+2141,,4.0,Nonprofit/Gov
+2142,,6.0,Consulting
+2143,,5.0,Nonprofit/Gov
+2144,Asian,6.0,Consulting
+2145,White,6.0,Health Care
+2146,Black,5.0,Health Care
+2147,,6.0,Investment Banking
+2148,,4.0,PE/VC
+2149,White,5.0,Financial Services
+2150,,4.0,Investment Banking
+2151,Asian,4.0,Real Estate
+2152,Asian,5.0,Investment Banking
+2153,Asian,6.0,PE/VC
+2154,Black,4.0,Consulting
+2155,Asian,5.0,Investment Banking
+2156,,6.0,Consulting
+2157,Black,5.0,PE/VC
+2158,White,7.0,Consulting
+2159,White,7.0,Consulting
+2160,White,5.0,Consulting
+2161,,6.0,Consulting
+2162,Hispanic,4.0,Real Estate
+2163,Black,5.0,Consulting
+2164,,6.0,Media/Entertainment
+2165,White,7.0,Consulting
+2166,,6.0,Consulting
+2167,,4.0,PE/VC
+2168,,6.0,Other
+2169,,4.0,Nonprofit/Gov
+2170,,4.0,Consulting
+2171,Black,5.0,Consulting
+2172,White,6.0,Nonprofit/Gov
+2173,,5.0,Nonprofit/Gov
+2174,Hispanic,3.0,Investment Banking
+2175,Hispanic,5.0,Consulting
+2176,White,4.0,Investment Banking
+2177,Black,5.0,Investment Banking
+2178,Asian,4.0,Investment Banking
+2179,Black,6.0,Consulting
+2180,,5.0,PE/VC
+2181,White,5.0,Consulting
+2182,White,6.0,Consulting
+2183,Black,5.0,Nonprofit/Gov
+2184,Asian,4.0,Consulting
+2185,Hispanic,5.0,Consulting
+2186,Hispanic,5.0,Investment Banking
+2187,,5.0,Consulting
+2188,Hispanic,5.0,Health Care
+2189,Hispanic,5.0,Nonprofit/Gov
+2190,Black,4.0,Nonprofit/Gov
+2191,,5.0,Financial Services
+2192,,6.0,Nonprofit/Gov
+2193,White,6.0,Investment Banking
+2194,Black,6.0,Other
+2195,Asian,6.0,Consulting
+2196,White,7.0,Financial Services
+2197,Asian,5.0,PE/VC
+2198,,5.0,Health Care
+2199,Asian,5.0,Consulting
+2200,Black,5.0,Consulting
+2201,Other,4.0,PE/VC
+2202,,3.0,Consulting
+2203,Asian,2.0,Financial Services
+2204,Asian,5.0,Nonprofit/Gov
+2205,White,5.0,Nonprofit/Gov
+2206,Asian,6.0,Consulting
+2207,White,6.0,Nonprofit/Gov
+2208,,5.0,Consulting
+2209,White,5.0,PE/VC
+2210,White,4.0,CPG
+2211,Asian,4.0,Investment Banking
+2212,,4.0,Technology
+2213,Black,5.0,Investment Banking
+2214,White,8.0,Nonprofit/Gov
+2215,Black,5.0,Investment Banking
+2216,Hispanic,6.0,Consulting
+2217,White,5.0,Investment Banking
+2218,Asian,4.0,Technology
+2219,White,5.0,Nonprofit/Gov
+2220,Asian,4.0,Technology
+2221,Black,6.0,Nonprofit/Gov
+2222,Asian,7.0,Other
+2223,,5.0,Consulting
+2224,,4.0,Financial Services
+2225,Black,6.0,PE/VC
+2226,Other,4.0,CPG
+2227,,4.0,Nonprofit/Gov
+2228,White,4.0,Investment Banking
+2229,White,4.0,PE/VC
+2230,Asian,4.0,Health Care
+2231,White,6.0,Consulting
+2232,,3.0,Technology
+2233,Black,5.0,Other
+2234,Asian,7.0,Other
+2235,White,6.0,Financial Services
+2236,White,3.0,Retail
+2237,Black,6.0,PE/VC
+2238,Other,5.0,Consulting
+2239,Asian,4.0,Other
+2240,White,6.0,Consulting
+2241,White,6.0,Other
+2242,Hispanic,4.0,Energy
+2243,White,4.0,Investment Banking
+2244,,5.0,Other
+2245,White,8.0,Consulting
+2246,Asian,6.0,Real Estate
+2247,,5.0,Other
+2248,Asian,5.0,Consulting
+2249,,7.0,Investment Banking
+2250,Hispanic,5.0,Investment Banking
+2251,Asian,5.0,Consulting
+2252,White,5.0,PE/VC
+2253,White,6.0,PE/VC
+2254,Asian,5.0,Financial Services
+2255,Black,5.0,Media/Entertainment
+2256,White,5.0,Technology
+2257,Asian,5.0,Consulting
+2258,Asian,3.0,Consulting
+2259,,6.0,Technology
+2260,White,5.0,Nonprofit/Gov
+2261,Asian,6.0,Consulting
+2262,,5.0,Consulting
+2263,Asian,4.0,Other
+2264,,5.0,Other
+2265,White,5.0,Nonprofit/Gov
+2266,Black,6.0,Energy
+2267,White,4.0,Technology
+2268,Asian,6.0,Nonprofit/Gov
+2269,White,4.0,Technology
+2270,White,5.0,Consulting
+2271,Asian,5.0,Technology
+2272,Black,6.0,Consulting
+2273,Asian,5.0,Investment Banking
+2274,Black,5.0,Technology
+2275,,4.0,Nonprofit/Gov
+2276,White,4.0,Investment Banking
+2277,Black,4.0,Consulting
+2278,Hispanic,4.0,Nonprofit/Gov
+2279,,5.0,Consulting
+2280,Hispanic,5.0,Other
+2281,,5.0,Financial Services
+2282,White,4.0,Nonprofit/Gov
+2283,Black,5.0,Consulting
+2284,Asian,6.0,Health Care
+2285,Hispanic,4.0,Technology
+2286,Black,4.0,Consulting
+2287,,3.0,Other
+2288,Hispanic,4.0,Financial Services
+2289,,5.0,Investment Management
+2290,White,6.0,PE/VC
+2291,White,7.0,Technology
+2292,,5.0,Nonprofit/Gov
+2293,White,6.0,Other
+2294,Black,4.0,Nonprofit/Gov
+2295,Asian,4.0,Real Estate
+2296,Black,6.0,PE/VC
+2297,Asian,7.0,Investment Banking
+2298,Asian,6.0,PE/VC
+2299,White,5.0,Other
+2300,Hispanic,5.0,Nonprofit/Gov
+2301,Asian,4.0,Media/Entertainment
+2302,White,5.0,Investment Banking
+2303,Black,4.0,Other
+2304,Asian,5.0,Financial Services
+2305,,6.0,Financial Services
+2306,White,5.0,Consulting
+2307,,5.0,Financial Services
+2308,,5.0,Consulting
+2309,White,5.0,Consulting
+2310,,5.0,Consulting
+2311,Hispanic,6.0,Consulting
+2312,Black,5.0,Nonprofit/Gov
+2313,White,6.0,PE/VC
+2314,Hispanic,4.0,Other
+2315,White,5.0,Consulting
+2316,,7.0,Consulting
+2317,Asian,7.0,Nonprofit/Gov
+2318,Other,4.0,Technology
+2319,Asian,5.0,Consulting
+2320,,4.0,Technology
+2321,Other,6.0,Technology
+2322,Black,3.0,Health Care
+2323,,4.0,PE/VC
+2324,Hispanic,3.0,PE/VC
+2325,Hispanic,4.0,PE/VC
+2326,Hispanic,6.0,Consulting
+2327,,7.0,PE/VC
+2328,Black,5.0,PE/VC
+2329,Asian,4.0,Investment Banking
+2330,Hispanic,7.0,Nonprofit/Gov
+2331,Other,7.0,Health Care
+2332,,5.0,Real Estate
+2333,,5.0,Technology
+2334,Black,6.0,CPG
+2335,Black,4.0,Media/Entertainment
+2336,Hispanic,3.0,CPG
+2337,Black,5.0,Nonprofit/Gov
+2338,Asian,5.0,Technology
+2339,,6.0,Consulting
+2340,,5.0,Technology
+2341,White,6.0,Investment Banking
+2342,White,7.0,Consulting
+2343,,4.0,Consulting
+2344,,6.0,Health Care
+2345,White,5.0,Other
+2346,,6.0,Investment Banking
+2347,White,6.0,Consulting
+2348,Black,5.0,Technology
+2349,Black,4.0,Investment Management
+2350,White,6.0,Consulting
+2351,Asian,5.0,Consulting
+2352,,3.0,Investment Banking
+2353,,5.0,Consulting
+2354,Asian,6.0,Other
+2355,,3.0,Investment Management
+2356,White,6.0,Investment Management
+2357,White,4.0,PE/VC
+2358,,4.0,Investment Management
+2359,White,5.0,Consulting
+2360,,3.0,PE/VC
+2361,White,6.0,Consulting
+2362,Black,5.0,Investment Banking
+2363,Asian,4.0,Consulting
+2364,Asian,4.0,Investment Banking
+2365,,4.0,CPG
+2366,Black,4.0,PE/VC
+2367,,4.0,Technology
+2368,Asian,6.0,Consulting
+2369,Hispanic,6.0,Investment Banking
+2370,White,5.0,Consulting
+2371,White,4.0,Investment Banking
+2372,,5.0,Financial Services
+2373,Asian,5.0,PE/VC
+2374,White,6.0,PE/VC
+2375,,6.0,Consulting
+2376,Hispanic,6.0,PE/VC
+2377,Black,5.0,Nonprofit/Gov
+2378,White,5.0,Investment Banking
+2379,,6.0,Nonprofit/Gov
+2380,White,4.0,Technology
+2381,Black,4.0,Technology
+2382,,3.0,Financial Services
+2383,,5.0,PE/VC
+2384,,4.0,Nonprofit/Gov
+2385,Hispanic,4.0,Consulting
+2386,Black,7.0,Consulting
+2387,White,3.0,Other
+2388,Hispanic,5.0,Consulting
+2389,,6.0,PE/VC
+2390,Black,6.0,Consulting
+2391,Black,6.0,Other
+2392,Black,7.0,Health Care
+2393,Hispanic,6.0,Nonprofit/Gov
+2394,White,6.0,Investment Management
+2395,,4.0,PE/VC
+2396,Asian,4.0,Nonprofit/Gov
+2397,Asian,4.0,Consulting
+2398,Black,5.0,Investment Banking
+2399,Hispanic,4.0,Other
+2400,Black,5.0,Technology
+2401,Black,5.0,Consulting
+2402,Hispanic,5.0,PE/VC
+2403,,5.0,PE/VC
+2404,Asian,6.0,Financial Services
+2405,,4.0,Nonprofit/Gov
+2406,,5.0,CPG
+2407,White,3.0,Investment Banking
+2408,,5.0,Consulting
+2409,,4.0,Consulting
+2410,,5.0,PE/VC
+2411,Black,5.0,Consulting
+2412,,5.0,Investment Banking
+2413,,6.0,PE/VC
+2414,White,5.0,Investment Banking
+2415,Hispanic,4.0,Consulting
+2416,Asian,5.0,Financial Services
+2417,Hispanic,3.0,PE/VC
+2418,Other,5.0,Nonprofit/Gov
+2419,Black,6.0,PE/VC
+2420,Black,6.0,Investment Banking
+2421,Black,5.0,Financial Services
+2422,Asian,5.0,Consulting
+2423,White,5.0,Technology
+2424,Hispanic,6.0,PE/VC
+2425,,5.0,Consulting
+2426,Other,4.0,Health Care
+2427,White,5.0,PE/VC
+2428,,7.0,Consulting
+2429,,6.0,Technology
+2430,,6.0,Investment Banking
+2431,Other,4.0,PE/VC
+2432,White,5.0,Consulting
+2433,,5.0,Investment Banking
+2434,White,4.0,Health Care
+2435,Asian,6.0,Other
+2436,Hispanic,6.0,Investment Banking
+2437,White,6.0,Consulting
+2438,Asian,7.0,Health Care
+2439,Asian,4.0,Consulting
+2440,,7.0,PE/VC
+2441,,5.0,Nonprofit/Gov
+2442,White,5.0,Financial Services
+2443,White,5.0,Financial Services
+2444,Hispanic,3.0,Financial Services
+2445,,3.0,Consulting
+2446,,3.0,Nonprofit/Gov
+2447,Asian,6.0,Financial Services
+2448,Asian,4.0,Nonprofit/Gov
+2449,White,5.0,Nonprofit/Gov
+2450,Asian,4.0,Technology
+2451,White,5.0,Investment Banking
+2452,Black,5.0,Technology
+2453,White,5.0,PE/VC
+2454,,6.0,Consulting
+2455,White,5.0,Health Care
+2456,Hispanic,5.0,Media/Entertainment
+2457,White,5.0,PE/VC
+2458,White,3.0,Other
+2459,,5.0,PE/VC
+2460,Black,6.0,Other
+2461,White,5.0,PE/VC
+2462,Other,7.0,Investment Banking
+2463,Hispanic,5.0,Investment Banking
+2464,White,5.0,Investment Banking
+2465,Asian,5.0,PE/VC
+2466,,5.0,Nonprofit/Gov
+2467,White,5.0,Consulting
+2468,Asian,4.0,Nonprofit/Gov
+2469,,4.0,Technology
+2470,Black,5.0,Consulting
+2471,White,6.0,Other
+2472,Black,5.0,Health Care
+2473,Black,4.0,PE/VC
+2474,Hispanic,5.0,PE/VC
+2475,,4.0,Nonprofit/Gov
+2476,,6.0,Investment Banking
+2477,,7.0,Consulting
+2478,Asian,6.0,PE/VC
+2479,Black,5.0,PE/VC
+2480,Black,5.0,Financial Services
+2481,,4.0,Consulting
+2482,Asian,6.0,Consulting
+2483,,5.0,Health Care
+2484,,3.0,Investment Banking
+2485,,5.0,PE/VC
+2486,,5.0,Investment Banking
+2487,White,6.0,Other
+2488,Black,4.0,Health Care
+2489,White,7.0,Consulting
+2490,White,6.0,Consulting
+2491,Asian,3.0,Health Care
+2492,Asian,2.0,Nonprofit/Gov
+2493,White,4.0,Consulting
+2494,,7.0,Nonprofit/Gov
+2495,,5.0,Consulting
+2496,,4.0,Investment Banking
+2497,Black,5.0,PE/VC
+2498,Asian,2.0,Technology
+2499,,5.0,Technology
+2500,,6.0,Investment Banking
+2501,,5.0,Nonprofit/Gov
+2502,White,5.0,Health Care
+2503,Hispanic,4.0,Nonprofit/Gov
+2504,Other,3.0,Consulting
+2505,White,7.0,Technology
+2506,,6.0,PE/VC
+2507,Hispanic,5.0,Other
+2508,,4.0,Investment Banking
+2509,,4.0,PE/VC
+2510,Black,5.0,Investment Management
+2511,,5.0,Consulting
+2512,Asian,5.0,Investment Management
+2513,Black,5.0,PE/VC
+2514,Asian,5.0,Investment Banking
+2515,Other,4.0,Investment Banking
+2516,White,5.0,PE/VC
+2517,Hispanic,5.0,Technology
+2518,Hispanic,3.0,Consulting
+2519,Hispanic,4.0,Financial Services
+2520,Other,5.0,Consulting
+2521,,5.0,Investment Banking
+2522,White,4.0,Consulting
+2523,White,4.0,Investment Banking
+2524,White,6.0,Technology
+2525,,5.0,Investment Banking
+2526,White,5.0,Nonprofit/Gov
+2527,White,6.0,PE/VC
+2528,,4.0,Investment Banking
+2529,White,5.0,PE/VC
+2530,Black,7.0,Consulting
+2531,,6.0,Other
+2532,White,5.0,PE/VC
+2533,Hispanic,6.0,Consulting
+2534,,5.0,Consulting
+2535,White,6.0,PE/VC
+2536,Hispanic,4.0,Financial Services
+2537,Asian,6.0,Technology
+2538,Asian,4.0,Financial Services
+2539,,4.0,Consulting
+2540,,7.0,Investment Banking
+2541,,7.0,Investment Banking
+2542,Hispanic,7.0,CPG
+2543,Black,6.0,PE/VC
+2544,Hispanic,4.0,Nonprofit/Gov
+2545,Asian,6.0,Nonprofit/Gov
+2546,Asian,4.0,Nonprofit/Gov
+2547,Asian,5.0,Consulting
+2548,,6.0,Technology
+2549,,5.0,Technology
+2550,White,4.0,PE/VC
+2551,White,3.0,Real Estate
+2552,White,5.0,Investment Banking
+2553,Black,4.0,Consulting
+2554,Other,5.0,Real Estate
+2555,Black,5.0,Financial Services
+2556,,5.0,PE/VC
+2557,Black,6.0,Consulting
+2558,Asian,4.0,Technology
+2559,,4.0,PE/VC
+2560,,6.0,Nonprofit/Gov
+2561,,3.0,PE/VC
+2562,,5.0,Health Care
+2563,Asian,5.0,PE/VC
+2564,Asian,4.0,Consulting
+2565,,6.0,PE/VC
+2566,White,4.0,Other
+2567,Asian,6.0,CPG
+2568,,5.0,Other
+2569,Hispanic,6.0,Consulting
+2570,Hispanic,4.0,Health Care
+2571,Asian,7.0,PE/VC
+2572,White,5.0,Nonprofit/Gov
+2573,Hispanic,6.0,Real Estate
+2574,Hispanic,6.0,Consulting
+2575,,6.0,Energy
+2576,Asian,6.0,Nonprofit/Gov
+2577,,3.0,Health Care
+2578,White,6.0,Health Care
+2579,,6.0,Health Care
+2580,Asian,6.0,Technology
+2581,,5.0,PE/VC
+2582,White,4.0,Technology
+2583,Asian,6.0,PE/VC
+2584,White,5.0,Technology
+2585,,4.0,Consulting
+2586,Black,6.0,Technology
+2587,Hispanic,5.0,Nonprofit/Gov
+2588,Hispanic,7.0,PE/VC
+2589,Asian,5.0,Investment Banking
+2590,White,6.0,Financial Services
+2591,Black,6.0,Technology
+2592,White,4.0,CPG
+2593,White,7.0,Consulting
+2594,Asian,7.0,Consulting
+2595,,4.0,Other
+2596,Asian,6.0,Other
+2597,,4.0,Health Care
+2598,,5.0,Technology
+2599,White,8.0,Technology
+2600,,4.0,PE/VC
+2601,Asian,5.0,PE/VC
+2602,White,6.0,PE/VC
+2603,White,5.0,Investment Banking
+2604,,5.0,Nonprofit/Gov
+2605,White,4.0,Nonprofit/Gov
+2606,Black,6.0,Nonprofit/Gov
+2607,,7.0,Nonprofit/Gov
+2608,Asian,6.0,Investment Management
+2609,Asian,6.0,Consulting
+2610,,6.0,Financial Services
+2611,,6.0,PE/VC
+2612,Black,4.0,Investment Banking
+2613,,4.0,Consulting
+2614,,5.0,Health Care
+2615,White,4.0,Financial Services
+2616,Asian,5.0,Consulting
+2617,Hispanic,5.0,Consulting
+2618,White,4.0,Consulting
+2619,White,5.0,Consulting
+2620,,5.0,Technology
+2621,Other,6.0,Investment Banking
+2622,Asian,5.0,Consulting
+2623,White,7.0,Nonprofit/Gov
+2624,Black,6.0,Consulting
+2625,Hispanic,5.0,Technology
+2626,Asian,5.0,Consulting
+2627,Asian,4.0,PE/VC
+2628,Asian,6.0,Real Estate
+2629,,5.0,Financial Services
+2630,White,4.0,Nonprofit/Gov
+2631,,5.0,Consulting
+2632,,3.0,PE/VC
+2633,Asian,6.0,CPG
+2634,Black,6.0,PE/VC
+2635,,5.0,Investment Management
+2636,Other,5.0,Technology
+2637,,6.0,Investment Banking
+2638,Asian,6.0,Health Care
+2639,Asian,4.0,Health Care
+2640,Asian,7.0,Nonprofit/Gov
+2641,,5.0,PE/VC
+2642,Asian,4.0,Consulting
+2643,Asian,4.0,Technology
+2644,Asian,5.0,PE/VC
+2645,,5.0,Other
+2646,White,5.0,Consulting
+2647,,6.0,PE/VC
+2648,Hispanic,5.0,PE/VC
+2649,Asian,5.0,Investment Banking
+2650,Black,5.0,Investment Banking
+2651,White,5.0,Technology
+2652,,6.0,Health Care
+2653,Other,4.0,Investment Banking
+2654,White,5.0,Investment Management
+2655,,7.0,Technology
+2656,Asian,3.0,Investment Banking
+2657,Hispanic,6.0,Financial Services
+2658,Asian,5.0,Health Care
+2659,White,4.0,Technology
+2660,,5.0,Technology
+2661,,5.0,Consulting
+2662,Asian,6.0,Consulting
+2663,Hispanic,5.0,PE/VC
+2664,Black,5.0,PE/VC
+2665,White,5.0,Consulting
+2666,,5.0,Nonprofit/Gov
+2667,Asian,6.0,Consulting
+2668,,8.0,Financial Services
+2669,,5.0,Technology
+2670,Black,5.0,Consulting
+2671,,6.0,Consulting
+2672,Asian,4.0,Consulting
+2673,Hispanic,6.0,Nonprofit/Gov
+2674,Asian,4.0,Technology
+2675,Black,6.0,Health Care
+2676,,4.0,Consulting
+2677,Black,5.0,Financial Services
+2678,,4.0,Investment Banking
+2679,Asian,6.0,Consulting
+2680,Black,4.0,Other
+2681,,6.0,Investment Banking
+2682,Asian,5.0,Investment Banking
+2683,Hispanic,5.0,CPG
+2684,Asian,6.0,Technology
+2685,White,6.0,Consulting
+2686,,5.0,Investment Banking
+2687,Black,4.0,Media/Entertainment
+2688,,4.0,Consulting
+2689,Other,6.0,Consulting
+2690,Black,5.0,Consulting
+2691,,4.0,Consulting
+2692,White,5.0,Technology
+2693,White,5.0,Consulting
+2694,Asian,5.0,Nonprofit/Gov
+2695,Black,5.0,PE/VC
+2696,,5.0,Retail
+2697,Hispanic,5.0,Health Care
+2698,,5.0,Financial Services
+2699,White,5.0,Consulting
+2700,White,6.0,Health Care
+2701,White,4.0,Other
+2702,Asian,4.0,PE/VC
+2703,White,6.0,Other
+2704,,6.0,Other
+2705,White,4.0,PE/VC
+2706,White,7.0,Investment Banking
+2707,Asian,5.0,PE/VC
+2708,White,4.0,Nonprofit/Gov
+2709,,4.0,Consulting
+2710,Hispanic,6.0,Health Care
+2711,,4.0,Consulting
+2712,Black,6.0,Consulting
+2713,Black,8.0,Consulting
+2714,,5.0,Consulting
+2715,White,5.0,Other
+2716,White,5.0,Consulting
+2717,Black,6.0,Nonprofit/Gov
+2718,Asian,3.0,Investment Banking
+2719,,5.0,Nonprofit/Gov
+2720,Other,6.0,Consulting
+2721,,4.0,Financial Services
+2722,White,5.0,Technology
+2723,Other,6.0,Other
+2724,,5.0,Consulting
+2725,Asian,3.0,Technology
+2726,White,5.0,PE/VC
+2727,,6.0,Technology
+2728,Asian,4.0,Consulting
+2729,Black,5.0,Health Care
+2730,Black,4.0,Nonprofit/Gov
+2731,Other,4.0,Investment Banking
+2732,Asian,6.0,Consulting
+2733,White,5.0,Investment Banking
+2734,Black,4.0,Investment Banking
+2735,White,4.0,PE/VC
+2736,,4.0,Consulting
+2737,White,6.0,Investment Banking
+2738,Black,4.0,Consulting
+2739,,4.0,Investment Banking
+2740,Asian,5.0,Consulting
+2741,Black,5.0,Technology
+2742,White,5.0,Consulting
+2743,White,6.0,Consulting
+2744,,4.0,Nonprofit/Gov
+2745,,5.0,Consulting
+2746,Black,5.0,Consulting
+2747,Hispanic,4.0,Other
+2748,White,4.0,Consulting
+2749,White,6.0,Investment Management
+2750,,5.0,Consulting
+2751,Asian,5.0,Consulting
+2752,White,6.0,Other
+2753,White,5.0,Health Care
+2754,White,4.0,Investment Banking
+2755,Hispanic,5.0,Other
+2756,Black,4.0,Nonprofit/Gov
+2757,White,5.0,PE/VC
+2758,Black,5.0,Financial Services
+2759,Hispanic,3.0,Investment Management
+2760,Black,5.0,Consulting
+2761,,5.0,Technology
+2762,,5.0,Consulting
+2763,Asian,4.0,Nonprofit/Gov
+2764,Asian,6.0,Technology
+2765,,3.0,PE/VC
+2766,Black,4.0,Technology
+2767,White,5.0,Consulting
+2768,Black,6.0,Other
+2769,Asian,4.0,Consulting
+2770,Black,5.0,Consulting
+2771,White,6.0,PE/VC
+2772,,6.0,Consulting
+2773,White,6.0,Technology
+2774,Asian,4.0,Health Care
+2775,,6.0,PE/VC
+2776,,5.0,Consulting
+2777,White,5.0,Consulting
+2778,,5.0,Consulting
+2779,White,4.0,Nonprofit/Gov
+2780,,4.0,Technology
+2781,Black,4.0,Technology
+2782,White,5.0,Nonprofit/Gov
+2783,,5.0,PE/VC
+2784,White,5.0,Investment Banking
+2785,,5.0,PE/VC
+2786,Asian,6.0,PE/VC
+2787,Hispanic,7.0,Other
+2788,,3.0,Technology
+2789,Hispanic,4.0,Technology
+2790,Hispanic,5.0,Consulting
+2791,,5.0,Consulting
+2792,Black,3.0,Consulting
+2793,,4.0,Consulting
+2794,White,4.0,Technology
+2795,Other,5.0,Retail
+2796,White,5.0,Health Care
+2797,,5.0,Nonprofit/Gov
+2798,,5.0,Technology
+2799,Black,4.0,PE/VC
+2800,,6.0,Consulting
+2801,White,5.0,Technology
+2802,,6.0,PE/VC
+2803,White,4.0,Nonprofit/Gov
+2804,Hispanic,5.0,Other
+2805,White,5.0,Consulting
+2806,Asian,5.0,Financial Services
+2807,Asian,4.0,Technology
+2808,,5.0,Nonprofit/Gov
+2809,White,5.0,Nonprofit/Gov
+2810,,4.0,Investment Banking
+2811,Black,5.0,Health Care
+2812,,5.0,PE/VC
+2813,,5.0,Technology
+2814,Black,4.0,Nonprofit/Gov
+2815,White,5.0,PE/VC
+2816,White,5.0,Consulting
+2817,Black,6.0,Investment Banking
+2818,Asian,4.0,Technology
+2819,White,5.0,Financial Services
+2820,Asian,7.0,Other
+2821,White,5.0,Investment Management
+2822,Asian,6.0,Technology
+2823,Asian,6.0,Technology
+2824,Black,5.0,Consulting
+2825,White,6.0,Consulting
+2826,,7.0,Other
+2827,,5.0,Financial Services
+2828,Asian,6.0,Consulting
+2829,Hispanic,6.0,Consulting
+2830,Asian,4.0,Other
+2831,Black,3.0,Nonprofit/Gov
+2832,Black,5.0,Investment Banking
+2833,Black,7.0,Financial Services
+2834,White,6.0,Nonprofit/Gov
+2835,,4.0,Health Care
+2836,White,5.0,Technology
+2837,Asian,4.0,Nonprofit/Gov
+2838,,6.0,Financial Services
+2839,Black,6.0,Consulting
+2840,,5.0,Consulting
+2841,White,6.0,Consulting
+2842,Asian,5.0,Technology
+2843,Black,4.0,Consulting
+2844,,4.0,PE/VC
+2845,Asian,5.0,Energy
+2846,White,5.0,PE/VC
+2847,,4.0,Technology
+2848,Black,4.0,Other
+2849,White,6.0,Consulting
+2850,Black,5.0,Other
+2851,Black,4.0,Consulting
+2852,Asian,5.0,Financial Services
+2853,,5.0,Technology
+2854,,5.0,Consulting
+2855,,6.0,Other
+2856,Hispanic,4.0,Consulting
+2857,White,4.0,Nonprofit/Gov
+2858,Black,4.0,PE/VC
+2859,Black,4.0,Technology
+2860,White,5.0,Investment Banking
+2861,,5.0,Other
+2862,Hispanic,5.0,Investment Banking
+2863,White,4.0,Nonprofit/Gov
+2864,Black,5.0,Other
+2865,Black,6.0,Consulting
+2866,White,7.0,Health Care
+2867,,5.0,Investment Banking
+2868,Asian,5.0,Investment Banking
+2869,,6.0,Health Care
+2870,,4.0,Investment Management
+2871,,6.0,Investment Banking
+2872,White,5.0,Consulting
+2873,White,5.0,Health Care
+2874,,4.0,Financial Services
+2875,Black,5.0,Financial Services
+2876,,5.0,PE/VC
+2877,,5.0,Nonprofit/Gov
+2878,White,6.0,Consulting
+2879,Asian,4.0,Investment Management
+2880,Asian,4.0,Technology
+2881,White,5.0,Consulting
+2882,Asian,4.0,CPG
+2883,White,6.0,PE/VC
+2884,White,6.0,Investment Banking
+2885,Hispanic,5.0,Consulting
+2886,Hispanic,5.0,Consulting
+2887,,5.0,Nonprofit/Gov
+2888,Hispanic,6.0,Nonprofit/Gov
+2889,Black,4.0,Technology
+2890,Black,5.0,Nonprofit/Gov
+2891,White,4.0,Investment Banking
+2892,Other,6.0,Consulting
+2893,Asian,6.0,Health Care
+2894,White,6.0,Consulting
+2895,Asian,5.0,Financial Services
+2896,Hispanic,5.0,Other
+2897,Asian,4.0,Health Care
+2898,White,4.0,Financial Services
+2899,,4.0,Other
+2900,White,5.0,Consulting
+2901,,7.0,Other
+2902,White,6.0,PE/VC
+2903,Hispanic,5.0,Technology
+2904,White,4.0,Investment Banking
+2905,Black,6.0,Investment Banking
+2906,Other,6.0,Technology
+2907,Asian,6.0,Investment Banking
+2908,,6.0,Consulting
+2909,,7.0,Technology
+2910,,5.0,Nonprofit/Gov
+2911,White,3.0,Media/Entertainment
+2912,Hispanic,5.0,Consulting
+2913,White,4.0,Health Care
+2914,,5.0,Consulting
+2915,White,4.0,Real Estate
+2916,Hispanic,3.0,PE/VC
+2917,Black,5.0,Consulting
+2918,White,7.0,Real Estate
+2919,,4.0,Nonprofit/Gov
+2920,White,4.0,Financial Services
+2921,Hispanic,5.0,PE/VC
+2922,,5.0,Technology
+2923,Asian,3.0,Consulting
+2924,Hispanic,3.0,Nonprofit/Gov
+2925,White,5.0,Technology
+2926,,6.0,Media/Entertainment
+2927,Asian,5.0,Investment Banking
+2928,,5.0,Technology
+2929,Asian,5.0,PE/VC
+2930,White,6.0,Health Care
+2931,,6.0,Consulting
+2932,Asian,4.0,Investment Banking
+2933,Asian,7.0,Other
+2934,Hispanic,6.0,Consulting
+2935,White,7.0,Consulting
+2936,Black,5.0,PE/VC
+2937,White,3.0,Technology
+2938,,6.0,PE/VC
+2939,Other,5.0,Technology
+2940,Hispanic,7.0,Financial Services
+2941,White,6.0,Investment Banking
+2942,Hispanic,6.0,Investment Management
+2943,Other,6.0,Consulting
+2944,Asian,7.0,CPG
+2945,,5.0,Consulting
+2946,,5.0,Consulting
+2947,,5.0,Nonprofit/Gov
+2948,,4.0,Other
+2949,Asian,5.0,Technology
+2950,Black,6.0,Financial Services
+2951,Hispanic,5.0,Investment Banking
+2952,White,5.0,PE/VC
+2953,,5.0,PE/VC
+2954,White,5.0,Technology
+2955,,5.0,Financial Services
+2956,Black,3.0,Other
+2957,,7.0,PE/VC
+2958,Asian,7.0,PE/VC
+2959,Hispanic,6.0,Investment Banking
+2960,,5.0,Consulting
+2961,White,3.0,Consulting
+2962,Asian,5.0,Technology
+2963,,4.0,Consulting
+2964,Black,6.0,PE/VC
+2965,Black,5.0,Consulting
+2966,White,4.0,Financial Services
+2967,Other,7.0,Consulting
+2968,White,4.0,Investment Banking
+2969,White,4.0,Nonprofit/Gov
+2970,Hispanic,7.0,Consulting
+2971,Other,6.0,Financial Services
+2972,,4.0,Consulting
+2973,,6.0,Consulting
+2974,Asian,6.0,Investment Banking
+2975,White,7.0,PE/VC
+2976,White,5.0,Technology
+2977,,5.0,Financial Services
+2978,White,5.0,PE/VC
+2979,,6.0,Consulting
+2980,Asian,4.0,Investment Management
+2981,White,6.0,CPG
+2982,,5.0,Other
+2983,Asian,5.0,Financial Services
+2984,White,6.0,Health Care
+2985,Black,6.0,Consulting
+2986,,5.0,Consulting
+2987,,3.0,PE/VC
+2988,Other,4.0,Financial Services
+2989,Black,5.0,Other
+2990,,5.0,Technology
+2991,,6.0,Other
+2992,,5.0,Consulting
+2993,Black,6.0,PE/VC
+2994,Hispanic,6.0,Technology
+2995,,4.0,Nonprofit/Gov
+2996,Asian,7.0,Investment Banking
+2997,Hispanic,5.0,Investment Banking
+2998,Black,6.0,PE/VC
+2999,Hispanic,5.0,Other
+3000,Asian,6.0,Consulting
+3001,,4.0,Technology
+3002,Asian,5.0,PE/VC
+3003,Asian,6.0,Real Estate
+3004,Black,5.0,Consulting
+3005,Asian,4.0,Technology
+3006,White,5.0,Nonprofit/Gov
+3007,Hispanic,5.0,Technology
+3008,Asian,4.0,Technology
+3009,,4.0,Nonprofit/Gov
+3010,Hispanic,5.0,Consulting
+3011,White,3.0,Consulting
+3012,Asian,5.0,Consulting
+3013,White,6.0,Consulting
+3014,,5.0,Investment Management
+3015,White,4.0,PE/VC
+3016,Asian,5.0,Investment Management
+3017,Black,4.0,Consulting
+3018,Asian,5.0,Consulting
+3019,Black,5.0,Investment Banking
+3020,Asian,6.0,Nonprofit/Gov
+3021,White,5.0,PE/VC
+3022,,6.0,Financial Services
+3023,,6.0,Other
+3024,,6.0,Nonprofit/Gov
+3025,Hispanic,6.0,Nonprofit/Gov
+3026,Hispanic,5.0,Health Care
+3027,Black,6.0,Investment Banking
+3028,Asian,5.0,Nonprofit/Gov
+3029,Asian,5.0,Investment Management
+3030,,5.0,Health Care
+3031,,5.0,Technology
+3032,White,5.0,PE/VC
+3033,Asian,5.0,Consulting
+3034,White,4.0,Nonprofit/Gov
+3035,White,4.0,Nonprofit/Gov
+3036,Hispanic,7.0,Investment Banking
+3037,,6.0,Consulting
+3038,Hispanic,5.0,Consulting
+3039,Asian,4.0,Consulting
+3040,,6.0,Technology
+3041,Asian,4.0,PE/VC
+3042,,3.0,Nonprofit/Gov
+3043,,5.0,Technology
+3044,,6.0,Technology
+3045,,6.0,Consulting
+3046,Black,4.0,Consulting
+3047,Black,7.0,Consulting
+3048,Asian,3.0,PE/VC
+3049,White,4.0,Nonprofit/Gov
+3050,Asian,4.0,Technology
+3051,White,6.0,Other
+3052,Other,5.0,Consulting
+3053,White,4.0,Consulting
+3054,White,4.0,Investment Management
+3055,Hispanic,5.0,Health Care
+3056,,5.0,Other
+3057,,5.0,Consulting
+3058,Asian,4.0,Technology
+3059,Black,6.0,Nonprofit/Gov
+3060,White,5.0,Nonprofit/Gov
+3061,White,7.0,Nonprofit/Gov
+3062,,4.0,Media/Entertainment
+3063,,6.0,PE/VC
+3064,Asian,5.0,Technology
+3065,Hispanic,4.0,Financial Services
+3066,White,4.0,Financial Services
+3067,Other,6.0,Investment Banking
+3068,Asian,3.0,Retail
+3069,White,5.0,Investment Management
+3070,White,5.0,Consulting
+3071,White,6.0,Consulting
+3072,,4.0,Technology
+3073,Black,5.0,Consulting
+3074,,7.0,CPG
+3075,,6.0,Health Care
+3076,White,5.0,Consulting
+3077,Asian,5.0,PE/VC
+3078,Black,4.0,Technology
+3079,Asian,6.0,Consulting
+3080,Asian,3.0,Consulting
+3081,,5.0,Other
+3082,,6.0,Investment Banking
+3083,,6.0,Investment Banking
+3084,,4.0,Investment Management
+3085,,6.0,Other
+3086,White,5.0,PE/VC
+3087,Hispanic,4.0,Consulting
+3088,White,6.0,Technology
+3089,Asian,6.0,PE/VC
+3090,Asian,4.0,Investment Management
+3091,White,6.0,Investment Banking
+3092,,5.0,Investment Banking
+3093,White,5.0,Health Care
+3094,Black,7.0,Consulting
+3095,White,6.0,Investment Banking
+3096,White,6.0,PE/VC
+3097,,4.0,Financial Services
+3098,White,6.0,Nonprofit/Gov
+3099,White,5.0,PE/VC
+3100,Asian,4.0,Consulting
+3101,White,5.0,Technology
+3102,White,5.0,PE/VC
+3103,White,5.0,Real Estate
+3104,Asian,6.0,Nonprofit/Gov
+3105,Black,4.0,CPG
+3106,White,5.0,Financial Services
+3107,Asian,7.0,Consulting
+3108,,5.0,Health Care
+3109,Hispanic,5.0,Consulting
+3110,Hispanic,5.0,Technology
+3111,,4.0,Consulting
+3112,Hispanic,4.0,Technology
+3113,White,5.0,Consulting
+3114,Black,5.0,CPG
+3115,Hispanic,5.0,Consulting
+3116,Asian,2.0,Health Care
+3117,,6.0,Technology
+3118,White,4.0,Consulting
+3119,Black,4.0,Consulting
+3120,,4.0,Consulting
+3121,Asian,5.0,Technology
+3122,Hispanic,6.0,Investment Management
+3123,,4.0,Other
+3124,,6.0,PE/VC
+3125,Black,6.0,Health Care
+3126,,6.0,PE/VC
+3127,White,5.0,Consulting
+3128,Asian,4.0,Consulting
+3129,White,5.0,Investment Banking
+3130,,5.0,Consulting
+3131,Black,4.0,Investment Banking
+3132,Black,5.0,Nonprofit/Gov
+3133,Asian,5.0,Consulting
+3134,,4.0,PE/VC
+3135,,6.0,Other
+3136,White,5.0,Investment Management
+3137,White,7.0,Consulting
+3138,Black,7.0,Consulting
+3139,Asian,5.0,Technology
+3140,,6.0,Real Estate
+3141,White,7.0,Technology
+3142,Black,5.0,PE/VC
+3143,,7.0,Other
+3144,Asian,5.0,PE/VC
+3145,Black,5.0,Financial Services
+3146,White,6.0,Health Care
+3147,Black,4.0,Consulting
+3148,,4.0,Other
+3149,White,5.0,Consulting
+3150,,5.0,PE/VC
+3151,Black,6.0,Investment Banking
+3152,,5.0,Investment Management
+3153,Hispanic,5.0,Other
+3154,White,5.0,PE/VC
+3155,Asian,6.0,Consulting
+3156,,5.0,PE/VC
+3157,Black,5.0,Financial Services
+3158,Hispanic,5.0,Nonprofit/Gov
+3159,Black,6.0,Retail
+3160,Black,4.0,Technology
+3161,,5.0,Consulting
+3162,White,6.0,Real Estate
+3163,,4.0,Retail
+3164,Hispanic,6.0,Investment Banking
+3165,White,6.0,Financial Services
+3166,Asian,6.0,Financial Services
+3167,White,6.0,CPG
+3168,,5.0,Health Care
+3169,Asian,3.0,Financial Services
+3170,White,5.0,Nonprofit/Gov
+3171,White,5.0,Consulting
+3172,White,5.0,Financial Services
+3173,White,6.0,Consulting
+3174,,6.0,Investment Banking
+3175,White,4.0,Consulting
+3176,White,4.0,Nonprofit/Gov
+3177,Hispanic,6.0,Real Estate
+3178,,6.0,Health Care
+3179,,6.0,PE/VC
+3180,,5.0,Retail
+3181,Black,6.0,Consulting
+3182,Black,4.0,Other
+3183,,5.0,Consulting
+3184,Asian,5.0,Technology
+3185,Other,6.0,Consulting
+3186,Hispanic,5.0,Energy
+3187,Asian,5.0,Consulting
+3188,Hispanic,3.0,Consulting
+3189,White,6.0,Health Care
+3190,White,7.0,Consulting
+3191,,5.0,Investment Banking
+3192,,6.0,Consulting
+3193,Asian,5.0,Other
+3194,Black,5.0,PE/VC
+3195,Asian,6.0,Technology
+3196,Asian,6.0,PE/VC
+3197,,4.0,PE/VC
+3198,Asian,6.0,Investment Banking
+3199,Black,5.0,CPG
+3200,,5.0,PE/VC
+3201,,4.0,Real Estate
+3202,,5.0,Investment Banking
+3203,,7.0,Nonprofit/Gov
+3204,Other,5.0,Nonprofit/Gov
+3205,Hispanic,6.0,PE/VC
+3206,White,6.0,Consulting
+3207,,3.0,PE/VC
+3208,,7.0,Consulting
+3209,Black,4.0,Health Care
+3210,Asian,5.0,Real Estate
+3211,Hispanic,3.0,Investment Banking
+3212,Asian,5.0,Investment Banking
+3213,,5.0,Technology
+3214,Black,5.0,Nonprofit/Gov
+3215,Asian,4.0,PE/VC
+3216,Black,5.0,Consulting
+3217,,3.0,CPG
+3218,White,5.0,Investment Management
+3219,Other,6.0,PE/VC
+3220,Hispanic,5.0,Technology
+3221,Black,7.0,Investment Banking
+3222,Asian,4.0,Health Care
+3223,Black,5.0,PE/VC
+3224,Black,4.0,PE/VC
+3225,Asian,5.0,Nonprofit/Gov
+3226,,5.0,Energy
+3227,,5.0,Investment Management
+3228,,4.0,Investment Banking
+3229,Black,3.0,Nonprofit/Gov
+3230,Asian,4.0,Consulting
+3231,Asian,3.0,Investment Management
+3232,White,6.0,Investment Banking
+3233,,6.0,Other
+3234,,5.0,Consulting
+3235,,5.0,Other
+3236,White,6.0,Nonprofit/Gov
+3237,White,6.0,Consulting
+3238,White,6.0,Consulting
+3239,,6.0,Consulting
+3240,White,4.0,Consulting
+3241,White,6.0,Media/Entertainment
+3242,,4.0,Investment Banking
+3243,White,5.0,Investment Banking
+3244,Asian,4.0,Technology
+3245,Asian,5.0,PE/VC
+3246,White,4.0,Consulting
+3247,Asian,5.0,Other
+3248,White,7.0,Investment Banking
+3249,White,6.0,Nonprofit/Gov
+3250,,4.0,Consulting
+3251,White,5.0,Technology
+3252,Hispanic,4.0,Nonprofit/Gov
+3253,White,6.0,Investment Banking
+3254,Hispanic,5.0,Investment Banking
+3255,Hispanic,5.0,PE/VC
+3256,,6.0,Investment Banking
+3257,,3.0,CPG
+3258,,4.0,PE/VC
+3259,Other,6.0,Consulting
+3260,White,3.0,PE/VC
+3261,,5.0,Financial Services
+3262,Asian,5.0,Consulting
+3263,,4.0,PE/VC
+3264,White,7.0,Retail
+3265,,5.0,Health Care
+3266,Black,7.0,Financial Services
+3267,White,5.0,Consulting
+3268,,3.0,Nonprofit/Gov
+3269,Black,6.0,Financial Services
+3270,White,4.0,Other
+3271,Asian,4.0,Nonprofit/Gov
+3272,,5.0,Nonprofit/Gov
+3273,Black,5.0,Technology
+3274,Asian,4.0,Consulting
+3275,Asian,4.0,Consulting
+3276,Black,3.0,Consulting
+3277,White,4.0,Consulting
+3278,Asian,4.0,Financial Services
+3279,Hispanic,6.0,Other
+3280,,4.0,Consulting
+3281,Black,4.0,Technology
+3282,Black,7.0,Health Care
+3283,,6.0,Financial Services
+3284,,5.0,Other
+3285,Hispanic,5.0,Health Care
+3286,Asian,6.0,Financial Services
+3287,White,3.0,Nonprofit/Gov
+3288,Black,5.0,Technology
+3289,White,6.0,Nonprofit/Gov
+3290,Hispanic,6.0,Health Care
+3291,Asian,5.0,CPG
+3292,Black,4.0,Consulting
+3293,Asian,7.0,Nonprofit/Gov
+3294,White,6.0,Consulting
+3295,,5.0,Technology
+3296,Hispanic,5.0,Consulting
+3297,,3.0,Consulting
+3298,Hispanic,7.0,Technology
+3299,,5.0,Financial Services
+3300,,6.0,PE/VC
+3301,Asian,4.0,Consulting
+3302,White,7.0,CPG
+3303,,4.0,Investment Management
+3304,White,5.0,Consulting
+3305,Black,4.0,Health Care
+3306,White,5.0,Consulting
+3307,Asian,5.0,PE/VC
+3308,White,5.0,Health Care
+3309,White,4.0,Nonprofit/Gov
+3310,White,4.0,Financial Services
+3311,White,4.0,CPG
+3312,Hispanic,4.0,Consulting
+3313,White,7.0,Financial Services
+3314,Black,6.0,PE/VC
+3315,Asian,7.0,Health Care
+3316,,5.0,Investment Banking
+3317,Asian,6.0,CPG
+3318,Asian,4.0,PE/VC
+3319,,6.0,Financial Services
+3320,Asian,5.0,Other
+3321,White,6.0,Consulting
+3322,Hispanic,6.0,Financial Services
+3323,,4.0,PE/VC
+3324,Hispanic,6.0,Consulting
+3325,Black,5.0,Real Estate
+3326,Hispanic,4.0,Consulting
+3327,White,6.0,Consulting
+3328,White,5.0,Consulting
+3329,Black,4.0,Consulting
+3330,,5.0,Nonprofit/Gov
+3331,Other,6.0,PE/VC
+3332,,4.0,Financial Services
+3333,,6.0,Consulting
+3334,Asian,3.0,Consulting
+3335,,5.0,Nonprofit/Gov
+3336,,5.0,Consulting
+3337,White,5.0,Consulting
+3338,White,4.0,Nonprofit/Gov
+3339,White,6.0,Consulting
+3340,Black,5.0,Consulting
+3341,,6.0,Financial Services
+3342,,5.0,Consulting
+3343,Hispanic,4.0,Financial Services
+3344,Asian,5.0,Consulting
+3345,White,5.0,Other
+3346,White,4.0,Consulting
+3347,White,5.0,Investment Management
+3348,,4.0,Consulting
+3349,Other,5.0,Health Care
+3350,White,5.0,Energy
+3351,,6.0,Nonprofit/Gov
+3352,,5.0,Technology
+3353,,5.0,PE/VC
+3354,White,5.0,Health Care
+3355,,4.0,Investment Banking
+3356,Black,5.0,PE/VC
+3357,Asian,4.0,Nonprofit/Gov
+3358,,3.0,PE/VC
+3359,Asian,6.0,Technology
+3360,Asian,4.0,Consulting
+3361,,7.0,Consulting
+3362,,6.0,Technology
+3363,White,4.0,Other
+3364,,4.0,PE/VC
+3365,,4.0,Financial Services
+3366,Black,6.0,Nonprofit/Gov
+3367,Black,4.0,Consulting
+3368,Black,5.0,Consulting
+3369,Black,5.0,Consulting
+3370,White,5.0,Real Estate
+3371,White,6.0,Investment Banking
+3372,,3.0,Consulting
+3373,Black,6.0,Investment Banking
+3374,Black,4.0,Real Estate
+3375,White,5.0,PE/VC
+3376,,5.0,Investment Banking
+3377,,5.0,Investment Banking
+3378,,5.0,PE/VC
+3379,Hispanic,8.0,Technology
+3380,Black,7.0,Nonprofit/Gov
+3381,,4.0,Investment Banking
+3382,White,7.0,Technology
+3383,Black,5.0,Health Care
+3384,,6.0,Consulting
+3385,,4.0,Investment Banking
+3386,,5.0,PE/VC
+3387,,5.0,Investment Banking
+3388,Asian,4.0,Consulting
+3389,Asian,5.0,Health Care
+3390,,5.0,Investment Banking
+3391,,4.0,Other
+3392,,6.0,Consulting
+3393,White,6.0,Consulting
+3394,Hispanic,6.0,Nonprofit/Gov
+3395,Asian,7.0,PE/VC
+3396,White,7.0,PE/VC
+3397,Other,5.0,Financial Services
+3398,Black,4.0,PE/VC
+3399,Hispanic,4.0,Consulting
+3400,Asian,3.0,PE/VC
+3401,Black,5.0,Investment Banking
+3402,White,5.0,PE/VC
+3403,Black,4.0,Consulting
+3404,White,5.0,PE/VC
+3405,White,5.0,Consulting
+3406,Black,6.0,Real Estate
+3407,Hispanic,7.0,Consulting
+3408,,4.0,Technology
+3409,,5.0,Investment Management
+3410,,3.0,PE/VC
+3411,White,5.0,Investment Banking
+3412,,5.0,Consulting
+3413,,5.0,Consulting
+3414,White,5.0,Technology
+3415,Other,5.0,Nonprofit/Gov
+3416,Asian,4.0,PE/VC
+3417,Asian,4.0,Consulting
+3418,,4.0,Other
+3419,,6.0,Technology
+3420,Asian,4.0,Consulting
+3421,,4.0,Technology
+3422,,6.0,Consulting
+3423,White,5.0,PE/VC
+3424,Black,6.0,Technology
+3425,White,5.0,Investment Banking
+3426,Asian,4.0,Health Care
+3427,Asian,5.0,PE/VC
+3428,,4.0,PE/VC
+3429,,6.0,Investment Banking
+3430,White,6.0,Nonprofit/Gov
+3431,,3.0,Nonprofit/Gov
+3432,Asian,5.0,Nonprofit/Gov
+3433,,6.0,Consulting
+3434,White,5.0,PE/VC
+3435,Black,3.0,Investment Management
+3436,,4.0,Nonprofit/Gov
+3437,Asian,5.0,Nonprofit/Gov
+3438,,4.0,Nonprofit/Gov
+3439,Asian,6.0,Consulting
+3440,Hispanic,5.0,Investment Banking
+3441,,5.0,Investment Banking
+3442,,7.0,Technology
+3443,Black,6.0,Consulting
+3444,White,5.0,Consulting
+3445,White,6.0,Nonprofit/Gov
+3446,White,5.0,Investment Banking
+3447,Asian,4.0,Consulting
+3448,Black,6.0,Nonprofit/Gov
+3449,,6.0,Technology
+3450,White,7.0,Consulting
+3451,White,5.0,Media/Entertainment
+3452,White,6.0,Consulting
+3453,Asian,5.0,Consulting
+3454,White,4.0,Consulting
+3455,White,5.0,Technology
+3456,,6.0,Nonprofit/Gov
+3457,,4.0,Investment Banking
+3458,,5.0,Consulting
+3459,Asian,6.0,Consulting
+3460,,4.0,Consulting
+3461,,5.0,Consulting
+3462,Other,5.0,Investment Banking
+3463,Asian,5.0,Nonprofit/Gov
+3464,White,5.0,Consulting
+3465,Black,4.0,Consulting
+3466,Black,5.0,Financial Services
+3467,Asian,5.0,Nonprofit/Gov
+3468,Black,5.0,Consulting
+3469,Black,6.0,PE/VC
+3470,,5.0,Investment Banking
+3471,White,6.0,PE/VC
+3472,Black,6.0,Financial Services
+3473,White,3.0,Consulting
+3474,Hispanic,4.0,Financial Services
+3475,,6.0,Consulting
+3476,,5.0,Consulting
+3477,Asian,5.0,CPG
+3478,Other,4.0,Technology
+3479,Black,4.0,Financial Services
+3480,Black,3.0,Consulting
+3481,,7.0,Consulting
+3482,,2.0,Investment Banking
+3483,White,4.0,Nonprofit/Gov
+3484,White,4.0,Technology
+3485,,6.0,CPG
+3486,Hispanic,6.0,Health Care
+3487,,4.0,CPG
+3488,Black,6.0,Health Care
+3489,,3.0,Investment Management
+3490,Hispanic,5.0,Consulting
+3491,,5.0,Nonprofit/Gov
+3492,,4.0,Nonprofit/Gov
+3493,,6.0,Other
+3494,,6.0,Investment Banking
+3495,White,6.0,Consulting
+3496,Asian,4.0,Nonprofit/Gov
+3497,,5.0,Technology
+3498,Black,3.0,Consulting
+3499,White,4.0,PE/VC
+3500,Asian,5.0,Other
+3501,,5.0,Consulting
+3502,,7.0,Technology
+3503,White,5.0,PE/VC
+3504,,5.0,Media/Entertainment
+3505,,6.0,Consulting
+3506,,5.0,Consulting
+3507,White,5.0,Consulting
+3508,Black,5.0,Nonprofit/Gov
+3509,,3.0,PE/VC
+3510,Asian,6.0,Technology
+3511,,5.0,Technology
+3512,,6.0,Other
+3513,Asian,7.0,Investment Banking
+3514,,5.0,Media/Entertainment
+3515,Black,6.0,Nonprofit/Gov
+3516,Black,5.0,Consulting
+3517,Black,6.0,Technology
+3518,Hispanic,6.0,PE/VC
+3519,White,4.0,PE/VC
+3520,Asian,5.0,Nonprofit/Gov
+3521,Asian,2.0,Investment Banking
+3522,Black,6.0,Consulting
+3523,Black,5.0,Consulting
+3524,White,6.0,Health Care
+3525,White,6.0,Consulting
+3526,White,6.0,PE/VC
+3527,Black,4.0,CPG
+3528,Black,6.0,PE/VC
+3529,,6.0,Nonprofit/Gov
+3530,Asian,5.0,Financial Services
+3531,Asian,5.0,Other
+3532,,5.0,Financial Services
+3533,White,8.0,Consulting
+3534,White,6.0,Health Care
+3535,White,5.0,Consulting
+3536,Black,4.0,Consulting
+3537,White,5.0,Investment Banking
+3538,White,5.0,Financial Services
+3539,Hispanic,5.0,Health Care
+3540,White,4.0,Technology
+3541,Asian,4.0,Consulting
+3542,,6.0,Other
+3543,Black,7.0,Nonprofit/Gov
+3544,Asian,5.0,Investment Banking
+3545,Black,5.0,PE/VC
+3546,,2.0,Real Estate
+3547,,5.0,PE/VC
+3548,Black,4.0,Consulting
+3549,Other,5.0,Consulting
+3550,Black,7.0,Nonprofit/Gov
+3551,Asian,6.0,Investment Banking
+3552,,6.0,Consulting
+3553,White,5.0,Consulting
+3554,Black,7.0,Health Care
+3555,Asian,4.0,Consulting
+3556,Black,8.0,Investment Management
+3557,,6.0,PE/VC
+3558,Other,6.0,Technology
+3559,White,5.0,Health Care
+3560,,5.0,Investment Banking
+3561,Black,5.0,Energy
+3562,,5.0,PE/VC
+3563,,5.0,CPG
+3564,Black,5.0,Consulting
+3565,Black,5.0,Health Care
+3566,,5.0,Investment Management
+3567,White,4.0,Investment Management
+3568,White,5.0,Financial Services
+3569,Hispanic,4.0,Consulting
+3570,Other,5.0,Consulting
+3571,Black,5.0,Consulting
+3572,Asian,5.0,Consulting
+3573,White,5.0,Other
+3574,Asian,4.0,Technology
+3575,White,7.0,Consulting
+3576,Asian,4.0,Other
+3577,Hispanic,4.0,Financial Services
+3578,Hispanic,4.0,PE/VC
+3579,Other,5.0,Consulting
+3580,White,4.0,PE/VC
+3581,Other,5.0,Consulting
+3582,Asian,5.0,PE/VC
+3583,Black,5.0,Technology
+3584,White,3.0,Financial Services
+3585,,5.0,Real Estate
+3586,,7.0,Consulting
+3587,Hispanic,5.0,PE/VC
+3588,Hispanic,6.0,Nonprofit/Gov
+3589,,6.0,Investment Banking
+3590,Hispanic,4.0,Investment Banking
+3591,,3.0,Technology
+3592,,4.0,PE/VC
+3593,Asian,4.0,Other
+3594,White,5.0,PE/VC
+3595,Asian,5.0,PE/VC
+3596,,6.0,Consulting
+3597,Asian,7.0,Investment Management
+3598,,6.0,Investment Management
+3599,Asian,3.0,Consulting
+3600,,5.0,Consulting
+3601,White,4.0,Consulting
+3602,,6.0,Retail
+3603,,6.0,Nonprofit/Gov
+3604,,5.0,Consulting
+3605,Black,5.0,Technology
+3606,White,5.0,Consulting
+3607,Hispanic,4.0,Consulting
+3608,White,3.0,Media/Entertainment
+3609,Hispanic,4.0,Consulting
+3610,,5.0,Investment Management
+3611,Black,2.0,Technology
+3612,Black,5.0,Consulting
+3613,Asian,4.0,PE/VC
+3614,,7.0,PE/VC
+3615,Black,4.0,Investment Banking
+3616,Asian,6.0,Technology
+3617,Asian,4.0,Technology
+3618,Asian,7.0,PE/VC
+3619,Other,5.0,Other
+3620,,3.0,Health Care
+3621,,4.0,Technology
+3622,,6.0,Consulting
+3623,White,6.0,Consulting
+3624,Hispanic,4.0,Other
+3625,White,6.0,Technology
+3626,Black,5.0,Consulting
+3627,White,3.0,Technology
+3628,White,5.0,PE/VC
+3629,,7.0,Other
+3630,,6.0,Nonprofit/Gov
+3631,,7.0,Technology
+3632,,5.0,Real Estate
+3633,,3.0,Other
+3634,Hispanic,5.0,PE/VC
+3635,Asian,7.0,Financial Services
+3636,Asian,5.0,Consulting
+3637,,5.0,Technology
+3638,,6.0,Health Care
+3639,Black,5.0,Investment Banking
+3640,Asian,5.0,PE/VC
+3641,,5.0,Media/Entertainment
+3642,Asian,4.0,Consulting
+3643,White,5.0,Technology
+3644,,6.0,Health Care
+3645,White,4.0,Health Care
+3646,Black,5.0,Financial Services
+3647,White,4.0,PE/VC
+3648,White,4.0,Other
+3649,White,5.0,Health Care
+3650,,5.0,Health Care
+3651,Hispanic,6.0,Nonprofit/Gov
+3652,Hispanic,3.0,PE/VC
+3653,Asian,6.0,Consulting
+3654,,6.0,Consulting
+3655,White,6.0,Consulting
+3656,Asian,4.0,Consulting
+3657,Asian,5.0,Other
+3658,White,4.0,Technology
+3659,Black,4.0,Consulting
+3660,White,4.0,Technology
+3661,Asian,4.0,Investment Banking
+3662,Black,5.0,Investment Banking
+3663,Black,3.0,Technology
+3664,,6.0,Financial Services
+3665,,5.0,Financial Services
+3666,Asian,6.0,PE/VC
+3667,,6.0,Technology
+3668,Black,6.0,Other
+3669,Hispanic,7.0,Consulting
+3670,Black,3.0,Nonprofit/Gov
+3671,Black,3.0,Nonprofit/Gov
+3672,White,5.0,Consulting
+3673,Hispanic,4.0,Consulting
+3674,Black,5.0,Consulting
+3675,White,4.0,Consulting
+3676,Asian,4.0,Nonprofit/Gov
+3677,Black,5.0,Other
+3678,White,7.0,Retail
+3679,White,6.0,Media/Entertainment
+3680,White,5.0,Consulting
+3681,White,4.0,Nonprofit/Gov
+3682,Black,5.0,Technology
+3683,,6.0,PE/VC
+3684,Asian,6.0,Financial Services
+3685,Asian,4.0,PE/VC
+3686,,6.0,Nonprofit/Gov
+3687,Black,8.0,Investment Banking
+3688,Black,6.0,PE/VC
+3689,Hispanic,5.0,Financial Services
+3690,Asian,5.0,Consulting
+3691,Other,5.0,Technology
+3692,,5.0,Consulting
+3693,,5.0,PE/VC
+3694,Asian,6.0,Consulting
+3695,Asian,5.0,Investment Management
+3696,Asian,5.0,Technology
+3697,Black,5.0,Energy
+3698,White,7.0,Health Care
+3699,Asian,5.0,PE/VC
+3700,Asian,3.0,Health Care
+3701,,6.0,Consulting
+3702,,6.0,CPG
+3703,Asian,5.0,Consulting
+3704,Black,5.0,Investment Banking
+3705,Black,3.0,Technology
+3706,Asian,5.0,Nonprofit/Gov
+3707,Asian,5.0,Real Estate
+3708,,5.0,Nonprofit/Gov
+3709,,6.0,Consulting
+3710,White,5.0,Investment Banking
+3711,Asian,5.0,PE/VC
+3712,White,4.0,Financial Services
+3713,,5.0,PE/VC
+3714,Hispanic,6.0,Technology
+3715,White,6.0,Investment Banking
+3716,Black,4.0,Consulting
+3717,,5.0,PE/VC
+3718,Black,7.0,PE/VC
+3719,,5.0,Consulting
+3720,Asian,5.0,Financial Services
+3721,Hispanic,4.0,Consulting
+3722,White,5.0,Investment Banking
+3723,Hispanic,4.0,PE/VC
+3724,Black,5.0,Health Care
+3725,Hispanic,5.0,PE/VC
+3726,White,5.0,PE/VC
+3727,,6.0,Technology
+3728,Hispanic,4.0,Consulting
+3729,,6.0,Health Care
+3730,,4.0,PE/VC
+3731,Asian,5.0,Financial Services
+3732,,4.0,Consulting
+3733,Asian,5.0,Nonprofit/Gov
+3734,,6.0,PE/VC
+3735,,3.0,PE/VC
+3736,Hispanic,5.0,Technology
+3737,,4.0,PE/VC
+3738,Black,4.0,Consulting
+3739,Asian,5.0,Consulting
+3740,White,5.0,PE/VC
+3741,White,5.0,Technology
+3742,White,5.0,PE/VC
+3743,Asian,6.0,Consulting
+3744,Asian,5.0,Nonprofit/Gov
+3745,,4.0,Technology
+3746,Asian,7.0,Technology
+3747,,4.0,Investment Management
+3748,Other,5.0,Consulting
+3749,Asian,3.0,Media/Entertainment
+3750,Black,5.0,Consulting
+3751,Asian,7.0,Consulting
+3752,Asian,5.0,Technology
+3753,Asian,5.0,Other
+3754,Black,4.0,Consulting
+3755,Asian,4.0,PE/VC
+3756,,5.0,Financial Services
+3757,Asian,4.0,Consulting
+3758,,6.0,Consulting
+3759,White,6.0,Health Care
+3760,Asian,6.0,Investment Banking
+3761,,6.0,Investment Banking
+3762,,4.0,Investment Banking
+3763,White,4.0,Investment Management
+3764,Asian,5.0,Nonprofit/Gov
+3765,,6.0,Investment Banking
+3766,White,5.0,Consulting
+3767,Hispanic,6.0,Nonprofit/Gov
+3768,Black,6.0,Investment Banking
+3769,White,2.0,PE/VC
+3770,,3.0,Consulting
+3771,Hispanic,5.0,Consulting
+3772,Other,4.0,Other
+3773,Black,3.0,Investment Management
+3774,Asian,6.0,Financial Services
+3775,White,3.0,Consulting
+3776,White,5.0,PE/VC
+3777,,4.0,Financial Services
+3778,,7.0,Nonprofit/Gov
+3779,Asian,4.0,PE/VC
+3780,,3.0,PE/VC
+3781,Asian,5.0,Consulting
+3782,White,5.0,Consulting
+3783,Hispanic,6.0,Nonprofit/Gov
+3784,,6.0,Consulting
+3785,Asian,4.0,Consulting
+3786,Black,5.0,Consulting
+3787,,6.0,Technology
+3788,White,5.0,Consulting
+3789,Hispanic,4.0,Health Care
+3790,White,5.0,PE/VC
+3791,Hispanic,6.0,Technology
+3792,,7.0,Consulting
+3793,White,6.0,PE/VC
+3794,Asian,4.0,Nonprofit/Gov
+3795,Black,4.0,Technology
+3796,White,6.0,Nonprofit/Gov
+3797,White,5.0,PE/VC
+3798,Asian,5.0,Financial Services
+3799,Black,5.0,PE/VC
+3800,,4.0,Technology
+3801,,7.0,Nonprofit/Gov
+3802,White,7.0,Consulting
+3803,White,4.0,Investment Management
+3804,Black,4.0,Nonprofit/Gov
+3805,Hispanic,4.0,Real Estate
+3806,,5.0,Investment Banking
+3807,Other,6.0,Consulting
+3808,,4.0,Consulting
+3809,Asian,4.0,PE/VC
+3810,Other,6.0,Financial Services
+3811,Asian,5.0,Real Estate
+3812,Hispanic,5.0,PE/VC
+3813,,5.0,Financial Services
+3814,Asian,5.0,PE/VC
+3815,Black,5.0,Health Care
+3816,White,5.0,Investment Banking
+3817,Asian,6.0,Consulting
+3818,White,5.0,Real Estate
+3819,Black,6.0,Financial Services
+3820,White,4.0,PE/VC
+3821,Asian,5.0,Nonprofit/Gov
+3822,,5.0,Technology
+3823,White,5.0,PE/VC
+3824,,5.0,Consulting
+3825,,5.0,Other
+3826,Black,4.0,Other
+3827,,5.0,Consulting
+3828,White,4.0,Investment Banking
+3829,,5.0,CPG
+3830,Hispanic,5.0,Consulting
+3831,Hispanic,6.0,PE/VC
+3832,,4.0,Investment Banking
+3833,Asian,4.0,Investment Banking
+3834,White,5.0,Other
+3835,White,4.0,PE/VC
+3836,White,5.0,Other
+3837,Hispanic,6.0,Investment Banking
+3838,Black,5.0,PE/VC
+3839,White,5.0,Investment Management
+3840,White,5.0,Consulting
+3841,White,7.0,Nonprofit/Gov
+3842,,4.0,Other
+3843,Asian,6.0,Technology
+3844,Other,5.0,Investment Banking
+3845,,5.0,PE/VC
+3846,White,4.0,Health Care
+3847,Hispanic,5.0,PE/VC
+3848,,4.0,Health Care
+3849,Black,5.0,Technology
+3850,Black,3.0,Nonprofit/Gov
+3851,Black,6.0,Nonprofit/Gov
+3852,Black,7.0,Technology
+3853,Black,5.0,Technology
+3854,Asian,6.0,Consulting
+3855,White,6.0,Nonprofit/Gov
+3856,White,6.0,Technology
+3857,,4.0,Consulting
+3858,Hispanic,5.0,Consulting
+3859,White,5.0,Consulting
+3860,White,5.0,Financial Services
+3861,Hispanic,2.0,Consulting
+3862,White,4.0,Health Care
+3863,Black,5.0,Technology
+3864,Asian,5.0,Investment Management
+3865,,5.0,Financial Services
+3866,White,6.0,Other
+3867,,5.0,Nonprofit/Gov
+3868,White,5.0,Consulting
+3869,Asian,5.0,Financial Services
+3870,,5.0,Technology
+3871,Black,5.0,Technology
+3872,White,6.0,Health Care
+3873,Asian,5.0,PE/VC
+3874,White,7.0,Consulting
+3875,Hispanic,6.0,Consulting
+3876,,5.0,CPG
+3877,Asian,4.0,Consulting
+3878,Black,5.0,Consulting
+3879,White,5.0,Consulting
+3880,Black,6.0,Health Care
+3881,White,5.0,Energy
+3882,Black,4.0,PE/VC
+3883,White,5.0,Financial Services
+3884,Hispanic,7.0,Health Care
+3885,,5.0,Consulting
+3886,Asian,5.0,Other
+3887,,5.0,Media/Entertainment
+3888,White,4.0,PE/VC
+3889,Other,6.0,Investment Banking
+3890,,5.0,Health Care
+3891,White,5.0,Other
+3892,Black,6.0,Financial Services
+3893,Asian,6.0,PE/VC
+3894,,4.0,Real Estate
+3895,Black,5.0,Financial Services
+3896,Asian,6.0,Consulting
+3897,,5.0,Investment Banking
+3898,Asian,6.0,Consulting
+3899,Black,5.0,Consulting
+3900,Asian,6.0,PE/VC
+3901,Asian,5.0,Nonprofit/Gov
+3902,White,6.0,Consulting
+3903,,4.0,CPG
+3904,Black,5.0,Other
+3905,White,6.0,Real Estate
+3906,,7.0,Investment Management
+3907,,4.0,PE/VC
+3908,Black,3.0,Consulting
+3909,Asian,6.0,Financial Services
+3910,White,7.0,PE/VC
+3911,Asian,6.0,Consulting
+3912,Other,4.0,Financial Services
+3913,Asian,7.0,CPG
+3914,,6.0,Consulting
+3915,White,5.0,Consulting
+3916,Asian,5.0,Investment Banking
+3917,White,3.0,Consulting
+3918,Asian,4.0,Financial Services
+3919,Asian,4.0,Real Estate
+3920,,5.0,Other
+3921,Black,6.0,Investment Banking
+3922,Black,6.0,Investment Management
+3923,Black,6.0,Financial Services
+3924,,8.0,Investment Management
+3925,White,5.0,PE/VC
+3926,White,3.0,Consulting
+3927,Other,4.0,Health Care
+3928,,4.0,PE/VC
+3929,Asian,5.0,Nonprofit/Gov
+3930,,4.0,PE/VC
+3931,White,5.0,Consulting
+3932,White,5.0,Consulting
+3933,Asian,6.0,Consulting
+3934,Hispanic,5.0,Technology
+3935,White,7.0,Investment Management
+3936,Hispanic,5.0,Technology
+3937,Asian,5.0,Retail
+3938,,6.0,Investment Banking
+3939,,5.0,Consulting
+3940,,5.0,Investment Banking
+3941,Black,4.0,Financial Services
+3942,Asian,6.0,Real Estate
+3943,White,4.0,Investment Banking
+3944,,5.0,Nonprofit/Gov
+3945,Asian,3.0,PE/VC
+3946,,5.0,Investment Banking
+3947,Black,4.0,Consulting
+3948,Asian,5.0,PE/VC
+3949,Asian,5.0,Financial Services
+3950,White,6.0,PE/VC
+3951,White,5.0,Consulting
+3952,,5.0,Nonprofit/Gov
+3953,Other,5.0,Technology
+3954,Hispanic,4.0,PE/VC
+3955,Asian,4.0,Consulting
+3956,Hispanic,6.0,PE/VC
+3957,White,5.0,Nonprofit/Gov
+3958,Asian,3.0,Investment Management
+3959,Asian,6.0,Technology
+3960,Hispanic,5.0,PE/VC
+3961,Black,4.0,Technology
+3962,Hispanic,6.0,PE/VC
+3963,White,5.0,Consulting
+3964,,5.0,Technology
+3965,White,6.0,PE/VC
+3966,Asian,6.0,PE/VC
+3967,,6.0,Nonprofit/Gov
+3968,,6.0,Health Care
+3969,Asian,4.0,Technology
+3970,White,6.0,Consulting
+3971,,4.0,Investment Management
+3972,,2.0,Financial Services
+3973,White,5.0,Consulting
+3974,,5.0,Technology
+3975,,4.0,Consulting
+3976,White,5.0,Investment Banking
+3977,White,4.0,CPG
+3978,Black,4.0,Investment Banking
+3979,Black,4.0,Consulting
+3980,Asian,3.0,PE/VC
+3981,Hispanic,6.0,Consulting
+3982,White,5.0,PE/VC
+3983,,6.0,Nonprofit/Gov
+3984,Asian,6.0,PE/VC
+3985,Black,6.0,Nonprofit/Gov
+3986,White,6.0,Media/Entertainment
+3987,,7.0,Nonprofit/Gov
+3988,,6.0,Investment Management
+3989,,3.0,Consulting
+3990,Asian,5.0,Nonprofit/Gov
+3991,White,7.0,Health Care
+3992,,5.0,Consulting
+3993,Black,6.0,Consulting
+3994,Black,7.0,Technology
+3995,,4.0,Consulting
+3996,White,4.0,Technology
+3997,Black,4.0,Financial Services
+3998,White,7.0,Technology
+3999,,3.0,Real Estate
+4000,Black,5.0,PE/VC
+4001,Asian,3.0,Consulting
+4002,Asian,8.0,Consulting
+4003,,4.0,Technology
+4004,,6.0,Consulting
+4005,White,5.0,PE/VC
+4006,White,6.0,Investment Banking
+4007,Asian,5.0,Consulting
+4008,White,6.0,Investment Banking
+4009,,6.0,Investment Banking
+4010,White,5.0,Consulting
+4011,Hispanic,4.0,Financial Services
+4012,Hispanic,6.0,CPG
+4013,White,5.0,Media/Entertainment
+4014,Black,6.0,Consulting
+4015,White,5.0,CPG
+4016,Asian,6.0,Consulting
+4017,Black,6.0,Technology
+4018,Asian,3.0,Consulting
+4019,White,5.0,Technology
+4020,,7.0,Nonprofit/Gov
+4021,,4.0,Technology
+4022,White,4.0,Real Estate
+4023,,6.0,PE/VC
+4024,Asian,5.0,Other
+4025,Asian,4.0,PE/VC
+4026,Black,4.0,Consulting
+4027,Black,6.0,Consulting
+4028,Asian,6.0,Health Care
+4029,Hispanic,5.0,Consulting
+4030,Asian,4.0,Financial Services
+4031,Asian,6.0,Technology
+4032,White,5.0,Nonprofit/Gov
+4033,White,5.0,Other
+4034,Black,4.0,PE/VC
+4035,Asian,5.0,PE/VC
+4036,,6.0,Real Estate
+4037,White,8.0,Nonprofit/Gov
+4038,White,6.0,Other
+4039,,5.0,Consulting
+4040,Other,3.0,PE/VC
+4041,Hispanic,5.0,PE/VC
+4042,White,6.0,Technology
+4043,Hispanic,3.0,Consulting
+4044,Asian,3.0,Nonprofit/Gov
+4045,White,5.0,Investment Banking
+4046,Hispanic,5.0,Investment Banking
+4047,,6.0,Investment Banking
+4048,White,6.0,Nonprofit/Gov
+4049,White,7.0,Nonprofit/Gov
+4050,Other,5.0,Nonprofit/Gov
+4051,White,6.0,Nonprofit/Gov
+4052,Black,4.0,Technology
+4053,,3.0,Technology
+4054,,5.0,Consulting
+4055,White,4.0,Investment Banking
+4056,Black,5.0,Consulting
+4057,Asian,6.0,CPG
+4058,,5.0,Consulting
+4059,Asian,6.0,Nonprofit/Gov
+4060,Black,6.0,Real Estate
+4061,,5.0,Investment Banking
+4062,,6.0,PE/VC
+4063,Black,6.0,Investment Banking
+4064,Hispanic,5.0,Consulting
+4065,White,7.0,Other
+4066,Other,6.0,Other
+4067,Asian,5.0,Financial Services
+4068,Asian,5.0,Financial Services
+4069,,5.0,Consulting
+4070,Hispanic,6.0,PE/VC
+4071,White,3.0,PE/VC
+4072,,6.0,Investment Management
+4073,White,3.0,Nonprofit/Gov
+4074,Black,2.0,Consulting
+4075,White,6.0,Financial Services
+4076,White,5.0,Consulting
+4077,Hispanic,4.0,Technology
+4078,,4.0,Health Care
+4079,Black,6.0,Consulting
+4080,Asian,6.0,Consulting
+4081,Black,5.0,Health Care
+4082,White,5.0,Health Care
+4083,,7.0,Financial Services
+4084,Asian,5.0,Technology
+4085,,4.0,PE/VC
+4086,Asian,3.0,Other
+4087,,4.0,Technology
+4088,Hispanic,6.0,Technology
+4089,,5.0,Consulting
+4090,Hispanic,4.0,Consulting
+4091,Black,6.0,Investment Banking
+4092,Asian,4.0,Investment Management
+4093,,5.0,Technology
+4094,,4.0,Other
+4095,,6.0,Investment Banking
+4096,,5.0,Consulting
+4097,Asian,7.0,Consulting
+4098,White,5.0,CPG
+4099,Black,4.0,Consulting
+4100,,4.0,Nonprofit/Gov
+4101,White,5.0,Consulting
+4102,Asian,6.0,PE/VC
+4103,Asian,4.0,Consulting
+4104,,4.0,Technology
+4105,Black,5.0,Nonprofit/Gov
+4106,Other,5.0,Financial Services
+4107,White,6.0,Investment Banking
+4108,Other,6.0,Financial Services
+4109,,4.0,Financial Services
+4110,,5.0,Nonprofit/Gov
+4111,Asian,4.0,Financial Services
+4112,White,6.0,Technology
+4113,Hispanic,6.0,Nonprofit/Gov
+4114,,4.0,CPG
+4115,Hispanic,7.0,PE/VC
+4116,White,6.0,Investment Management
+4117,,4.0,Technology
+4118,Other,5.0,Technology
+4119,Hispanic,5.0,Consulting
+4120,White,6.0,Technology
+4121,Asian,4.0,Consulting
+4122,White,6.0,Consulting
+4123,Hispanic,6.0,Other
+4124,Black,6.0,Investment Management
+4125,Asian,6.0,Nonprofit/Gov
+4126,,6.0,Financial Services
+4127,,5.0,Consulting
+4128,Black,6.0,PE/VC
+4129,Asian,5.0,Consulting
+4130,Asian,6.0,Investment Banking
+4131,Hispanic,5.0,PE/VC
+4132,Black,5.0,Consulting
+4133,White,5.0,PE/VC
+4134,Asian,6.0,Financial Services
+4135,Black,6.0,Consulting
+4136,White,4.0,Energy
+4137,Hispanic,6.0,Financial Services
+4138,,5.0,Technology
+4139,,5.0,Consulting
+4140,,5.0,PE/VC
+4141,Black,4.0,Consulting
+4142,White,5.0,Consulting
+4143,,5.0,Technology
+4144,Asian,5.0,PE/VC
+4145,Asian,5.0,Technology
+4146,White,6.0,Other
+4147,Asian,5.0,Consulting
+4148,,5.0,Consulting
+4149,White,5.0,Health Care
+4150,Black,6.0,Consulting
+4151,,5.0,Investment Banking
+4152,Asian,4.0,PE/VC
+4153,,5.0,Investment Banking
+4154,Black,3.0,Investment Banking
+4155,,6.0,PE/VC
+4156,White,5.0,Investment Banking
+4157,Asian,5.0,Nonprofit/Gov
+4158,White,5.0,Other
+4159,Other,3.0,Financial Services
+4160,White,4.0,Financial Services
+4161,,5.0,PE/VC
+4162,Hispanic,6.0,Consulting
+4163,Asian,3.0,PE/VC
+4164,Asian,5.0,Financial Services
+4165,Hispanic,6.0,PE/VC
+4166,White,6.0,Investment Banking
+4167,Black,4.0,Consulting
+4168,Hispanic,6.0,Investment Banking
+4169,Asian,6.0,Nonprofit/Gov
+4170,,5.0,PE/VC
+4171,Asian,5.0,Health Care
+4172,Hispanic,8.0,Health Care
+4173,,5.0,Technology
+4174,Asian,4.0,Financial Services
+4175,Black,4.0,Investment Banking
+4176,,6.0,Retail
+4177,Asian,6.0,PE/VC
+4178,Other,4.0,Health Care
+4179,Asian,4.0,Investment Management
+4180,,5.0,Investment Banking
+4181,White,4.0,Financial Services
+4182,White,6.0,Consulting
+4183,,7.0,Financial Services
+4184,,5.0,Consulting
+4185,Black,4.0,PE/VC
+4186,Other,7.0,Consulting
+4187,Black,6.0,Investment Management
+4188,Black,6.0,Financial Services
+4189,,5.0,PE/VC
+4190,Asian,6.0,Consulting
+4191,,5.0,Investment Banking
+4192,Other,6.0,Other
+4193,,4.0,Health Care
+4194,,6.0,Real Estate
+4195,White,5.0,Investment Banking
+4196,Asian,4.0,PE/VC
+4197,Black,6.0,Consulting
+4198,White,5.0,Investment Banking
+4199,,4.0,Consulting
+4200,Hispanic,4.0,Consulting
+4201,Black,4.0,Consulting
+4202,,4.0,Consulting
+4203,Asian,5.0,Consulting
+4204,White,5.0,Technology
+4205,,6.0,Consulting
+4206,White,5.0,CPG
+4207,,5.0,Consulting
+4208,Asian,3.0,Nonprofit/Gov
+4209,White,4.0,Investment Banking
+4210,,4.0,Technology
+4211,Black,6.0,Technology
+4212,White,5.0,Nonprofit/Gov
+4213,Hispanic,6.0,PE/VC
+4214,Asian,5.0,Technology
+4215,Asian,5.0,Nonprofit/Gov
+4216,Hispanic,3.0,Nonprofit/Gov
+4217,,6.0,PE/VC
+4218,Black,7.0,Consulting
+4219,White,4.0,Consulting
+4220,Asian,4.0,PE/VC
+4221,Asian,4.0,Other
+4222,Asian,4.0,Consulting
+4223,White,5.0,Technology
+4224,,7.0,Financial Services
+4225,Asian,6.0,Consulting
+4226,Asian,6.0,Energy
+4227,,5.0,Technology
+4228,Asian,4.0,Consulting
+4229,Black,4.0,Other
+4230,,5.0,Consulting
+4231,White,4.0,Health Care
+4232,,5.0,Consulting
+4233,Asian,6.0,Consulting
+4234,Asian,4.0,Nonprofit/Gov
+4235,Hispanic,5.0,Consulting
+4236,,4.0,Energy
+4237,Black,5.0,Nonprofit/Gov
+4238,White,6.0,PE/VC
+4239,,7.0,Nonprofit/Gov
+4240,Asian,5.0,PE/VC
+4241,Asian,5.0,Consulting
+4242,White,6.0,Nonprofit/Gov
+4243,White,5.0,Technology
+4244,,5.0,Technology
+4245,Black,5.0,Consulting
+4246,,4.0,PE/VC
+4247,White,3.0,PE/VC
+4248,Hispanic,4.0,Health Care
+4249,Asian,5.0,PE/VC
+4250,,6.0,Technology
+4251,Asian,5.0,Consulting
+4252,Asian,5.0,Health Care
+4253,,3.0,Consulting
+4254,White,4.0,Technology
+4255,Asian,5.0,Other
+4256,White,6.0,Technology
+4257,Hispanic,5.0,Consulting
+4258,Hispanic,4.0,PE/VC
+4259,Black,5.0,Health Care
+4260,White,4.0,Retail
+4261,,6.0,Other
+4262,Other,4.0,Consulting
+4263,White,5.0,Consulting
+4264,White,4.0,Nonprofit/Gov
+4265,Black,4.0,Investment Banking
+4266,,5.0,Consulting
+4267,Asian,7.0,Other
+4268,,5.0,Investment Banking
+4269,White,4.0,Consulting
+4270,White,5.0,Nonprofit/Gov
+4271,Asian,4.0,PE/VC
+4272,Hispanic,6.0,PE/VC
+4273,Black,5.0,Financial Services
+4274,Other,5.0,Nonprofit/Gov
+4275,Other,4.0,Investment Banking
+4276,Other,6.0,Financial Services
+4277,,6.0,PE/VC
+4278,Asian,6.0,CPG
+4279,White,5.0,Consulting
+4280,White,5.0,CPG
+4281,Hispanic,5.0,Consulting
+4282,,4.0,Nonprofit/Gov
+4283,,3.0,Nonprofit/Gov
+4284,White,6.0,Other
+4285,White,6.0,Financial Services
+4286,,7.0,Technology
+4287,White,4.0,PE/VC
+4288,Other,5.0,Nonprofit/Gov
+4289,Asian,5.0,Consulting
+4290,Asian,5.0,Technology
+4291,,6.0,Investment Banking
+4292,,5.0,Consulting
+4293,Black,6.0,Consulting
+4294,,6.0,Health Care
+4295,,4.0,Other
+4296,,5.0,Consulting
+4297,Black,5.0,Nonprofit/Gov
+4298,,5.0,Investment Banking
+4299,White,5.0,Health Care
+4300,White,4.0,Investment Management
+4301,Asian,5.0,Consulting
+4302,White,5.0,Consulting
+4303,White,7.0,Technology
+4304,,6.0,Consulting
+4305,Asian,3.0,Technology
+4306,Black,3.0,Other
+4307,White,5.0,Nonprofit/Gov
+4308,Black,6.0,Consulting
+4309,White,5.0,Other
+4310,,3.0,Consulting
+4311,,6.0,Investment Banking
+4312,White,4.0,Other
+4313,White,4.0,PE/VC
+4314,Other,6.0,Financial Services
+4315,Hispanic,5.0,Consulting
+4316,White,4.0,Nonprofit/Gov
+4317,Asian,6.0,Consulting
+4318,Black,5.0,Consulting
+4319,White,5.0,Consulting
+4320,Hispanic,5.0,PE/VC
+4321,,5.0,Investment Banking
+4322,,4.0,PE/VC
+4323,Hispanic,3.0,PE/VC
+4324,Other,4.0,Investment Banking
+4325,,6.0,Technology
+4326,White,5.0,Investment Management
+4327,Other,4.0,Consulting
+4328,,6.0,PE/VC
+4329,Asian,6.0,Investment Banking
+4330,,5.0,Consulting
+4331,White,5.0,Financial Services
+4332,Hispanic,6.0,Nonprofit/Gov
+4333,,3.0,PE/VC
+4334,,4.0,Financial Services
+4335,Asian,5.0,Health Care
+4336,White,6.0,Financial Services
+4337,Asian,4.0,PE/VC
+4338,White,5.0,Consulting
+4339,Black,4.0,Retail
+4340,Other,3.0,Technology
+4341,Asian,5.0,PE/VC
+4342,Black,6.0,Investment Banking
+4343,Black,5.0,Nonprofit/Gov
+4344,,5.0,Real Estate
+4345,Other,6.0,Consulting
+4346,,6.0,Real Estate
+4347,,4.0,PE/VC
+4348,Hispanic,6.0,PE/VC
+4349,,5.0,Financial Services
+4350,White,5.0,Technology
+4351,Other,6.0,Health Care
+4352,White,5.0,Other
+4353,Asian,3.0,Other
+4354,White,5.0,CPG
+4355,White,6.0,Consulting
+4356,White,6.0,Consulting
+4357,Black,6.0,PE/VC
+4358,,5.0,Consulting
+4359,Hispanic,5.0,Consulting
+4360,Asian,6.0,Consulting
+4361,Black,7.0,Consulting
+4362,Asian,5.0,Technology
+4363,,6.0,Consulting
+4364,White,5.0,Technology
+4365,White,6.0,Financial Services
+4366,Black,4.0,Health Care
+4367,Asian,6.0,Nonprofit/Gov
+4368,,5.0,PE/VC
+4369,Asian,6.0,Consulting
+4370,Asian,6.0,PE/VC
+4371,White,5.0,Nonprofit/Gov
+4372,Other,5.0,Consulting
+4373,Asian,4.0,Consulting
+4374,,5.0,Nonprofit/Gov
+4375,Black,3.0,Investment Banking
+4376,,5.0,Nonprofit/Gov
+4377,,5.0,CPG
+4378,White,4.0,Health Care
+4379,Black,7.0,Financial Services
+4380,Asian,4.0,PE/VC
+4381,White,5.0,Financial Services
+4382,,5.0,Financial Services
+4383,Black,5.0,PE/VC
+4384,Asian,5.0,Nonprofit/Gov
+4385,Other,5.0,Real Estate
+4386,White,5.0,Other
+4387,White,4.0,PE/VC
+4388,,6.0,Other
+4389,,5.0,Consulting
+4390,White,4.0,Technology
+4391,,4.0,Investment Banking
+4392,Hispanic,4.0,Consulting
+4393,White,7.0,Investment Banking
+4394,,4.0,Consulting
+4395,Asian,6.0,Consulting
+4396,Asian,6.0,Consulting
+4397,Hispanic,5.0,Investment Banking
+4398,Asian,6.0,Consulting
+4399,,4.0,Other
+4400,White,5.0,Technology
+4401,Hispanic,5.0,PE/VC
+4402,Asian,6.0,Financial Services
+4403,White,6.0,Nonprofit/Gov
+4404,Hispanic,5.0,Consulting
+4405,Asian,5.0,Retail
+4406,White,4.0,Nonprofit/Gov
+4407,,5.0,Consulting
+4408,,6.0,Nonprofit/Gov
+4409,White,7.0,Financial Services
+4410,,4.0,Nonprofit/Gov
+4411,Black,6.0,Investment Banking
+4412,Asian,5.0,Investment Banking
+4413,White,4.0,Health Care
+4414,Hispanic,4.0,Technology
+4415,,5.0,Consulting
+4416,Black,6.0,CPG
+4417,White,5.0,Investment Banking
+4418,Black,5.0,Consulting
+4419,Asian,5.0,Other
+4420,White,7.0,PE/VC
+4421,White,6.0,Consulting
+4422,Hispanic,4.0,Consulting
+4423,White,5.0,PE/VC
+4424,Asian,5.0,Technology
+4425,Black,6.0,PE/VC
+4426,,7.0,Health Care
+4427,,4.0,Nonprofit/Gov
+4428,,6.0,Other
+4429,Asian,3.0,Health Care
+4430,Asian,3.0,Consulting
+4431,,5.0,Consulting
+4432,White,4.0,PE/VC
+4433,Other,5.0,PE/VC
+4434,,5.0,PE/VC
+4435,Hispanic,5.0,Nonprofit/Gov
+4436,Black,4.0,Financial Services
+4437,Asian,6.0,Investment Management
+4438,Black,5.0,Consulting
+4439,Hispanic,5.0,PE/VC
+4440,Asian,5.0,Consulting
+4441,Hispanic,5.0,Financial Services
+4442,White,6.0,CPG
+4443,White,4.0,Financial Services
+4444,Asian,6.0,Health Care
+4445,White,3.0,Consulting
+4446,White,6.0,Consulting
+4447,Other,5.0,CPG
+4448,,6.0,Technology
+4449,,4.0,Financial Services
+4450,White,5.0,Consulting
+4451,White,6.0,Investment Banking
+4452,White,6.0,Nonprofit/Gov
+4453,Hispanic,4.0,Nonprofit/Gov
+4454,,4.0,Consulting
+4455,,6.0,Energy
+4456,Asian,5.0,Consulting
+4457,Hispanic,6.0,Consulting
+4458,Black,5.0,Energy
+4459,White,5.0,Technology
+4460,,7.0,Health Care
+4461,White,5.0,PE/VC
+4462,Other,7.0,Other
+4463,,5.0,Consulting
+4464,,6.0,Consulting
+4465,White,6.0,Investment Banking
+4466,,5.0,Consulting
+4467,Black,6.0,Investment Management
+4468,Hispanic,4.0,Health Care
+4469,Black,5.0,Other
+4470,White,4.0,Other
+4471,Hispanic,3.0,Investment Management
+4472,Asian,3.0,Health Care
+4473,White,5.0,Consulting
+4474,,5.0,Investment Management
+4475,Asian,4.0,PE/VC
+4476,White,3.0,Health Care
+4477,White,4.0,Consulting
+4478,Black,5.0,PE/VC
+4479,White,6.0,Technology
+4480,,3.0,Investment Banking
+4481,Black,6.0,Technology
+4482,Black,6.0,Financial Services
+4483,Black,4.0,Consulting
+4484,Hispanic,3.0,CPG
+4485,Other,4.0,Other
+4486,,2.0,Other
+4487,Black,4.0,PE/VC
+4488,White,6.0,Media/Entertainment
+4489,White,6.0,Consulting
+4490,White,6.0,Financial Services
+4491,Hispanic,5.0,Other
+4492,,4.0,Financial Services
+4493,Hispanic,4.0,Consulting
+4494,White,4.0,Nonprofit/Gov
+4495,Hispanic,5.0,Investment Management
+4496,Hispanic,7.0,Health Care
+4497,,5.0,Other
+4498,Other,5.0,Other
+4499,Asian,6.0,Health Care
+4500,White,6.0,Technology
+4501,Other,5.0,Consulting
+4502,White,4.0,Investment Banking
+4503,,7.0,Other
+4504,,4.0,Health Care
+4505,,4.0,Other
+4506,,5.0,Other
+4507,White,6.0,Technology
+4508,White,4.0,Other
+4509,Asian,3.0,Technology
+4510,Asian,5.0,Nonprofit/Gov
+4511,White,6.0,Nonprofit/Gov
+4512,Asian,6.0,Investment Banking
+4513,White,7.0,Consulting
+4514,White,5.0,Technology
+4515,,5.0,Media/Entertainment
+4516,Asian,6.0,Investment Management
+4517,Black,5.0,Consulting
+4518,White,6.0,Investment Banking
+4519,Asian,5.0,Nonprofit/Gov
+4520,,6.0,Nonprofit/Gov
+4521,,6.0,Real Estate
+4522,Black,4.0,Consulting
+4523,White,5.0,Nonprofit/Gov
+4524,Black,4.0,PE/VC
+4525,Asian,6.0,Consulting
+4526,,5.0,Media/Entertainment
+4527,Hispanic,5.0,Health Care
+4528,Hispanic,5.0,Technology
+4529,,5.0,Health Care
+4530,White,4.0,Real Estate
+4531,,6.0,Technology
+4532,Black,5.0,Investment Banking
+4533,,6.0,Consulting
+4534,Black,7.0,Consulting
+4535,White,7.0,Consulting
+4536,,4.0,Financial Services
+4537,Black,6.0,Consulting
+4538,,4.0,Technology
+4539,Asian,4.0,Health Care
+4540,,6.0,Nonprofit/Gov
+4541,,5.0,Health Care
+4542,White,5.0,Financial Services
+4543,,5.0,Investment Banking
+4544,White,4.0,Technology
+4545,White,7.0,Consulting
+4546,White,5.0,Nonprofit/Gov
+4547,Black,5.0,Financial Services
+4548,,2.0,Nonprofit/Gov
+4549,,7.0,Nonprofit/Gov
+4550,White,5.0,Nonprofit/Gov
+4551,Hispanic,5.0,Consulting
+4552,Black,5.0,Consulting
+4553,Hispanic,6.0,PE/VC
+4554,,5.0,PE/VC
+4555,Asian,6.0,Real Estate
+4556,White,6.0,Investment Banking
+4557,Black,5.0,Consulting
+4558,Hispanic,3.0,Financial Services
+4559,,5.0,PE/VC
+4560,Asian,4.0,Investment Banking
+4561,,5.0,Other
+4562,,5.0,Other
+4563,Other,6.0,PE/VC
+4564,White,4.0,Consulting
+4565,,7.0,Investment Banking
+4566,Hispanic,6.0,Nonprofit/Gov
+4567,,5.0,Technology
+4568,Black,3.0,Other
+4569,White,7.0,Financial Services
+4570,White,3.0,Consulting
+4571,Asian,7.0,PE/VC
+4572,,4.0,Nonprofit/Gov
+4573,Hispanic,6.0,PE/VC
+4574,,5.0,Investment Management
+4575,White,4.0,Consulting
+4576,White,5.0,Other
+4577,White,6.0,Technology
+4578,Asian,5.0,Nonprofit/Gov
+4579,White,6.0,Technology
+4580,Hispanic,5.0,PE/VC
+4581,Asian,7.0,PE/VC
+4582,White,6.0,Nonprofit/Gov
+4583,,6.0,Consulting
+4584,White,3.0,Consulting
+4585,White,6.0,PE/VC
+4586,Hispanic,6.0,Nonprofit/Gov
+4587,Black,6.0,PE/VC
+4588,,4.0,Consulting
+4589,,5.0,Consulting
+4590,,7.0,Nonprofit/Gov
+4591,Black,5.0,Consulting
+4592,White,5.0,Financial Services
+4593,Asian,6.0,Investment Banking
+4594,Hispanic,5.0,Health Care
+4595,Asian,5.0,PE/VC
+4596,,7.0,Nonprofit/Gov
+4597,,4.0,Other
+4598,,4.0,Investment Banking
+4599,Black,4.0,PE/VC
+4600,Asian,6.0,Nonprofit/Gov
+4601,Black,4.0,CPG
+4602,Black,6.0,Consulting
+4603,Black,6.0,Investment Management
+4604,White,4.0,Technology
+4605,Black,3.0,Consulting
+4606,Black,6.0,Nonprofit/Gov
+4607,,5.0,Consulting
+4608,White,5.0,Consulting
+4609,White,6.0,PE/VC
+4610,Black,5.0,Nonprofit/Gov
+4611,Asian,4.0,Consulting
+4612,Hispanic,5.0,Nonprofit/Gov
+4613,,6.0,Consulting
+4614,,6.0,Real Estate
+4615,Hispanic,6.0,Technology
+4616,Hispanic,6.0,Health Care
+4617,White,4.0,Financial Services
+4618,White,6.0,PE/VC
+4619,Other,4.0,Real Estate
+4620,Asian,6.0,Real Estate
+4621,White,4.0,Consulting
+4622,,4.0,Technology
+4623,Asian,5.0,PE/VC
+4624,Black,5.0,Nonprofit/Gov
+4625,,5.0,Other
+4626,Black,5.0,Other
+4627,Asian,5.0,Energy
+4628,,6.0,PE/VC
+4629,White,4.0,Technology
+4630,Black,4.0,PE/VC
+4631,Asian,7.0,Nonprofit/Gov
+4632,,5.0,Consulting
+4633,White,4.0,Nonprofit/Gov
+4634,Asian,4.0,PE/VC
+4635,Asian,5.0,Financial Services
+4636,,7.0,Consulting
+4637,Asian,4.0,Other
+4638,Other,5.0,Consulting
+4639,White,6.0,Consulting
+4640,Hispanic,7.0,PE/VC
+4641,White,4.0,Technology
+4642,Asian,5.0,PE/VC
+4643,White,4.0,Consulting
+4644,,7.0,Health Care
+4645,Asian,5.0,Other
+4646,,6.0,PE/VC
+4647,,7.0,Financial Services
+4648,Black,6.0,Other
+4649,Black,4.0,Consulting
+4650,,5.0,Consulting
+4651,Asian,4.0,PE/VC
+4652,,3.0,Nonprofit/Gov
+4653,Asian,6.0,Nonprofit/Gov
+4654,,5.0,Other
+4655,Asian,7.0,Consulting
+4656,White,4.0,Consulting
+4657,Hispanic,5.0,Health Care
+4658,White,5.0,Nonprofit/Gov
+4659,Asian,6.0,PE/VC
+4660,Other,4.0,Nonprofit/Gov
+4661,Asian,5.0,Consulting
+4662,White,6.0,Technology
+4663,Hispanic,3.0,Consulting
+4664,Black,6.0,Investment Management
+4665,Other,6.0,PE/VC
+4666,,6.0,Consulting
+4667,,4.0,Nonprofit/Gov
+4668,Asian,4.0,Financial Services
+4669,Asian,5.0,Technology
+4670,Asian,3.0,Other
+4671,Hispanic,6.0,Financial Services
+4672,White,6.0,Consulting
+4673,Hispanic,7.0,Technology
+4674,Asian,4.0,PE/VC
+4675,White,3.0,Consulting
+4676,White,5.0,Other
+4677,Black,7.0,Health Care
+4678,,5.0,Other
+4679,,6.0,Nonprofit/Gov
+4680,Asian,5.0,Investment Banking
+4681,,5.0,Technology
+4682,,3.0,PE/VC
+4683,,4.0,Technology
+4684,Black,5.0,Financial Services
+4685,,5.0,Consulting
+4686,,4.0,Financial Services
+4687,Other,5.0,Consulting
+4688,White,5.0,Consulting
+4689,Black,6.0,PE/VC
+4690,Asian,6.0,PE/VC
+4691,Black,6.0,Nonprofit/Gov
+4692,,6.0,Health Care
+4693,White,7.0,Consulting
+4694,,4.0,PE/VC
+4695,Black,5.0,Nonprofit/Gov
+4696,Black,5.0,Consulting
+4697,Hispanic,6.0,Technology
+4698,White,5.0,Consulting
+4699,,5.0,Other
+4700,,5.0,Retail
+4701,White,5.0,Consulting
+4702,,4.0,Nonprofit/Gov
+4703,Black,6.0,Consulting
+4704,Hispanic,5.0,Financial Services
+4705,White,4.0,Financial Services
+4706,Hispanic,6.0,Technology
+4707,,6.0,Nonprofit/Gov
+4708,Black,6.0,PE/VC
+4709,Black,5.0,PE/VC
+4710,White,5.0,Technology
+4711,Asian,4.0,Nonprofit/Gov
+4712,Black,6.0,Consulting
+4713,,5.0,Technology
+4714,White,5.0,Health Care
+4715,White,5.0,Consulting
+4716,Asian,5.0,PE/VC
+4717,,4.0,PE/VC
+4718,Asian,6.0,PE/VC
+4719,,6.0,PE/VC
+4720,,6.0,Consulting
+4721,,8.0,Financial Services
+4722,Black,4.0,Investment Banking
+4723,Black,4.0,Other
+4724,White,5.0,Other
+4725,White,4.0,Nonprofit/Gov
+4726,,5.0,Technology
+4727,Hispanic,5.0,Real Estate
+4728,Asian,3.0,PE/VC
+4729,Hispanic,4.0,Technology
+4730,White,4.0,Nonprofit/Gov
+4731,White,4.0,Investment Banking
+4732,Asian,6.0,Nonprofit/Gov
+4733,Other,6.0,Consulting
+4734,Black,5.0,Nonprofit/Gov
+4735,White,5.0,PE/VC
+4736,White,4.0,Investment Management
+4737,Other,5.0,CPG
+4738,Asian,4.0,PE/VC
+4739,,4.0,Investment Banking
+4740,,4.0,Consulting
+4741,Asian,5.0,Other
+4742,White,7.0,Media/Entertainment
+4743,Asian,5.0,Other
+4744,Hispanic,6.0,Nonprofit/Gov
+4745,Asian,5.0,Financial Services
+4746,Other,5.0,Consulting
+4747,Asian,6.0,Investment Management
+4748,Other,6.0,Consulting
+4749,Black,4.0,Consulting
+4750,Black,5.0,Consulting
+4751,Asian,5.0,Consulting
+4752,Hispanic,5.0,Other
+4753,,5.0,Investment Banking
+4754,,5.0,Technology
+4755,,5.0,CPG
+4756,Asian,4.0,Nonprofit/Gov
+4757,Black,4.0,PE/VC
+4758,White,3.0,Consulting
+4759,White,6.0,Health Care
+4760,Hispanic,6.0,Consulting
+4761,Asian,4.0,Financial Services
+4762,White,4.0,Investment Banking
+4763,,6.0,Investment Banking
+4764,White,5.0,Other
+4765,,6.0,Other
+4766,Hispanic,3.0,Nonprofit/Gov
+4767,White,7.0,Technology
+4768,,4.0,Consulting
+4769,Black,5.0,Consulting
+4770,Asian,5.0,Consulting
+4771,,5.0,Nonprofit/Gov
+4772,Hispanic,5.0,Consulting
+4773,Hispanic,4.0,PE/VC
+4774,Asian,4.0,Financial Services
+4775,White,5.0,PE/VC
+4776,Other,4.0,Consulting
+4777,White,5.0,Real Estate
+4778,Black,5.0,Real Estate
+4779,Other,6.0,Consulting
+4780,,4.0,Financial Services
+4781,,5.0,Consulting
+4782,Black,5.0,Financial Services
+4783,Asian,5.0,Technology
+4784,Asian,4.0,Nonprofit/Gov
+4785,Black,4.0,Technology
+4786,,5.0,Consulting
+4787,White,4.0,Investment Banking
+4788,,7.0,Nonprofit/Gov
+4789,,4.0,Nonprofit/Gov
+4790,Black,4.0,Consulting
+4791,White,5.0,Consulting
+4792,Black,5.0,Consulting
+4793,White,6.0,Consulting
+4794,White,5.0,Investment Banking
+4795,,4.0,PE/VC
+4796,,5.0,Technology
+4797,Hispanic,4.0,Consulting
+4798,,6.0,Consulting
+4799,Black,6.0,Other
+4800,Asian,6.0,Financial Services
+4801,White,5.0,PE/VC
+4802,,5.0,Consulting
+4803,Asian,5.0,Technology
+4804,Black,4.0,Financial Services
+4805,,7.0,PE/VC
+4806,,5.0,PE/VC
+4807,,5.0,PE/VC
+4808,Black,5.0,PE/VC
+4809,White,4.0,PE/VC
+4810,Other,3.0,PE/VC
+4811,White,4.0,Technology
+4812,White,5.0,Nonprofit/Gov
+4813,White,6.0,Investment Banking
+4814,,6.0,Technology
+4815,Black,6.0,PE/VC
+4816,Black,4.0,Investment Banking
+4817,,5.0,Media/Entertainment
+4818,Hispanic,5.0,CPG
+4819,White,5.0,Consulting
+4820,Asian,6.0,Investment Banking
+4821,White,3.0,Consulting
+4822,,5.0,Technology
+4823,Asian,3.0,Investment Management
+4824,White,5.0,Consulting
+4825,White,5.0,Other
+4826,White,4.0,Consulting
+4827,Hispanic,7.0,Other
+4828,White,4.0,Consulting
+4829,Black,6.0,PE/VC
+4830,Black,5.0,Consulting
+4831,Asian,4.0,CPG
+4832,Black,6.0,Media/Entertainment
+4833,,4.0,Consulting
+4834,,7.0,Financial Services
+4835,,6.0,PE/VC
+4836,,6.0,Technology
+4837,White,5.0,Consulting
+4838,White,4.0,Financial Services
+4839,White,5.0,Health Care
+4840,Hispanic,4.0,Consulting
+4841,,6.0,Other
+4842,White,4.0,Investment Banking
+4843,Asian,4.0,Investment Management
+4844,Asian,5.0,Other
+4845,,5.0,Consulting
+4846,Asian,6.0,Health Care
+4847,,5.0,Consulting
+4848,Other,6.0,Consulting
+4849,Hispanic,5.0,Consulting
+4850,White,4.0,PE/VC
+4851,White,5.0,Consulting
+4852,Asian,4.0,Technology
+4853,Asian,5.0,Consulting
+4854,Hispanic,5.0,PE/VC
+4855,White,5.0,PE/VC
+4856,Asian,5.0,Consulting
+4857,White,5.0,Consulting
+4858,,4.0,Consulting
+4859,Asian,6.0,Consulting
+4860,,6.0,Nonprofit/Gov
+4861,White,5.0,Real Estate
+4862,Asian,6.0,Other
+4863,Asian,4.0,PE/VC
+4864,Black,5.0,PE/VC
+4865,,5.0,PE/VC
+4866,Black,5.0,Nonprofit/Gov
+4867,,4.0,Investment Banking
+4868,Hispanic,4.0,Health Care
+4869,,7.0,PE/VC
+4870,Asian,6.0,Financial Services
+4871,White,4.0,Nonprofit/Gov
+4872,White,5.0,Investment Banking
+4873,,6.0,Consulting
+4874,,5.0,Consulting
+4875,,7.0,Consulting
+4876,White,6.0,PE/VC
+4877,Asian,4.0,Consulting
+4878,White,5.0,Technology
+4879,White,5.0,Other
+4880,,4.0,Consulting
+4881,White,5.0,Nonprofit/Gov
+4882,,4.0,CPG
+4883,Asian,5.0,Financial Services
+4884,,3.0,Other
+4885,,7.0,Other
+4886,,5.0,Technology
+4887,Hispanic,4.0,Health Care
+4888,,4.0,Health Care
+4889,Other,3.0,Investment Banking
+4890,White,5.0,Health Care
+4891,White,5.0,Nonprofit/Gov
+4892,,4.0,PE/VC
+4893,,3.0,Investment Banking
+4894,White,3.0,Nonprofit/Gov
+4895,,6.0,Investment Banking
+4896,White,4.0,Nonprofit/Gov
+4897,Asian,6.0,Consulting
+4898,,5.0,Health Care
+4899,Black,4.0,Other
+4900,Asian,5.0,Health Care
+4901,White,6.0,Technology
+4902,,6.0,Investment Banking
+4903,Asian,6.0,Nonprofit/Gov
+4904,White,6.0,PE/VC
+4905,Hispanic,4.0,Investment Banking
+4906,Asian,5.0,Consulting
+4907,,5.0,Investment Banking
+4908,Asian,7.0,Technology
+4909,White,3.0,PE/VC
+4910,Asian,5.0,Investment Banking
+4911,,6.0,Financial Services
+4912,,3.0,Consulting
+4913,Asian,4.0,Consulting
+4914,Asian,6.0,Nonprofit/Gov
+4915,,3.0,Financial Services
+4916,White,6.0,Technology
+4917,,7.0,Technology
+4918,Black,6.0,Other
+4919,White,5.0,Nonprofit/Gov
+4920,,6.0,Consulting
+4921,White,5.0,Health Care
+4922,Black,6.0,Consulting
+4923,Black,6.0,Consulting
+4924,Black,4.0,Investment Banking
+4925,White,5.0,Consulting
+4926,Hispanic,6.0,Consulting
+4927,Other,5.0,Consulting
+4928,Asian,6.0,Financial Services
+4929,Hispanic,4.0,Nonprofit/Gov
+4930,Black,5.0,Consulting
+4931,Black,5.0,Consulting
+4932,,5.0,Consulting
+4933,Hispanic,4.0,Financial Services
+4934,Other,5.0,Consulting
+4935,Hispanic,4.0,Consulting
+4936,White,5.0,Consulting
+4937,,7.0,Financial Services
+4938,Black,5.0,Consulting
+4939,Asian,6.0,Consulting
+4940,White,5.0,Nonprofit/Gov
+4941,Black,8.0,PE/VC
+4942,White,5.0,Consulting
+4943,,6.0,Other
+4944,Other,6.0,Consulting
+4945,White,6.0,PE/VC
+4946,,5.0,Consulting
+4947,Black,4.0,Consulting
+4948,Asian,5.0,Investment Banking
+4949,Black,4.0,Consulting
+4950,White,5.0,PE/VC
+4951,,5.0,Consulting
+4952,,6.0,Consulting
+4953,Hispanic,5.0,Nonprofit/Gov
+4954,Asian,6.0,Nonprofit/Gov
+4955,Asian,5.0,Consulting
+4956,Asian,7.0,Financial Services
+4957,Asian,5.0,Nonprofit/Gov
+4958,White,4.0,PE/VC
+4959,,5.0,PE/VC
+4960,,3.0,Consulting
+4961,,6.0,PE/VC
+4962,Black,5.0,Consulting
+4963,Hispanic,7.0,PE/VC
+4964,,6.0,Investment Banking
+4965,White,5.0,Financial Services
+4966,Other,2.0,Nonprofit/Gov
+4967,White,5.0,Health Care
+4968,Asian,5.0,PE/VC
+4969,White,4.0,Technology
+4970,Asian,6.0,Financial Services
+4971,Hispanic,5.0,Energy
+4972,White,6.0,Nonprofit/Gov
+4973,Hispanic,3.0,PE/VC
+4974,White,3.0,Consulting
+4975,Hispanic,6.0,Investment Banking
+4976,,4.0,Consulting
+4977,Asian,4.0,Technology
+4978,,5.0,PE/VC
+4979,Hispanic,5.0,CPG
+4980,,2.0,Technology
+4981,Black,5.0,Other
+4982,Asian,4.0,Financial Services
+4983,Asian,6.0,Consulting
+4984,,5.0,Other
+4985,Asian,6.0,PE/VC
+4986,Asian,4.0,Consulting
+4987,White,5.0,PE/VC
+4988,Black,5.0,Financial Services
+4989,White,6.0,PE/VC
+4990,,4.0,Health Care
+4991,Hispanic,3.0,PE/VC
+4992,White,6.0,Consulting
+4993,,6.0,Nonprofit/Gov
+4994,White,5.0,Consulting
+4995,Asian,5.0,Financial Services
+4996,Other,7.0,Consulting
+4997,Hispanic,5.0,Consulting
+4998,,5.0,Financial Services
+4999,,5.0,Nonprofit/Gov
+5000,White,6.0,Consulting
+5001,,5.0,PE/VC
+5002,Hispanic,4.0,Nonprofit/Gov
+5003,Black,3.0,Consulting
+5004,Black,6.0,Investment Banking
+5005,Other,5.0,Technology
+5006,Other,5.0,Other
+5007,Other,7.0,Technology
+5008,,6.0,Consulting
+5009,Hispanic,6.0,Technology
+5010,,3.0,Investment Banking
+5011,Asian,6.0,Consulting
+5012,Asian,6.0,Nonprofit/Gov
+5013,White,4.0,Consulting
+5014,Other,6.0,Consulting
+5015,,6.0,Technology
+5016,,5.0,Technology
+5017,,5.0,Technology
+5018,,4.0,Investment Management
+5019,Asian,6.0,PE/VC
+5020,White,4.0,Consulting
+5021,White,5.0,Technology
+5022,,4.0,Consulting
+5023,Black,5.0,Nonprofit/Gov
+5024,Asian,4.0,Consulting
+5025,White,8.0,Nonprofit/Gov
+5026,Asian,4.0,PE/VC
+5027,Asian,5.0,Other
+5028,,4.0,Financial Services
+5029,Asian,6.0,Investment Banking
+5030,Asian,5.0,PE/VC
+5031,,5.0,Technology
+5032,Hispanic,7.0,Investment Management
+5033,White,4.0,Other
+5034,Hispanic,4.0,Technology
+5035,,4.0,Other
+5036,,3.0,Consulting
+5037,,7.0,Consulting
+5038,Asian,6.0,PE/VC
+5039,White,5.0,PE/VC
+5040,Hispanic,5.0,Consulting
+5041,,3.0,Consulting
+5042,Asian,6.0,Technology
+5043,White,6.0,Consulting
+5044,Asian,4.0,PE/VC
+5045,Hispanic,5.0,PE/VC
+5046,Asian,5.0,Consulting
+5047,Black,5.0,Consulting
+5048,Black,5.0,Investment Banking
+5049,,6.0,Technology
+5050,Asian,6.0,Nonprofit/Gov
+5051,Hispanic,6.0,Consulting
+5052,,6.0,PE/VC
+5053,Asian,4.0,Media/Entertainment
+5054,,4.0,CPG
+5055,Black,5.0,Investment Banking
+5056,White,5.0,Technology
+5057,Asian,6.0,Financial Services
+5058,,4.0,PE/VC
+5059,Other,4.0,Financial Services
+5060,,5.0,PE/VC
+5061,Asian,5.0,PE/VC
+5062,White,5.0,Financial Services
+5063,Black,6.0,Financial Services
+5064,Asian,5.0,PE/VC
+5065,Black,5.0,Nonprofit/Gov
+5066,White,4.0,Technology
+5067,White,5.0,Technology
+5068,Black,4.0,Consulting
+5069,,3.0,Consulting
+5070,Black,6.0,Investment Banking
+5071,,5.0,Nonprofit/Gov
+5072,,5.0,PE/VC
+5073,Black,4.0,PE/VC
+5074,Hispanic,4.0,PE/VC
+5075,Asian,4.0,Nonprofit/Gov
+5076,,6.0,Nonprofit/Gov
+5077,Black,6.0,Nonprofit/Gov
+5078,,6.0,Nonprofit/Gov
+5079,Asian,5.0,PE/VC
+5080,,5.0,Consulting
+5081,Asian,5.0,Investment Banking
+5082,,5.0,Technology
+5083,Black,5.0,PE/VC
+5084,,4.0,CPG
+5085,Other,4.0,Investment Banking
+5086,,6.0,Technology
+5087,Asian,5.0,Consulting
+5088,Other,6.0,Consulting
+5089,,6.0,Other
+5090,Hispanic,6.0,PE/VC
+5091,Hispanic,5.0,Financial Services
+5092,,5.0,Technology
+5093,,5.0,Investment Banking
+5094,,7.0,Other
+5095,White,6.0,Consulting
+5096,,4.0,Nonprofit/Gov
+5097,,4.0,Consulting
+5098,Asian,5.0,PE/VC
+5099,,5.0,Investment Management
+5100,Asian,6.0,Technology
+5101,Asian,5.0,Investment Banking
+5102,Other,5.0,Consulting
+5103,Black,5.0,Consulting
+5104,White,5.0,Consulting
+5105,Black,4.0,Investment Banking
+5106,White,6.0,Consulting
+5107,,5.0,Investment Banking
+5108,Other,5.0,Technology
+5109,,4.0,Consulting
+5110,Asian,5.0,Consulting
+5111,,5.0,Other
+5112,White,4.0,Investment Banking
+5113,Asian,5.0,Consulting
+5114,,6.0,Investment Banking
+5115,,5.0,Technology
+5116,Asian,5.0,Health Care
+5117,,7.0,Other
+5118,,6.0,Consulting
+5119,White,5.0,Investment Banking
+5120,Hispanic,4.0,Consulting
+5121,Hispanic,5.0,Consulting
+5122,White,5.0,Consulting
+5123,Other,6.0,Nonprofit/Gov
+5124,Other,5.0,Financial Services
+5125,Black,4.0,Technology
+5126,,4.0,Investment Banking
+5127,Asian,4.0,Consulting
+5128,,6.0,Consulting
+5129,White,5.0,PE/VC
+5130,Black,5.0,Investment Banking
+5131,Asian,7.0,Technology
+5132,,5.0,Nonprofit/Gov
+5133,Asian,5.0,Consulting
+5134,Asian,6.0,Technology
+5135,Hispanic,4.0,Consulting
+5136,White,5.0,Retail
+5137,Asian,7.0,Other
+5138,Asian,6.0,Real Estate
+5139,White,4.0,Health Care
+5140,Black,6.0,Investment Banking
+5141,White,5.0,Financial Services
+5142,White,3.0,Financial Services
+5143,Black,5.0,Technology
+5144,Black,5.0,PE/VC
+5145,White,5.0,PE/VC
+5146,White,4.0,CPG
+5147,Black,5.0,Technology
+5148,,7.0,Financial Services
+5149,,6.0,Other
+5150,,4.0,PE/VC
+5151,Black,6.0,Financial Services
+5152,Asian,6.0,Nonprofit/Gov
+5153,,4.0,Consulting
+5154,Black,5.0,Real Estate
+5155,White,4.0,Technology
+5156,Asian,4.0,Investment Banking
+5157,Hispanic,7.0,Nonprofit/Gov
+5158,Asian,6.0,Consulting
+5159,,4.0,PE/VC
+5160,,4.0,Investment Banking
+5161,,5.0,Consulting
+5162,,4.0,Financial Services
+5163,Black,5.0,Consulting
+5164,Asian,4.0,Other
+5165,White,7.0,Financial Services
+5166,Asian,5.0,Technology
+5167,Black,6.0,Consulting
+5168,,5.0,PE/VC
+5169,,6.0,Technology
+5170,,4.0,PE/VC
+5171,White,4.0,Consulting
+5172,Asian,4.0,Technology
+5173,Hispanic,4.0,PE/VC
+5174,,6.0,Financial Services
+5175,Hispanic,5.0,CPG
+5176,White,6.0,Other
+5177,White,6.0,PE/VC
+5178,Asian,4.0,Energy
+5179,Asian,7.0,Technology
+5180,Asian,5.0,CPG
+5181,,4.0,Nonprofit/Gov
+5182,Hispanic,4.0,Technology
+5183,Black,6.0,Other
+5184,Black,5.0,Consulting
+5185,,3.0,Consulting
+5186,,4.0,PE/VC
+5187,Asian,5.0,Investment Banking
+5188,,7.0,Consulting
+5189,,5.0,Consulting
+5190,Black,4.0,Consulting
+5191,Asian,6.0,Investment Banking
+5192,Other,4.0,Health Care
+5193,,5.0,Nonprofit/Gov
+5194,,4.0,Consulting
+5195,,6.0,Health Care
+5196,Black,3.0,Nonprofit/Gov
+5197,White,5.0,Investment Banking
+5198,Black,5.0,Consulting
+5199,Black,4.0,Investment Banking
+5200,,5.0,Technology
+5201,Hispanic,5.0,Investment Banking
+5202,,6.0,Consulting
+5203,White,5.0,Nonprofit/Gov
+5204,White,6.0,PE/VC
+5205,Black,5.0,Technology
+5206,Asian,6.0,Consulting
+5207,Black,6.0,Financial Services
+5208,Hispanic,6.0,Other
+5209,,5.0,PE/VC
+5210,Other,4.0,Other
+5211,White,7.0,Real Estate
+5212,,4.0,Real Estate
+5213,Asian,6.0,Real Estate
+5214,White,4.0,Consulting
+5215,Asian,6.0,Real Estate
+5216,,3.0,Consulting
+5217,White,5.0,Technology
+5218,Black,5.0,PE/VC
+5219,Black,5.0,PE/VC
+5220,Black,5.0,Technology
+5221,Hispanic,5.0,PE/VC
+5222,White,4.0,Consulting
+5223,White,5.0,Nonprofit/Gov
+5224,,6.0,Health Care
+5225,,6.0,PE/VC
+5226,Asian,5.0,Health Care
+5227,,5.0,Health Care
+5228,Hispanic,6.0,Nonprofit/Gov
+5229,White,5.0,Health Care
+5230,White,5.0,Technology
+5231,,5.0,Consulting
+5232,White,4.0,PE/VC
+5233,,4.0,Consulting
+5234,Hispanic,8.0,Nonprofit/Gov
+5235,,4.0,Consulting
+5236,Asian,6.0,Technology
+5237,,4.0,Technology
+5238,,4.0,Investment Banking
+5239,,5.0,Other
+5240,Hispanic,5.0,PE/VC
+5241,,3.0,Consulting
+5242,,5.0,Consulting
+5243,Black,5.0,CPG
+5244,,5.0,Investment Banking
+5245,,4.0,Consulting
+5246,,7.0,Nonprofit/Gov
+5247,,7.0,Investment Banking
+5248,White,7.0,Investment Banking
+5249,,5.0,Consulting
+5250,,5.0,Nonprofit/Gov
+5251,Hispanic,5.0,Financial Services
+5252,White,4.0,Nonprofit/Gov
+5253,Asian,5.0,Financial Services
+5254,Asian,4.0,PE/VC
+5255,,5.0,Other
+5256,White,4.0,Financial Services
+5257,,6.0,Investment Banking
+5258,Black,6.0,Consulting
+5259,,4.0,Investment Management
+5260,Asian,5.0,Investment Banking
+5261,Black,3.0,Consulting
+5262,Black,6.0,PE/VC
+5263,Other,4.0,Consulting
+5264,White,7.0,Investment Banking
+5265,White,5.0,Other
+5266,,4.0,Consulting
+5267,,4.0,Financial Services
+5268,,4.0,Consulting
+5269,Hispanic,6.0,Other
+5270,,5.0,Consulting
+5271,Black,4.0,Technology
+5272,,5.0,Consulting
+5273,White,4.0,Financial Services
+5274,White,3.0,PE/VC
+5275,Hispanic,3.0,Nonprofit/Gov
+5276,Asian,5.0,PE/VC
+5277,White,5.0,Technology
+5278,Black,4.0,Technology
+5279,Other,6.0,Nonprofit/Gov
+5280,Asian,5.0,Nonprofit/Gov
+5281,White,5.0,Financial Services
+5282,,6.0,Investment Management
+5283,White,3.0,Consulting
+5284,Hispanic,5.0,Investment Banking
+5285,Asian,7.0,Financial Services
+5286,,4.0,Investment Banking
+5287,,5.0,Consulting
+5288,,5.0,Investment Banking
+5289,Black,5.0,Consulting
+5290,,5.0,Health Care
+5291,,5.0,Technology
+5292,Hispanic,5.0,CPG
+5293,Asian,7.0,Consulting
+5294,Asian,4.0,PE/VC
+5295,Hispanic,6.0,Consulting
+5296,Asian,3.0,Consulting
+5297,White,6.0,Other
+5298,White,4.0,Technology
+5299,Other,6.0,Technology
+5300,Asian,5.0,Investment Banking
+5301,,5.0,PE/VC
+5302,Black,4.0,PE/VC
+5303,Asian,6.0,Other
+5304,,6.0,Consulting
+5305,Other,5.0,Consulting
+5306,Asian,5.0,Other
+5307,White,5.0,Investment Banking
+5308,Black,5.0,Investment Banking
+5309,Asian,8.0,Consulting
+5310,White,5.0,Consulting
+5311,Black,6.0,Health Care
+5312,,5.0,Investment Banking
+5313,Asian,6.0,PE/VC
+5314,,6.0,Nonprofit/Gov
+5315,Asian,5.0,Consulting
+5316,,3.0,Other
+5317,Asian,7.0,Consulting
+5318,Hispanic,3.0,Consulting
+5319,Asian,4.0,Technology
+5320,White,5.0,Investment Banking
+5321,Other,4.0,Health Care
+5322,Black,6.0,Media/Entertainment
+5323,Asian,5.0,Technology
+5324,,6.0,Financial Services
+5325,,4.0,Nonprofit/Gov
+5326,White,4.0,Investment Banking
+5327,Asian,5.0,Energy
+5328,Black,4.0,Investment Banking
+5329,Asian,6.0,PE/VC
+5330,Asian,7.0,Health Care
+5331,,5.0,Financial Services
+5332,,5.0,Consulting
+5333,White,4.0,Health Care
+5334,Black,5.0,Technology
+5335,Asian,6.0,Consulting
+5336,,4.0,Health Care
+5337,Black,7.0,PE/VC
+5338,,3.0,Health Care
+5339,,6.0,Consulting
+5340,White,3.0,Consulting
+5341,,5.0,Real Estate
+5342,Black,6.0,Technology
+5343,,4.0,Investment Management
+5344,White,6.0,Investment Banking
+5345,White,6.0,Investment Management
+5346,,4.0,Consulting
+5347,Asian,6.0,Investment Banking
+5348,,4.0,PE/VC
+5349,White,6.0,Technology
+5350,Hispanic,6.0,Nonprofit/Gov
+5351,Asian,5.0,Financial Services
+5352,Other,4.0,Technology
+5353,Black,4.0,Health Care
+5354,Asian,3.0,Consulting
+5355,,4.0,Other
+5356,Black,7.0,Financial Services
+5357,Asian,6.0,Consulting
+5358,,6.0,Technology
+5359,Asian,5.0,Consulting
+5360,,6.0,Technology
+5361,,6.0,Consulting
+5362,Black,5.0,Nonprofit/Gov
+5363,Asian,6.0,Consulting
+5364,Black,4.0,Nonprofit/Gov
+5365,,6.0,Consulting
+5366,White,4.0,Consulting
+5367,,5.0,Nonprofit/Gov
+5368,,3.0,Real Estate
+5369,White,3.0,Technology
+5370,,5.0,Investment Banking
+5371,,4.0,Nonprofit/Gov
+5372,,4.0,Consulting
+5373,Black,6.0,Consulting
+5374,,4.0,Nonprofit/Gov
+5375,Black,5.0,Other
+5376,,7.0,Consulting
+5377,White,4.0,Other
+5378,Other,5.0,PE/VC
+5379,Black,6.0,Technology
+5380,,4.0,Technology
+5381,White,6.0,PE/VC
+5382,White,4.0,Investment Management
+5383,,6.0,PE/VC
+5384,Black,6.0,PE/VC
+5385,White,4.0,PE/VC
+5386,,6.0,Financial Services
+5387,Asian,5.0,Investment Management
+5388,Black,5.0,Consulting
+5389,Hispanic,5.0,PE/VC
+5390,Black,4.0,Consulting
+5391,Asian,5.0,Consulting
+5392,White,4.0,Consulting
+5393,Hispanic,4.0,Financial Services
+5394,White,4.0,Consulting
+5395,Hispanic,6.0,Investment Banking
+5396,,5.0,Financial Services
+5397,Asian,4.0,Financial Services
+5398,,5.0,PE/VC
+5399,,7.0,Other
+5400,Other,5.0,Investment Management
+5401,,4.0,CPG
+5402,Black,5.0,Technology
+5403,,3.0,CPG
+5404,,5.0,Investment Banking
+5405,Black,4.0,Nonprofit/Gov
+5406,Asian,5.0,Technology
+5407,,6.0,Consulting
+5408,White,6.0,Consulting
+5409,Black,4.0,Consulting
+5410,Black,5.0,Retail
+5411,Hispanic,6.0,PE/VC
+5412,,5.0,Consulting
+5413,,6.0,Nonprofit/Gov
+5414,White,3.0,Consulting
+5415,Black,5.0,Investment Banking
+5416,Asian,5.0,Health Care
+5417,Black,6.0,PE/VC
+5418,,5.0,Nonprofit/Gov
+5419,,6.0,Financial Services
+5420,Black,4.0,Investment Banking
+5421,White,5.0,PE/VC
+5422,Asian,4.0,Consulting
+5423,White,6.0,Financial Services
+5424,Black,4.0,Other
+5425,Asian,4.0,PE/VC
+5426,Black,6.0,Consulting
+5427,White,5.0,PE/VC
+5428,,4.0,Consulting
+5429,Asian,5.0,Nonprofit/Gov
+5430,White,5.0,Health Care
+5431,White,4.0,Nonprofit/Gov
+5432,Hispanic,4.0,Consulting
+5433,,3.0,Financial Services
+5434,Asian,5.0,Financial Services
+5435,,4.0,Technology
+5436,,6.0,Technology
+5437,Asian,4.0,PE/VC
+5438,,5.0,Consulting
+5439,White,5.0,Consulting
+5440,,5.0,Financial Services
+5441,White,5.0,Other
+5442,Black,4.0,Consulting
+5443,Black,6.0,PE/VC
+5444,White,5.0,Technology
+5445,Asian,5.0,Financial Services
+5446,,5.0,Nonprofit/Gov
+5447,Black,5.0,PE/VC
+5448,White,5.0,Consulting
+5449,,4.0,PE/VC
+5450,Asian,5.0,Technology
+5451,Hispanic,6.0,PE/VC
+5452,,5.0,Health Care
+5453,Hispanic,4.0,Consulting
+5454,White,6.0,Financial Services
+5455,Asian,4.0,Technology
+5456,,5.0,PE/VC
+5457,,5.0,Consulting
+5458,Black,5.0,Health Care
+5459,Asian,6.0,Other
+5460,Black,2.0,Technology
+5461,White,5.0,Consulting
+5462,,4.0,Consulting
+5463,White,6.0,PE/VC
+5464,,5.0,Consulting
+5465,,5.0,Technology
+5466,,5.0,Consulting
+5467,Asian,5.0,Media/Entertainment
+5468,Hispanic,6.0,Consulting
+5469,,6.0,Consulting
+5470,,7.0,Technology
+5471,Other,4.0,Consulting
+5472,White,7.0,PE/VC
+5473,,5.0,Financial Services
+5474,Black,5.0,Other
+5475,Black,3.0,Technology
+5476,White,6.0,Technology
+5477,White,5.0,Technology
+5478,,6.0,Consulting
+5479,,5.0,Technology
+5480,,5.0,Consulting
+5481,Black,6.0,Investment Management
+5482,Asian,5.0,Investment Management
+5483,,5.0,Technology
+5484,White,5.0,Technology
+5485,Black,5.0,Nonprofit/Gov
+5486,White,5.0,Technology
+5487,Asian,4.0,Investment Banking
+5488,,5.0,CPG
+5489,Hispanic,4.0,Investment Banking
+5490,Asian,5.0,Energy
+5491,White,5.0,Technology
+5492,Black,6.0,Health Care
+5493,,6.0,PE/VC
+5494,Black,6.0,Financial Services
+5495,,5.0,Real Estate
+5496,,4.0,PE/VC
+5497,White,6.0,Health Care
+5498,White,5.0,Technology
+5499,Asian,6.0,Consulting
+5500,Asian,4.0,Investment Banking
+5501,,4.0,Investment Management
+5502,Black,5.0,Investment Banking
+5503,,7.0,PE/VC
+5504,Asian,8.0,Other
+5505,Hispanic,6.0,Consulting
+5506,,4.0,Investment Banking
+5507,White,6.0,Investment Banking
+5508,Asian,5.0,Consulting
+5509,,5.0,Technology
+5510,Black,5.0,Consulting
+5511,Asian,4.0,Financial Services
+5512,,6.0,Financial Services
+5513,,3.0,Financial Services
+5514,,3.0,Technology
+5515,,5.0,Investment Management
+5516,,3.0,Consulting
+5517,,5.0,Nonprofit/Gov
+5518,Hispanic,5.0,PE/VC
+5519,,3.0,Investment Banking
+5520,Hispanic,5.0,Nonprofit/Gov
+5521,White,4.0,Nonprofit/Gov
+5522,,5.0,Nonprofit/Gov
+5523,,4.0,Technology
+5524,White,5.0,Consulting
+5525,Black,6.0,Investment Banking
+5526,Other,5.0,Consulting
+5527,Black,5.0,Investment Banking
+5528,,4.0,Consulting
+5529,Asian,5.0,Nonprofit/Gov
+5530,,5.0,Nonprofit/Gov
+5531,White,5.0,Financial Services
+5532,Asian,6.0,Technology
+5533,White,4.0,Other
+5534,Black,4.0,Consulting
+5535,White,5.0,Health Care
+5536,White,5.0,Investment Banking
+5537,White,4.0,Investment Banking
+5538,Hispanic,3.0,Consulting
+5539,Asian,2.0,Consulting
+5540,,5.0,Financial Services
+5541,Other,5.0,Technology
+5542,,3.0,Investment Banking
+5543,White,5.0,Health Care
+5544,White,4.0,Technology
+5545,,5.0,Nonprofit/Gov
+5546,Asian,6.0,Technology
+5547,,5.0,Consulting
+5548,Hispanic,5.0,Health Care
+5549,,3.0,Financial Services
+5550,White,5.0,Investment Banking
+5551,,5.0,Consulting
+5552,Asian,6.0,Technology
+5553,Black,3.0,Consulting
+5554,White,4.0,Financial Services
+5555,Asian,4.0,Technology
+5556,,5.0,Consulting
+5557,,4.0,Other
+5558,Hispanic,4.0,Other
+5559,Black,6.0,Media/Entertainment
+5560,White,5.0,Consulting
+5561,White,7.0,Consulting
+5562,,5.0,Technology
+5563,White,6.0,Investment Banking
+5564,Asian,3.0,Nonprofit/Gov
+5565,,5.0,Consulting
+5566,Asian,3.0,Other
+5567,Asian,6.0,Consulting
+5568,,4.0,Technology
+5569,Other,4.0,Consulting
+5570,White,3.0,Consulting
+5571,Asian,5.0,Consulting
+5572,Hispanic,4.0,Technology
+5573,Black,5.0,Other
+5574,Black,4.0,Financial Services
+5575,Hispanic,6.0,PE/VC
+5576,White,5.0,PE/VC
+5577,Black,4.0,Consulting
+5578,,5.0,Health Care
+5579,Asian,4.0,Technology
+5580,White,4.0,Consulting
+5581,White,6.0,Media/Entertainment
+5582,Asian,4.0,Investment Banking
+5583,,5.0,Consulting
+5584,Hispanic,4.0,Consulting
+5585,Black,6.0,Technology
+5586,,6.0,PE/VC
+5587,Black,5.0,Other
+5588,Other,7.0,Health Care
+5589,,6.0,Health Care
+5590,White,4.0,Investment Banking
+5591,Asian,5.0,Consulting
+5592,Black,6.0,Investment Banking
+5593,White,4.0,Investment Banking
+5594,Hispanic,7.0,Nonprofit/Gov
+5595,Black,4.0,Health Care
+5596,Asian,5.0,Consulting
+5597,Asian,5.0,Consulting
+5598,,6.0,PE/VC
+5599,Asian,5.0,Technology
+5600,White,6.0,PE/VC
+5601,,5.0,Consulting
+5602,Black,6.0,PE/VC
+5603,,4.0,Consulting
+5604,White,5.0,Technology
+5605,,6.0,Nonprofit/Gov
+5606,White,6.0,Nonprofit/Gov
+5607,Hispanic,6.0,Investment Banking
+5608,Hispanic,6.0,Financial Services
+5609,,4.0,Nonprofit/Gov
+5610,Black,4.0,Financial Services
+5611,Hispanic,6.0,Real Estate
+5612,Hispanic,8.0,Technology
+5613,White,5.0,Consulting
+5614,White,6.0,Nonprofit/Gov
+5615,White,4.0,PE/VC
+5616,,7.0,PE/VC
+5617,Black,4.0,Investment Management
+5618,Hispanic,6.0,Nonprofit/Gov
+5619,White,4.0,PE/VC
+5620,Asian,5.0,Investment Banking
+5621,White,6.0,Nonprofit/Gov
+5622,White,5.0,Consulting
+5623,,5.0,Nonprofit/Gov
+5624,Asian,5.0,Consulting
+5625,Asian,5.0,Health Care
+5626,,5.0,Investment Management
+5627,Other,5.0,PE/VC
+5628,,3.0,PE/VC
+5629,Asian,6.0,Health Care
+5630,Hispanic,4.0,Technology
+5631,,5.0,Consulting
+5632,,6.0,Other
+5633,White,6.0,Financial Services
+5634,White,5.0,Investment Banking
+5635,Asian,3.0,Consulting
+5636,White,4.0,Nonprofit/Gov
+5637,White,4.0,Nonprofit/Gov
+5638,Asian,4.0,Technology
+5639,,4.0,Other
+5640,Asian,5.0,Consulting
+5641,,5.0,Consulting
+5642,Asian,6.0,PE/VC
+5643,,4.0,Investment Banking
+5644,White,4.0,Nonprofit/Gov
+5645,,4.0,Nonprofit/Gov
+5646,,6.0,Consulting
+5647,Black,5.0,PE/VC
+5648,White,3.0,Investment Banking
+5649,Hispanic,5.0,PE/VC
+5650,Hispanic,4.0,Consulting
+5651,,4.0,Consulting
+5652,,5.0,Investment Management
+5653,White,5.0,Health Care
+5654,Asian,5.0,Investment Management
+5655,,4.0,Consulting
+5656,,4.0,Consulting
+5657,,5.0,Nonprofit/Gov
+5658,,4.0,Media/Entertainment
+5659,,5.0,Health Care
+5660,,5.0,Other
+5661,,6.0,Consulting
+5662,Hispanic,5.0,Technology
+5663,,4.0,Nonprofit/Gov
+5664,White,6.0,Health Care
+5665,,3.0,PE/VC
+5666,White,7.0,Financial Services
+5667,,6.0,PE/VC
+5668,Asian,5.0,Consulting
+5669,Black,2.0,Nonprofit/Gov
+5670,Black,4.0,Investment Banking
+5671,,7.0,PE/VC
+5672,Asian,5.0,Consulting
+5673,Asian,5.0,Investment Management
+5674,Asian,5.0,Consulting
+5675,Black,6.0,Technology
+5676,Asian,6.0,Other
+5677,White,6.0,Health Care
+5678,Hispanic,4.0,Nonprofit/Gov
+5679,Asian,1.0,Consulting
+5680,White,5.0,Consulting
+5681,White,6.0,Consulting
+5682,Black,6.0,Investment Management
+5683,White,5.0,Technology
+5684,Asian,6.0,Real Estate
+5685,Asian,6.0,Nonprofit/Gov
+5686,,6.0,Consulting
+5687,Asian,4.0,CPG
+5688,Hispanic,4.0,Technology
+5689,,5.0,Consulting
+5690,White,6.0,Technology
+5691,,5.0,Consulting
+5692,Asian,5.0,Technology
+5693,Asian,5.0,Technology
+5694,Black,6.0,Consulting
+5695,Black,6.0,Investment Banking
+5696,White,7.0,Other
+5697,Black,5.0,Technology
+5698,White,5.0,Investment Management
+5699,,6.0,Nonprofit/Gov
+5700,,4.0,Investment Banking
+5701,Asian,5.0,Investment Banking
+5702,Black,7.0,Nonprofit/Gov
+5703,,6.0,Financial Services
+5704,,5.0,Health Care
+5705,White,6.0,Investment Management
+5706,Black,5.0,Investment Banking
+5707,,4.0,PE/VC
+5708,,7.0,Consulting
+5709,White,6.0,Consulting
+5710,,4.0,PE/VC
+5711,White,6.0,PE/VC
+5712,White,5.0,Media/Entertainment
+5713,Other,6.0,Investment Banking
+5714,Asian,4.0,Consulting
+5715,White,6.0,Consulting
+5716,,4.0,Nonprofit/Gov
+5717,White,4.0,Financial Services
+5718,Black,6.0,PE/VC
+5719,,6.0,Financial Services
+5720,Black,5.0,PE/VC
+5721,Hispanic,6.0,Consulting
+5722,,6.0,Financial Services
+5723,,7.0,Consulting
+5724,White,6.0,PE/VC
+5725,Hispanic,6.0,Other
+5726,Hispanic,5.0,Real Estate
+5727,Asian,5.0,Retail
+5728,Black,6.0,Health Care
+5729,Hispanic,5.0,Investment Banking
+5730,White,2.0,Consulting
+5731,Asian,5.0,Technology
+5732,Asian,5.0,Investment Banking
+5733,Black,4.0,Nonprofit/Gov
+5734,,6.0,Consulting
+5735,Asian,4.0,Technology
+5736,Black,4.0,Technology
+5737,Hispanic,4.0,Consulting
+5738,Black,4.0,Consulting
+5739,Black,5.0,Consulting
+5740,,5.0,Consulting
+5741,Asian,4.0,Technology
+5742,Black,7.0,PE/VC
+5743,Hispanic,5.0,Energy
+5744,Asian,4.0,Technology
+5745,,6.0,Consulting
+5746,Black,6.0,Technology
+5747,Asian,6.0,Consulting
+5748,Hispanic,5.0,Technology
+5749,Other,7.0,CPG
+5750,Asian,5.0,Consulting
+5751,White,5.0,Consulting
+5752,Asian,4.0,Consulting
+5753,White,5.0,Investment Management
+5754,,6.0,Financial Services
+5755,White,6.0,Consulting
+5756,,5.0,Consulting
+5757,Black,7.0,PE/VC
+5758,White,5.0,PE/VC
+5759,Hispanic,6.0,Other
+5760,White,5.0,Nonprofit/Gov
+5761,White,4.0,Nonprofit/Gov
+5762,Asian,5.0,Nonprofit/Gov
+5763,Black,6.0,Consulting
+5764,,5.0,PE/VC
+5765,White,3.0,Nonprofit/Gov
+5766,Black,5.0,Media/Entertainment
+5767,Hispanic,3.0,PE/VC
+5768,White,4.0,CPG
+5769,White,4.0,Consulting
+5770,Black,4.0,Real Estate
+5771,,5.0,PE/VC
+5772,,5.0,Nonprofit/Gov
+5773,Asian,6.0,Investment Management
+5774,Black,4.0,PE/VC
+5775,White,7.0,PE/VC
+5776,White,4.0,Consulting
+5777,,5.0,Consulting
+5778,,5.0,Consulting
+5779,White,6.0,Consulting
+5780,White,4.0,PE/VC
+5781,,6.0,Financial Services
+5782,Asian,4.0,Technology
+5783,,8.0,Consulting
+5784,Hispanic,6.0,Consulting
+5785,,5.0,Technology
+5786,Black,7.0,PE/VC
+5787,White,5.0,Health Care
+5788,Black,5.0,Consulting
+5789,Black,5.0,Consulting
+5790,Black,5.0,Technology
+5791,Black,5.0,PE/VC
+5792,,5.0,Technology
+5793,White,5.0,Technology
+5794,Hispanic,4.0,Investment Banking
+5795,White,4.0,Investment Banking
+5796,Black,7.0,Consulting
+5797,Asian,5.0,Investment Banking
+5798,,4.0,PE/VC
+5799,Other,5.0,Other
+5800,,6.0,Consulting
+5801,Asian,6.0,Consulting
+5802,Asian,5.0,Financial Services
+5803,Black,5.0,PE/VC
+5804,Hispanic,5.0,PE/VC
+5805,Asian,5.0,PE/VC
+5806,,5.0,Financial Services
+5807,White,5.0,Energy
+5808,White,5.0,Investment Banking
+5809,Hispanic,6.0,Financial Services
+5810,,6.0,Nonprofit/Gov
+5811,White,6.0,Financial Services
+5812,Black,6.0,Nonprofit/Gov
+5813,White,6.0,Nonprofit/Gov
+5814,White,5.0,Consulting
+5815,,5.0,Consulting
+5816,Asian,6.0,Financial Services
+5817,Hispanic,3.0,Investment Management
+5818,White,4.0,Financial Services
+5819,,7.0,Investment Banking
+5820,Hispanic,3.0,Consulting
+5821,Other,4.0,Investment Banking
+5822,White,6.0,Financial Services
+5823,White,5.0,Technology
+5824,,4.0,Consulting
+5825,White,5.0,PE/VC
+5826,Other,4.0,PE/VC
+5827,White,5.0,PE/VC
+5828,Asian,5.0,Technology
+5829,White,5.0,Financial Services
+5830,,5.0,Consulting
+5831,,4.0,Investment Banking
+5832,White,6.0,Health Care
+5833,White,5.0,PE/VC
+5834,,6.0,Technology
+5835,,6.0,PE/VC
+5836,Hispanic,5.0,Financial Services
+5837,,4.0,Investment Banking
+5838,,5.0,Consulting
+5839,Black,6.0,Nonprofit/Gov
+5840,Asian,5.0,Investment Management
+5841,Hispanic,6.0,Nonprofit/Gov
+5842,Black,5.0,Investment Banking
+5843,Asian,4.0,PE/VC
+5844,,5.0,Financial Services
+5845,White,4.0,Consulting
+5846,Black,3.0,Technology
+5847,White,5.0,Technology
+5848,Asian,3.0,Technology
+5849,Asian,4.0,Financial Services
+5850,,6.0,Technology
+5851,White,4.0,Other
+5852,,5.0,Technology
+5853,White,5.0,Consulting
+5854,Black,5.0,Financial Services
+5855,,6.0,PE/VC
+5856,Black,4.0,Consulting
+5857,Hispanic,5.0,Consulting
+5858,Asian,3.0,Consulting
+5859,White,6.0,Nonprofit/Gov
+5860,White,5.0,Technology
+5861,White,5.0,PE/VC
+5862,Other,4.0,Consulting
+5863,White,3.0,Investment Banking
+5864,,5.0,Technology
+5865,White,6.0,Financial Services
+5866,,5.0,Consulting
+5867,Black,3.0,Other
+5868,Other,4.0,PE/VC
+5869,,6.0,Financial Services
+5870,,5.0,Investment Banking
+5871,Black,5.0,Consulting
+5872,Black,6.0,Other
+5873,,5.0,Technology
+5874,,4.0,Investment Management
+5875,Black,4.0,Consulting
+5876,White,3.0,Other
+5877,Hispanic,4.0,Health Care
+5878,Hispanic,6.0,Other
+5879,,4.0,Consulting
+5880,,6.0,Health Care
+5881,,5.0,Consulting
+5882,,5.0,Consulting
+5883,Asian,7.0,Other
+5884,White,5.0,Consulting
+5885,White,5.0,Media/Entertainment
+5886,Hispanic,5.0,Financial Services
+5887,Hispanic,3.0,PE/VC
+5888,Hispanic,4.0,Financial Services
+5889,White,5.0,Health Care
+5890,White,5.0,Investment Management
+5891,,5.0,Nonprofit/Gov
+5892,,5.0,CPG
+5893,,6.0,Investment Banking
+5894,,7.0,Consulting
+5895,,5.0,Nonprofit/Gov
+5896,,7.0,PE/VC
+5897,,8.0,Consulting
+5898,,6.0,PE/VC
+5899,,5.0,Consulting
+5900,,6.0,Consulting
+5901,,4.0,Consulting
+5902,Asian,3.0,PE/VC
+5903,Hispanic,7.0,Other
+5904,,4.0,Consulting
+5905,,6.0,Nonprofit/Gov
+5906,,5.0,Other
+5907,,5.0,Investment Management
+5908,,3.0,PE/VC
+5909,White,5.0,Consulting
+5910,White,5.0,Other
+5911,Asian,3.0,Health Care
+5912,Asian,6.0,Health Care
+5913,,6.0,Financial Services
+5914,White,5.0,Nonprofit/Gov
+5915,Black,4.0,Nonprofit/Gov
+5916,,3.0,PE/VC
+5917,Asian,6.0,Financial Services
+5918,White,6.0,Consulting
+5919,White,5.0,Consulting
+5920,Asian,5.0,Investment Banking
+5921,Black,5.0,Health Care
+5922,Black,4.0,Consulting
+5923,,5.0,PE/VC
+5924,Asian,5.0,Investment Banking
+5925,Hispanic,5.0,Consulting
+5926,Asian,7.0,Nonprofit/Gov
+5927,Hispanic,4.0,Investment Banking
+5928,Black,8.0,Consulting
+5929,Asian,3.0,Consulting
+5930,Asian,8.0,Financial Services
+5931,Black,4.0,Investment Management
+5932,Asian,3.0,CPG
+5933,Asian,6.0,Nonprofit/Gov
+5934,White,4.0,PE/VC
+5935,Black,4.0,Nonprofit/Gov
+5936,Asian,5.0,PE/VC
+5937,,5.0,Consulting
+5938,Asian,5.0,PE/VC
+5939,Black,5.0,Health Care
+5940,Asian,5.0,Financial Services
+5941,Asian,4.0,Technology
+5942,White,6.0,Financial Services
+5943,Asian,5.0,PE/VC
+5944,White,5.0,PE/VC
+5945,White,5.0,Investment Banking
+5946,,5.0,Financial Services
+5947,White,3.0,Consulting
+5948,Asian,4.0,PE/VC
+5949,,6.0,Nonprofit/Gov
+5950,Other,6.0,PE/VC
+5951,,6.0,Nonprofit/Gov
+5952,,5.0,Financial Services
+5953,,7.0,Consulting
+5954,Hispanic,5.0,Retail
+5955,Asian,6.0,Other
+5956,Hispanic,5.0,Nonprofit/Gov
+5957,,5.0,Consulting
+5958,,4.0,Health Care
+5959,White,6.0,Consulting
+5960,,5.0,Investment Management
+5961,Asian,5.0,Consulting
+5962,,4.0,Financial Services
+5963,,5.0,Technology
+5964,Black,5.0,Technology
+5965,Asian,5.0,Consulting
+5966,White,7.0,Other
+5967,Asian,5.0,Consulting
+5968,Black,4.0,Technology
+5969,Asian,5.0,PE/VC
+5970,,4.0,Financial Services
+5971,Black,6.0,Nonprofit/Gov
+5972,Other,5.0,Technology
+5973,,4.0,Other
+5974,White,5.0,Investment Banking
+5975,,4.0,Investment Banking
+5976,White,5.0,Investment Banking
+5977,Black,4.0,Nonprofit/Gov
+5978,Black,5.0,Investment Banking
+5979,Hispanic,6.0,Technology
+5980,Black,5.0,Investment Management
+5981,,3.0,Technology
+5982,Asian,6.0,CPG
+5983,,5.0,Consulting
+5984,Black,5.0,Investment Banking
+5985,,4.0,Consulting
+5986,,5.0,Health Care
+5987,,6.0,Consulting
+5988,,5.0,Consulting
+5989,Asian,4.0,Real Estate
+5990,,3.0,PE/VC
+5991,,5.0,Investment Banking
+5992,Asian,5.0,PE/VC
+5993,White,5.0,Nonprofit/Gov
+5994,Other,5.0,Consulting
+5995,Asian,4.0,Consulting
+5996,,5.0,Nonprofit/Gov
+5997,Black,5.0,Nonprofit/Gov
+5998,,4.0,Technology
+5999,Hispanic,6.0,Consulting
+6000,Black,6.0,Consulting
+6001,Black,5.0,Nonprofit/Gov
+6002,,6.0,Consulting
+6003,Asian,5.0,Other
+6004,,4.0,Investment Banking
+6005,Asian,3.0,Consulting
+6006,Asian,6.0,Investment Banking
+6007,Asian,3.0,Consulting
+6008,Asian,6.0,PE/VC
+6009,Asian,5.0,Consulting
+6010,Asian,4.0,Other
+6011,,7.0,Consulting
+6012,White,5.0,Financial Services
+6013,Asian,5.0,Investment Banking
+6014,Hispanic,6.0,Other
+6015,White,6.0,Investment Banking
+6016,White,4.0,Investment Banking
+6017,White,3.0,Consulting
+6018,Black,4.0,Investment Management
+6019,,6.0,Financial Services
+6020,White,3.0,Investment Banking
+6021,Asian,5.0,Investment Banking
+6022,,5.0,Consulting
+6023,,5.0,Consulting
+6024,,6.0,Consulting
+6025,,5.0,Investment Banking
+6026,White,6.0,Technology
+6027,Black,5.0,Consulting
+6028,Asian,4.0,Technology
+6029,White,7.0,PE/VC
+6030,,5.0,Technology
+6031,,5.0,PE/VC
+6032,White,7.0,Technology
+6033,,5.0,Consulting
+6034,White,5.0,Nonprofit/Gov
+6035,,4.0,Consulting
+6036,Black,4.0,Consulting
+6037,Black,5.0,Consulting
+6038,,5.0,Health Care
+6039,Black,8.0,Investment Banking
+6040,White,6.0,Consulting
+6041,Other,2.0,Financial Services
+6042,White,4.0,Technology
+6043,White,6.0,Technology
+6044,,5.0,Consulting
+6045,Hispanic,5.0,Investment Banking
+6046,Other,7.0,Consulting
+6047,White,5.0,Technology
+6048,Black,5.0,Retail
+6049,Black,5.0,Consulting
+6050,White,5.0,CPG
+6051,White,5.0,Investment Banking
+6052,Hispanic,6.0,Consulting
+6053,,4.0,Investment Banking
+6054,Black,4.0,Financial Services
+6055,,4.0,Investment Banking
+6056,,7.0,Technology
+6057,,7.0,Consulting
+6058,,5.0,Consulting
+6059,Black,6.0,PE/VC
+6060,Asian,5.0,Consulting
+6061,White,6.0,Health Care
+6062,Black,6.0,Technology
+6063,,5.0,Technology
+6064,Hispanic,4.0,Technology
+6065,Black,5.0,Health Care
+6066,Black,5.0,Technology
+6067,,7.0,Investment Banking
+6068,,6.0,Nonprofit/Gov
+6069,,4.0,Consulting
+6070,Black,4.0,PE/VC
+6071,,6.0,Investment Banking
+6072,Hispanic,5.0,Technology
+6073,White,4.0,PE/VC
+6074,Asian,7.0,Investment Banking
+6075,Hispanic,5.0,Investment Banking
+6076,,6.0,Investment Management
+6077,Other,6.0,Health Care
+6078,Black,3.0,Consulting
+6079,Hispanic,5.0,Other
+6080,Black,4.0,Other
+6081,Asian,6.0,Financial Services
+6082,White,3.0,Consulting
+6083,Hispanic,6.0,Consulting
+6084,White,6.0,Technology
+6085,White,8.0,Technology
+6086,White,7.0,Consulting
+6087,Black,4.0,Consulting
+6088,,5.0,Technology
+6089,,5.0,Real Estate
+6090,White,3.0,Consulting
+6091,,5.0,Other
+6092,,6.0,PE/VC
+6093,White,6.0,Consulting
+6094,White,4.0,Consulting
+6095,Asian,5.0,PE/VC
+6096,White,5.0,Nonprofit/Gov
+6097,,5.0,Consulting
+6098,White,5.0,Consulting
+6099,Black,6.0,PE/VC
+6100,,5.0,Nonprofit/Gov
+6101,Asian,7.0,Financial Services
+6102,,5.0,Consulting
+6103,,4.0,Financial Services
+6104,Asian,6.0,Investment Banking
+6105,White,6.0,Consulting
+6106,,4.0,Nonprofit/Gov
+6107,White,5.0,Nonprofit/Gov
+6108,White,5.0,Nonprofit/Gov
+6109,Asian,5.0,Technology
+6110,,7.0,Consulting
+6111,,6.0,Other
+6112,White,5.0,Investment Banking
+6113,Black,6.0,Health Care
+6114,White,3.0,Technology
+6115,Hispanic,7.0,Technology
+6116,Black,5.0,Consulting
+6117,,3.0,Other
+6118,Other,6.0,Health Care
+6119,White,5.0,Financial Services
+6120,Hispanic,7.0,PE/VC
+6121,Hispanic,5.0,PE/VC
+6122,White,6.0,Consulting
+6123,Asian,4.0,Investment Banking
+6124,Black,4.0,Nonprofit/Gov
+6125,,6.0,PE/VC
+6126,Hispanic,6.0,Consulting
+6127,,5.0,Investment Banking
+6128,Hispanic,4.0,Health Care
+6129,,4.0,Consulting
+6130,White,5.0,Health Care
+6131,,4.0,Nonprofit/Gov
+6132,,4.0,Financial Services
+6133,White,5.0,PE/VC
+6134,Black,5.0,Financial Services
+6135,,5.0,Financial Services
+6136,Black,5.0,Consulting
+6137,Black,6.0,CPG
+6138,,5.0,Consulting
+6139,,4.0,Investment Banking
+6140,White,5.0,Technology
+6141,Asian,6.0,Other
+6142,,6.0,Consulting
+6143,White,6.0,PE/VC
+6144,,5.0,Consulting
+6145,,6.0,Consulting
+6146,,6.0,Consulting
+6147,White,5.0,Consulting
+6148,Asian,5.0,Consulting
+6149,White,5.0,Investment Management
+6150,White,4.0,Consulting
+6151,Asian,5.0,Investment Banking
+6152,Asian,4.0,PE/VC
+6153,Black,3.0,Other
+6154,,6.0,Consulting
+6155,,6.0,Health Care
+6156,Black,5.0,Retail
+6157,Asian,3.0,Health Care
+6158,Black,5.0,Other
+6159,Black,4.0,Technology
+6160,,5.0,PE/VC
+6161,,5.0,PE/VC
+6162,Black,4.0,Consulting
+6163,Hispanic,6.0,Consulting
+6164,Asian,5.0,Consulting
+6165,Black,5.0,Technology
+6166,Asian,5.0,Nonprofit/Gov
+6167,White,4.0,Investment Banking
+6168,,4.0,Consulting
+6169,White,5.0,Consulting
+6170,Asian,5.0,Consulting
+6171,White,6.0,Other
+6172,Black,3.0,PE/VC
+6173,White,4.0,Financial Services
+6174,Black,4.0,Consulting
+6175,Black,6.0,PE/VC
+6176,Hispanic,3.0,Technology
+6177,,5.0,Technology
+6178,Hispanic,5.0,PE/VC
+6179,Asian,3.0,Financial Services
+6180,White,6.0,Nonprofit/Gov
+6181,Asian,5.0,PE/VC
+6182,Asian,5.0,Media/Entertainment
+6183,Black,6.0,Consulting
+6184,Black,5.0,Nonprofit/Gov
+6185,White,5.0,Health Care
+6186,Asian,4.0,Health Care
+6187,,7.0,Financial Services
+6188,Asian,6.0,PE/VC
+6189,Black,4.0,Consulting
+6190,White,5.0,Other
+6191,Black,4.0,Consulting
+6192,,5.0,Health Care
+6193,,5.0,Other
+6194,Hispanic,4.0,Consulting

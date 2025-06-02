@@ -1,0 +1,5772 @@
+work_industry,work_exp,gmat,admission,major
+Consulting,5.0,760.0,Admit,Business
+PE/VC,5.0,680.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,Business
+Other,2.0,710.0,Admit,Humanities
+Health Care,5.0,590.0,,Humanities
+Technology,3.0,670.0,,STEM
+Technology,4.0,710.0,,Humanities
+PE/VC,6.0,640.0,,Humanities
+Other,6.0,590.0,,Business
+Consulting,5.0,680.0,,STEM
+Nonprofit/Gov,6.0,670.0,Admit,Humanities
+Consulting,5.0,680.0,,Business
+PE/VC,6.0,690.0,,STEM
+Investment Management,4.0,710.0,,Business
+Technology,5.0,570.0,,Humanities
+Technology,5.0,660.0,Admit,Business
+Consulting,6.0,600.0,,STEM
+PE/VC,4.0,620.0,,STEM
+PE/VC,4.0,760.0,Admit,Humanities
+Health Care,7.0,650.0,Admit,Business
+Nonprofit/Gov,5.0,590.0,,Humanities
+Consulting,5.0,570.0,,Humanities
+Consulting,5.0,660.0,Admit,Business
+Nonprofit/Gov,5.0,750.0,,Humanities
+Technology,5.0,680.0,Admit,Humanities
+Nonprofit/Gov,4.0,590.0,,Business
+PE/VC,6.0,680.0,Admit,STEM
+Financial Services,7.0,590.0,,Humanities
+Technology,6.0,670.0,,Business
+Financial Services,5.0,630.0,,Business
+Financial Services,4.0,590.0,,STEM
+Financial Services,4.0,660.0,,Humanities
+PE/VC,4.0,610.0,,Humanities
+Technology,5.0,570.0,,Business
+Investment Management,5.0,660.0,Admit,STEM
+Consulting,4.0,620.0,,Business
+Technology,6.0,730.0,Admit,Business
+Investment Banking,6.0,650.0,,Business
+Consulting,5.0,570.0,,Humanities
+Health Care,5.0,660.0,Admit,Humanities
+PE/VC,4.0,570.0,,Business
+Consulting,4.0,670.0,Admit,Business
+Nonprofit/Gov,6.0,620.0,,Humanities
+Other,5.0,680.0,,Humanities
+Health Care,5.0,640.0,,Humanities
+Investment Banking,4.0,680.0,,STEM
+Investment Banking,5.0,690.0,Admit,Business
+Nonprofit/Gov,4.0,670.0,,STEM
+Consulting,6.0,590.0,,STEM
+Consulting,6.0,630.0,,STEM
+PE/VC,4.0,730.0,,Humanities
+Nonprofit/Gov,2.0,610.0,,Humanities
+Technology,4.0,680.0,,Business
+Technology,4.0,640.0,,STEM
+Other,4.0,600.0,,Humanities
+Consulting,5.0,600.0,,STEM
+Investment Management,5.0,630.0,,Business
+Consulting,6.0,760.0,Admit,Humanities
+Consulting,6.0,570.0,,Humanities
+Health Care,4.0,660.0,,STEM
+Consulting,4.0,740.0,,Humanities
+Consulting,4.0,620.0,,STEM
+Technology,4.0,600.0,,Humanities
+Consulting,5.0,700.0,,Humanities
+Consulting,6.0,670.0,,STEM
+Consulting,5.0,670.0,Admit,Business
+Consulting,6.0,670.0,,STEM
+Consulting,4.0,650.0,,STEM
+PE/VC,6.0,650.0,Admit,Humanities
+Consulting,6.0,680.0,,STEM
+Other,3.0,620.0,,Business
+Consulting,4.0,680.0,,Business
+Financial Services,7.0,660.0,,Humanities
+Nonprofit/Gov,4.0,720.0,Admit,Humanities
+Investment Banking,4.0,620.0,,Business
+Health Care,5.0,610.0,,Humanities
+Consulting,5.0,600.0,,STEM
+Consulting,4.0,680.0,,Humanities
+Nonprofit/Gov,6.0,730.0,Admit,Humanities
+Consulting,6.0,590.0,,Humanities
+PE/VC,5.0,570.0,,Business
+Nonprofit/Gov,6.0,610.0,Admit,Business
+PE/VC,6.0,740.0,,Business
+PE/VC,5.0,690.0,,Humanities
+Consulting,4.0,630.0,,STEM
+Nonprofit/Gov,4.0,650.0,,STEM
+Nonprofit/Gov,6.0,730.0,,Humanities
+Consulting,6.0,610.0,,Humanities
+Investment Management,5.0,650.0,,Humanities
+Consulting,5.0,680.0,,Business
+Nonprofit/Gov,4.0,730.0,Admit,Business
+Health Care,5.0,580.0,,STEM
+Consulting,5.0,710.0,Admit,Business
+Technology,6.0,730.0,Admit,Business
+Energy,6.0,640.0,,Business
+PE/VC,6.0,590.0,,Humanities
+Consulting,5.0,590.0,,Humanities
+Financial Services,6.0,580.0,,Humanities
+Consulting,7.0,680.0,,Humanities
+Technology,6.0,620.0,,Humanities
+Nonprofit/Gov,5.0,750.0,,STEM
+Consulting,5.0,660.0,Admit,Humanities
+Technology,5.0,640.0,,Humanities
+Investment Banking,4.0,690.0,Admit,STEM
+PE/VC,5.0,590.0,,STEM
+Health Care,5.0,570.0,,Business
+Financial Services,5.0,650.0,,Humanities
+Other,6.0,610.0,,STEM
+Other,5.0,670.0,,Humanities
+CPG,6.0,670.0,,STEM
+Consulting,6.0,650.0,,Humanities
+Health Care,5.0,670.0,Waitlist,Humanities
+Technology,5.0,570.0,,Business
+Consulting,6.0,700.0,Admit,STEM
+PE/VC,6.0,610.0,,Business
+Consulting,5.0,700.0,,Humanities
+PE/VC,7.0,670.0,,Humanities
+Investment Banking,4.0,720.0,,STEM
+Investment Banking,4.0,680.0,Admit,STEM
+Consulting,4.0,570.0,,Business
+Financial Services,5.0,750.0,,Business
+Technology,4.0,640.0,,Business
+Nonprofit/Gov,6.0,570.0,,Business
+Consulting,6.0,680.0,,STEM
+Other,5.0,670.0,,Humanities
+Consulting,5.0,740.0,,STEM
+Consulting,6.0,610.0,,Business
+Consulting,4.0,620.0,,Business
+Nonprofit/Gov,5.0,710.0,,Business
+Nonprofit/Gov,4.0,670.0,,STEM
+PE/VC,4.0,620.0,,Business
+Nonprofit/Gov,4.0,640.0,,STEM
+Technology,4.0,580.0,,STEM
+Consulting,6.0,600.0,,Humanities
+PE/VC,5.0,640.0,,Humanities
+Consulting,6.0,580.0,,STEM
+Technology,6.0,750.0,,Business
+PE/VC,5.0,660.0,,STEM
+Investment Banking,4.0,680.0,,STEM
+Nonprofit/Gov,6.0,570.0,,Humanities
+Financial Services,4.0,660.0,Waitlist,Business
+Financial Services,5.0,630.0,,STEM
+Health Care,3.0,590.0,,Business
+Consulting,5.0,600.0,,Business
+Nonprofit/Gov,5.0,700.0,Admit,STEM
+Consulting,6.0,640.0,,Humanities
+Investment Banking,4.0,690.0,,Business
+Consulting,7.0,660.0,Admit,Humanities
+Financial Services,4.0,680.0,Admit,Business
+Nonprofit/Gov,6.0,780.0,Admit,Humanities
+Nonprofit/Gov,6.0,610.0,,Humanities
+PE/VC,6.0,630.0,,STEM
+Technology,5.0,610.0,,STEM
+Nonprofit/Gov,3.0,700.0,,Humanities
+PE/VC,7.0,670.0,,Humanities
+Investment Banking,6.0,670.0,,Business
+Other,6.0,640.0,,Business
+Consulting,5.0,730.0,Admit,STEM
+Consulting,3.0,750.0,,STEM
+PE/VC,5.0,740.0,,Humanities
+Health Care,5.0,620.0,,STEM
+PE/VC,5.0,650.0,,Humanities
+Technology,4.0,700.0,,STEM
+Technology,6.0,680.0,Admit,Humanities
+Technology,5.0,630.0,,Humanities
+Consulting,3.0,650.0,,STEM
+Technology,6.0,570.0,,STEM
+Other,3.0,630.0,,Business
+Consulting,6.0,690.0,,Humanities
+Investment Banking,5.0,700.0,,STEM
+Consulting,6.0,650.0,,Humanities
+Investment Banking,7.0,630.0,,STEM
+CPG,4.0,670.0,,Business
+Investment Banking,6.0,680.0,,Humanities
+Consulting,3.0,610.0,,STEM
+Health Care,4.0,640.0,,Business
+PE/VC,4.0,630.0,,Humanities
+Financial Services,5.0,630.0,,Business
+Financial Services,4.0,630.0,,STEM
+Other,5.0,670.0,,Humanities
+Consulting,5.0,660.0,Admit,Humanities
+Investment Banking,5.0,680.0,,Humanities
+Technology,5.0,670.0,,Business
+Other,4.0,640.0,,STEM
+Technology,5.0,630.0,,STEM
+Consulting,6.0,660.0,,Business
+Consulting,4.0,630.0,Waitlist,Business
+Consulting,5.0,660.0,,Business
+Health Care,6.0,640.0,,Business
+Technology,4.0,600.0,,Humanities
+Consulting,5.0,680.0,Admit,Business
+Nonprofit/Gov,4.0,760.0,,Humanities
+Consulting,6.0,640.0,,STEM
+Technology,6.0,700.0,,Business
+Financial Services,5.0,670.0,Admit,Humanities
+Nonprofit/Gov,5.0,670.0,,STEM
+Investment Management,6.0,670.0,,Humanities
+Consulting,4.0,660.0,,Humanities
+Nonprofit/Gov,5.0,630.0,,Humanities
+Other,5.0,570.0,,STEM
+Other,4.0,570.0,,Humanities
+Financial Services,7.0,700.0,Admit,STEM
+Consulting,4.0,590.0,,Humanities
+PE/VC,4.0,730.0,,STEM
+Investment Banking,5.0,600.0,,STEM
+Investment Management,4.0,690.0,,Humanities
+Nonprofit/Gov,5.0,740.0,,Business
+Consulting,6.0,650.0,,Business
+Consulting,5.0,670.0,,Business
+Consulting,4.0,730.0,,Business
+Other,5.0,680.0,,Business
+Investment Banking,5.0,610.0,,STEM
+Real Estate,5.0,600.0,,Business
+Health Care,5.0,570.0,,Business
+Consulting,6.0,720.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,Humanities
+Health Care,7.0,650.0,,STEM
+Other,7.0,650.0,,Business
+Consulting,6.0,650.0,,Business
+PE/VC,3.0,630.0,,Humanities
+Financial Services,6.0,570.0,,Business
+Consulting,4.0,590.0,,STEM
+Consulting,6.0,630.0,,Humanities
+Consulting,5.0,780.0,,STEM
+Consulting,5.0,660.0,,Business
+Other,5.0,630.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,Business
+PE/VC,5.0,570.0,,Business
+Financial Services,7.0,660.0,,Humanities
+Nonprofit/Gov,6.0,650.0,,STEM
+Investment Banking,6.0,710.0,,STEM
+Consulting,3.0,650.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+Consulting,5.0,780.0,,Humanities
+PE/VC,3.0,670.0,,Humanities
+Consulting,6.0,660.0,,STEM
+Nonprofit/Gov,6.0,610.0,,Humanities
+Consulting,4.0,660.0,Admit,Business
+Technology,6.0,590.0,,STEM
+CPG,5.0,670.0,,Humanities
+Nonprofit/Gov,5.0,630.0,,STEM
+Consulting,4.0,660.0,,Humanities
+Consulting,4.0,680.0,,Humanities
+Technology,5.0,670.0,Admit,STEM
+Consulting,7.0,660.0,,Humanities
+Technology,4.0,730.0,,Humanities
+Health Care,4.0,660.0,Waitlist,Humanities
+PE/VC,4.0,650.0,,Business
+CPG,7.0,640.0,,Humanities
+Other,6.0,590.0,,Humanities
+Consulting,5.0,660.0,,STEM
+Investment Banking,6.0,620.0,,Humanities
+PE/VC,5.0,690.0,,STEM
+Investment Banking,4.0,690.0,,Business
+Investment Banking,5.0,730.0,Admit,Humanities
+Financial Services,6.0,570.0,,Humanities
+Nonprofit/Gov,4.0,580.0,,Humanities
+Consulting,6.0,660.0,,STEM
+Consulting,5.0,630.0,Admit,Humanities
+Consulting,5.0,730.0,Admit,Humanities
+Health Care,6.0,570.0,,Business
+Consulting,5.0,650.0,,Humanities
+Technology,8.0,680.0,,STEM
+Investment Management,3.0,660.0,,STEM
+Nonprofit/Gov,5.0,650.0,,Humanities
+Consulting,5.0,740.0,,Business
+Investment Banking,6.0,670.0,,STEM
+Investment Banking,5.0,720.0,,Humanities
+Technology,5.0,650.0,,Humanities
+Technology,4.0,670.0,Admit,Humanities
+Consulting,5.0,620.0,,STEM
+PE/VC,7.0,680.0,,Humanities
+Consulting,6.0,630.0,,Humanities
+PE/VC,5.0,640.0,Waitlist,Humanities
+PE/VC,4.0,590.0,,Humanities
+PE/VC,5.0,630.0,,Humanities
+PE/VC,4.0,760.0,Admit,Humanities
+Consulting,5.0,720.0,Admit,Humanities
+Consulting,4.0,650.0,,STEM
+Investment Banking,6.0,690.0,Admit,STEM
+Consulting,4.0,630.0,,Business
+Financial Services,6.0,710.0,,Humanities
+Consulting,4.0,630.0,,STEM
+PE/VC,4.0,780.0,,Humanities
+Consulting,5.0,640.0,,STEM
+Consulting,3.0,640.0,,STEM
+Financial Services,6.0,630.0,,Humanities
+Financial Services,6.0,660.0,Admit,STEM
+Nonprofit/Gov,4.0,670.0,,Business
+Technology,5.0,680.0,,Humanities
+Investment Banking,7.0,660.0,Admit,Business
+Consulting,5.0,680.0,,STEM
+Investment Banking,6.0,600.0,,Business
+Investment Banking,4.0,700.0,Admit,STEM
+Real Estate,5.0,670.0,Admit,Business
+Other,4.0,730.0,,STEM
+Consulting,5.0,600.0,,STEM
+Technology,6.0,660.0,,STEM
+Other,6.0,690.0,,Business
+Consulting,4.0,640.0,,STEM
+PE/VC,5.0,630.0,,Humanities
+Nonprofit/Gov,4.0,630.0,,Business
+Consulting,6.0,670.0,Waitlist,Business
+CPG,6.0,620.0,,Humanities
+Other,5.0,680.0,,Humanities
+Investment Banking,6.0,680.0,Admit,Business
+Consulting,5.0,600.0,,STEM
+Other,3.0,670.0,,Humanities
+Technology,6.0,710.0,,Business
+Technology,4.0,600.0,,Humanities
+Nonprofit/Gov,4.0,730.0,,Humanities
+Investment Banking,6.0,620.0,,Business
+Consulting,5.0,630.0,,Business
+Nonprofit/Gov,6.0,590.0,,STEM
+Consulting,6.0,760.0,,Humanities
+Investment Banking,4.0,570.0,,Humanities
+Consulting,6.0,650.0,,Humanities
+PE/VC,5.0,640.0,,STEM
+PE/VC,6.0,720.0,Admit,Humanities
+Financial Services,4.0,630.0,,Humanities
+Consulting,3.0,660.0,,STEM
+Nonprofit/Gov,4.0,620.0,,Business
+Nonprofit/Gov,6.0,630.0,,Humanities
+Health Care,5.0,640.0,,Humanities
+Financial Services,4.0,640.0,,STEM
+Consulting,4.0,680.0,,STEM
+Other,6.0,660.0,,Humanities
+Nonprofit/Gov,4.0,600.0,,STEM
+Nonprofit/Gov,5.0,610.0,,Business
+PE/VC,6.0,690.0,,Humanities
+Investment Banking,5.0,590.0,,Humanities
+Consulting,3.0,690.0,,STEM
+Nonprofit/Gov,3.0,630.0,,Business
+Investment Management,5.0,610.0,,Business
+Nonprofit/Gov,5.0,620.0,,STEM
+PE/VC,7.0,650.0,,Business
+Consulting,5.0,600.0,,Humanities
+PE/VC,6.0,580.0,,Humanities
+Consulting,5.0,710.0,Admit,Humanities
+Nonprofit/Gov,4.0,720.0,,Humanities
+Nonprofit/Gov,7.0,720.0,Admit,STEM
+Media/Entertainment,4.0,570.0,,STEM
+Nonprofit/Gov,5.0,710.0,Admit,Business
+Nonprofit/Gov,4.0,610.0,,Humanities
+Financial Services,4.0,690.0,,STEM
+Nonprofit/Gov,7.0,700.0,,Humanities
+Consulting,5.0,670.0,,Business
+Nonprofit/Gov,5.0,640.0,,Humanities
+Nonprofit/Gov,4.0,570.0,,Humanities
+Health Care,5.0,660.0,,Humanities
+PE/VC,7.0,720.0,,Humanities
+Consulting,5.0,670.0,Admit,Humanities
+Consulting,7.0,620.0,,STEM
+Investment Management,5.0,580.0,,Business
+Consulting,6.0,630.0,,Humanities
+Consulting,6.0,690.0,,Humanities
+Technology,7.0,570.0,,STEM
+Consulting,4.0,700.0,Admit,Humanities
+Technology,5.0,770.0,Admit,Humanities
+PE/VC,3.0,620.0,,STEM
+Consulting,4.0,670.0,,Humanities
+PE/VC,5.0,640.0,,Humanities
+Financial Services,6.0,600.0,,Business
+Investment Banking,6.0,640.0,,Business
+Other,7.0,660.0,,Humanities
+Technology,4.0,570.0,,STEM
+Consulting,5.0,570.0,,Humanities
+Technology,4.0,630.0,,Humanities
+Technology,3.0,670.0,Admit,Business
+Consulting,7.0,630.0,,Humanities
+Financial Services,6.0,710.0,Admit,Humanities
+Nonprofit/Gov,3.0,650.0,,Business
+Consulting,6.0,710.0,,Business
+Consulting,6.0,660.0,Waitlist,STEM
+Technology,6.0,700.0,,STEM
+Consulting,5.0,740.0,,STEM
+Nonprofit/Gov,5.0,620.0,,STEM
+Health Care,4.0,680.0,,Business
+Consulting,5.0,770.0,Admit,STEM
+Consulting,5.0,630.0,,Business
+Nonprofit/Gov,3.0,660.0,Admit,STEM
+Nonprofit/Gov,7.0,600.0,Admit,Business
+Real Estate,4.0,580.0,,Humanities
+Health Care,4.0,700.0,,Business
+Nonprofit/Gov,6.0,630.0,Admit,Humanities
+PE/VC,4.0,650.0,,Business
+Investment Banking,6.0,630.0,,Humanities
+Other,5.0,610.0,,Humanities
+Other,4.0,660.0,,Business
+Consulting,5.0,690.0,Admit,Humanities
+Consulting,4.0,640.0,,STEM
+Real Estate,6.0,610.0,,Humanities
+Consulting,6.0,730.0,,Business
+Nonprofit/Gov,6.0,630.0,Admit,Humanities
+Consulting,6.0,710.0,,Humanities
+Financial Services,5.0,650.0,,STEM
+Consulting,5.0,660.0,,Humanities
+Investment Management,5.0,650.0,,Business
+Other,4.0,660.0,,STEM
+Consulting,6.0,650.0,,Humanities
+Investment Management,5.0,580.0,,Humanities
+PE/VC,5.0,730.0,Admit,Business
+PE/VC,4.0,650.0,,Humanities
+CPG,4.0,570.0,,STEM
+Health Care,5.0,700.0,,Business
+Nonprofit/Gov,4.0,590.0,,Business
+Nonprofit/Gov,4.0,570.0,,STEM
+PE/VC,6.0,590.0,Admit,STEM
+Consulting,6.0,730.0,,Business
+Consulting,6.0,700.0,Admit,Humanities
+CPG,6.0,700.0,,Humanities
+Financial Services,5.0,660.0,,STEM
+Consulting,5.0,650.0,,STEM
+Consulting,6.0,710.0,Admit,Humanities
+Consulting,6.0,610.0,,Business
+Financial Services,5.0,760.0,Admit,Business
+Other,5.0,750.0,Admit,STEM
+Nonprofit/Gov,5.0,690.0,,Business
+Technology,5.0,670.0,,Humanities
+Financial Services,6.0,690.0,Admit,Business
+Consulting,5.0,610.0,,Humanities
+Investment Banking,4.0,670.0,Admit,Humanities
+PE/VC,6.0,690.0,Admit,Business
+PE/VC,6.0,650.0,,STEM
+PE/VC,6.0,650.0,,STEM
+PE/VC,5.0,610.0,,STEM
+Nonprofit/Gov,5.0,680.0,Admit,Business
+Consulting,6.0,610.0,,STEM
+PE/VC,4.0,690.0,,Humanities
+Nonprofit/Gov,6.0,610.0,,Business
+Technology,6.0,620.0,,Business
+Technology,4.0,640.0,,Humanities
+Investment Banking,5.0,700.0,,STEM
+Technology,6.0,660.0,,Humanities
+Nonprofit/Gov,7.0,620.0,,Humanities
+Other,6.0,640.0,,Humanities
+Media/Entertainment,6.0,670.0,Admit,Business
+Investment Banking,5.0,670.0,,Business
+Consulting,6.0,780.0,,STEM
+Consulting,6.0,570.0,,Business
+Consulting,4.0,650.0,,Humanities
+Technology,5.0,620.0,,Humanities
+Other,5.0,600.0,,Humanities
+Financial Services,7.0,580.0,Admit,Humanities
+Nonprofit/Gov,4.0,660.0,,Humanities
+Real Estate,5.0,690.0,Admit,Humanities
+Consulting,3.0,600.0,,Business
+PE/VC,7.0,670.0,,STEM
+PE/VC,5.0,620.0,,STEM
+Consulting,5.0,620.0,,Humanities
+Financial Services,5.0,680.0,Admit,STEM
+Investment Banking,5.0,680.0,,Humanities
+Consulting,4.0,610.0,,Business
+Investment Banking,5.0,630.0,,Business
+PE/VC,7.0,660.0,,Humanities
+Investment Banking,6.0,680.0,,Business
+Consulting,3.0,610.0,,Business
+Consulting,3.0,650.0,,Humanities
+Financial Services,6.0,570.0,,STEM
+Financial Services,3.0,750.0,,STEM
+Investment Banking,6.0,650.0,,STEM
+Consulting,6.0,680.0,Admit,Humanities
+Consulting,6.0,620.0,,Business
+Real Estate,5.0,690.0,,STEM
+Consulting,3.0,600.0,,Business
+Real Estate,4.0,670.0,,Humanities
+Technology,3.0,650.0,,Business
+Technology,6.0,610.0,,Business
+Real Estate,5.0,710.0,Waitlist,STEM
+PE/VC,6.0,670.0,,Business
+Other,5.0,610.0,,STEM
+Investment Management,5.0,590.0,,Business
+Nonprofit/Gov,6.0,660.0,,Humanities
+Investment Banking,5.0,690.0,Admit,STEM
+Technology,6.0,630.0,,Humanities
+Nonprofit/Gov,5.0,630.0,,Humanities
+PE/VC,6.0,670.0,,Humanities
+Consulting,6.0,590.0,,Business
+Other,4.0,620.0,,Business
+PE/VC,6.0,650.0,,Business
+Consulting,5.0,630.0,,Business
+Technology,6.0,630.0,,Business
+PE/VC,6.0,660.0,,Business
+Health Care,5.0,650.0,,Humanities
+Technology,4.0,640.0,,Humanities
+PE/VC,4.0,650.0,,Humanities
+Investment Banking,6.0,650.0,,STEM
+Financial Services,4.0,620.0,,Humanities
+Investment Banking,4.0,620.0,,Business
+Nonprofit/Gov,6.0,670.0,,Business
+PE/VC,5.0,570.0,,Business
+Consulting,4.0,780.0,,Business
+Nonprofit/Gov,6.0,730.0,,STEM
+Technology,3.0,620.0,,Business
+Consulting,5.0,740.0,Admit,Humanities
+Consulting,4.0,620.0,,Business
+Consulting,7.0,670.0,,Business
+Consulting,4.0,600.0,Waitlist,Humanities
+Technology,5.0,580.0,,STEM
+Health Care,4.0,640.0,,STEM
+Other,7.0,590.0,,STEM
+Consulting,5.0,690.0,,Humanities
+Other,6.0,640.0,Waitlist,Business
+Consulting,6.0,580.0,,Humanities
+Technology,4.0,590.0,,Humanities
+PE/VC,4.0,620.0,,STEM
+CPG,4.0,640.0,,STEM
+Consulting,6.0,610.0,,Business
+Consulting,5.0,630.0,,Business
+Technology,2.0,660.0,,Business
+Consulting,3.0,700.0,,Humanities
+Consulting,4.0,630.0,,Humanities
+Technology,5.0,620.0,,STEM
+PE/VC,5.0,630.0,,Business
+Nonprofit/Gov,6.0,600.0,,Business
+Technology,5.0,710.0,,STEM
+Technology,5.0,720.0,,Business
+Other,5.0,590.0,,Humanities
+Technology,5.0,680.0,,Humanities
+Technology,5.0,650.0,,STEM
+Nonprofit/Gov,5.0,720.0,Admit,STEM
+Consulting,5.0,580.0,,Humanities
+Consulting,6.0,590.0,,Business
+Consulting,3.0,700.0,,STEM
+Investment Banking,6.0,660.0,Admit,Business
+Nonprofit/Gov,6.0,730.0,,Business
+Investment Management,5.0,620.0,,Humanities
+Financial Services,5.0,720.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+Technology,5.0,690.0,,Humanities
+Real Estate,4.0,650.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,Business
+Investment Banking,6.0,600.0,,Humanities
+Technology,5.0,650.0,,STEM
+CPG,5.0,610.0,Waitlist,Humanities
+Nonprofit/Gov,8.0,670.0,,Business
+Health Care,4.0,570.0,,Humanities
+Technology,6.0,650.0,,STEM
+CPG,5.0,690.0,,Business
+Investment Banking,4.0,640.0,,Humanities
+Technology,4.0,710.0,Admit,STEM
+PE/VC,5.0,570.0,,Humanities
+Consulting,5.0,590.0,,Humanities
+Technology,4.0,670.0,,Business
+Consulting,6.0,710.0,Admit,Humanities
+Technology,4.0,570.0,,Humanities
+Investment Management,4.0,620.0,,Business
+CPG,5.0,610.0,,Humanities
+Technology,6.0,570.0,,Humanities
+Consulting,6.0,670.0,,Business
+Other,5.0,690.0,,Business
+Consulting,7.0,590.0,,Humanities
+Consulting,5.0,600.0,,STEM
+Financial Services,4.0,610.0,,Humanities
+Nonprofit/Gov,6.0,680.0,,Humanities
+Investment Banking,3.0,600.0,,Humanities
+Other,6.0,600.0,,Business
+Technology,6.0,700.0,,Business
+Consulting,4.0,640.0,,Business
+Nonprofit/Gov,4.0,580.0,,Humanities
+Investment Banking,5.0,730.0,,Humanities
+Technology,5.0,690.0,Admit,STEM
+PE/VC,5.0,640.0,,Humanities
+Health Care,6.0,750.0,,Humanities
+Consulting,5.0,610.0,,Humanities
+Consulting,6.0,570.0,,Business
+Nonprofit/Gov,6.0,640.0,,Business
+PE/VC,3.0,680.0,Admit,Business
+PE/VC,5.0,640.0,,Humanities
+Consulting,5.0,670.0,,Business
+Financial Services,3.0,640.0,Admit,STEM
+Consulting,5.0,610.0,,Business
+Nonprofit/Gov,4.0,740.0,,STEM
+Nonprofit/Gov,7.0,600.0,,Humanities
+Consulting,5.0,750.0,,Humanities
+PE/VC,4.0,670.0,,Business
+Investment Banking,8.0,610.0,,Humanities
+Consulting,5.0,730.0,Admit,STEM
+Consulting,5.0,640.0,,Humanities
+Financial Services,5.0,610.0,,STEM
+Nonprofit/Gov,5.0,600.0,,Humanities
+Financial Services,5.0,690.0,,STEM
+Technology,5.0,640.0,,STEM
+Investment Banking,5.0,630.0,,Business
+Real Estate,3.0,690.0,Admit,Humanities
+Technology,5.0,570.0,,STEM
+Investment Management,6.0,610.0,,STEM
+PE/VC,4.0,600.0,,STEM
+PE/VC,3.0,630.0,,STEM
+Real Estate,6.0,600.0,,STEM
+Financial Services,7.0,590.0,,STEM
+Health Care,5.0,720.0,,STEM
+Consulting,5.0,690.0,,STEM
+PE/VC,4.0,570.0,,STEM
+Consulting,7.0,650.0,,Humanities
+Consulting,5.0,630.0,,Business
+Investment Banking,7.0,640.0,,Humanities
+Consulting,8.0,700.0,,Business
+Consulting,6.0,570.0,,Humanities
+PE/VC,6.0,670.0,,Humanities
+Technology,5.0,610.0,,Humanities
+Consulting,4.0,590.0,,Humanities
+Real Estate,5.0,640.0,,Business
+Financial Services,6.0,660.0,Admit,Business
+Technology,5.0,750.0,Admit,Business
+PE/VC,5.0,640.0,,Business
+Other,5.0,650.0,,Business
+Consulting,5.0,780.0,,STEM
+Consulting,3.0,630.0,,Business
+Nonprofit/Gov,4.0,650.0,,Humanities
+Other,6.0,650.0,,Business
+Financial Services,4.0,670.0,,STEM
+Consulting,5.0,670.0,,STEM
+Consulting,4.0,620.0,,Humanities
+Consulting,4.0,660.0,,Business
+PE/VC,5.0,660.0,,Business
+Financial Services,4.0,630.0,,Humanities
+Nonprofit/Gov,5.0,600.0,,STEM
+Consulting,6.0,690.0,,STEM
+Consulting,5.0,660.0,,Business
+Investment Management,3.0,580.0,,STEM
+Other,4.0,750.0,,STEM
+PE/VC,6.0,630.0,,Business
+Investment Banking,5.0,710.0,Admit,STEM
+Media/Entertainment,4.0,700.0,,Humanities
+Financial Services,5.0,640.0,,STEM
+Technology,4.0,670.0,,STEM
+Nonprofit/Gov,5.0,690.0,,STEM
+Financial Services,5.0,570.0,,Business
+Financial Services,5.0,590.0,,STEM
+PE/VC,4.0,600.0,,Humanities
+Technology,6.0,640.0,,Humanities
+Consulting,4.0,680.0,,Humanities
+PE/VC,4.0,670.0,Waitlist,STEM
+PE/VC,5.0,640.0,,Business
+Consulting,5.0,670.0,Admit,Humanities
+Consulting,5.0,680.0,Admit,STEM
+Technology,6.0,670.0,,Humanities
+Investment Banking,5.0,650.0,,Humanities
+Consulting,5.0,760.0,,STEM
+Energy,5.0,670.0,,Business
+Financial Services,4.0,630.0,,Business
+Other,5.0,610.0,,Humanities
+Real Estate,6.0,650.0,,Business
+Financial Services,5.0,570.0,,Humanities
+Health Care,4.0,740.0,Admit,STEM
+Financial Services,6.0,690.0,Admit,Humanities
+Other,6.0,620.0,,Business
+Consulting,6.0,610.0,,STEM
+Financial Services,3.0,720.0,,STEM
+Consulting,4.0,610.0,,Humanities
+Consulting,5.0,660.0,,STEM
+Other,4.0,670.0,,Humanities
+Financial Services,5.0,670.0,,Business
+Investment Management,6.0,700.0,Admit,STEM
+Investment Banking,6.0,670.0,,STEM
+Financial Services,6.0,690.0,,STEM
+Consulting,7.0,660.0,,Humanities
+Nonprofit/Gov,6.0,710.0,,Humanities
+Investment Management,4.0,680.0,,Humanities
+Health Care,4.0,720.0,,Business
+Technology,6.0,580.0,,Humanities
+Nonprofit/Gov,6.0,670.0,,STEM
+Health Care,6.0,680.0,Admit,Humanities
+Investment Banking,3.0,660.0,,Business
+Technology,5.0,590.0,,Humanities
+PE/VC,3.0,650.0,,Business
+Consulting,4.0,660.0,Admit,STEM
+Consulting,6.0,750.0,Waitlist,Business
+PE/VC,6.0,680.0,,STEM
+PE/VC,6.0,700.0,,Humanities
+Consulting,2.0,620.0,,Humanities
+Investment Management,4.0,650.0,,Humanities
+PE/VC,6.0,610.0,,STEM
+Consulting,4.0,700.0,,Business
+Consulting,7.0,590.0,,Humanities
+Consulting,3.0,630.0,,Business
+Nonprofit/Gov,6.0,590.0,,STEM
+Investment Banking,5.0,570.0,,STEM
+Nonprofit/Gov,7.0,660.0,Admit,STEM
+Consulting,6.0,630.0,,STEM
+PE/VC,5.0,720.0,,STEM
+Investment Management,5.0,720.0,Admit,STEM
+PE/VC,7.0,570.0,,Business
+Technology,5.0,570.0,,STEM
+Nonprofit/Gov,6.0,570.0,,STEM
+Consulting,5.0,570.0,,Humanities
+Other,4.0,570.0,,Business
+Investment Banking,5.0,680.0,Admit,STEM
+Other,6.0,690.0,,STEM
+Consulting,5.0,600.0,,Business
+Consulting,4.0,640.0,,Humanities
+Real Estate,4.0,660.0,,Humanities
+Financial Services,7.0,610.0,,Business
+Nonprofit/Gov,4.0,680.0,,Business
+Consulting,5.0,570.0,,STEM
+Consulting,5.0,710.0,,Business
+Nonprofit/Gov,4.0,640.0,,Business
+Investment Management,3.0,570.0,,Humanities
+Investment Banking,5.0,720.0,Admit,Business
+PE/VC,6.0,690.0,,Humanities
+Other,5.0,670.0,,Business
+Consulting,4.0,640.0,,Humanities
+Consulting,6.0,700.0,,Humanities
+Real Estate,5.0,720.0,,Humanities
+Consulting,3.0,630.0,Admit,Business
+Other,4.0,640.0,,Humanities
+Other,5.0,710.0,,Humanities
+Financial Services,6.0,610.0,,Business
+Nonprofit/Gov,6.0,780.0,,Business
+PE/VC,6.0,660.0,,Humanities
+Nonprofit/Gov,6.0,700.0,Admit,Business
+PE/VC,5.0,700.0,,STEM
+Investment Management,4.0,680.0,,Humanities
+Nonprofit/Gov,5.0,680.0,,Humanities
+Real Estate,5.0,670.0,,Humanities
+Investment Banking,5.0,600.0,,Business
+Technology,4.0,600.0,,STEM
+Financial Services,6.0,660.0,Admit,STEM
+Nonprofit/Gov,5.0,600.0,,Humanities
+Technology,6.0,670.0,,Humanities
+Nonprofit/Gov,5.0,720.0,Admit,Humanities
+Energy,5.0,710.0,,STEM
+Nonprofit/Gov,4.0,620.0,,Humanities
+Financial Services,5.0,570.0,,STEM
+Financial Services,5.0,580.0,,STEM
+Investment Banking,4.0,570.0,,Humanities
+Consulting,7.0,670.0,,Humanities
+Financial Services,4.0,610.0,,Humanities
+Nonprofit/Gov,6.0,700.0,,Business
+Financial Services,5.0,630.0,,Humanities
+Consulting,6.0,570.0,,Business
+Other,7.0,740.0,,Humanities
+Consulting,6.0,640.0,,Business
+Technology,5.0,710.0,,Humanities
+Technology,5.0,600.0,,STEM
+Consulting,5.0,670.0,Admit,Humanities
+Consulting,7.0,660.0,,Business
+Other,6.0,640.0,,STEM
+Media/Entertainment,3.0,750.0,Admit,Business
+Nonprofit/Gov,5.0,570.0,,STEM
+PE/VC,4.0,690.0,Admit,Humanities
+Consulting,3.0,580.0,,Humanities
+PE/VC,6.0,630.0,,Business
+Health Care,5.0,760.0,Admit,Humanities
+Other,5.0,570.0,Admit,STEM
+Investment Banking,6.0,690.0,,Humanities
+Health Care,6.0,710.0,,Humanities
+PE/VC,4.0,670.0,Admit,Humanities
+CPG,5.0,610.0,,STEM
+Technology,4.0,690.0,Admit,Business
+Consulting,6.0,610.0,,Humanities
+Consulting,5.0,600.0,,Humanities
+Consulting,8.0,650.0,,Business
+Consulting,6.0,600.0,,Business
+Consulting,6.0,690.0,,Humanities
+Consulting,5.0,570.0,,Business
+Technology,5.0,700.0,,Humanities
+Consulting,5.0,690.0,,Business
+Consulting,5.0,610.0,,STEM
+Consulting,5.0,620.0,,Humanities
+Technology,6.0,570.0,,Humanities
+Investment Banking,6.0,610.0,,Humanities
+Nonprofit/Gov,6.0,620.0,,Humanities
+Technology,5.0,780.0,,Business
+Other,4.0,660.0,,Humanities
+Technology,7.0,680.0,Admit,STEM
+PE/VC,5.0,660.0,Admit,Business
+Consulting,4.0,610.0,,Business
+PE/VC,7.0,570.0,,Humanities
+Consulting,3.0,660.0,Admit,Business
+Consulting,5.0,630.0,,Business
+Nonprofit/Gov,6.0,780.0,,Humanities
+Other,4.0,660.0,,Business
+Consulting,6.0,620.0,Admit,Business
+Technology,5.0,610.0,,Business
+Nonprofit/Gov,4.0,620.0,,Humanities
+Media/Entertainment,5.0,710.0,Admit,STEM
+PE/VC,6.0,650.0,,Business
+Consulting,5.0,670.0,,STEM
+Investment Banking,4.0,630.0,,Business
+Investment Banking,6.0,620.0,,STEM
+Real Estate,6.0,700.0,,Business
+Consulting,5.0,710.0,Admit,Humanities
+Consulting,4.0,740.0,Admit,Humanities
+Nonprofit/Gov,4.0,650.0,,Business
+Nonprofit/Gov,5.0,650.0,,Business
+Technology,6.0,660.0,,STEM
+Investment Banking,6.0,680.0,,STEM
+Consulting,5.0,580.0,Admit,Humanities
+Other,5.0,640.0,,Business
+PE/VC,7.0,630.0,,Business
+Investment Banking,5.0,660.0,,Humanities
+CPG,5.0,610.0,,Business
+Other,5.0,650.0,,STEM
+Consulting,3.0,630.0,,STEM
+PE/VC,3.0,570.0,,STEM
+PE/VC,4.0,660.0,,Humanities
+Consulting,3.0,670.0,,Business
+PE/VC,4.0,730.0,Admit,Business
+Technology,3.0,630.0,,Business
+PE/VC,5.0,690.0,Admit,STEM
+Other,5.0,570.0,,STEM
+CPG,7.0,640.0,,Business
+Technology,4.0,710.0,,STEM
+PE/VC,6.0,680.0,,Humanities
+PE/VC,4.0,690.0,Admit,Business
+Consulting,7.0,710.0,,Business
+PE/VC,4.0,690.0,,STEM
+Investment Banking,6.0,690.0,,Business
+Consulting,4.0,670.0,,STEM
+Consulting,4.0,570.0,,Humanities
+PE/VC,5.0,660.0,Admit,STEM
+Health Care,5.0,600.0,,Business
+PE/VC,6.0,690.0,,Humanities
+Investment Banking,6.0,590.0,,Business
+PE/VC,5.0,640.0,,Business
+Technology,6.0,610.0,,Humanities
+PE/VC,5.0,650.0,,Humanities
+Nonprofit/Gov,5.0,660.0,,Humanities
+Consulting,5.0,610.0,,STEM
+Consulting,6.0,680.0,,Humanities
+CPG,7.0,680.0,,Humanities
+PE/VC,6.0,570.0,,Humanities
+Technology,5.0,570.0,,Business
+Investment Banking,4.0,620.0,,STEM
+Technology,6.0,610.0,,STEM
+Consulting,6.0,640.0,Admit,Business
+Nonprofit/Gov,7.0,580.0,,Business
+PE/VC,6.0,590.0,,Humanities
+Consulting,5.0,640.0,,Humanities
+PE/VC,6.0,710.0,Admit,STEM
+Consulting,6.0,710.0,,Business
+PE/VC,3.0,660.0,Admit,STEM
+PE/VC,5.0,780.0,Admit,STEM
+Consulting,5.0,700.0,,STEM
+Investment Management,4.0,710.0,Admit,Business
+Consulting,5.0,570.0,,Humanities
+Health Care,6.0,650.0,,Humanities
+Other,5.0,710.0,,Business
+Consulting,4.0,660.0,,Humanities
+Financial Services,4.0,640.0,,STEM
+Technology,6.0,610.0,,Humanities
+Nonprofit/Gov,6.0,630.0,Admit,STEM
+Consulting,6.0,670.0,Admit,Humanities
+Investment Banking,5.0,760.0,Admit,STEM
+Retail,6.0,610.0,,STEM
+Consulting,7.0,670.0,Admit,Business
+Investment Banking,4.0,600.0,,STEM
+Other,4.0,710.0,Waitlist,Humanities
+Technology,5.0,620.0,,Business
+Consulting,8.0,690.0,,Humanities
+Nonprofit/Gov,6.0,660.0,,Humanities
+PE/VC,4.0,580.0,,STEM
+Consulting,5.0,630.0,,Humanities
+CPG,5.0,570.0,,STEM
+Investment Banking,6.0,680.0,,STEM
+Consulting,4.0,590.0,,Humanities
+PE/VC,5.0,620.0,,Business
+PE/VC,5.0,620.0,,STEM
+Investment Management,4.0,740.0,,Humanities
+Consulting,6.0,690.0,,Business
+Investment Banking,5.0,580.0,,STEM
+Technology,4.0,690.0,Admit,Humanities
+Investment Banking,5.0,670.0,,STEM
+Technology,5.0,570.0,,STEM
+Technology,5.0,630.0,,STEM
+Technology,5.0,690.0,Admit,Humanities
+Consulting,4.0,710.0,Admit,Humanities
+CPG,6.0,700.0,Admit,STEM
+Nonprofit/Gov,5.0,620.0,,Humanities
+Investment Banking,5.0,720.0,,Business
+PE/VC,5.0,640.0,,STEM
+Financial Services,5.0,660.0,Admit,Humanities
+Real Estate,5.0,590.0,,Business
+Investment Banking,4.0,710.0,,STEM
+Consulting,4.0,570.0,,Business
+Other,6.0,630.0,,Humanities
+Investment Banking,6.0,670.0,,Humanities
+Consulting,5.0,680.0,,Business
+PE/VC,3.0,690.0,,Business
+Health Care,5.0,700.0,,STEM
+PE/VC,6.0,660.0,,Humanities
+Other,4.0,610.0,,STEM
+Other,5.0,630.0,,Business
+PE/VC,5.0,640.0,,STEM
+Consulting,3.0,690.0,,Humanities
+Investment Banking,4.0,610.0,,STEM
+Consulting,5.0,670.0,,Humanities
+PE/VC,5.0,690.0,Admit,Humanities
+Investment Management,6.0,630.0,Admit,Humanities
+Consulting,6.0,660.0,,Business
+Investment Banking,3.0,600.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,Humanities
+PE/VC,7.0,640.0,,Humanities
+PE/VC,6.0,660.0,,STEM
+Investment Banking,4.0,720.0,,Business
+Consulting,6.0,680.0,Admit,Humanities
+Financial Services,4.0,570.0,,Humanities
+Consulting,5.0,660.0,Admit,Business
+Technology,6.0,700.0,,Business
+PE/VC,4.0,590.0,,STEM
+Investment Management,6.0,670.0,,STEM
+Consulting,5.0,640.0,,Humanities
+Technology,5.0,620.0,,STEM
+Investment Banking,5.0,600.0,Admit,STEM
+Technology,4.0,680.0,,Humanities
+Consulting,4.0,640.0,,STEM
+Health Care,6.0,590.0,,Humanities
+Technology,3.0,640.0,,Humanities
+Investment Banking,5.0,600.0,,Business
+Health Care,6.0,600.0,,STEM
+Other,5.0,700.0,,Humanities
+Nonprofit/Gov,4.0,700.0,Admit,Humanities
+Technology,5.0,760.0,Admit,Humanities
+Technology,5.0,630.0,,Humanities
+Technology,5.0,580.0,,Humanities
+PE/VC,6.0,690.0,Admit,STEM
+Other,5.0,760.0,Admit,Humanities
+Consulting,5.0,620.0,,Humanities
+Consulting,7.0,620.0,,Business
+Financial Services,5.0,640.0,,Humanities
+Other,3.0,580.0,,Business
+Other,3.0,690.0,Admit,STEM
+Consulting,6.0,570.0,,Business
+Consulting,4.0,580.0,,STEM
+Health Care,4.0,650.0,,Business
+Consulting,5.0,660.0,,Humanities
+Financial Services,5.0,590.0,,STEM
+Consulting,4.0,590.0,,Business
+CPG,5.0,670.0,,Humanities
+Nonprofit/Gov,8.0,570.0,,STEM
+Other,4.0,660.0,,Humanities
+Consulting,5.0,610.0,,Humanities
+Nonprofit/Gov,5.0,700.0,,Business
+Consulting,5.0,680.0,Admit,Business
+Nonprofit/Gov,6.0,710.0,,Humanities
+PE/VC,5.0,670.0,,Humanities
+Consulting,5.0,600.0,,Humanities
+Financial Services,5.0,620.0,,STEM
+Consulting,3.0,740.0,,Humanities
+PE/VC,6.0,740.0,,STEM
+Nonprofit/Gov,4.0,620.0,,STEM
+Consulting,7.0,700.0,Admit,Business
+Consulting,4.0,670.0,,Humanities
+Financial Services,6.0,570.0,,STEM
+Other,7.0,740.0,Admit,Humanities
+Consulting,4.0,720.0,Admit,STEM
+Nonprofit/Gov,3.0,690.0,,Humanities
+Consulting,6.0,600.0,,STEM
+Investment Banking,5.0,700.0,,Business
+Investment Management,4.0,600.0,,Humanities
+Health Care,7.0,570.0,,Humanities
+Health Care,5.0,710.0,,Business
+Other,3.0,620.0,,Business
+Consulting,4.0,690.0,Admit,Humanities
+Health Care,7.0,650.0,,Humanities
+Investment Management,4.0,740.0,Admit,Business
+Consulting,5.0,630.0,,STEM
+Other,4.0,620.0,,STEM
+Nonprofit/Gov,3.0,570.0,,STEM
+Investment Banking,5.0,710.0,,STEM
+Technology,6.0,580.0,,Humanities
+Investment Banking,6.0,660.0,Waitlist,STEM
+Financial Services,6.0,620.0,,STEM
+Technology,4.0,570.0,,Business
+Technology,4.0,640.0,,Humanities
+Technology,6.0,680.0,Admit,Business
+Technology,5.0,580.0,,Business
+Energy,4.0,590.0,,Humanities
+Nonprofit/Gov,6.0,710.0,Admit,Humanities
+Health Care,4.0,650.0,,Humanities
+PE/VC,3.0,580.0,,STEM
+Nonprofit/Gov,5.0,670.0,,Business
+Consulting,5.0,700.0,,Humanities
+Retail,6.0,700.0,Admit,STEM
+Investment Management,5.0,650.0,,Humanities
+Health Care,5.0,590.0,,Business
+Consulting,4.0,610.0,,Humanities
+Technology,7.0,640.0,,Humanities
+Nonprofit/Gov,5.0,670.0,,Business
+Consulting,4.0,590.0,,Humanities
+Consulting,8.0,670.0,,Business
+Consulting,8.0,670.0,,Business
+Other,7.0,670.0,,Humanities
+Investment Banking,5.0,650.0,,Business
+Nonprofit/Gov,7.0,740.0,,Humanities
+Consulting,5.0,710.0,,Humanities
+Investment Management,5.0,730.0,Admit,Business
+Investment Banking,6.0,730.0,,Humanities
+Consulting,4.0,590.0,,STEM
+Other,5.0,700.0,Admit,Humanities
+Investment Banking,5.0,610.0,,Business
+Media/Entertainment,7.0,630.0,,STEM
+PE/VC,3.0,750.0,Admit,Business
+Other,5.0,600.0,,Humanities
+Consulting,3.0,680.0,,Business
+Other,6.0,680.0,,Business
+Investment Management,5.0,660.0,Admit,Humanities
+Technology,5.0,640.0,,Humanities
+Financial Services,5.0,600.0,,Business
+Consulting,5.0,650.0,,STEM
+Nonprofit/Gov,5.0,650.0,,Business
+Investment Banking,6.0,680.0,Admit,Humanities
+Other,4.0,670.0,Admit,STEM
+CPG,7.0,630.0,,STEM
+Other,5.0,650.0,,STEM
+Nonprofit/Gov,6.0,640.0,,Business
+Nonprofit/Gov,4.0,670.0,,Humanities
+Consulting,3.0,650.0,,Humanities
+Media/Entertainment,3.0,620.0,,Humanities
+PE/VC,3.0,610.0,,Humanities
+Consulting,5.0,570.0,,Humanities
+Technology,5.0,600.0,,STEM
+Energy,4.0,750.0,,Business
+Health Care,5.0,630.0,Admit,STEM
+Financial Services,5.0,670.0,Admit,STEM
+Technology,6.0,660.0,Admit,Business
+Investment Banking,4.0,730.0,,STEM
+PE/VC,5.0,710.0,,Humanities
+Nonprofit/Gov,3.0,680.0,,STEM
+PE/VC,5.0,630.0,,Business
+PE/VC,5.0,620.0,,STEM
+Consulting,6.0,580.0,,Humanities
+Other,6.0,680.0,Admit,STEM
+Nonprofit/Gov,5.0,710.0,,Business
+Consulting,4.0,650.0,,Business
+PE/VC,4.0,570.0,,Business
+Consulting,5.0,670.0,,Humanities
+Technology,4.0,700.0,,Business
+Investment Banking,7.0,570.0,,STEM
+Health Care,6.0,600.0,,Humanities
+Nonprofit/Gov,6.0,570.0,,STEM
+Consulting,6.0,580.0,,Business
+Financial Services,6.0,640.0,,Humanities
+CPG,5.0,700.0,Admit,Humanities
+Consulting,6.0,630.0,,Humanities
+Investment Banking,4.0,620.0,,Business
+Other,4.0,710.0,,Humanities
+Health Care,5.0,640.0,,STEM
+Financial Services,5.0,690.0,Admit,STEM
+Nonprofit/Gov,5.0,690.0,Admit,Business
+PE/VC,4.0,650.0,,Business
+Financial Services,5.0,630.0,,STEM
+Technology,3.0,740.0,Admit,STEM
+Technology,5.0,630.0,,STEM
+Real Estate,6.0,640.0,Admit,STEM
+Consulting,6.0,710.0,,Humanities
+Investment Banking,4.0,640.0,,STEM
+Investment Banking,6.0,610.0,,STEM
+Investment Banking,6.0,590.0,Admit,Business
+Technology,5.0,670.0,,STEM
+Real Estate,3.0,660.0,,Business
+Consulting,5.0,570.0,,STEM
+Consulting,6.0,620.0,,Humanities
+Technology,4.0,600.0,,STEM
+Financial Services,3.0,780.0,,Humanities
+Technology,4.0,650.0,,Business
+Health Care,6.0,670.0,,STEM
+Consulting,7.0,610.0,,Humanities
+Real Estate,5.0,620.0,,Humanities
+Investment Banking,6.0,740.0,,Humanities
+Technology,6.0,630.0,,Business
+Technology,5.0,670.0,,Humanities
+Nonprofit/Gov,4.0,700.0,,Humanities
+Nonprofit/Gov,5.0,650.0,,STEM
+Health Care,5.0,660.0,,Humanities
+Investment Banking,6.0,610.0,,Humanities
+Investment Banking,5.0,780.0,Admit,Business
+Consulting,4.0,580.0,,Business
+Financial Services,7.0,760.0,,Humanities
+Consulting,5.0,700.0,Admit,STEM
+Consulting,4.0,650.0,,Humanities
+Consulting,6.0,600.0,,STEM
+Consulting,4.0,710.0,,STEM
+PE/VC,5.0,650.0,,Humanities
+Investment Banking,5.0,600.0,,Business
+Consulting,6.0,590.0,,Humanities
+Consulting,6.0,660.0,Admit,Business
+Consulting,5.0,660.0,,Humanities
+Consulting,6.0,600.0,,Business
+Financial Services,6.0,590.0,,Business
+Investment Banking,7.0,630.0,,STEM
+PE/VC,4.0,650.0,,Humanities
+Nonprofit/Gov,6.0,590.0,,Business
+Investment Banking,5.0,740.0,,STEM
+Retail,4.0,640.0,,STEM
+Consulting,5.0,670.0,,STEM
+Consulting,5.0,590.0,,Humanities
+Investment Banking,4.0,640.0,,STEM
+Technology,5.0,650.0,,STEM
+Consulting,4.0,570.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+Nonprofit/Gov,5.0,610.0,,Business
+PE/VC,6.0,690.0,Admit,Humanities
+PE/VC,5.0,760.0,,STEM
+Consulting,6.0,630.0,,STEM
+Investment Banking,4.0,650.0,,Humanities
+Investment Management,5.0,700.0,,STEM
+PE/VC,5.0,710.0,Admit,Business
+Nonprofit/Gov,3.0,600.0,Admit,Business
+Technology,6.0,570.0,,Humanities
+Nonprofit/Gov,5.0,660.0,,Humanities
+PE/VC,5.0,730.0,Admit,Humanities
+PE/VC,5.0,780.0,,STEM
+Consulting,3.0,710.0,,Humanities
+Real Estate,7.0,750.0,Admit,Business
+Consulting,6.0,640.0,Waitlist,Humanities
+Other,5.0,610.0,,Business
+Health Care,3.0,600.0,,STEM
+Nonprofit/Gov,5.0,710.0,Admit,Business
+Investment Banking,4.0,660.0,,Business
+Investment Banking,5.0,650.0,,Business
+Consulting,5.0,720.0,Admit,STEM
+Health Care,4.0,620.0,,STEM
+Technology,5.0,690.0,,Humanities
+Consulting,6.0,570.0,,Business
+Real Estate,5.0,680.0,,Humanities
+Consulting,6.0,610.0,,Humanities
+Consulting,6.0,690.0,Admit,Humanities
+CPG,4.0,680.0,Admit,Humanities
+Nonprofit/Gov,5.0,700.0,,Humanities
+Other,7.0,720.0,,Humanities
+PE/VC,6.0,610.0,,Business
+Consulting,4.0,610.0,,Humanities
+Health Care,4.0,690.0,,STEM
+Investment Management,4.0,590.0,,STEM
+Health Care,4.0,700.0,,STEM
+PE/VC,4.0,710.0,Admit,STEM
+Financial Services,4.0,740.0,,Humanities
+Consulting,4.0,580.0,Admit,Business
+PE/VC,6.0,600.0,,Business
+Investment Banking,4.0,630.0,,Humanities
+Financial Services,5.0,630.0,,Humanities
+PE/VC,4.0,640.0,,Humanities
+Consulting,4.0,740.0,,Business
+Health Care,5.0,630.0,,STEM
+Investment Banking,5.0,610.0,,Humanities
+Health Care,4.0,710.0,,Humanities
+Nonprofit/Gov,4.0,640.0,,STEM
+Consulting,4.0,590.0,,STEM
+PE/VC,5.0,570.0,,Humanities
+Investment Banking,5.0,700.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Consulting,5.0,680.0,,STEM
+PE/VC,4.0,640.0,,Business
+Investment Banking,4.0,580.0,,Humanities
+Consulting,5.0,580.0,,Humanities
+PE/VC,5.0,650.0,,STEM
+Health Care,5.0,580.0,,Humanities
+Health Care,5.0,670.0,,STEM
+Media/Entertainment,4.0,640.0,,Business
+Consulting,3.0,640.0,,Humanities
+Technology,4.0,740.0,,Humanities
+PE/VC,6.0,590.0,,STEM
+Consulting,6.0,750.0,Admit,Business
+PE/VC,5.0,670.0,,STEM
+PE/VC,6.0,700.0,Admit,STEM
+Investment Banking,5.0,620.0,,Business
+Consulting,4.0,700.0,,STEM
+Other,6.0,640.0,,Humanities
+Consulting,5.0,650.0,,Business
+Consulting,6.0,700.0,,Business
+Technology,5.0,660.0,,STEM
+Investment Banking,5.0,640.0,,Humanities
+Technology,7.0,630.0,,Business
+Consulting,7.0,580.0,,Humanities
+Consulting,5.0,690.0,,Business
+Financial Services,5.0,700.0,,STEM
+Investment Management,5.0,580.0,,Humanities
+Consulting,6.0,600.0,Admit,Business
+Other,5.0,650.0,,STEM
+PE/VC,6.0,670.0,Admit,STEM
+Investment Management,4.0,700.0,Admit,Humanities
+Other,4.0,660.0,,Business
+Financial Services,6.0,610.0,,Humanities
+CPG,5.0,610.0,,Business
+PE/VC,6.0,690.0,,Humanities
+PE/VC,5.0,650.0,,STEM
+PE/VC,5.0,650.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+PE/VC,6.0,570.0,,Business
+Consulting,6.0,670.0,Admit,Humanities
+Nonprofit/Gov,5.0,620.0,,STEM
+PE/VC,6.0,740.0,,Business
+PE/VC,5.0,600.0,,Business
+Consulting,6.0,680.0,Admit,Humanities
+Investment Banking,6.0,650.0,Admit,Humanities
+Technology,3.0,610.0,,Business
+PE/VC,5.0,660.0,,STEM
+Technology,6.0,690.0,,Business
+Financial Services,6.0,580.0,,Humanities
+PE/VC,5.0,670.0,Admit,Humanities
+Consulting,6.0,620.0,,Business
+Retail,4.0,650.0,,STEM
+Consulting,5.0,610.0,,Humanities
+Other,4.0,660.0,Waitlist,STEM
+Consulting,5.0,680.0,Admit,Business
+Health Care,5.0,570.0,,STEM
+Consulting,5.0,650.0,,Business
+Technology,5.0,690.0,,Business
+Investment Banking,5.0,590.0,,Business
+Other,6.0,640.0,,STEM
+Investment Banking,6.0,630.0,,STEM
+Other,5.0,600.0,,STEM
+Financial Services,7.0,680.0,Admit,Humanities
+Nonprofit/Gov,4.0,670.0,,Humanities
+Consulting,5.0,650.0,,Business
+Other,5.0,710.0,,Business
+PE/VC,5.0,700.0,,STEM
+Health Care,5.0,670.0,Waitlist,Business
+Consulting,5.0,670.0,,Humanities
+Consulting,5.0,660.0,,STEM
+Investment Management,5.0,590.0,,Business
+Investment Banking,5.0,740.0,,STEM
+Consulting,3.0,570.0,,STEM
+Technology,5.0,650.0,,Business
+Consulting,6.0,620.0,,STEM
+Energy,5.0,660.0,,Business
+Consulting,6.0,580.0,,STEM
+Health Care,4.0,600.0,,Business
+PE/VC,4.0,610.0,,Business
+Investment Banking,5.0,660.0,,Business
+Other,6.0,620.0,,STEM
+Financial Services,4.0,620.0,,Humanities
+Technology,4.0,660.0,,STEM
+PE/VC,5.0,600.0,,STEM
+PE/VC,4.0,690.0,,Business
+Investment Banking,5.0,760.0,,Business
+Consulting,5.0,740.0,,Business
+Consulting,5.0,600.0,,Humanities
+Financial Services,6.0,640.0,,Humanities
+Consulting,6.0,610.0,,Business
+CPG,4.0,740.0,Admit,Business
+Consulting,5.0,620.0,,Humanities
+Nonprofit/Gov,5.0,670.0,,STEM
+CPG,4.0,710.0,,Humanities
+PE/VC,5.0,720.0,,Humanities
+Consulting,4.0,570.0,,Humanities
+PE/VC,6.0,640.0,,Humanities
+Real Estate,6.0,670.0,,STEM
+Consulting,5.0,590.0,,STEM
+Consulting,5.0,610.0,,STEM
+PE/VC,5.0,580.0,,Humanities
+PE/VC,4.0,620.0,,Business
+Other,7.0,610.0,,Humanities
+PE/VC,5.0,650.0,,STEM
+Health Care,5.0,730.0,,Business
+Consulting,5.0,570.0,,STEM
+CPG,5.0,640.0,,Business
+Health Care,3.0,660.0,Admit,Business
+Investment Banking,4.0,640.0,,STEM
+Consulting,7.0,720.0,Admit,STEM
+Financial Services,6.0,740.0,,Business
+Nonprofit/Gov,6.0,780.0,Admit,STEM
+Technology,6.0,700.0,,Business
+Nonprofit/Gov,2.0,570.0,,Business
+Consulting,6.0,700.0,,STEM
+Consulting,5.0,700.0,,STEM
+Consulting,5.0,660.0,,Business
+Other,5.0,680.0,Admit,Business
+Nonprofit/Gov,5.0,700.0,,STEM
+Nonprofit/Gov,6.0,620.0,,STEM
+Health Care,5.0,720.0,,STEM
+Consulting,6.0,700.0,Admit,Business
+Health Care,6.0,660.0,,Business
+Consulting,5.0,570.0,,STEM
+Other,5.0,570.0,,STEM
+Consulting,5.0,570.0,,Business
+Technology,6.0,640.0,,Business
+Investment Banking,6.0,650.0,,Business
+Technology,5.0,740.0,,Humanities
+Financial Services,4.0,680.0,Admit,Business
+Technology,5.0,660.0,Admit,Humanities
+Consulting,6.0,630.0,Admit,Business
+Technology,5.0,650.0,,Humanities
+PE/VC,5.0,720.0,Admit,STEM
+Financial Services,4.0,610.0,,Humanities
+Investment Management,5.0,590.0,,Humanities
+PE/VC,4.0,570.0,,STEM
+Other,5.0,700.0,Admit,STEM
+PE/VC,5.0,610.0,,Business
+Health Care,6.0,660.0,,STEM
+PE/VC,3.0,770.0,Admit,STEM
+Financial Services,5.0,570.0,,Business
+Investment Banking,7.0,720.0,Admit,STEM
+CPG,4.0,600.0,,Humanities
+CPG,5.0,580.0,,Business
+Consulting,6.0,670.0,,Humanities
+PE/VC,6.0,640.0,,Humanities
+Technology,4.0,620.0,,Business
+Financial Services,6.0,690.0,,Humanities
+Consulting,5.0,610.0,,STEM
+Health Care,5.0,680.0,,Humanities
+Nonprofit/Gov,7.0,630.0,,Business
+Investment Banking,5.0,590.0,,Humanities
+Financial Services,3.0,730.0,Admit,STEM
+Real Estate,5.0,670.0,,Business
+Nonprofit/Gov,5.0,690.0,,STEM
+Consulting,5.0,660.0,,Humanities
+Investment Banking,6.0,600.0,,STEM
+Health Care,7.0,570.0,,STEM
+Technology,4.0,630.0,,Humanities
+PE/VC,5.0,600.0,,Humanities
+CPG,4.0,670.0,,STEM
+Technology,5.0,660.0,,Humanities
+Technology,5.0,650.0,Admit,Business
+Financial Services,5.0,680.0,Admit,STEM
+Other,5.0,640.0,,Humanities
+CPG,7.0,720.0,,Humanities
+Investment Banking,5.0,780.0,,STEM
+Other,6.0,660.0,,Humanities
+Investment Banking,6.0,650.0,,STEM
+Health Care,6.0,570.0,,STEM
+Nonprofit/Gov,6.0,620.0,,STEM
+Technology,6.0,690.0,Admit,Humanities
+Other,4.0,620.0,,STEM
+PE/VC,4.0,610.0,,STEM
+PE/VC,4.0,700.0,,STEM
+PE/VC,5.0,660.0,,STEM
+Energy,5.0,630.0,,Humanities
+Investment Banking,4.0,620.0,,Humanities
+Nonprofit/Gov,6.0,700.0,,STEM
+Technology,5.0,660.0,,Business
+Consulting,5.0,630.0,,Humanities
+Investment Banking,4.0,610.0,,Humanities
+Investment Banking,4.0,720.0,Admit,STEM
+PE/VC,5.0,630.0,,Humanities
+Technology,6.0,730.0,,Business
+Technology,6.0,640.0,,Business
+Investment Banking,4.0,620.0,,Humanities
+Investment Banking,5.0,680.0,Admit,Humanities
+Consulting,6.0,640.0,Waitlist,Business
+Financial Services,4.0,640.0,,STEM
+PE/VC,6.0,650.0,,Humanities
+PE/VC,5.0,710.0,,Business
+Investment Banking,4.0,690.0,,Business
+Consulting,6.0,610.0,,Business
+Consulting,4.0,710.0,,Humanities
+Consulting,5.0,580.0,,Humanities
+Other,5.0,710.0,,Humanities
+Retail,7.0,570.0,,Business
+Nonprofit/Gov,3.0,570.0,,Business
+Consulting,5.0,610.0,,Business
+Health Care,6.0,700.0,,STEM
+Nonprofit/Gov,6.0,740.0,,Business
+Consulting,6.0,770.0,Admit,Business
+Other,4.0,720.0,Admit,Humanities
+Technology,4.0,570.0,,Humanities
+Investment Banking,5.0,690.0,,Humanities
+Investment Management,6.0,590.0,,Humanities
+PE/VC,5.0,690.0,,Business
+Consulting,4.0,570.0,,Humanities
+Technology,6.0,630.0,,Humanities
+Consulting,4.0,680.0,,Humanities
+Nonprofit/Gov,7.0,620.0,,Business
+Nonprofit/Gov,3.0,660.0,,Humanities
+Financial Services,5.0,680.0,Admit,Business
+PE/VC,5.0,750.0,,STEM
+PE/VC,5.0,680.0,,STEM
+Investment Banking,5.0,590.0,,Humanities
+PE/VC,5.0,680.0,Admit,STEM
+Nonprofit/Gov,4.0,650.0,,Humanities
+Health Care,6.0,680.0,,Humanities
+Technology,4.0,670.0,Waitlist,Humanities
+Media/Entertainment,6.0,670.0,Waitlist,Humanities
+Investment Management,5.0,570.0,Admit,Humanities
+PE/VC,7.0,710.0,Admit,Business
+PE/VC,5.0,710.0,Waitlist,Business
+Investment Banking,4.0,690.0,,Business
+Other,5.0,670.0,,Humanities
+Investment Management,6.0,570.0,,STEM
+PE/VC,5.0,570.0,,Humanities
+Nonprofit/Gov,4.0,720.0,Admit,Humanities
+Investment Banking,6.0,680.0,,Humanities
+PE/VC,6.0,650.0,,STEM
+Investment Banking,6.0,620.0,,STEM
+Consulting,5.0,640.0,,Business
+Other,5.0,640.0,,Humanities
+Other,4.0,570.0,,Business
+Investment Banking,5.0,750.0,,Business
+Financial Services,5.0,600.0,,Business
+Investment Banking,4.0,660.0,Admit,Business
+Consulting,4.0,570.0,,STEM
+Nonprofit/Gov,5.0,700.0,,Humanities
+Consulting,6.0,640.0,,STEM
+Consulting,4.0,570.0,,Business
+Consulting,5.0,640.0,,STEM
+Investment Banking,4.0,680.0,,Humanities
+Investment Management,6.0,640.0,,Business
+Other,4.0,720.0,,Humanities
+PE/VC,5.0,650.0,,Humanities
+Technology,7.0,690.0,,Humanities
+Financial Services,5.0,650.0,,STEM
+PE/VC,7.0,630.0,,Humanities
+Investment Banking,6.0,650.0,,STEM
+Investment Management,5.0,640.0,,Business
+PE/VC,4.0,620.0,,STEM
+Real Estate,6.0,660.0,Admit,Humanities
+Nonprofit/Gov,6.0,630.0,,Business
+Health Care,4.0,690.0,,Business
+Technology,5.0,730.0,,STEM
+Health Care,5.0,640.0,,STEM
+Nonprofit/Gov,6.0,620.0,,Business
+Consulting,7.0,630.0,,Business
+Real Estate,4.0,570.0,,Humanities
+Consulting,4.0,650.0,,Business
+Consulting,5.0,700.0,Admit,STEM
+Consulting,4.0,690.0,,Business
+Nonprofit/Gov,8.0,700.0,,STEM
+Media/Entertainment,5.0,730.0,,STEM
+Technology,4.0,680.0,,STEM
+Consulting,5.0,630.0,,STEM
+Financial Services,5.0,620.0,,Business
+Nonprofit/Gov,5.0,610.0,,Humanities
+Real Estate,6.0,610.0,,Humanities
+Real Estate,5.0,610.0,Admit,STEM
+Consulting,4.0,580.0,,Business
+PE/VC,5.0,590.0,,Humanities
+Consulting,4.0,670.0,,Humanities
+PE/VC,3.0,650.0,,STEM
+Nonprofit/Gov,4.0,660.0,,Business
+PE/VC,5.0,690.0,,Humanities
+Health Care,4.0,730.0,,Business
+PE/VC,3.0,670.0,,Humanities
+Investment Banking,5.0,640.0,,Humanities
+Investment Banking,4.0,670.0,,STEM
+Nonprofit/Gov,6.0,700.0,Admit,Business
+Other,7.0,710.0,,Humanities
+Technology,6.0,690.0,Admit,STEM
+Nonprofit/Gov,4.0,640.0,,Business
+Consulting,4.0,640.0,,STEM
+Technology,5.0,590.0,,STEM
+Consulting,4.0,670.0,Waitlist,Business
+Other,5.0,650.0,,Business
+Nonprofit/Gov,6.0,690.0,,Humanities
+Investment Banking,6.0,630.0,,Business
+Other,6.0,610.0,,Business
+Investment Banking,5.0,580.0,,STEM
+Consulting,5.0,680.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+PE/VC,4.0,670.0,,Business
+Consulting,6.0,690.0,,Humanities
+PE/VC,5.0,640.0,,STEM
+Nonprofit/Gov,4.0,670.0,,Business
+PE/VC,4.0,630.0,,Business
+Consulting,6.0,660.0,,Humanities
+Technology,5.0,640.0,,Business
+Technology,5.0,650.0,,Business
+Consulting,4.0,600.0,,STEM
+Consulting,5.0,650.0,,Humanities
+Technology,6.0,640.0,,Humanities
+Nonprofit/Gov,4.0,620.0,,STEM
+Consulting,4.0,680.0,,STEM
+Nonprofit/Gov,4.0,610.0,,STEM
+Consulting,5.0,580.0,,Business
+Consulting,5.0,620.0,,STEM
+PE/VC,8.0,580.0,,Humanities
+Consulting,5.0,580.0,,STEM
+Consulting,6.0,640.0,,Business
+Other,7.0,590.0,,Business
+Financial Services,5.0,570.0,,Humanities
+Consulting,5.0,710.0,,Humanities
+Technology,6.0,570.0,,Humanities
+Other,4.0,720.0,Admit,Humanities
+Financial Services,5.0,650.0,,STEM
+Nonprofit/Gov,4.0,690.0,,Business
+Health Care,5.0,680.0,,Humanities
+Consulting,7.0,720.0,Admit,Humanities
+Nonprofit/Gov,5.0,660.0,,Humanities
+Investment Banking,5.0,660.0,,Humanities
+Health Care,5.0,600.0,,Business
+Consulting,5.0,590.0,,STEM
+Media/Entertainment,6.0,640.0,,Business
+Consulting,5.0,720.0,Admit,Business
+Investment Banking,5.0,760.0,Admit,Business
+Technology,6.0,610.0,,Business
+Financial Services,5.0,600.0,,Business
+Financial Services,5.0,620.0,,Business
+Retail,4.0,700.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Technology,5.0,630.0,Waitlist,STEM
+PE/VC,6.0,620.0,,STEM
+Technology,4.0,620.0,,STEM
+PE/VC,5.0,570.0,,Humanities
+Investment Banking,5.0,660.0,Admit,Humanities
+Consulting,4.0,620.0,,Humanities
+Consulting,5.0,570.0,,Business
+Nonprofit/Gov,5.0,580.0,,Humanities
+Investment Banking,4.0,660.0,,Humanities
+Investment Banking,5.0,660.0,,Business
+Technology,5.0,610.0,,Humanities
+Technology,3.0,640.0,,Business
+Retail,3.0,630.0,,Business
+Health Care,3.0,740.0,,Humanities
+Investment Banking,5.0,620.0,Admit,STEM
+Financial Services,5.0,650.0,Admit,Business
+Consulting,6.0,650.0,,Business
+PE/VC,7.0,710.0,,Business
+Financial Services,6.0,600.0,,Humanities
+PE/VC,6.0,630.0,,STEM
+PE/VC,6.0,650.0,,Humanities
+Technology,5.0,670.0,,Humanities
+Health Care,4.0,750.0,Admit,Humanities
+Consulting,5.0,640.0,,Humanities
+Technology,4.0,620.0,Admit,STEM
+Health Care,6.0,680.0,Admit,STEM
+Other,4.0,760.0,,STEM
+Investment Banking,6.0,590.0,,STEM
+Other,5.0,600.0,,Business
+PE/VC,4.0,650.0,,Business
+Financial Services,4.0,640.0,,Humanities
+Consulting,7.0,690.0,Admit,Humanities
+Investment Banking,6.0,600.0,,Humanities
+PE/VC,6.0,750.0,Waitlist,STEM
+Investment Banking,6.0,570.0,,STEM
+Other,3.0,660.0,,Humanities
+Health Care,7.0,690.0,,Business
+Consulting,5.0,690.0,,STEM
+Nonprofit/Gov,6.0,660.0,,Business
+Other,6.0,660.0,Admit,Business
+Technology,4.0,690.0,Admit,STEM
+Consulting,4.0,720.0,,Business
+PE/VC,5.0,610.0,,STEM
+Investment Management,6.0,660.0,,Humanities
+Investment Banking,5.0,690.0,,Humanities
+Nonprofit/Gov,4.0,590.0,,Humanities
+Investment Banking,4.0,620.0,,Business
+Technology,5.0,690.0,,STEM
+Investment Banking,5.0,680.0,,STEM
+Nonprofit/Gov,6.0,640.0,,STEM
+PE/VC,5.0,650.0,,STEM
+Other,3.0,700.0,Admit,STEM
+Health Care,6.0,570.0,,Humanities
+Consulting,6.0,710.0,,Humanities
+Other,6.0,630.0,,Business
+Consulting,3.0,670.0,,Business
+Technology,5.0,650.0,Waitlist,STEM
+CPG,5.0,650.0,,Business
+Investment Management,6.0,570.0,,STEM
+Real Estate,6.0,750.0,Admit,Humanities
+Health Care,6.0,580.0,,Business
+Investment Banking,4.0,620.0,,Humanities
+Technology,4.0,670.0,Admit,STEM
+PE/VC,6.0,680.0,,Business
+Technology,6.0,630.0,,Humanities
+Consulting,6.0,690.0,,STEM
+Other,4.0,660.0,,STEM
+PE/VC,4.0,690.0,,Humanities
+Consulting,3.0,710.0,,Business
+Technology,6.0,610.0,,Humanities
+Consulting,3.0,720.0,Admit,Humanities
+Other,5.0,640.0,,Humanities
+PE/VC,4.0,620.0,,Humanities
+Other,6.0,570.0,,STEM
+PE/VC,5.0,750.0,Admit,Business
+Technology,5.0,720.0,Admit,Business
+Nonprofit/Gov,5.0,680.0,,Humanities
+Technology,4.0,650.0,,Humanities
+PE/VC,5.0,630.0,,Humanities
+Investment Banking,5.0,600.0,,STEM
+Consulting,4.0,670.0,Admit,Humanities
+Nonprofit/Gov,3.0,690.0,,Business
+Other,4.0,660.0,,Business
+Technology,5.0,590.0,,Business
+PE/VC,4.0,640.0,,Humanities
+Nonprofit/Gov,4.0,570.0,,Business
+PE/VC,6.0,630.0,,Humanities
+Other,5.0,690.0,,STEM
+Financial Services,5.0,700.0,Admit,Humanities
+Consulting,4.0,650.0,,Humanities
+Nonprofit/Gov,6.0,630.0,,STEM
+PE/VC,4.0,710.0,,Humanities
+Technology,5.0,660.0,,Humanities
+PE/VC,5.0,670.0,,Business
+Investment Management,5.0,610.0,,Humanities
+Consulting,5.0,670.0,,Business
+PE/VC,2.0,650.0,,STEM
+Investment Banking,5.0,710.0,Admit,STEM
+Consulting,4.0,570.0,,Humanities
+Investment Banking,4.0,620.0,,STEM
+Health Care,6.0,640.0,,Business
+Consulting,5.0,630.0,,Humanities
+CPG,6.0,730.0,,Business
+PE/VC,6.0,670.0,Waitlist,Humanities
+Real Estate,5.0,570.0,,STEM
+Investment Banking,6.0,640.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,Humanities
+Nonprofit/Gov,3.0,600.0,,Humanities
+Consulting,3.0,610.0,,STEM
+Technology,5.0,580.0,,STEM
+PE/VC,5.0,630.0,,Humanities
+Media/Entertainment,3.0,700.0,,Business
+PE/VC,5.0,660.0,,Humanities
+Consulting,4.0,640.0,,Business
+Investment Banking,4.0,710.0,Admit,Humanities
+Financial Services,6.0,690.0,Waitlist,Business
+Nonprofit/Gov,5.0,620.0,,Business
+PE/VC,5.0,680.0,,Humanities
+Investment Management,4.0,650.0,,STEM
+Other,5.0,630.0,,STEM
+Nonprofit/Gov,4.0,620.0,,Business
+Consulting,4.0,630.0,,Business
+Consulting,4.0,660.0,Admit,STEM
+Investment Banking,6.0,700.0,,Humanities
+PE/VC,4.0,630.0,,Business
+Consulting,4.0,670.0,,STEM
+Nonprofit/Gov,5.0,590.0,,Business
+Nonprofit/Gov,5.0,630.0,,STEM
+Consulting,5.0,760.0,,Humanities
+Investment Banking,5.0,750.0,,Business
+Technology,7.0,750.0,,STEM
+CPG,6.0,640.0,,STEM
+Consulting,4.0,640.0,,Business
+Financial Services,6.0,610.0,,STEM
+Health Care,7.0,650.0,,Business
+Investment Banking,4.0,630.0,,Business
+Technology,5.0,660.0,,STEM
+Technology,5.0,700.0,,Humanities
+Consulting,4.0,640.0,,Business
+Technology,5.0,660.0,,Humanities
+Financial Services,8.0,760.0,Admit,Humanities
+Investment Banking,6.0,710.0,,Humanities
+Financial Services,4.0,640.0,,Business
+Financial Services,4.0,720.0,Waitlist,Business
+Energy,4.0,750.0,,STEM
+Investment Banking,5.0,590.0,,STEM
+Consulting,4.0,640.0,,STEM
+Consulting,3.0,580.0,,STEM
+Nonprofit/Gov,4.0,650.0,,Business
+Investment Banking,5.0,680.0,Admit,STEM
+Consulting,4.0,600.0,,Business
+Investment Banking,5.0,680.0,Waitlist,Humanities
+Consulting,5.0,610.0,,Humanities
+Consulting,4.0,680.0,,Business
+PE/VC,5.0,700.0,Admit,Humanities
+Financial Services,5.0,640.0,,Humanities
+Consulting,6.0,720.0,,Business
+Consulting,6.0,660.0,,Humanities
+CPG,6.0,720.0,Admit,STEM
+Health Care,6.0,750.0,Admit,STEM
+Technology,6.0,640.0,,Humanities
+Consulting,3.0,650.0,,Business
+Financial Services,5.0,650.0,,STEM
+Other,6.0,590.0,,Business
+Consulting,6.0,570.0,,STEM
+Consulting,4.0,650.0,,Humanities
+PE/VC,7.0,650.0,,Humanities
+Consulting,5.0,620.0,,Business
+Consulting,4.0,620.0,,STEM
+Consulting,4.0,570.0,,Humanities
+Financial Services,4.0,720.0,Admit,STEM
+Consulting,5.0,580.0,,Humanities
+CPG,5.0,600.0,,Humanities
+Technology,6.0,590.0,,Business
+Energy,5.0,630.0,,Business
+Investment Banking,4.0,600.0,,STEM
+PE/VC,5.0,770.0,,Business
+Other,4.0,730.0,Admit,Humanities
+PE/VC,7.0,700.0,,STEM
+Financial Services,5.0,690.0,,Humanities
+Consulting,5.0,630.0,,Business
+Consulting,4.0,590.0,,Business
+Consulting,5.0,590.0,,Business
+Nonprofit/Gov,6.0,620.0,Waitlist,STEM
+Other,5.0,710.0,,Business
+PE/VC,3.0,570.0,,STEM
+Consulting,4.0,660.0,,Humanities
+Consulting,5.0,610.0,,Business
+Investment Banking,5.0,680.0,,Business
+Consulting,5.0,600.0,,STEM
+Consulting,5.0,610.0,,Humanities
+Technology,5.0,590.0,,Humanities
+PE/VC,4.0,690.0,Waitlist,STEM
+Other,3.0,600.0,,STEM
+Nonprofit/Gov,5.0,610.0,,Business
+Consulting,7.0,670.0,,Business
+PE/VC,6.0,570.0,,Humanities
+PE/VC,7.0,700.0,,Humanities
+Media/Entertainment,2.0,720.0,Admit,STEM
+Technology,4.0,700.0,,STEM
+Real Estate,6.0,610.0,,Business
+Nonprofit/Gov,5.0,620.0,,Business
+Consulting,4.0,680.0,,Business
+Investment Banking,4.0,620.0,,Business
+Investment Banking,4.0,570.0,,Business
+Investment Banking,4.0,640.0,,Business
+Other,4.0,720.0,,Business
+Investment Banking,4.0,630.0,,Humanities
+Investment Banking,4.0,640.0,,Humanities
+Investment Banking,5.0,570.0,,Business
+Real Estate,4.0,690.0,,Humanities
+Other,5.0,580.0,,Humanities
+PE/VC,4.0,690.0,,Humanities
+Technology,6.0,630.0,,Humanities
+Other,4.0,630.0,,Humanities
+Investment Banking,3.0,600.0,,Humanities
+Investment Banking,4.0,620.0,,Business
+Health Care,5.0,600.0,,Humanities
+Nonprofit/Gov,6.0,660.0,,STEM
+Technology,6.0,660.0,,STEM
+Investment Banking,5.0,700.0,,STEM
+PE/VC,4.0,670.0,,STEM
+PE/VC,5.0,630.0,,STEM
+Technology,3.0,620.0,,Humanities
+Consulting,5.0,600.0,,Humanities
+Financial Services,5.0,630.0,,Humanities
+Consulting,5.0,610.0,,Humanities
+Financial Services,5.0,700.0,,Humanities
+PE/VC,7.0,650.0,,STEM
+Technology,4.0,730.0,,STEM
+Investment Banking,5.0,640.0,,STEM
+Consulting,5.0,660.0,Admit,Humanities
+Consulting,4.0,630.0,,Business
+Other,5.0,610.0,,Business
+Nonprofit/Gov,3.0,610.0,,Business
+PE/VC,4.0,610.0,,Humanities
+Consulting,4.0,640.0,,Business
+PE/VC,5.0,610.0,,Humanities
+Consulting,6.0,650.0,,Humanities
+Technology,4.0,760.0,Admit,Humanities
+Consulting,7.0,740.0,,STEM
+Real Estate,4.0,760.0,,STEM
+Nonprofit/Gov,5.0,750.0,,Business
+PE/VC,6.0,660.0,Admit,Humanities
+Technology,5.0,670.0,Admit,Business
+Consulting,6.0,620.0,,Humanities
+Financial Services,8.0,580.0,,Business
+Health Care,5.0,610.0,,STEM
+Consulting,5.0,730.0,Admit,STEM
+Technology,5.0,700.0,Admit,Business
+Consulting,5.0,680.0,,Humanities
+Investment Banking,6.0,610.0,,Business
+Health Care,4.0,700.0,Admit,STEM
+Other,4.0,570.0,,STEM
+Consulting,5.0,620.0,,STEM
+Technology,5.0,690.0,,Humanities
+Technology,4.0,740.0,,Business
+Consulting,6.0,610.0,,Business
+Consulting,6.0,630.0,,STEM
+Other,5.0,780.0,,Humanities
+PE/VC,4.0,690.0,,STEM
+Technology,5.0,610.0,,Business
+Technology,8.0,620.0,,Business
+PE/VC,6.0,570.0,,Business
+Investment Banking,4.0,590.0,,STEM
+Financial Services,5.0,750.0,Admit,STEM
+Investment Banking,6.0,670.0,,Humanities
+Real Estate,5.0,590.0,,STEM
+Other,7.0,580.0,,Business
+Other,3.0,570.0,,Business
+Nonprofit/Gov,4.0,690.0,,Humanities
+Nonprofit/Gov,6.0,600.0,,Business
+Financial Services,5.0,670.0,,Business
+Investment Management,4.0,680.0,Admit,Humanities
+PE/VC,7.0,570.0,,Business
+Investment Banking,5.0,590.0,,Humanities
+Financial Services,6.0,590.0,,Business
+Real Estate,6.0,600.0,,STEM
+Health Care,5.0,660.0,,Business
+Nonprofit/Gov,5.0,660.0,,STEM
+Consulting,6.0,610.0,,STEM
+Consulting,5.0,780.0,Admit,Humanities
+Nonprofit/Gov,5.0,690.0,,Business
+Health Care,6.0,630.0,,STEM
+Energy,5.0,640.0,,STEM
+Nonprofit/Gov,5.0,570.0,,Business
+Nonprofit/Gov,4.0,610.0,,STEM
+Retail,3.0,750.0,Admit,Humanities
+Investment Management,6.0,630.0,,Business
+Health Care,7.0,660.0,Waitlist,Humanities
+PE/VC,5.0,640.0,,Business
+Consulting,5.0,600.0,,Humanities
+PE/VC,6.0,650.0,,Humanities
+Consulting,5.0,700.0,Admit,STEM
+Technology,6.0,650.0,,Humanities
+Nonprofit/Gov,6.0,600.0,,Humanities
+PE/VC,5.0,660.0,,STEM
+Technology,5.0,580.0,,Humanities
+Other,6.0,680.0,,Humanities
+Nonprofit/Gov,6.0,570.0,,Humanities
+Consulting,6.0,620.0,,STEM
+Consulting,5.0,730.0,,Humanities
+Consulting,7.0,670.0,,Business
+Nonprofit/Gov,5.0,670.0,,Humanities
+Nonprofit/Gov,6.0,620.0,,STEM
+Consulting,4.0,720.0,Admit,Business
+Investment Banking,6.0,690.0,,Humanities
+Nonprofit/Gov,4.0,670.0,,STEM
+Consulting,5.0,730.0,,Humanities
+Technology,4.0,630.0,,Humanities
+CPG,4.0,660.0,Admit,Humanities
+Financial Services,6.0,700.0,,Business
+Technology,6.0,610.0,,Humanities
+Consulting,4.0,660.0,Waitlist,Business
+Consulting,3.0,690.0,Admit,Humanities
+Other,4.0,650.0,,Business
+Consulting,5.0,670.0,Admit,Humanities
+Consulting,6.0,640.0,,Business
+Other,5.0,660.0,,Business
+Investment Banking,6.0,690.0,,Humanities
+CPG,5.0,650.0,,Humanities
+Investment Banking,5.0,580.0,,Humanities
+Other,4.0,570.0,,Humanities
+Consulting,4.0,620.0,,STEM
+Technology,6.0,570.0,,STEM
+Financial Services,6.0,640.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Other,5.0,740.0,Admit,Humanities
+Health Care,4.0,640.0,,STEM
+Nonprofit/Gov,5.0,670.0,,STEM
+Investment Banking,6.0,710.0,Admit,Humanities
+Consulting,5.0,570.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,STEM
+Consulting,4.0,680.0,,STEM
+Health Care,6.0,620.0,,Humanities
+Nonprofit/Gov,5.0,700.0,Admit,Humanities
+Technology,6.0,650.0,,Business
+Health Care,5.0,680.0,Admit,Humanities
+Nonprofit/Gov,7.0,650.0,,Humanities
+Investment Banking,5.0,740.0,Admit,Humanities
+Other,3.0,660.0,,Business
+Consulting,3.0,690.0,Admit,Business
+Nonprofit/Gov,5.0,570.0,,STEM
+Nonprofit/Gov,7.0,600.0,,Humanities
+Technology,7.0,690.0,Admit,Business
+PE/VC,4.0,750.0,,STEM
+Investment Banking,5.0,650.0,,Humanities
+Consulting,7.0,650.0,,STEM
+Nonprofit/Gov,4.0,630.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Media/Entertainment,6.0,680.0,,Business
+Consulting,5.0,700.0,,Humanities
+Consulting,5.0,640.0,,STEM
+Consulting,4.0,680.0,,Business
+Investment Banking,8.0,720.0,,Humanities
+Consulting,5.0,590.0,,STEM
+PE/VC,6.0,710.0,Admit,Humanities
+Nonprofit/Gov,5.0,640.0,,STEM
+Investment Management,4.0,710.0,Admit,Humanities
+Technology,4.0,570.0,,Humanities
+Financial Services,5.0,610.0,,STEM
+Financial Services,6.0,610.0,,Humanities
+PE/VC,6.0,680.0,Admit,Humanities
+PE/VC,4.0,570.0,,Business
+Nonprofit/Gov,6.0,650.0,,Humanities
+Financial Services,6.0,630.0,,Business
+Investment Banking,5.0,630.0,,Humanities
+PE/VC,5.0,670.0,,Business
+Health Care,6.0,680.0,,STEM
+PE/VC,5.0,690.0,,Humanities
+Health Care,4.0,660.0,,STEM
+Consulting,3.0,750.0,Admit,Humanities
+Other,5.0,700.0,,Humanities
+Financial Services,3.0,570.0,,STEM
+Consulting,4.0,580.0,,Business
+Health Care,5.0,710.0,,Humanities
+Technology,3.0,570.0,,STEM
+Other,5.0,670.0,,STEM
+Retail,5.0,610.0,,STEM
+Technology,6.0,610.0,,Humanities
+Retail,5.0,680.0,Admit,STEM
+Consulting,5.0,740.0,,STEM
+Nonprofit/Gov,3.0,680.0,,STEM
+Consulting,7.0,610.0,,STEM
+Technology,7.0,660.0,,Humanities
+Consulting,5.0,690.0,,Business
+Nonprofit/Gov,5.0,620.0,,Business
+Investment Management,7.0,690.0,,Business
+Technology,4.0,590.0,,Humanities
+Consulting,5.0,570.0,,STEM
+Technology,5.0,660.0,,Humanities
+Technology,6.0,660.0,Admit,STEM
+Other,5.0,670.0,Admit,Business
+Consulting,3.0,680.0,,Business
+PE/VC,5.0,570.0,,Humanities
+Consulting,7.0,620.0,,STEM
+Financial Services,4.0,720.0,Admit,Business
+Technology,5.0,660.0,Admit,Humanities
+PE/VC,2.0,600.0,,STEM
+PE/VC,4.0,660.0,,Humanities
+Consulting,4.0,620.0,,Business
+PE/VC,5.0,600.0,,Business
+Nonprofit/Gov,5.0,680.0,Admit,STEM
+Other,7.0,670.0,,Business
+CPG,5.0,650.0,,Humanities
+Investment Management,7.0,650.0,,STEM
+PE/VC,5.0,710.0,Admit,STEM
+Health Care,6.0,610.0,,STEM
+Financial Services,7.0,670.0,,Business
+Consulting,5.0,620.0,,STEM
+Real Estate,6.0,600.0,,STEM
+Nonprofit/Gov,6.0,690.0,,Humanities
+Media/Entertainment,5.0,570.0,,Humanities
+Consulting,6.0,590.0,Admit,STEM
+PE/VC,5.0,630.0,,Business
+Nonprofit/Gov,4.0,600.0,Admit,STEM
+Financial Services,5.0,630.0,,Humanities
+Consulting,6.0,580.0,,Humanities
+Consulting,5.0,690.0,,Humanities
+PE/VC,5.0,660.0,Admit,Humanities
+Consulting,5.0,660.0,,Humanities
+Technology,4.0,600.0,,Humanities
+PE/VC,5.0,720.0,,Humanities
+PE/VC,4.0,630.0,,Humanities
+PE/VC,6.0,650.0,,Business
+Energy,6.0,660.0,,Humanities
+Investment Banking,5.0,730.0,,Humanities
+Investment Banking,4.0,600.0,,Business
+PE/VC,4.0,730.0,,STEM
+Consulting,6.0,710.0,,Humanities
+Financial Services,6.0,620.0,,Humanities
+Investment Banking,5.0,590.0,,Humanities
+Consulting,5.0,680.0,Admit,STEM
+PE/VC,5.0,610.0,,Business
+Health Care,5.0,620.0,,Humanities
+Investment Banking,7.0,610.0,,Humanities
+PE/VC,5.0,700.0,,Humanities
+PE/VC,5.0,660.0,,Business
+Technology,4.0,570.0,,Humanities
+Health Care,4.0,610.0,,Business
+PE/VC,5.0,630.0,,Humanities
+Other,6.0,620.0,,Humanities
+Consulting,5.0,710.0,,STEM
+Other,4.0,610.0,,Humanities
+Consulting,6.0,680.0,Admit,STEM
+Other,6.0,690.0,,Business
+Other,6.0,710.0,,Business
+Consulting,6.0,640.0,,STEM
+Consulting,4.0,610.0,,STEM
+Health Care,5.0,640.0,,Humanities
+Consulting,3.0,680.0,,STEM
+Health Care,4.0,600.0,,Humanities
+PE/VC,4.0,610.0,,STEM
+Investment Banking,5.0,700.0,Waitlist,Humanities
+Investment Banking,5.0,700.0,,Humanities
+Financial Services,7.0,670.0,,STEM
+Technology,5.0,650.0,,STEM
+Consulting,3.0,580.0,,STEM
+Health Care,5.0,650.0,,Business
+Investment Banking,6.0,630.0,,Humanities
+Financial Services,5.0,650.0,,Business
+Technology,6.0,650.0,,Humanities
+PE/VC,5.0,580.0,,STEM
+Energy,5.0,690.0,,STEM
+Consulting,5.0,690.0,,Humanities
+PE/VC,4.0,760.0,,Humanities
+PE/VC,6.0,650.0,,STEM
+Technology,6.0,690.0,Admit,Business
+Consulting,6.0,630.0,,Humanities
+Technology,6.0,700.0,Admit,Humanities
+PE/VC,6.0,630.0,,STEM
+Financial Services,5.0,600.0,,Business
+Nonprofit/Gov,5.0,600.0,,Humanities
+Consulting,4.0,610.0,,Humanities
+Consulting,5.0,650.0,,Business
+Other,5.0,580.0,,Humanities
+Financial Services,3.0,760.0,,Humanities
+Other,4.0,700.0,Admit,Business
+Investment Banking,4.0,720.0,Admit,Humanities
+Investment Banking,3.0,600.0,,Business
+Health Care,4.0,710.0,,Humanities
+Investment Banking,3.0,710.0,,STEM
+Investment Banking,4.0,570.0,,STEM
+Consulting,5.0,620.0,,Business
+Nonprofit/Gov,4.0,610.0,,STEM
+Other,8.0,620.0,,STEM
+Consulting,5.0,600.0,,Humanities
+PE/VC,4.0,660.0,,Humanities
+Consulting,6.0,630.0,,Business
+PE/VC,6.0,670.0,,STEM
+Financial Services,6.0,670.0,,Humanities
+PE/VC,4.0,620.0,,STEM
+PE/VC,6.0,650.0,,STEM
+Consulting,3.0,640.0,,STEM
+Health Care,3.0,620.0,,STEM
+Technology,3.0,690.0,,Business
+Other,5.0,670.0,,Business
+Consulting,6.0,700.0,,Humanities
+Health Care,4.0,650.0,,STEM
+PE/VC,3.0,720.0,,Humanities
+PE/VC,5.0,640.0,Admit,Business
+PE/VC,6.0,620.0,,STEM
+Technology,6.0,670.0,,Humanities
+Financial Services,4.0,590.0,,Humanities
+Health Care,5.0,610.0,,STEM
+Investment Management,5.0,660.0,,STEM
+Real Estate,7.0,650.0,,Humanities
+Investment Banking,5.0,670.0,,Humanities
+PE/VC,5.0,710.0,Admit,Business
+PE/VC,4.0,570.0,,Business
+Consulting,5.0,650.0,,Humanities
+Technology,5.0,640.0,,STEM
+Investment Management,4.0,620.0,,Humanities
+Other,5.0,630.0,,STEM
+Consulting,4.0,650.0,,STEM
+CPG,5.0,650.0,,Humanities
+Technology,5.0,610.0,,Business
+Consulting,6.0,580.0,,Business
+Nonprofit/Gov,5.0,660.0,,Business
+Consulting,5.0,610.0,,Humanities
+Investment Banking,6.0,600.0,,Humanities
+Technology,6.0,630.0,,Business
+Health Care,6.0,630.0,,Business
+Consulting,5.0,590.0,,Business
+Financial Services,7.0,700.0,,STEM
+Other,5.0,620.0,,Humanities
+Consulting,4.0,690.0,,Humanities
+PE/VC,6.0,650.0,,Humanities
+Consulting,4.0,600.0,Admit,STEM
+Consulting,5.0,610.0,,STEM
+PE/VC,5.0,650.0,,Humanities
+Other,6.0,590.0,,Business
+Retail,5.0,720.0,,Business
+Consulting,6.0,580.0,,STEM
+Consulting,5.0,620.0,,Business
+Technology,5.0,640.0,,Business
+Financial Services,6.0,660.0,,Business
+Investment Banking,5.0,680.0,,Humanities
+Other,5.0,570.0,,Business
+Investment Management,6.0,650.0,,Humanities
+Consulting,4.0,660.0,,Humanities
+Consulting,5.0,690.0,,STEM
+PE/VC,5.0,690.0,,Humanities
+Media/Entertainment,5.0,580.0,,Humanities
+Investment Banking,6.0,670.0,,Humanities
+Nonprofit/Gov,7.0,690.0,,STEM
+Consulting,7.0,670.0,,STEM
+Health Care,7.0,660.0,,STEM
+PE/VC,5.0,620.0,,Humanities
+Consulting,6.0,570.0,,Humanities
+Consulting,7.0,640.0,,Humanities
+Investment Banking,5.0,570.0,,Business
+Consulting,7.0,680.0,,Business
+PE/VC,3.0,690.0,Admit,Humanities
+PE/VC,3.0,720.0,,STEM
+Consulting,4.0,640.0,,STEM
+Consulting,4.0,720.0,,Humanities
+Energy,6.0,710.0,,Humanities
+Investment Banking,5.0,660.0,Admit,Humanities
+Health Care,6.0,720.0,Admit,Humanities
+Financial Services,4.0,660.0,Admit,Humanities
+Consulting,5.0,660.0,,Humanities
+Consulting,4.0,680.0,,Business
+Consulting,7.0,600.0,,STEM
+Consulting,6.0,620.0,,STEM
+Consulting,5.0,690.0,,Humanities
+Technology,3.0,610.0,,Business
+Consulting,5.0,650.0,,Humanities
+Consulting,4.0,700.0,Admit,Business
+PE/VC,5.0,610.0,,Humanities
+Nonprofit/Gov,5.0,630.0,,STEM
+Investment Banking,4.0,720.0,,Business
+Other,5.0,690.0,Admit,STEM
+PE/VC,4.0,590.0,,STEM
+Consulting,5.0,640.0,,Humanities
+Investment Management,5.0,590.0,,STEM
+PE/VC,6.0,640.0,,Humanities
+PE/VC,6.0,600.0,,Humanities
+Investment Banking,5.0,680.0,Admit,STEM
+Consulting,4.0,700.0,,Humanities
+Technology,4.0,660.0,,Business
+Energy,4.0,600.0,,Humanities
+Consulting,4.0,660.0,,Humanities
+Consulting,6.0,630.0,,STEM
+Investment Banking,6.0,610.0,,STEM
+Other,5.0,760.0,Waitlist,STEM
+Nonprofit/Gov,6.0,650.0,,Business
+Consulting,5.0,650.0,,Humanities
+Consulting,4.0,740.0,,Humanities
+Technology,7.0,670.0,,Humanities
+Consulting,3.0,700.0,Admit,STEM
+Investment Banking,5.0,600.0,,Humanities
+CPG,5.0,700.0,,STEM
+Technology,4.0,610.0,,Humanities
+PE/VC,4.0,670.0,,Humanities
+Consulting,4.0,740.0,,Business
+PE/VC,4.0,620.0,,Humanities
+Nonprofit/Gov,5.0,780.0,Admit,Humanities
+Consulting,5.0,650.0,,Business
+Consulting,5.0,710.0,,Humanities
+Technology,5.0,690.0,,STEM
+Technology,4.0,720.0,,Business
+Technology,5.0,640.0,,Humanities
+Consulting,4.0,570.0,,Business
+Technology,5.0,660.0,Admit,Humanities
+PE/VC,5.0,650.0,,Humanities
+PE/VC,6.0,700.0,Admit,Humanities
+Other,6.0,670.0,,STEM
+Financial Services,4.0,690.0,Admit,Humanities
+Investment Management,4.0,700.0,Admit,Business
+Other,3.0,590.0,,Business
+Nonprofit/Gov,5.0,700.0,Waitlist,STEM
+PE/VC,5.0,580.0,,Humanities
+Consulting,4.0,590.0,,STEM
+Health Care,5.0,630.0,,STEM
+Consulting,6.0,740.0,Admit,Business
+Nonprofit/Gov,5.0,620.0,,Humanities
+Technology,5.0,570.0,,STEM
+Financial Services,6.0,570.0,,STEM
+Consulting,5.0,660.0,,Business
+Nonprofit/Gov,5.0,700.0,Admit,STEM
+Investment Banking,5.0,690.0,Admit,Business
+Energy,5.0,710.0,,Humanities
+Nonprofit/Gov,5.0,630.0,,Business
+Real Estate,5.0,570.0,,Business
+Consulting,5.0,590.0,,Humanities
+Consulting,5.0,680.0,,Business
+Consulting,7.0,770.0,Admit,Business
+Investment Banking,4.0,660.0,,STEM
+Nonprofit/Gov,6.0,710.0,Admit,Humanities
+Consulting,4.0,720.0,,Business
+Investment Banking,5.0,670.0,,Humanities
+Nonprofit/Gov,4.0,580.0,,Humanities
+Investment Banking,4.0,750.0,,STEM
+Consulting,5.0,720.0,,Humanities
+Nonprofit/Gov,6.0,660.0,,STEM
+Consulting,2.0,660.0,,STEM
+Technology,6.0,670.0,Admit,STEM
+Consulting,5.0,710.0,,STEM
+Technology,4.0,700.0,,Humanities
+Real Estate,4.0,640.0,,Humanities
+Technology,2.0,750.0,,Humanities
+Technology,5.0,660.0,Admit,STEM
+Investment Banking,6.0,570.0,,Humanities
+Health Care,4.0,690.0,,Humanities
+Other,5.0,580.0,,STEM
+Technology,5.0,580.0,,Humanities
+Nonprofit/Gov,4.0,590.0,Waitlist,Humanities
+Nonprofit/Gov,6.0,770.0,,Humanities
+Nonprofit/Gov,3.0,710.0,,STEM
+Financial Services,4.0,670.0,Admit,Business
+Other,6.0,580.0,,STEM
+Consulting,5.0,710.0,Admit,STEM
+Technology,4.0,720.0,,STEM
+Technology,6.0,640.0,,Business
+Consulting,5.0,630.0,,STEM
+Health Care,5.0,680.0,Admit,Humanities
+Consulting,5.0,660.0,,Humanities
+Investment Banking,6.0,570.0,,Business
+PE/VC,5.0,650.0,,Humanities
+Investment Banking,6.0,620.0,,Humanities
+PE/VC,4.0,740.0,Admit,Humanities
+Consulting,6.0,650.0,,STEM
+Consulting,5.0,650.0,,Business
+Consulting,4.0,640.0,Admit,Business
+Nonprofit/Gov,5.0,610.0,,Business
+Technology,6.0,630.0,,Business
+Nonprofit/Gov,6.0,640.0,,Business
+Technology,5.0,650.0,,Humanities
+Financial Services,4.0,650.0,,Business
+Financial Services,4.0,650.0,Admit,STEM
+Consulting,6.0,570.0,,Business
+Technology,4.0,660.0,,Business
+Technology,4.0,600.0,,Business
+Nonprofit/Gov,6.0,710.0,,Humanities
+Technology,4.0,710.0,,Humanities
+PE/VC,6.0,610.0,,STEM
+Investment Banking,6.0,590.0,,STEM
+Financial Services,5.0,670.0,Waitlist,STEM
+Investment Banking,5.0,600.0,,Business
+Health Care,7.0,610.0,,STEM
+Financial Services,4.0,610.0,,Business
+Financial Services,5.0,680.0,Admit,Humanities
+Nonprofit/Gov,4.0,680.0,,Business
+Investment Banking,4.0,680.0,,Business
+Retail,4.0,570.0,,STEM
+Other,4.0,670.0,,STEM
+Technology,6.0,570.0,,Humanities
+Real Estate,7.0,570.0,,STEM
+Other,6.0,590.0,,STEM
+Other,6.0,650.0,,STEM
+PE/VC,4.0,640.0,,STEM
+Investment Banking,5.0,640.0,,STEM
+Consulting,3.0,690.0,,Humanities
+Media/Entertainment,6.0,620.0,,Business
+Other,7.0,630.0,,STEM
+Financial Services,6.0,710.0,,Humanities
+Technology,5.0,680.0,,STEM
+Real Estate,4.0,570.0,,Humanities
+Consulting,6.0,650.0,,Business
+PE/VC,5.0,680.0,Admit,Business
+Other,6.0,660.0,,STEM
+Health Care,5.0,730.0,,Business
+Investment Banking,5.0,620.0,,Business
+PE/VC,5.0,670.0,Admit,Humanities
+Health Care,5.0,680.0,,Humanities
+Other,7.0,610.0,,Humanities
+Investment Banking,5.0,740.0,Admit,Business
+Financial Services,6.0,660.0,,STEM
+Nonprofit/Gov,4.0,670.0,Admit,Business
+PE/VC,6.0,610.0,Admit,STEM
+Financial Services,5.0,680.0,,STEM
+Financial Services,8.0,710.0,,STEM
+Consulting,6.0,690.0,,STEM
+Other,5.0,630.0,,Humanities
+PE/VC,6.0,660.0,Admit,Business
+Health Care,4.0,580.0,,Humanities
+Consulting,4.0,680.0,,Business
+Investment Banking,4.0,580.0,,Humanities
+Consulting,7.0,670.0,Admit,Business
+Investment Banking,2.0,600.0,,Humanities
+Technology,5.0,650.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,STEM
+Consulting,4.0,660.0,,STEM
+Nonprofit/Gov,3.0,670.0,,Humanities
+Investment Management,6.0,670.0,Admit,Business
+Investment Banking,4.0,630.0,,Business
+Consulting,5.0,680.0,,Humanities
+Other,4.0,660.0,Admit,Humanities
+Consulting,6.0,690.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,STEM
+PE/VC,5.0,670.0,,Humanities
+Financial Services,4.0,670.0,,Business
+Consulting,6.0,610.0,,Business
+Investment Banking,4.0,640.0,,Business
+Real Estate,6.0,670.0,,Business
+Technology,4.0,660.0,Admit,Business
+Technology,4.0,680.0,,Business
+Health Care,4.0,740.0,,Humanities
+Nonprofit/Gov,4.0,630.0,,Business
+PE/VC,6.0,580.0,,Business
+Nonprofit/Gov,4.0,640.0,,Business
+PE/VC,5.0,570.0,,STEM
+Nonprofit/Gov,5.0,600.0,,Humanities
+Investment Management,4.0,570.0,,Humanities
+Consulting,6.0,700.0,,Humanities
+Technology,4.0,630.0,,Business
+Technology,4.0,710.0,Admit,Business
+PE/VC,5.0,730.0,Admit,Business
+Consulting,5.0,600.0,,STEM
+Technology,5.0,710.0,Admit,STEM
+Investment Banking,5.0,620.0,,Humanities
+Consulting,6.0,630.0,,Humanities
+Consulting,5.0,650.0,,STEM
+Investment Banking,6.0,680.0,Admit,STEM
+PE/VC,6.0,740.0,,STEM
+PE/VC,5.0,660.0,,STEM
+Technology,6.0,660.0,,Humanities
+Other,5.0,590.0,,Humanities
+Consulting,6.0,590.0,,Business
+PE/VC,6.0,740.0,,STEM
+PE/VC,7.0,650.0,,STEM
+PE/VC,5.0,600.0,,STEM
+Investment Banking,5.0,670.0,,STEM
+Nonprofit/Gov,3.0,700.0,,Business
+Health Care,6.0,700.0,,Business
+Technology,6.0,720.0,,Humanities
+Consulting,4.0,610.0,,Business
+Consulting,5.0,620.0,,Business
+Financial Services,5.0,600.0,,Humanities
+Financial Services,5.0,770.0,Waitlist,STEM
+Nonprofit/Gov,6.0,630.0,,Business
+Financial Services,5.0,650.0,,Business
+Consulting,6.0,650.0,,STEM
+Consulting,5.0,640.0,,Business
+Consulting,4.0,590.0,,STEM
+Investment Banking,5.0,630.0,,Humanities
+Consulting,4.0,660.0,,Humanities
+Nonprofit/Gov,6.0,630.0,,STEM
+Investment Management,6.0,660.0,,Humanities
+PE/VC,3.0,660.0,Waitlist,Humanities
+Consulting,4.0,670.0,,STEM
+Consulting,5.0,630.0,,Business
+Technology,6.0,660.0,Admit,STEM
+Consulting,5.0,660.0,,Humanities
+Financial Services,5.0,680.0,,Humanities
+Financial Services,6.0,570.0,,Humanities
+Financial Services,6.0,690.0,,Business
+Consulting,6.0,640.0,,Humanities
+Financial Services,4.0,660.0,,Business
+Consulting,5.0,620.0,,Business
+Investment Banking,4.0,640.0,,STEM
+Consulting,6.0,620.0,,Humanities
+Consulting,5.0,600.0,,Business
+Consulting,3.0,640.0,,STEM
+Investment Banking,7.0,710.0,Admit,Business
+Technology,5.0,630.0,,Business
+Technology,3.0,660.0,,Business
+Other,3.0,590.0,,Business
+Consulting,6.0,650.0,,Humanities
+Health Care,6.0,660.0,Admit,Humanities
+PE/VC,5.0,600.0,,Humanities
+Financial Services,4.0,640.0,,Humanities
+Consulting,4.0,640.0,,STEM
+Consulting,3.0,660.0,,Humanities
+Technology,5.0,650.0,,STEM
+Technology,5.0,590.0,,Business
+Energy,5.0,580.0,,Business
+Financial Services,6.0,610.0,,Humanities
+Investment Banking,4.0,620.0,,Humanities
+PE/VC,6.0,650.0,,Business
+Consulting,6.0,680.0,Admit,STEM
+Nonprofit/Gov,7.0,660.0,,STEM
+Nonprofit/Gov,4.0,760.0,Admit,Humanities
+Technology,4.0,570.0,,Humanities
+Health Care,6.0,580.0,,Humanities
+Real Estate,6.0,660.0,Admit,Humanities
+Health Care,6.0,570.0,,Humanities
+Health Care,6.0,670.0,,Business
+PE/VC,4.0,710.0,,Humanities
+Financial Services,4.0,620.0,,Humanities
+Consulting,4.0,620.0,,Business
+PE/VC,4.0,650.0,,Business
+Investment Banking,5.0,720.0,,Business
+PE/VC,5.0,690.0,Admit,Humanities
+PE/VC,4.0,660.0,,Humanities
+Health Care,5.0,760.0,,Business
+PE/VC,4.0,670.0,,Humanities
+Consulting,5.0,630.0,,Humanities
+Nonprofit/Gov,5.0,700.0,,Business
+Real Estate,5.0,610.0,,Humanities
+Investment Management,5.0,680.0,,STEM
+Technology,5.0,710.0,Admit,Humanities
+Technology,6.0,650.0,,Business
+Consulting,2.0,590.0,,Humanities
+Investment Management,6.0,620.0,,Humanities
+Consulting,5.0,760.0,Admit,Business
+PE/VC,4.0,690.0,,STEM
+Health Care,6.0,570.0,,Business
+Investment Banking,3.0,590.0,,Business
+Consulting,3.0,640.0,,Humanities
+Consulting,4.0,640.0,,Humanities
+Financial Services,5.0,580.0,,Business
+Health Care,5.0,740.0,Admit,STEM
+Consulting,4.0,630.0,,Humanities
+Consulting,5.0,680.0,,Business
+Consulting,4.0,700.0,,Humanities
+Technology,5.0,610.0,,Humanities
+Investment Banking,4.0,650.0,,Business
+Technology,5.0,650.0,,STEM
+Consulting,5.0,610.0,,STEM
+Health Care,4.0,640.0,Waitlist,Humanities
+Health Care,4.0,650.0,,STEM
+Health Care,5.0,610.0,,Humanities
+Consulting,5.0,590.0,,Business
+Nonprofit/Gov,5.0,620.0,,STEM
+Consulting,5.0,670.0,Admit,Humanities
+PE/VC,6.0,660.0,,Humanities
+Nonprofit/Gov,6.0,570.0,,Humanities
+Other,6.0,660.0,,Humanities
+Health Care,5.0,670.0,,Business
+Nonprofit/Gov,5.0,620.0,,Business
+Technology,6.0,680.0,,Humanities
+Consulting,6.0,660.0,Admit,Humanities
+Consulting,4.0,660.0,,Business
+Nonprofit/Gov,6.0,710.0,,Business
+Financial Services,5.0,720.0,Admit,Business
+Nonprofit/Gov,5.0,610.0,,STEM
+Consulting,5.0,570.0,,STEM
+Financial Services,6.0,660.0,,STEM
+PE/VC,5.0,660.0,,Humanities
+Nonprofit/Gov,4.0,670.0,,STEM
+Real Estate,5.0,640.0,,Humanities
+PE/VC,5.0,700.0,,Humanities
+PE/VC,5.0,620.0,,Humanities
+PE/VC,5.0,660.0,,STEM
+CPG,6.0,650.0,,Business
+Consulting,5.0,650.0,,Business
+Financial Services,7.0,720.0,,Humanities
+Financial Services,3.0,630.0,,Business
+Consulting,5.0,590.0,,STEM
+PE/VC,5.0,660.0,Admit,STEM
+PE/VC,6.0,770.0,,Humanities
+Other,5.0,690.0,,Humanities
+PE/VC,7.0,670.0,,Humanities
+PE/VC,5.0,670.0,,Humanities
+Consulting,4.0,750.0,,Business
+Consulting,5.0,610.0,,Business
+Other,4.0,640.0,,STEM
+PE/VC,6.0,720.0,,STEM
+Other,4.0,700.0,,STEM
+PE/VC,5.0,670.0,Admit,Humanities
+Consulting,4.0,700.0,,STEM
+Consulting,3.0,650.0,Waitlist,STEM
+PE/VC,5.0,570.0,,Humanities
+Investment Management,3.0,660.0,,Business
+Financial Services,4.0,640.0,,Humanities
+Consulting,6.0,660.0,,Business
+PE/VC,5.0,650.0,,Business
+Nonprofit/Gov,5.0,670.0,Admit,STEM
+Consulting,5.0,710.0,,STEM
+Investment Banking,7.0,630.0,,STEM
+Nonprofit/Gov,5.0,720.0,Admit,STEM
+Nonprofit/Gov,4.0,690.0,Admit,Business
+Consulting,7.0,640.0,Admit,STEM
+PE/VC,6.0,630.0,,Humanities
+PE/VC,6.0,610.0,,Business
+Consulting,5.0,570.0,,Business
+Nonprofit/Gov,3.0,570.0,,Humanities
+Technology,5.0,620.0,,STEM
+Other,5.0,590.0,,Humanities
+Consulting,6.0,600.0,,Business
+PE/VC,6.0,680.0,Admit,STEM
+Nonprofit/Gov,4.0,640.0,,Business
+Health Care,3.0,720.0,,STEM
+Other,5.0,620.0,Waitlist,Business
+Consulting,3.0,630.0,,STEM
+Nonprofit/Gov,7.0,610.0,,STEM
+Consulting,4.0,630.0,,STEM
+Media/Entertainment,4.0,590.0,,Business
+Nonprofit/Gov,5.0,610.0,,Business
+Investment Management,5.0,710.0,Admit,STEM
+Investment Banking,5.0,700.0,Admit,Business
+Nonprofit/Gov,5.0,630.0,,Humanities
+Health Care,6.0,630.0,,Humanities
+Nonprofit/Gov,4.0,640.0,,Humanities
+PE/VC,5.0,570.0,,Humanities
+Financial Services,6.0,730.0,Admit,Business
+PE/VC,6.0,760.0,Admit,Business
+Consulting,5.0,570.0,,STEM
+Consulting,5.0,590.0,,STEM
+Nonprofit/Gov,6.0,590.0,,Humanities
+PE/VC,4.0,690.0,,STEM
+Technology,5.0,620.0,,Humanities
+Retail,5.0,580.0,Waitlist,STEM
+Other,4.0,600.0,,Business
+PE/VC,5.0,660.0,,Business
+PE/VC,5.0,680.0,,Business
+PE/VC,4.0,620.0,,Humanities
+Real Estate,6.0,620.0,Admit,Business
+PE/VC,5.0,630.0,,Business
+Energy,4.0,650.0,,STEM
+Investment Banking,7.0,680.0,,Business
+Financial Services,6.0,630.0,,Business
+Consulting,3.0,650.0,,STEM
+Consulting,4.0,690.0,,Humanities
+Consulting,3.0,720.0,Waitlist,STEM
+Consulting,5.0,660.0,,Business
+Real Estate,5.0,570.0,,Business
+Technology,5.0,660.0,,Humanities
+Investment Banking,4.0,630.0,,Humanities
+Health Care,4.0,620.0,,STEM
+Nonprofit/Gov,5.0,670.0,,Humanities
+Consulting,4.0,750.0,,STEM
+Consulting,4.0,650.0,,Humanities
+PE/VC,5.0,590.0,,STEM
+Consulting,6.0,660.0,,STEM
+PE/VC,7.0,570.0,,Humanities
+Nonprofit/Gov,6.0,670.0,,Humanities
+Technology,5.0,660.0,,Business
+Financial Services,3.0,620.0,Admit,Business
+Consulting,5.0,720.0,,Humanities
+Nonprofit/Gov,5.0,610.0,,Business
+Consulting,6.0,630.0,,Business
+Consulting,6.0,660.0,,STEM
+Technology,5.0,650.0,,STEM
+Technology,4.0,780.0,,Humanities
+PE/VC,5.0,640.0,,Humanities
+Investment Banking,6.0,720.0,Admit,Business
+Technology,8.0,720.0,,Business
+Technology,4.0,630.0,,Humanities
+Investment Banking,4.0,650.0,,Business
+PE/VC,6.0,670.0,Admit,Humanities
+Financial Services,6.0,660.0,Admit,Humanities
+Financial Services,5.0,630.0,,Humanities
+Energy,5.0,780.0,Admit,Business
+CPG,3.0,680.0,,STEM
+Technology,4.0,650.0,,Business
+PE/VC,6.0,690.0,,Humanities
+PE/VC,5.0,700.0,,Business
+Financial Services,5.0,700.0,Waitlist,STEM
+Investment Management,4.0,590.0,,STEM
+Consulting,4.0,690.0,,Humanities
+Consulting,6.0,680.0,Admit,Business
+Consulting,8.0,570.0,,Humanities
+Technology,6.0,630.0,,Humanities
+CPG,4.0,660.0,,Humanities
+Technology,7.0,610.0,,Business
+Consulting,4.0,620.0,,Humanities
+Consulting,5.0,680.0,,Humanities
+Financial Services,5.0,720.0,Admit,Humanities
+Consulting,5.0,640.0,,STEM
+Nonprofit/Gov,7.0,680.0,,Business
+Other,5.0,700.0,,STEM
+Financial Services,4.0,670.0,,Business
+Nonprofit/Gov,6.0,720.0,Admit,STEM
+PE/VC,5.0,700.0,Admit,Humanities
+Health Care,6.0,740.0,,Humanities
+Other,4.0,670.0,,Business
+Investment Banking,4.0,570.0,,STEM
+Technology,6.0,680.0,,Humanities
+Financial Services,5.0,690.0,,Humanities
+PE/VC,4.0,680.0,,STEM
+Investment Banking,5.0,680.0,,STEM
+Health Care,4.0,620.0,,STEM
+Consulting,6.0,620.0,,Humanities
+Technology,5.0,620.0,,Humanities
+Consulting,6.0,660.0,,Humanities
+PE/VC,6.0,600.0,,Business
+Investment Banking,6.0,720.0,Admit,Business
+PE/VC,3.0,700.0,,STEM
+Other,7.0,580.0,,STEM
+Consulting,5.0,640.0,,Humanities
+PE/VC,4.0,660.0,,STEM
+Nonprofit/Gov,4.0,670.0,,Business
+Consulting,4.0,580.0,,Humanities
+PE/VC,5.0,730.0,Admit,Business
+Consulting,5.0,640.0,,Humanities
+Technology,5.0,570.0,,Business
+Nonprofit/Gov,6.0,600.0,,STEM
+Investment Management,5.0,700.0,Admit,Business
+Technology,6.0,570.0,,STEM
+Consulting,4.0,670.0,Admit,Business
+Financial Services,6.0,620.0,,Humanities
+Consulting,5.0,650.0,,STEM
+Consulting,4.0,610.0,,Humanities
+Health Care,5.0,640.0,,Business
+Investment Banking,6.0,630.0,,Business
+Technology,6.0,630.0,,Humanities
+Consulting,5.0,680.0,Admit,STEM
+Retail,5.0,690.0,,Business
+Technology,5.0,570.0,,Business
+Financial Services,7.0,700.0,Waitlist,Humanities
+Consulting,6.0,680.0,Admit,STEM
+Consulting,3.0,610.0,,STEM
+PE/VC,5.0,700.0,,STEM
+Consulting,3.0,630.0,,Business
+Consulting,5.0,620.0,,STEM
+Consulting,4.0,610.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Technology,5.0,630.0,,Business
+Investment Banking,5.0,620.0,,Humanities
+Investment Management,4.0,570.0,,Humanities
+Technology,5.0,690.0,,Business
+Consulting,4.0,700.0,,Humanities
+PE/VC,5.0,660.0,,Humanities
+Financial Services,5.0,600.0,,Humanities
+PE/VC,4.0,680.0,,STEM
+Technology,6.0,670.0,,Humanities
+CPG,6.0,690.0,Admit,Business
+Nonprofit/Gov,3.0,690.0,Admit,STEM
+Technology,6.0,690.0,,STEM
+Financial Services,5.0,620.0,,Humanities
+PE/VC,5.0,640.0,,Humanities
+Technology,6.0,600.0,,Humanities
+PE/VC,6.0,670.0,,Humanities
+Nonprofit/Gov,4.0,670.0,,Humanities
+Consulting,4.0,680.0,,STEM
+Consulting,5.0,570.0,,Humanities
+PE/VC,5.0,580.0,,Humanities
+Health Care,4.0,680.0,Admit,Humanities
+Health Care,5.0,680.0,,Business
+Nonprofit/Gov,5.0,640.0,,STEM
+Technology,6.0,750.0,,Humanities
+Consulting,4.0,610.0,,STEM
+CPG,5.0,580.0,,Humanities
+Other,4.0,660.0,,Business
+Health Care,4.0,720.0,,STEM
+Nonprofit/Gov,7.0,640.0,,Business
+Other,5.0,630.0,,STEM
+Technology,4.0,720.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,STEM
+Financial Services,5.0,670.0,Admit,Humanities
+Technology,4.0,620.0,,STEM
+Consulting,6.0,700.0,Admit,Humanities
+Investment Banking,7.0,700.0,,Humanities
+Financial Services,5.0,670.0,Admit,STEM
+Technology,3.0,680.0,Admit,Humanities
+Consulting,4.0,720.0,,STEM
+Nonprofit/Gov,5.0,610.0,,Humanities
+PE/VC,5.0,720.0,,Humanities
+PE/VC,4.0,630.0,,Humanities
+Investment Banking,4.0,660.0,Admit,Business
+Consulting,5.0,710.0,Admit,STEM
+Investment Banking,2.0,670.0,,STEM
+Health Care,7.0,660.0,,Business
+PE/VC,7.0,570.0,,STEM
+Health Care,5.0,730.0,,Humanities
+PE/VC,5.0,720.0,Admit,Humanities
+Investment Banking,5.0,610.0,,Business
+Consulting,4.0,690.0,Admit,Business
+Investment Management,5.0,660.0,Admit,Humanities
+Technology,5.0,670.0,,Business
+PE/VC,6.0,780.0,Admit,Business
+Nonprofit/Gov,5.0,680.0,,Humanities
+PE/VC,4.0,630.0,,Business
+Consulting,5.0,700.0,,STEM
+Other,6.0,590.0,,Humanities
+Health Care,5.0,600.0,,Business
+Other,5.0,650.0,,Business
+Nonprofit/Gov,6.0,570.0,,Humanities
+PE/VC,6.0,570.0,,Business
+Other,4.0,690.0,Admit,Humanities
+PE/VC,4.0,660.0,,Business
+Nonprofit/Gov,6.0,640.0,,Humanities
+Health Care,5.0,570.0,,Humanities
+Consulting,4.0,570.0,,Humanities
+Retail,5.0,650.0,,Business
+CPG,4.0,670.0,Admit,Business
+Consulting,5.0,630.0,,Humanities
+Other,4.0,660.0,,Humanities
+PE/VC,4.0,710.0,,STEM
+Nonprofit/Gov,4.0,670.0,,Humanities
+Consulting,2.0,580.0,,Business
+Financial Services,4.0,640.0,,Humanities
+Investment Banking,5.0,580.0,,Humanities
+Technology,5.0,710.0,Admit,Business
+Nonprofit/Gov,6.0,660.0,,Business
+Nonprofit/Gov,4.0,570.0,,Business
+PE/VC,4.0,730.0,Waitlist,Business
+PE/VC,6.0,620.0,,Humanities
+Technology,5.0,620.0,,Humanities
+PE/VC,5.0,690.0,,STEM
+Financial Services,5.0,690.0,,Humanities
+Nonprofit/Gov,6.0,570.0,,Business
+Consulting,5.0,570.0,,Humanities
+Investment Banking,6.0,580.0,,Humanities
+Consulting,6.0,590.0,,Humanities
+Consulting,5.0,610.0,,Business
+Financial Services,6.0,580.0,,Humanities
+Financial Services,3.0,640.0,,Business
+Other,6.0,600.0,,STEM
+PE/VC,4.0,730.0,Admit,Business
+Health Care,4.0,580.0,,Humanities
+PE/VC,6.0,570.0,,Business
+Consulting,6.0,620.0,,STEM
+Consulting,4.0,600.0,,STEM
+PE/VC,4.0,590.0,,Humanities
+Health Care,4.0,700.0,,Humanities
+Financial Services,5.0,590.0,,Humanities
+Other,6.0,650.0,,Business
+PE/VC,3.0,650.0,,Humanities
+Consulting,5.0,580.0,,STEM
+Nonprofit/Gov,5.0,570.0,,Humanities
+Media/Entertainment,6.0,650.0,,Business
+Technology,6.0,690.0,,Business
+Other,6.0,630.0,,STEM
+Technology,5.0,700.0,,Business
+Real Estate,6.0,660.0,,Business
+Other,5.0,640.0,,STEM
+Consulting,6.0,630.0,,STEM
+Media/Entertainment,5.0,630.0,,STEM
+Nonprofit/Gov,6.0,670.0,Admit,Humanities
+Consulting,3.0,580.0,,STEM
+Technology,6.0,610.0,,Business
+Investment Banking,5.0,670.0,Admit,Humanities
+Investment Banking,5.0,630.0,,STEM
+Consulting,5.0,770.0,Admit,Humanities
+Other,3.0,610.0,,STEM
+Investment Banking,5.0,680.0,,Humanities
+Consulting,8.0,600.0,,Humanities
+Nonprofit/Gov,3.0,670.0,Admit,Humanities
+Consulting,4.0,680.0,,STEM
+CPG,6.0,650.0,,Humanities
+Financial Services,5.0,660.0,Admit,Business
+Consulting,5.0,760.0,Waitlist,Humanities
+Financial Services,5.0,670.0,,Business
+Nonprofit/Gov,4.0,630.0,,Business
+Consulting,6.0,710.0,,Humanities
+Health Care,4.0,670.0,,STEM
+Consulting,6.0,670.0,Admit,Business
+Health Care,6.0,600.0,,Humanities
+PE/VC,6.0,690.0,,STEM
+Technology,5.0,570.0,,Business
+PE/VC,5.0,720.0,,Humanities
+PE/VC,4.0,700.0,,Business
+Investment Management,3.0,750.0,,STEM
+Health Care,7.0,660.0,,Humanities
+Consulting,7.0,680.0,,Business
+Other,5.0,670.0,,STEM
+Investment Banking,4.0,760.0,,Humanities
+Nonprofit/Gov,6.0,600.0,,STEM
+Real Estate,6.0,570.0,Admit,Humanities
+PE/VC,6.0,600.0,,STEM
+Investment Banking,5.0,690.0,,Business
+Consulting,6.0,600.0,,Humanities
+Consulting,5.0,690.0,Admit,Business
+PE/VC,5.0,620.0,,Humanities
+Health Care,6.0,680.0,,STEM
+Health Care,5.0,630.0,,STEM
+PE/VC,6.0,610.0,,Humanities
+Consulting,6.0,620.0,,Humanities
+Consulting,4.0,640.0,,Humanities
+Financial Services,6.0,630.0,,STEM
+Media/Entertainment,6.0,710.0,,Business
+Consulting,6.0,600.0,,Humanities
+Consulting,6.0,670.0,,Humanities
+PE/VC,5.0,670.0,,Business
+Media/Entertainment,6.0,640.0,,Humanities
+Investment Banking,6.0,680.0,,Humanities
+Health Care,5.0,600.0,,Business
+Nonprofit/Gov,6.0,650.0,,Humanities
+Consulting,5.0,610.0,,Business
+Nonprofit/Gov,5.0,710.0,,Humanities
+Consulting,5.0,590.0,,STEM
+Consulting,4.0,750.0,Admit,Business
+Consulting,8.0,610.0,,STEM
+Consulting,4.0,660.0,,STEM
+Other,7.0,640.0,,STEM
+Media/Entertainment,5.0,720.0,Admit,Humanities
+Technology,4.0,570.0,,Business
+Other,5.0,610.0,,Humanities
+Consulting,5.0,730.0,,Business
+Technology,5.0,650.0,,Humanities
+CPG,5.0,670.0,,Business
+CPG,4.0,640.0,,Humanities
+Financial Services,6.0,610.0,,STEM
+Consulting,5.0,600.0,,Business
+Investment Banking,6.0,630.0,,Humanities
+Nonprofit/Gov,3.0,640.0,,Business
+Consulting,3.0,630.0,,Humanities
+Health Care,7.0,640.0,,STEM
+PE/VC,5.0,630.0,,Business
+Technology,4.0,670.0,Admit,Business
+PE/VC,6.0,600.0,,Business
+Technology,5.0,650.0,,Business
+CPG,4.0,670.0,Admit,Humanities
+Health Care,5.0,620.0,,Business
+PE/VC,6.0,670.0,,Business
+Investment Banking,3.0,770.0,,Humanities
+PE/VC,5.0,610.0,,STEM
+Consulting,6.0,720.0,Admit,Business
+Consulting,7.0,720.0,,Humanities
+Financial Services,5.0,710.0,Admit,STEM
+PE/VC,5.0,600.0,,Business
+Consulting,6.0,670.0,,Humanities
+Financial Services,4.0,660.0,,Humanities
+Other,5.0,690.0,,STEM
+Consulting,3.0,620.0,,STEM
+Consulting,6.0,610.0,Admit,Humanities
+Technology,6.0,700.0,Admit,Humanities
+PE/VC,5.0,680.0,,Humanities
+Real Estate,5.0,620.0,,Business
+Consulting,5.0,680.0,,Humanities
+Technology,4.0,660.0,,STEM
+Health Care,4.0,740.0,Admit,Humanities
+CPG,3.0,640.0,,STEM
+Technology,5.0,680.0,,Humanities
+Other,5.0,710.0,,Humanities
+Investment Banking,5.0,710.0,,Business
+PE/VC,3.0,600.0,,Humanities
+PE/VC,3.0,680.0,Admit,Business
+Consulting,4.0,580.0,,Business
+Other,6.0,640.0,,Humanities
+PE/VC,6.0,640.0,,STEM
+Technology,5.0,610.0,,STEM
+PE/VC,4.0,670.0,Admit,Business
+Nonprofit/Gov,3.0,620.0,,Humanities
+PE/VC,6.0,630.0,,Humanities
+Investment Banking,5.0,700.0,Waitlist,STEM
+Investment Banking,5.0,640.0,,Business
+Nonprofit/Gov,6.0,660.0,,STEM
+PE/VC,3.0,640.0,,Humanities
+Health Care,6.0,580.0,,STEM
+CPG,3.0,650.0,,Humanities
+Other,5.0,700.0,Admit,STEM
+PE/VC,5.0,620.0,,STEM
+Investment Banking,4.0,640.0,,Humanities
+Consulting,5.0,730.0,Admit,STEM
+Investment Banking,5.0,680.0,Admit,Business
+Consulting,5.0,670.0,,Humanities
+Consulting,4.0,780.0,Admit,Business
+PE/VC,4.0,630.0,,STEM
+Technology,6.0,630.0,,Humanities
+PE/VC,6.0,750.0,Admit,STEM
+Nonprofit/Gov,5.0,650.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,Humanities
+PE/VC,5.0,570.0,,Humanities
+Consulting,4.0,650.0,,Business
+PE/VC,5.0,570.0,,Humanities
+Financial Services,5.0,660.0,,STEM
+CPG,4.0,620.0,,Business
+PE/VC,6.0,650.0,,Business
+Technology,3.0,650.0,,Humanities
+Nonprofit/Gov,6.0,590.0,,STEM
+Real Estate,4.0,660.0,,Business
+Retail,4.0,630.0,,STEM
+Energy,6.0,660.0,,Humanities
+Financial Services,5.0,600.0,,Humanities
+Other,7.0,640.0,,Business
+Consulting,6.0,710.0,Admit,STEM
+Investment Banking,6.0,620.0,,Business
+Consulting,4.0,660.0,,STEM
+Real Estate,6.0,650.0,,Humanities
+Consulting,4.0,710.0,Admit,STEM
+Consulting,4.0,710.0,,Business
+Consulting,4.0,710.0,,Humanities
+PE/VC,4.0,680.0,,Business
+Technology,7.0,730.0,Admit,Humanities
+Technology,5.0,670.0,Admit,STEM
+Consulting,4.0,600.0,,Humanities
+Nonprofit/Gov,3.0,690.0,,Humanities
+Consulting,5.0,750.0,,Humanities
+Real Estate,5.0,620.0,,STEM
+Nonprofit/Gov,5.0,570.0,,STEM
+Health Care,4.0,670.0,,Humanities
+Health Care,4.0,780.0,,Business
+Investment Banking,5.0,620.0,,Humanities
+Consulting,5.0,640.0,,Business
+Technology,5.0,620.0,Admit,Humanities
+Investment Banking,6.0,730.0,Admit,Humanities
+Nonprofit/Gov,5.0,590.0,,Business
+Consulting,6.0,570.0,,Business
+Consulting,6.0,780.0,Admit,Humanities
+Health Care,5.0,570.0,,Business
+Other,6.0,620.0,,STEM
+Investment Management,8.0,760.0,,Business
+Nonprofit/Gov,7.0,690.0,,Humanities
+Investment Banking,5.0,660.0,Admit,STEM
+Technology,4.0,610.0,,Humanities
+Other,6.0,620.0,,Humanities
+Technology,6.0,640.0,,Business
+Nonprofit/Gov,5.0,730.0,Admit,Business
+Consulting,4.0,650.0,,STEM
+PE/VC,5.0,620.0,,STEM
+Other,6.0,570.0,,STEM
+Nonprofit/Gov,4.0,660.0,,STEM
+Financial Services,5.0,600.0,,STEM
+Real Estate,6.0,580.0,,Business
+Investment Banking,3.0,710.0,,Humanities
+Consulting,5.0,620.0,,STEM
+Consulting,5.0,720.0,,Humanities
+Other,6.0,730.0,Admit,Business
+Consulting,5.0,750.0,Admit,Business
+PE/VC,6.0,670.0,,Business
+Consulting,4.0,620.0,,Business
+Health Care,4.0,570.0,,Business
+Media/Entertainment,5.0,630.0,,Humanities
+Financial Services,4.0,610.0,,Business
+Technology,4.0,700.0,,STEM
+Health Care,5.0,600.0,,STEM
+Nonprofit/Gov,7.0,600.0,,Business
+Health Care,7.0,680.0,,Humanities
+Nonprofit/Gov,5.0,670.0,,Humanities
+Investment Banking,6.0,690.0,,Humanities
+Consulting,4.0,590.0,,Business
+Consulting,5.0,640.0,,STEM
+Investment Banking,6.0,630.0,Waitlist,STEM
+Nonprofit/Gov,4.0,650.0,,STEM
+Consulting,6.0,680.0,,Business
+PE/VC,6.0,660.0,,Humanities
+Technology,5.0,660.0,,Humanities
+Investment Management,5.0,660.0,,Business
+Financial Services,5.0,690.0,Admit,Humanities
+Consulting,5.0,680.0,,Business
+Financial Services,5.0,650.0,,Humanities
+Consulting,5.0,670.0,Admit,STEM
+Consulting,5.0,570.0,,Humanities
+Health Care,5.0,620.0,,Humanities
+Consulting,4.0,740.0,Admit,Business
+Consulting,6.0,690.0,,STEM
+Financial Services,6.0,660.0,,Business
+Health Care,5.0,570.0,,Business
+PE/VC,6.0,670.0,,STEM
+Financial Services,4.0,650.0,,STEM
+Consulting,5.0,660.0,,Business
+Financial Services,4.0,610.0,,Business
+PE/VC,5.0,680.0,,Business
+Technology,5.0,690.0,Admit,Humanities
+PE/VC,4.0,680.0,,STEM
+PE/VC,5.0,610.0,,Business
+Consulting,5.0,780.0,,Humanities
+Health Care,3.0,670.0,,Business
+Technology,5.0,700.0,,Humanities
+Consulting,4.0,680.0,Admit,STEM
+Consulting,4.0,650.0,,STEM
+Nonprofit/Gov,6.0,650.0,,STEM
+Consulting,4.0,710.0,,STEM
+Financial Services,6.0,700.0,,Business
+Other,5.0,580.0,,Humanities
+Financial Services,6.0,580.0,,Business
+Other,4.0,640.0,,STEM
+PE/VC,5.0,680.0,,Business
+PE/VC,6.0,620.0,,Humanities
+Consulting,5.0,760.0,Admit,Humanities
+Technology,3.0,600.0,Waitlist,Humanities
+Technology,5.0,570.0,,Business
+Technology,5.0,720.0,Admit,STEM
+Consulting,4.0,610.0,,Humanities
+Investment Banking,4.0,660.0,,Humanities
+Consulting,5.0,630.0,,Humanities
+PE/VC,5.0,630.0,,Humanities
+Consulting,6.0,640.0,,STEM
+Consulting,7.0,680.0,,STEM
+PE/VC,7.0,600.0,,Business
+Technology,4.0,700.0,Admit,STEM
+Consulting,4.0,670.0,,STEM
+CPG,6.0,630.0,,STEM
+Nonprofit/Gov,6.0,690.0,,STEM
+Consulting,9.0,640.0,,Humanities
+Technology,4.0,710.0,,Humanities
+Technology,5.0,640.0,,Humanities
+Investment Management,6.0,590.0,,STEM
+Other,5.0,640.0,,Humanities
+Consulting,5.0,700.0,,Humanities
+Consulting,4.0,670.0,,STEM
+Consulting,6.0,660.0,,Humanities
+PE/VC,6.0,570.0,,Humanities
+Consulting,6.0,610.0,,STEM
+Financial Services,5.0,680.0,Admit,Business
+Nonprofit/Gov,5.0,690.0,,Humanities
+Media/Entertainment,4.0,700.0,,Humanities
+Financial Services,5.0,600.0,,Business
+PE/VC,4.0,760.0,,Humanities
+Consulting,3.0,730.0,Admit,Humanities
+Other,4.0,610.0,,STEM
+Consulting,6.0,600.0,,Business
+Consulting,5.0,660.0,Admit,Humanities
+Financial Services,5.0,640.0,,Humanities
+Consulting,6.0,720.0,,STEM
+Technology,5.0,630.0,,Humanities
+Financial Services,4.0,690.0,,Humanities
+Technology,4.0,670.0,Admit,STEM
+Consulting,7.0,740.0,,Humanities
+Investment Banking,7.0,740.0,,STEM
+Consulting,6.0,700.0,Admit,Humanities
+Investment Banking,3.0,700.0,,Business
+Financial Services,5.0,670.0,Waitlist,STEM
+PE/VC,5.0,720.0,,Humanities
+Nonprofit/Gov,6.0,620.0,,Humanities
+Consulting,5.0,720.0,,STEM
+Technology,4.0,720.0,Admit,Business
+Financial Services,5.0,770.0,Admit,Humanities
+Nonprofit/Gov,5.0,720.0,,Humanities
+PE/VC,5.0,620.0,,Business
+Consulting,4.0,570.0,,Humanities
+Investment Banking,5.0,590.0,,Humanities
+Nonprofit/Gov,4.0,610.0,,Humanities
+Nonprofit/Gov,5.0,700.0,,Business
+PE/VC,4.0,630.0,Admit,Humanities
+Consulting,6.0,660.0,,STEM
+Technology,5.0,680.0,,Humanities
+Investment Banking,4.0,630.0,,Humanities
+Nonprofit/Gov,5.0,620.0,,Business
+Financial Services,5.0,710.0,,Humanities
+Nonprofit/Gov,6.0,620.0,,STEM
+PE/VC,7.0,600.0,,Business
+Financial Services,6.0,710.0,Admit,STEM
+Technology,6.0,670.0,,Humanities
+Technology,5.0,680.0,Waitlist,Humanities
+Consulting,5.0,680.0,,STEM
+Consulting,6.0,620.0,,STEM
+Consulting,4.0,710.0,,Business
+Investment Management,6.0,650.0,,STEM
+Health Care,4.0,730.0,,STEM
+Consulting,5.0,650.0,,STEM
+PE/VC,4.0,610.0,,Humanities
+Technology,6.0,610.0,,Humanities
+Investment Banking,3.0,640.0,,STEM
+Investment Banking,6.0,730.0,,Business
+Consulting,3.0,680.0,,Business
+Nonprofit/Gov,5.0,630.0,,STEM
+Real Estate,2.0,660.0,Admit,Humanities
+Nonprofit/Gov,5.0,680.0,Admit,Business
+Investment Banking,5.0,700.0,,Humanities
+Consulting,7.0,720.0,Admit,STEM
+CPG,4.0,670.0,,Business
+Investment Banking,5.0,610.0,,Humanities
+Nonprofit/Gov,6.0,630.0,,STEM
+Consulting,5.0,640.0,,STEM
+Financial Services,5.0,680.0,,STEM
+Nonprofit/Gov,4.0,590.0,,STEM
+CPG,5.0,640.0,,Humanities
+Technology,8.0,620.0,,STEM
+Health Care,6.0,630.0,,STEM
+Investment Banking,5.0,590.0,,Business
+Technology,3.0,610.0,,STEM
+Other,6.0,660.0,,Business
+Media/Entertainment,6.0,760.0,,Humanities
+Consulting,4.0,680.0,,Humanities
+PE/VC,4.0,630.0,,STEM
+Consulting,5.0,680.0,,STEM
+PE/VC,6.0,660.0,,Humanities
+Real Estate,4.0,670.0,Admit,STEM
+Nonprofit/Gov,6.0,690.0,Admit,STEM
+PE/VC,6.0,650.0,,STEM
+Investment Banking,6.0,680.0,Admit,Humanities
+Consulting,6.0,670.0,,Business
+Other,6.0,670.0,,Humanities
+Technology,5.0,620.0,,Humanities
+Technology,6.0,660.0,Admit,Business
+Technology,6.0,650.0,,Business
+Consulting,6.0,660.0,,Humanities
+Consulting,5.0,640.0,,Humanities
+Financial Services,6.0,660.0,,STEM
+Real Estate,6.0,570.0,,Business
+Consulting,3.0,640.0,,Humanities
+Other,5.0,570.0,,Humanities
+PE/VC,6.0,590.0,,Business
+Investment Management,7.0,750.0,Admit,Humanities
+Consulting,6.0,710.0,,Business
+Consulting,6.0,600.0,,Humanities
+Consulting,5.0,680.0,,STEM
+Investment Banking,6.0,760.0,,STEM
+Consulting,5.0,630.0,,Humanities
+Consulting,4.0,640.0,,Humanities
+Nonprofit/Gov,4.0,600.0,,Business
+Energy,5.0,640.0,,STEM
+Investment Banking,6.0,590.0,,STEM
+Other,5.0,720.0,,Business
+Investment Management,4.0,640.0,,Humanities
+PE/VC,5.0,700.0,,Humanities
+PE/VC,5.0,710.0,,STEM
+Financial Services,3.0,610.0,,Humanities
+Nonprofit/Gov,5.0,690.0,,Humanities
+Consulting,3.0,630.0,,Humanities
+Other,4.0,670.0,Admit,Business
+Nonprofit/Gov,6.0,570.0,,Humanities
+Consulting,6.0,650.0,,Humanities
+Consulting,6.0,660.0,,STEM
+CPG,4.0,570.0,,Business
+Consulting,5.0,570.0,,Business
+Other,6.0,720.0,,STEM
+Consulting,5.0,620.0,,Business
+Investment Banking,5.0,650.0,,Business
+Consulting,5.0,650.0,,Business
+Investment Management,5.0,710.0,,Humanities
+PE/VC,4.0,680.0,,Humanities
+PE/VC,5.0,580.0,,Business
+Health Care,3.0,710.0,,Humanities
+Consulting,7.0,650.0,,STEM
+Health Care,7.0,620.0,,STEM
+Consulting,5.0,670.0,,Humanities
+Investment Banking,5.0,710.0,,Humanities
+Other,4.0,660.0,,Humanities
+Consulting,6.0,730.0,,STEM
+Nonprofit/Gov,6.0,640.0,,Humanities
+Consulting,5.0,610.0,,Humanities
+Consulting,5.0,660.0,Admit,Humanities
+Other,4.0,780.0,Admit,Humanities
+Financial Services,2.0,700.0,,Business
+Health Care,5.0,680.0,,Business
+Technology,6.0,660.0,Admit,Business
+PE/VC,3.0,660.0,,STEM
+Health Care,7.0,700.0,,Business
+PE/VC,5.0,680.0,,STEM
+Consulting,4.0,680.0,,STEM
+Technology,5.0,600.0,,Business
+Technology,4.0,750.0,,Humanities
+Technology,8.0,590.0,,Humanities
+PE/VC,5.0,570.0,,Business
+Technology,6.0,570.0,,Humanities
+Consulting,6.0,680.0,,Humanities
+Consulting,5.0,670.0,,Humanities
+Health Care,5.0,690.0,,Humanities
+Consulting,4.0,710.0,,STEM
+Financial Services,6.0,570.0,,Humanities
+Investment Banking,5.0,610.0,,Humanities
+Investment Management,5.0,630.0,,Humanities
+Technology,6.0,670.0,,STEM
+Technology,7.0,670.0,Admit,Business
+PE/VC,5.0,620.0,,Humanities
+Technology,4.0,730.0,,Business
+Investment Banking,5.0,610.0,,STEM
+Nonprofit/Gov,4.0,630.0,,Humanities
+PE/VC,4.0,710.0,,Business
+Consulting,5.0,650.0,,Humanities
+PE/VC,4.0,600.0,,STEM
+Technology,5.0,570.0,,STEM
+Investment Management,5.0,600.0,,STEM
+Investment Banking,5.0,710.0,,STEM
+PE/VC,6.0,670.0,,Business
+Technology,6.0,670.0,,STEM
+Retail,5.0,720.0,,Humanities
+Technology,5.0,690.0,,STEM
+Health Care,4.0,610.0,,Business
+Real Estate,4.0,620.0,,STEM
+Investment Management,5.0,630.0,,STEM
+Nonprofit/Gov,5.0,620.0,,STEM
+CPG,5.0,630.0,,Humanities
+Investment Banking,4.0,620.0,,STEM
+Consulting,5.0,570.0,,Humanities
+Other,5.0,720.0,,STEM
+Technology,3.0,690.0,,Humanities
+Real Estate,5.0,640.0,,Business
+Investment Banking,5.0,630.0,,Business
+PE/VC,6.0,690.0,,STEM
+PE/VC,4.0,570.0,,Humanities
+Health Care,5.0,740.0,,Humanities
+PE/VC,5.0,680.0,Admit,Humanities
+Investment Banking,5.0,700.0,,STEM
+Nonprofit/Gov,5.0,670.0,,Humanities
+Financial Services,6.0,580.0,,Humanities
+PE/VC,4.0,570.0,,STEM
+CPG,5.0,710.0,Admit,Humanities
+Technology,4.0,610.0,,Humanities
+PE/VC,5.0,610.0,,Business
+Technology,7.0,740.0,,Humanities
+Investment Banking,4.0,630.0,,Humanities
+Consulting,6.0,670.0,,STEM
+Financial Services,5.0,570.0,,Business
+Consulting,5.0,640.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,STEM
+Technology,7.0,700.0,,Business
+Consulting,5.0,590.0,,Business
+PE/VC,4.0,640.0,,Humanities
+Technology,6.0,620.0,,Humanities
+PE/VC,6.0,600.0,,Humanities
+Financial Services,4.0,600.0,,Business
+Nonprofit/Gov,5.0,570.0,,Humanities
+Technology,6.0,700.0,Admit,Humanities
+Consulting,5.0,650.0,,Business
+Consulting,6.0,670.0,,STEM
+Financial Services,5.0,660.0,Admit,Humanities
+Consulting,6.0,760.0,,Business
+Other,6.0,720.0,,Humanities
+Investment Banking,5.0,580.0,,Business
+Consulting,6.0,740.0,Admit,Humanities
+Consulting,5.0,600.0,,Business
+Consulting,3.0,620.0,,STEM
+Consulting,6.0,580.0,,Humanities
+Investment Banking,5.0,570.0,,STEM
+Health Care,6.0,680.0,Waitlist,STEM
+Health Care,4.0,650.0,,Business
+PE/VC,3.0,680.0,,STEM
+Financial Services,5.0,670.0,Admit,Business
+Consulting,5.0,580.0,,Humanities
+Consulting,4.0,740.0,Waitlist,Humanities
+Consulting,6.0,760.0,,Humanities
+Investment Banking,5.0,690.0,,Humanities
+Investment Banking,5.0,680.0,,Business
+Real Estate,4.0,660.0,Admit,Business
+PE/VC,6.0,620.0,,Business
+Investment Banking,5.0,570.0,,Business
+Other,5.0,750.0,,Humanities
+Investment Banking,5.0,650.0,,STEM
+Consulting,6.0,740.0,,STEM
+Financial Services,5.0,630.0,,Humanities
+Nonprofit/Gov,6.0,630.0,,STEM
+Consulting,6.0,600.0,,STEM
+Other,5.0,620.0,,Humanities
+Technology,6.0,660.0,,Business
+PE/VC,7.0,680.0,Admit,STEM
+CPG,7.0,690.0,Admit,STEM
+Health Care,5.0,770.0,Admit,Business
+Other,5.0,590.0,,Humanities
+Nonprofit/Gov,6.0,630.0,,STEM
+Health Care,6.0,710.0,Admit,Humanities
+Other,5.0,680.0,Admit,STEM
+Nonprofit/Gov,5.0,730.0,,Business
+Consulting,5.0,670.0,,Humanities
+Investment Management,4.0,670.0,Admit,Humanities
+Consulting,7.0,660.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,Humanities
+Investment Management,6.0,620.0,,STEM
+PE/VC,5.0,730.0,,Humanities
+Financial Services,4.0,640.0,,Humanities
+PE/VC,4.0,570.0,,Humanities
+Nonprofit/Gov,5.0,670.0,,Humanities
+PE/VC,5.0,570.0,,Business
+PE/VC,4.0,680.0,,STEM
+Other,5.0,630.0,,STEM
+Consulting,5.0,640.0,,Business
+Nonprofit/Gov,5.0,620.0,,Business
+Consulting,6.0,630.0,,STEM
+Investment Management,3.0,620.0,,Humanities
+Investment Banking,5.0,600.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Real Estate,5.0,700.0,,Humanities
+PE/VC,5.0,600.0,,Business
+Consulting,5.0,710.0,,Business
+CPG,4.0,670.0,,STEM
+Technology,4.0,780.0,Waitlist,Business
+Health Care,6.0,710.0,,Business
+Nonprofit/Gov,6.0,690.0,,STEM
+Consulting,6.0,600.0,,Humanities
+Health Care,4.0,600.0,,Humanities
+Investment Banking,5.0,610.0,,STEM
+Consulting,6.0,720.0,Admit,Humanities
+Consulting,5.0,730.0,,Humanities
+Consulting,6.0,620.0,,Humanities
+Financial Services,6.0,640.0,,Humanities
+Other,3.0,570.0,,STEM
+Consulting,4.0,570.0,,Humanities
+Nonprofit/Gov,6.0,640.0,,Business
+PE/VC,4.0,710.0,,Humanities
+Investment Management,5.0,670.0,Admit,STEM
+Health Care,6.0,570.0,,Business
+PE/VC,5.0,570.0,,STEM
+Consulting,5.0,620.0,,Humanities
+Nonprofit/Gov,4.0,590.0,,Business
+Financial Services,5.0,600.0,,STEM
+Health Care,5.0,610.0,,Humanities
+PE/VC,6.0,640.0,,Business
+Health Care,5.0,670.0,,Humanities
+Other,4.0,730.0,,Humanities
+Media/Entertainment,6.0,620.0,,Business
+Other,4.0,630.0,,Business
+Investment Banking,6.0,570.0,,Humanities
+Consulting,6.0,600.0,,Business
+Consulting,3.0,680.0,,STEM
+Consulting,4.0,730.0,,STEM
+Investment Banking,5.0,600.0,,Business
+PE/VC,5.0,590.0,,Humanities
+Consulting,7.0,650.0,,Business
+Media/Entertainment,5.0,570.0,,Business
+Investment Banking,3.0,610.0,,STEM
+Consulting,6.0,720.0,Admit,Humanities
+Other,5.0,670.0,Admit,Humanities
+Investment Banking,4.0,660.0,,STEM
+PE/VC,4.0,650.0,,Humanities
+Financial Services,6.0,700.0,,Business
+Technology,6.0,590.0,,Business
+Technology,3.0,640.0,,Humanities
+Media/Entertainment,3.0,750.0,Admit,STEM
+Investment Banking,5.0,660.0,,STEM
+Real Estate,3.0,730.0,,STEM
+Consulting,5.0,630.0,,Humanities
+PE/VC,5.0,680.0,,STEM
+Nonprofit/Gov,7.0,610.0,,Humanities
+Consulting,4.0,700.0,Admit,Humanities
+Investment Management,6.0,570.0,,STEM
+Health Care,5.0,680.0,Admit,Business
+Technology,4.0,680.0,,STEM
+Consulting,4.0,580.0,,STEM
+Real Estate,5.0,670.0,,STEM
+Consulting,5.0,640.0,,Business
+Consulting,5.0,600.0,,Humanities
+Technology,3.0,760.0,,STEM
+Consulting,6.0,650.0,,Business
+CPG,6.0,660.0,,Humanities
+PE/VC,6.0,620.0,,Business
+PE/VC,3.0,710.0,,Humanities
+Technology,5.0,630.0,,Business
+Consulting,5.0,700.0,,Humanities
+Nonprofit/Gov,6.0,650.0,,Humanities
+PE/VC,6.0,650.0,,Business
+Investment Management,6.0,650.0,,Humanities
+CPG,4.0,620.0,,STEM
+Other,4.0,700.0,,STEM
+Health Care,4.0,660.0,Admit,Business
+Technology,4.0,580.0,,Business
+CPG,6.0,690.0,Admit,STEM
+Energy,5.0,660.0,,STEM
+Technology,5.0,730.0,Admit,Humanities
+Consulting,4.0,680.0,,STEM
+Health Care,3.0,570.0,,STEM
+Consulting,5.0,640.0,,Business
+Investment Banking,5.0,670.0,Admit,Humanities
+PE/VC,4.0,680.0,Admit,Business
+Investment Banking,5.0,600.0,,STEM
+Consulting,6.0,720.0,Admit,Business
+Financial Services,5.0,630.0,,STEM
+Consulting,4.0,580.0,,Humanities
+Consulting,6.0,620.0,,Business
+PE/VC,5.0,620.0,,Business
+Consulting,3.0,630.0,,STEM
+Technology,5.0,720.0,Admit,STEM
+Investment Banking,4.0,670.0,Admit,Humanities
+PE/VC,6.0,570.0,,Humanities
+Nonprofit/Gov,3.0,660.0,Waitlist,Humanities
+Technology,4.0,630.0,,Humanities
+Technology,5.0,730.0,,STEM
+Real Estate,4.0,700.0,,STEM
+Real Estate,6.0,620.0,,Business
+Consulting,5.0,680.0,,Humanities
+Other,6.0,640.0,,Humanities
+Consulting,6.0,720.0,,STEM
+PE/VC,6.0,640.0,,Business
+Investment Banking,5.0,630.0,,STEM
+Real Estate,6.0,650.0,,Business
+Investment Banking,4.0,620.0,,Humanities
+Nonprofit/Gov,6.0,600.0,,STEM
+Investment Banking,6.0,620.0,,STEM
+Other,7.0,640.0,,Business
+Consulting,7.0,650.0,,Business
+Investment Management,4.0,640.0,,STEM
+CPG,4.0,630.0,,Business
+Nonprofit/Gov,4.0,590.0,,STEM
+Investment Management,5.0,610.0,,Business
+Consulting,5.0,650.0,,STEM
+Investment Banking,5.0,580.0,Admit,Business
+Nonprofit/Gov,5.0,570.0,,STEM
+Other,5.0,640.0,,Humanities
+Technology,5.0,590.0,,Humanities
+Nonprofit/Gov,4.0,650.0,,Business
+Financial Services,7.0,620.0,,Humanities
+PE/VC,3.0,710.0,,Business
+Nonprofit/Gov,4.0,670.0,Admit,Humanities
+Technology,6.0,570.0,,Humanities
+PE/VC,5.0,570.0,,STEM
+Consulting,4.0,630.0,,STEM
+Consulting,5.0,620.0,,STEM
+Investment Management,8.0,680.0,,Humanities
+Investment Banking,5.0,660.0,Admit,Business
+Investment Management,5.0,580.0,,STEM
+PE/VC,5.0,680.0,,Humanities
+Investment Banking,6.0,620.0,,Humanities
+PE/VC,3.0,700.0,Admit,STEM
+Consulting,5.0,670.0,,Business
+Other,5.0,580.0,,STEM
+Consulting,4.0,670.0,,Humanities
+PE/VC,4.0,610.0,,Business
+Other,6.0,690.0,Admit,Humanities
+PE/VC,5.0,730.0,,Humanities
+Technology,7.0,680.0,Admit,STEM
+Other,6.0,630.0,,Humanities
+Financial Services,7.0,720.0,Admit,Humanities
+Consulting,6.0,690.0,,Humanities
+Health Care,7.0,620.0,,Business
+Nonprofit/Gov,3.0,570.0,,Humanities
+Health Care,5.0,670.0,,Humanities
+Technology,4.0,720.0,,Humanities
+Other,5.0,700.0,Admit,Business
+Consulting,5.0,680.0,,Humanities
+Consulting,4.0,670.0,,Business
+Technology,7.0,630.0,,Humanities
+Other,4.0,620.0,,Humanities
+Consulting,4.0,640.0,,Humanities
+Consulting,6.0,570.0,,STEM
+Consulting,7.0,700.0,Admit,Business
+Nonprofit/Gov,5.0,670.0,Admit,Business
+Health Care,4.0,680.0,Admit,STEM
+Financial Services,5.0,620.0,,STEM
+Consulting,5.0,640.0,,STEM
+Consulting,5.0,640.0,,STEM
+CPG,6.0,690.0,,Business
+Financial Services,4.0,660.0,,Business
+Consulting,5.0,670.0,,STEM
+Consulting,6.0,690.0,,Business
+Investment Banking,4.0,640.0,,Business
+Technology,5.0,630.0,,Business
+PE/VC,6.0,660.0,,Business
+PE/VC,5.0,600.0,,STEM
+Technology,5.0,700.0,Admit,STEM
+Financial Services,4.0,620.0,,Business
+Consulting,5.0,610.0,,STEM
+Technology,6.0,680.0,Admit,Humanities
+Consulting,6.0,700.0,Waitlist,Humanities
+Consulting,5.0,660.0,,Humanities
+Consulting,5.0,710.0,,Humanities
+Consulting,5.0,600.0,,STEM
+Nonprofit/Gov,6.0,720.0,Admit,Business
+Consulting,5.0,570.0,,STEM
+PE/VC,7.0,610.0,,Business
+Investment Banking,5.0,630.0,,Humanities
+Technology,3.0,630.0,,Humanities
+Other,6.0,650.0,,Humanities
+Consulting,7.0,740.0,,STEM
+Consulting,6.0,590.0,,STEM
+Other,6.0,620.0,,Humanities
+PE/VC,6.0,570.0,,Humanities
+Nonprofit/Gov,7.0,670.0,Waitlist,STEM
+Financial Services,4.0,600.0,,STEM
+Technology,5.0,570.0,,Business
+PE/VC,6.0,570.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+PE/VC,4.0,710.0,Admit,Business
+Nonprofit/Gov,4.0,770.0,Admit,STEM
+PE/VC,5.0,650.0,,STEM
+PE/VC,5.0,690.0,,STEM
+CPG,4.0,760.0,,Humanities
+Investment Banking,3.0,690.0,,STEM
+Health Care,4.0,690.0,,STEM
+Technology,6.0,630.0,,STEM
+Consulting,6.0,640.0,,Humanities
+Financial Services,6.0,630.0,,Humanities
+Investment Banking,4.0,690.0,,Humanities
+Investment Banking,4.0,620.0,,STEM
+Other,6.0,570.0,,Business
+Nonprofit/Gov,4.0,640.0,,STEM
+Technology,5.0,660.0,Admit,Business
+Financial Services,6.0,740.0,Admit,Humanities
+Investment Banking,5.0,660.0,,Business
+Investment Management,5.0,730.0,Admit,STEM
+Nonprofit/Gov,5.0,680.0,,STEM
+PE/VC,6.0,590.0,,Business
+PE/VC,5.0,740.0,,STEM
+Investment Management,6.0,720.0,,Humanities
+Nonprofit/Gov,6.0,660.0,,STEM
+PE/VC,5.0,570.0,,Business
+PE/VC,6.0,710.0,Admit,Humanities
+PE/VC,4.0,640.0,,Humanities
+Health Care,7.0,640.0,,Business
+Consulting,5.0,620.0,,Humanities
+Media/Entertainment,5.0,630.0,,Humanities
+CPG,5.0,610.0,,Humanities
+Consulting,3.0,660.0,,Business
+Investment Banking,4.0,750.0,,STEM
+Health Care,4.0,700.0,,Business
+Nonprofit/Gov,5.0,600.0,,Humanities
+Investment Banking,6.0,670.0,Admit,Humanities
+Health Care,4.0,570.0,,Humanities
+PE/VC,3.0,650.0,,STEM
+PE/VC,5.0,700.0,,STEM
+Consulting,5.0,650.0,,STEM
+Investment Banking,4.0,650.0,,STEM
+Consulting,7.0,670.0,Admit,Humanities
+Technology,6.0,580.0,,Humanities
+Investment Banking,8.0,640.0,,Business
+Consulting,6.0,720.0,,Humanities
+Real Estate,6.0,590.0,,Humanities
+Technology,5.0,640.0,,Business
+PE/VC,3.0,670.0,,STEM
+Consulting,4.0,590.0,Admit,Humanities
+Consulting,4.0,570.0,,Humanities
+Nonprofit/Gov,6.0,610.0,,STEM
+Nonprofit/Gov,6.0,680.0,Admit,Business
+Consulting,5.0,630.0,Admit,Humanities
+Consulting,5.0,610.0,,STEM
+Consulting,5.0,570.0,,STEM
+Nonprofit/Gov,5.0,620.0,,Business
+Health Care,5.0,640.0,,Humanities
+Consulting,6.0,630.0,Waitlist,Humanities
+Health Care,6.0,590.0,,STEM
+Consulting,6.0,700.0,,STEM
+Consulting,4.0,620.0,Admit,Business
+Technology,5.0,710.0,Admit,STEM
+Consulting,4.0,730.0,,STEM
+Technology,5.0,650.0,,STEM
+Nonprofit/Gov,4.0,670.0,Admit,Humanities
+Nonprofit/Gov,4.0,720.0,,Humanities
+Consulting,5.0,680.0,,Business
+Nonprofit/Gov,5.0,670.0,Waitlist,STEM
+Technology,5.0,670.0,,STEM
+PE/VC,5.0,570.0,,Business
+Consulting,5.0,680.0,,Humanities
+Health Care,5.0,660.0,,Business
+Consulting,5.0,640.0,,Business
+Technology,6.0,600.0,,Humanities
+Consulting,4.0,670.0,Waitlist,STEM
+Technology,5.0,670.0,,STEM
+CPG,5.0,630.0,,Humanities
+PE/VC,5.0,720.0,,Business
+Consulting,6.0,750.0,Admit,Business
+Health Care,5.0,670.0,,STEM
+Investment Management,3.0,670.0,Admit,Humanities
+Financial Services,5.0,640.0,,Humanities
+Consulting,5.0,590.0,Admit,Humanities
+PE/VC,3.0,640.0,Admit,Humanities
+Technology,6.0,670.0,Admit,Humanities
+Nonprofit/Gov,6.0,610.0,,STEM
+PE/VC,5.0,620.0,,Humanities
+Investment Banking,6.0,670.0,,Business
+PE/VC,6.0,630.0,,Humanities
+Technology,5.0,680.0,,STEM
+Nonprofit/Gov,6.0,600.0,,Business
+Nonprofit/Gov,4.0,700.0,Admit,Business
+Health Care,3.0,690.0,,Humanities
+CPG,6.0,640.0,,STEM
+Consulting,1.0,710.0,Admit,Humanities
+Consulting,5.0,580.0,,Humanities
+Other,4.0,640.0,,Humanities
+Consulting,4.0,590.0,,Humanities
+Investment Banking,5.0,780.0,,Business
+PE/VC,6.0,640.0,,STEM
+PE/VC,7.0,630.0,,Humanities
+Technology,4.0,640.0,,Business
+Technology,5.0,640.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Other,6.0,750.0,,STEM
+Consulting,6.0,730.0,,STEM
+PE/VC,4.0,670.0,,STEM
+Consulting,4.0,580.0,,Humanities
+Media/Entertainment,5.0,580.0,,STEM
+Technology,5.0,570.0,,Humanities
+Consulting,4.0,610.0,,Business
+PE/VC,5.0,650.0,,STEM
+Nonprofit/Gov,4.0,580.0,,Humanities
+Nonprofit/Gov,5.0,650.0,,Humanities
+PE/VC,5.0,640.0,,STEM
+Technology,3.0,660.0,,Business
+Consulting,4.0,580.0,,Humanities
+Investment Banking,6.0,570.0,,STEM
+Nonprofit/Gov,5.0,610.0,,STEM
+Technology,6.0,670.0,,Humanities
+Health Care,6.0,660.0,Admit,STEM
+Investment Banking,5.0,670.0,Admit,Business
+Technology,5.0,630.0,,Humanities
+Nonprofit/Gov,5.0,690.0,,STEM
+Other,7.0,600.0,,Humanities
+Technology,5.0,600.0,,Humanities
+PE/VC,4.0,680.0,,STEM
+Nonprofit/Gov,5.0,570.0,,Humanities
+Nonprofit/Gov,6.0,720.0,,Humanities
+Consulting,5.0,640.0,,Business
+Financial Services,3.0,670.0,,Humanities
+PE/VC,4.0,690.0,Admit,STEM
+PE/VC,5.0,630.0,,Business
+Consulting,4.0,660.0,,Humanities
+PE/VC,3.0,660.0,,Humanities
+PE/VC,5.0,630.0,,Business
+Real Estate,4.0,710.0,,Business
+Investment Banking,5.0,670.0,,Humanities
+Financial Services,7.0,680.0,,Business
+Technology,5.0,780.0,Admit,Business
+PE/VC,4.0,700.0,Admit,STEM
+PE/VC,6.0,570.0,,Humanities
+Consulting,3.0,590.0,,Business
+Real Estate,5.0,670.0,,Humanities
+Other,4.0,750.0,Admit,Humanities
+Financial Services,6.0,580.0,,STEM
+Consulting,4.0,610.0,,Business
+Financial Services,4.0,650.0,,Business
+Technology,5.0,670.0,,Humanities
+Consulting,8.0,580.0,,STEM
+Consulting,4.0,670.0,Admit,STEM
+Investment Banking,6.0,660.0,,STEM
+Investment Management,6.0,730.0,,Business
+Investment Banking,5.0,590.0,,Business
+PE/VC,6.0,660.0,,Humanities
+Consulting,5.0,670.0,,Humanities
+Consulting,4.0,670.0,,Business
+Consulting,5.0,600.0,,Business
+PE/VC,5.0,600.0,,Humanities
+Nonprofit/Gov,7.0,580.0,,Business
+PE/VC,4.0,610.0,,Humanities
+Investment Banking,5.0,610.0,,STEM
+Health Care,5.0,610.0,,Business
+Consulting,6.0,780.0,,Business
+Investment Banking,6.0,700.0,,Humanities
+Retail,5.0,600.0,,Humanities
+Technology,4.0,600.0,,Humanities
+Investment Banking,4.0,720.0,,Business
+Health Care,5.0,780.0,,Business
+Health Care,5.0,650.0,,STEM
+Investment Banking,5.0,660.0,,Business
+Consulting,7.0,620.0,,STEM
+PE/VC,4.0,660.0,,STEM
+Technology,6.0,700.0,,Business
+Media/Entertainment,5.0,610.0,,Humanities
+Real Estate,5.0,620.0,,STEM
+Media/Entertainment,5.0,710.0,,Humanities
+Nonprofit/Gov,4.0,630.0,,STEM
+Consulting,5.0,620.0,,Humanities
+Technology,4.0,670.0,,Humanities
+CPG,3.0,630.0,,Humanities
+Other,4.0,580.0,,STEM
+Consulting,5.0,610.0,,Humanities
+Technology,3.0,650.0,,Business
+Consulting,6.0,670.0,,STEM
+Real Estate,6.0,670.0,Admit,Humanities
+PE/VC,6.0,660.0,,Humanities
+Technology,5.0,680.0,,STEM
+Nonprofit/Gov,5.0,680.0,,Business
+Nonprofit/Gov,7.0,730.0,,STEM
+Other,6.0,680.0,,Humanities
+Investment Banking,5.0,570.0,,STEM
+Nonprofit/Gov,6.0,620.0,,Business
+Technology,5.0,760.0,,STEM
+Other,6.0,690.0,,Humanities
+Technology,6.0,640.0,,STEM
+Consulting,4.0,620.0,,Humanities
+Technology,6.0,660.0,,Business
+Financial Services,5.0,620.0,,Humanities
+Consulting,5.0,640.0,,Humanities
+Nonprofit/Gov,5.0,590.0,,Business
+PE/VC,7.0,600.0,,STEM
+PE/VC,6.0,600.0,,Humanities
+Investment Banking,6.0,650.0,,STEM
+CPG,4.0,580.0,,Business
+PE/VC,6.0,600.0,,STEM
+Consulting,5.0,570.0,,STEM
+PE/VC,5.0,590.0,,STEM
+Consulting,5.0,730.0,,Business
+Health Care,6.0,660.0,,Business
+Other,6.0,570.0,,STEM
+Technology,5.0,780.0,Admit,Business
+Consulting,5.0,620.0,,Business
+Health Care,6.0,660.0,,Humanities
+Technology,5.0,640.0,,STEM
+Investment Banking,5.0,640.0,,Business
+Health Care,5.0,660.0,,Humanities
+Health Care,7.0,650.0,,STEM
+Nonprofit/Gov,5.0,610.0,,Humanities
+PE/VC,6.0,590.0,,Humanities
+Technology,4.0,670.0,,Humanities
+Financial Services,6.0,720.0,,Business
+Technology,5.0,730.0,Admit,Humanities
+Investment Banking,6.0,690.0,,Humanities
+Consulting,7.0,590.0,,STEM
+Consulting,7.0,590.0,,Humanities
+PE/VC,1.0,620.0,,Humanities
+Financial Services,5.0,650.0,,Business
+Other,3.0,640.0,,Humanities
+Investment Banking,3.0,630.0,,Humanities
+PE/VC,6.0,610.0,,Humanities
+Other,6.0,620.0,,Business
+Health Care,6.0,760.0,,STEM
+Consulting,5.0,580.0,,Business
+Investment Banking,4.0,580.0,,STEM
+Consulting,5.0,660.0,,Humanities
+Financial Services,5.0,590.0,,Business
+Consulting,4.0,750.0,Admit,Humanities
+Technology,4.0,680.0,Admit,Business
+Investment Banking,5.0,710.0,Waitlist,Humanities
+Investment Banking,5.0,620.0,,Humanities
+Financial Services,6.0,620.0,,Business
+Technology,5.0,700.0,Admit,Business
+PE/VC,5.0,580.0,,Business
+Consulting,4.0,600.0,,Humanities
+Investment Banking,6.0,600.0,,Business
+Financial Services,6.0,670.0,Admit,Humanities
+Investment Management,5.0,680.0,Admit,STEM
+Consulting,5.0,690.0,,Humanities
+Other,4.0,600.0,,STEM
+PE/VC,4.0,640.0,,Business
+Consulting,5.0,620.0,,Business
+PE/VC,6.0,590.0,,STEM
+Consulting,4.0,610.0,,STEM
+PE/VC,5.0,620.0,,Humanities
+Financial Services,5.0,670.0,,Humanities
+Investment Banking,7.0,720.0,,Humanities
+Other,4.0,660.0,,Humanities
+PE/VC,5.0,700.0,,STEM
+Consulting,5.0,640.0,,Business
+Consulting,6.0,620.0,,Business
+Nonprofit/Gov,5.0,620.0,,Humanities
+Financial Services,3.0,590.0,,Humanities
+Investment Banking,5.0,630.0,,Humanities
+PE/VC,6.0,720.0,,Humanities
+Investment Management,5.0,630.0,,Humanities
+Consulting,6.0,670.0,,STEM
+Real Estate,7.0,680.0,,Business
+CPG,5.0,610.0,,Business
+Health Care,5.0,690.0,Admit,Humanities
+Consulting,6.0,680.0,,Business
+PE/VC,6.0,570.0,,Business
+Consulting,4.0,650.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,Business
+Consulting,6.0,680.0,,STEM
+Consulting,4.0,640.0,,Business
+PE/VC,6.0,680.0,,STEM
+Technology,6.0,730.0,Admit,STEM
+Nonprofit/Gov,6.0,610.0,,STEM
+Nonprofit/Gov,6.0,710.0,,STEM
+Consulting,5.0,640.0,,Humanities
+Consulting,6.0,680.0,,Business
+Consulting,4.0,570.0,,Business
+Investment Banking,7.0,690.0,Admit,Business
+Technology,4.0,640.0,,Humanities
+Health Care,5.0,630.0,,Business
+Financial Services,6.0,740.0,,Business
+Other,7.0,570.0,,Humanities
+Real Estate,5.0,650.0,,Business
+PE/VC,5.0,610.0,,Business
+Nonprofit/Gov,6.0,640.0,,Business
+Technology,6.0,620.0,,Humanities
+Investment Management,7.0,770.0,,STEM
+PE/VC,7.0,580.0,,Humanities
+Technology,4.0,660.0,,Humanities
+Other,8.0,580.0,,Humanities
+CPG,4.0,650.0,,Business
+Media/Entertainment,5.0,730.0,,Humanities
+Financial Services,4.0,660.0,,Humanities
+CPG,7.0,680.0,,Humanities
+Investment Banking,7.0,670.0,Admit,STEM
+Consulting,6.0,680.0,,Business
+Nonprofit/Gov,6.0,590.0,,Business
+Technology,6.0,720.0,,STEM
+Investment Banking,5.0,630.0,Admit,Business
+Consulting,5.0,630.0,,Business
+Nonprofit/Gov,5.0,620.0,,Business
+Consulting,6.0,620.0,,Business
+PE/VC,7.0,570.0,,Business
+Financial Services,4.0,690.0,,Humanities
+Investment Banking,4.0,610.0,,STEM
+Consulting,6.0,680.0,,Business
+PE/VC,5.0,630.0,,Humanities
+PE/VC,5.0,710.0,,Business
+Consulting,5.0,660.0,Admit,Humanities
+Investment Banking,6.0,670.0,,Business
+PE/VC,5.0,670.0,,STEM
+Investment Banking,5.0,620.0,,Business
+Health Care,6.0,600.0,,Humanities
+Other,4.0,670.0,Admit,Humanities
+PE/VC,6.0,700.0,,Humanities
+Technology,7.0,610.0,,Business
+Media/Entertainment,4.0,600.0,,STEM
+Investment Banking,6.0,670.0,,Humanities
+Financial Services,5.0,570.0,,Humanities
+Nonprofit/Gov,5.0,610.0,,Business
+Financial Services,5.0,660.0,,STEM
+Investment Banking,6.0,640.0,,STEM
+Technology,2.0,590.0,,STEM
+Health Care,5.0,770.0,,Humanities
+Consulting,5.0,700.0,,Business
+Consulting,7.0,710.0,,STEM
+Other,6.0,630.0,,STEM
+Investment Banking,6.0,670.0,,STEM
+Financial Services,5.0,770.0,,Business
+Health Care,6.0,740.0,Admit,Humanities
+Consulting,5.0,620.0,,STEM
+Technology,5.0,620.0,,Humanities
+Consulting,5.0,780.0,Admit,Humanities
+Financial Services,3.0,630.0,,Business
+Consulting,5.0,620.0,,Business
+PE/VC,6.0,630.0,,Business
+Technology,6.0,650.0,,Humanities
+Real Estate,4.0,580.0,,Business
+Other,4.0,570.0,,Humanities
+Investment Banking,7.0,630.0,,Business
+Financial Services,5.0,610.0,,Humanities
+Technology,5.0,670.0,,Business
+Consulting,6.0,610.0,,STEM
+Nonprofit/Gov,5.0,650.0,,Humanities
+Consulting,7.0,690.0,Admit,Humanities
+Health Care,5.0,660.0,,STEM
+Nonprofit/Gov,6.0,690.0,,STEM
+PE/VC,5.0,670.0,,Humanities
+Real Estate,7.0,690.0,,Humanities
+Investment Banking,4.0,690.0,,STEM
+Real Estate,6.0,590.0,,Humanities
+Consulting,5.0,620.0,,STEM
+Consulting,5.0,570.0,,Business
+Consulting,5.0,680.0,,STEM
+Investment Banking,5.0,670.0,,STEM
+Technology,6.0,630.0,,STEM
+Consulting,4.0,580.0,,STEM
+Technology,5.0,650.0,,Humanities
+Financial Services,5.0,710.0,Admit,STEM
+Consulting,5.0,580.0,,STEM
+Other,5.0,690.0,Admit,STEM
+Technology,4.0,710.0,Admit,Humanities
+Nonprofit/Gov,4.0,720.0,Admit,Humanities
+PE/VC,4.0,690.0,,STEM
+Other,6.0,660.0,,Humanities
+Financial Services,5.0,740.0,,STEM
+Consulting,7.0,620.0,,STEM
+Consulting,5.0,580.0,,Business
+Technology,4.0,710.0,,Humanities
+Consulting,5.0,570.0,,Business
+PE/VC,6.0,600.0,,Humanities
+Consulting,6.0,670.0,,Business
+Consulting,5.0,650.0,,STEM
+Financial Services,4.0,680.0,,Business
+PE/VC,6.0,640.0,Waitlist,Humanities
+Nonprofit/Gov,5.0,730.0,,Humanities
+PE/VC,5.0,670.0,,Humanities
+Investment Management,6.0,610.0,,Humanities
+Investment Banking,6.0,670.0,,Business
+PE/VC,4.0,620.0,,STEM
+Technology,4.0,660.0,,Business
+Nonprofit/Gov,5.0,670.0,,Humanities
+PE/VC,4.0,650.0,,STEM
+Consulting,3.0,640.0,,Business
+Nonprofit/Gov,4.0,700.0,,Humanities
+PE/VC,6.0,570.0,,STEM
+Technology,5.0,770.0,Admit,Humanities
+Technology,5.0,600.0,,Humanities
+Investment Management,6.0,570.0,,STEM
+Investment Banking,5.0,630.0,,STEM
+Financial Services,5.0,640.0,,STEM
+PE/VC,5.0,610.0,,Business
+Real Estate,6.0,710.0,Admit,Humanities
+Investment Banking,4.0,610.0,,Humanities
+Investment Banking,5.0,660.0,,STEM
+Financial Services,5.0,580.0,,STEM
+Health Care,6.0,630.0,,Humanities
+Consulting,5.0,680.0,,Humanities
+Other,4.0,710.0,,STEM
+Technology,4.0,610.0,,STEM
+Investment Banking,6.0,630.0,,STEM
+Consulting,6.0,670.0,,Humanities
+Other,5.0,680.0,,Humanities
+Consulting,4.0,600.0,,Humanities
+Consulting,5.0,690.0,,Humanities
+Health Care,6.0,670.0,,Business
+PE/VC,6.0,670.0,,Humanities
+Technology,6.0,670.0,Admit,Business
+Investment Banking,3.0,590.0,,STEM
+Consulting,5.0,650.0,,Humanities
+Other,5.0,610.0,Admit,STEM
+Nonprofit/Gov,4.0,620.0,,Business
+Other,5.0,750.0,,STEM
+Technology,6.0,610.0,,Business
+Consulting,6.0,610.0,,Business
+Consulting,5.0,700.0,Admit,STEM
+PE/VC,6.0,640.0,,STEM
+Consulting,5.0,640.0,,Humanities
+Consulting,5.0,650.0,,Business
+Financial Services,4.0,590.0,,STEM
+Nonprofit/Gov,6.0,640.0,,STEM
+Technology,6.0,650.0,,Business
+Other,5.0,600.0,,Humanities
+PE/VC,6.0,710.0,Admit,Humanities
+Consulting,4.0,640.0,,Humanities
+Technology,7.0,610.0,,STEM
+Consulting,7.0,630.0,,Business
+PE/VC,6.0,730.0,Admit,STEM
+Consulting,6.0,660.0,Admit,STEM
+Consulting,4.0,680.0,,STEM
+Technology,7.0,660.0,,STEM
+Technology,5.0,630.0,,Business
+Consulting,5.0,660.0,Admit,STEM
+Consulting,3.0,590.0,,STEM
+Nonprofit/Gov,6.0,620.0,,Humanities
+Investment Banking,7.0,650.0,,Humanities
+Investment Banking,6.0,700.0,,Humanities
+Investment Management,5.0,650.0,,Humanities
+Technology,5.0,730.0,,STEM
+Financial Services,4.0,690.0,,STEM
+Nonprofit/Gov,6.0,570.0,,STEM
+PE/VC,4.0,640.0,,STEM
+Financial Services,3.0,630.0,,Business
+Nonprofit/Gov,4.0,660.0,,Business
+Consulting,3.0,570.0,,Humanities
+PE/VC,5.0,780.0,Waitlist,STEM
+Consulting,5.0,590.0,,STEM
+Consulting,5.0,620.0,,STEM
+Consulting,5.0,630.0,,Humanities
+Nonprofit/Gov,2.0,590.0,,Business
+Consulting,7.0,690.0,Admit,Humanities
+PE/VC,6.0,670.0,Admit,STEM
+Consulting,5.0,610.0,,Humanities
+Investment Banking,6.0,680.0,Admit,Humanities
+Health Care,5.0,570.0,,Humanities
+CPG,7.0,590.0,,Humanities
+PE/VC,5.0,630.0,,Business
+Investment Banking,5.0,690.0,Admit,STEM
+PE/VC,6.0,570.0,,Humanities
+Nonprofit/Gov,6.0,670.0,,STEM
+Financial Services,4.0,630.0,,Business
+Investment Banking,4.0,600.0,,Humanities
+Consulting,6.0,750.0,,STEM
+Financial Services,6.0,610.0,,Humanities
+Technology,5.0,570.0,,Humanities
+Consulting,4.0,710.0,,Business
+PE/VC,4.0,670.0,,Humanities
+Investment Management,6.0,700.0,,Humanities
+Nonprofit/Gov,7.0,660.0,,Humanities
+Consulting,5.0,580.0,,Humanities
+Investment Management,5.0,580.0,,Humanities
+Technology,5.0,660.0,,STEM
+PE/VC,5.0,590.0,,Humanities
+PE/VC,4.0,580.0,,Humanities
+Consulting,6.0,710.0,,Humanities
+PE/VC,4.0,650.0,,Business
+Consulting,5.0,640.0,,Business
+Investment Banking,5.0,690.0,,Business
+Consulting,5.0,640.0,,Business
+Nonprofit/Gov,4.0,620.0,,Business
+Investment Banking,4.0,590.0,,Humanities
+Nonprofit/Gov,5.0,580.0,,STEM
+Nonprofit/Gov,4.0,630.0,,Humanities
+Nonprofit/Gov,6.0,720.0,Admit,STEM
+Consulting,4.0,620.0,,STEM
+Consulting,5.0,640.0,,Business
+Financial Services,5.0,730.0,,STEM
+Other,5.0,740.0,,Business
+Investment Banking,5.0,660.0,,Humanities
+Consulting,5.0,630.0,,Business
+PE/VC,7.0,610.0,,STEM
+Nonprofit/Gov,3.0,620.0,,Business
+Investment Banking,5.0,680.0,,Humanities
+Health Care,5.0,750.0,Admit,Business
+Consulting,4.0,620.0,,Humanities
+PE/VC,7.0,570.0,,Humanities
+Technology,6.0,650.0,,Humanities
+PE/VC,6.0,650.0,,STEM
+Technology,5.0,680.0,,Humanities
+Technology,6.0,570.0,,STEM
+Technology,5.0,710.0,Admit,Humanities
+Technology,7.0,610.0,,Humanities
+Nonprofit/Gov,4.0,690.0,Admit,Business
+Technology,5.0,650.0,,Humanities
+Consulting,5.0,670.0,Admit,Business
+PE/VC,5.0,670.0,,Humanities
+Investment Banking,6.0,600.0,,Humanities
+Consulting,4.0,630.0,,STEM
+Consulting,5.0,630.0,,Humanities
+Technology,5.0,700.0,,Humanities
+PE/VC,4.0,590.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,STEM
+PE/VC,3.0,580.0,,Business
+Consulting,4.0,680.0,,Humanities
+Consulting,7.0,680.0,,Business
+Consulting,4.0,710.0,,Humanities
+Financial Services,8.0,670.0,,STEM
+Nonprofit/Gov,5.0,600.0,,Business
+Nonprofit/Gov,5.0,690.0,,Humanities
+Consulting,6.0,690.0,Admit,Humanities
+Consulting,5.0,630.0,,STEM
+Consulting,5.0,660.0,,STEM
+Consulting,5.0,630.0,,Business
+Financial Services,6.0,710.0,,Business
+Consulting,5.0,670.0,Admit,Humanities
+Investment Management,6.0,670.0,,STEM
+Other,5.0,740.0,Admit,Humanities
+PE/VC,5.0,640.0,,Business
+PE/VC,6.0,660.0,,Business
+Consulting,6.0,640.0,,Business
+Health Care,5.0,570.0,,Humanities
+Investment Management,7.0,710.0,,Business
+PE/VC,4.0,610.0,Admit,Business
+Financial Services,6.0,740.0,,Business
+Health Care,3.0,670.0,,STEM
+Consulting,3.0,640.0,,Humanities
+Investment Management,4.0,730.0,,Humanities
+Other,6.0,630.0,,STEM
+Technology,5.0,630.0,,STEM
+Investment Banking,5.0,620.0,,Business
+Consulting,6.0,640.0,,Business
+Consulting,5.0,700.0,,STEM
+PE/VC,7.0,690.0,,STEM
+Media/Entertainment,5.0,600.0,,STEM
+Consulting,7.0,780.0,,Business
+Technology,6.0,620.0,,STEM
+PE/VC,4.0,670.0,,Business
+Other,5.0,640.0,,Business
+Consulting,5.0,700.0,Admit,Business
+Consulting,3.0,670.0,,Humanities
+Consulting,5.0,700.0,,Humanities
+Investment Banking,3.0,620.0,,Business
+Consulting,4.0,710.0,Admit,Humanities
+Financial Services,7.0,640.0,,STEM
+Consulting,4.0,580.0,,Humanities
+Financial Services,4.0,680.0,,Humanities
+Other,5.0,590.0,,STEM
+Investment Banking,6.0,670.0,Admit,Business
+Health Care,6.0,620.0,Waitlist,Humanities
+Nonprofit/Gov,6.0,680.0,Admit,Humanities
+Investment Banking,5.0,660.0,,STEM
+Other,5.0,670.0,Admit,STEM
+Consulting,5.0,660.0,,Humanities
+PE/VC,3.0,710.0,,STEM
+Consulting,4.0,630.0,,Humanities
+Other,5.0,780.0,,Business
+Health Care,8.0,670.0,,STEM
+Technology,5.0,610.0,,Humanities
+Consulting,6.0,780.0,,Business
+Nonprofit/Gov,6.0,590.0,,Business
+PE/VC,7.0,660.0,,STEM
+PE/VC,6.0,680.0,,STEM
+Nonprofit/Gov,6.0,590.0,Admit,STEM
+PE/VC,4.0,570.0,,Business
+Nonprofit/Gov,5.0,690.0,,STEM
+Consulting,5.0,590.0,,STEM
+Real Estate,5.0,650.0,,STEM
+Nonprofit/Gov,5.0,660.0,,Business
+Other,5.0,650.0,,Humanities
+Technology,5.0,670.0,Admit,STEM
+Technology,5.0,590.0,,Humanities
+Investment Banking,4.0,640.0,,Humanities
+Consulting,3.0,640.0,,Business
+Investment Banking,5.0,650.0,,Business
+PE/VC,6.0,570.0,,Humanities
+Consulting,6.0,670.0,,Business
+Consulting,5.0,660.0,,Business
+Technology,6.0,690.0,Admit,Humanities
+Consulting,5.0,720.0,,STEM
+Financial Services,4.0,660.0,Admit,STEM
+CPG,8.0,680.0,,Humanities
+PE/VC,6.0,680.0,,Business
+Consulting,5.0,690.0,Admit,STEM
+Technology,6.0,610.0,,STEM
+Nonprofit/Gov,4.0,750.0,,Business
+Technology,7.0,570.0,,Humanities
+Health Care,6.0,650.0,,Humanities
+Financial Services,5.0,710.0,Admit,Business
+Consulting,6.0,620.0,,Business
+Consulting,5.0,650.0,,Humanities
+Investment Banking,5.0,630.0,,Humanities
+Consulting,3.0,600.0,,Humanities
+Nonprofit/Gov,6.0,680.0,,STEM
+Technology,5.0,600.0,,Humanities
+Consulting,3.0,650.0,,Business
+Consulting,5.0,630.0,,STEM
+Consulting,4.0,690.0,Waitlist,Humanities
+Investment Banking,5.0,750.0,,Business
+PE/VC,5.0,620.0,,STEM
+Financial Services,4.0,660.0,,Humanities
+Technology,5.0,570.0,,Business
+Other,5.0,670.0,,Humanities
+Consulting,5.0,700.0,Waitlist,STEM
+Nonprofit/Gov,5.0,590.0,,Business
+Nonprofit/Gov,5.0,630.0,,STEM
+Nonprofit/Gov,5.0,610.0,,STEM
+Financial Services,8.0,650.0,,Humanities
+Health Care,6.0,700.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Consulting,5.0,680.0,,Business
+Consulting,5.0,640.0,,Humanities
+Nonprofit/Gov,5.0,720.0,,Humanities
+Health Care,4.0,700.0,,STEM
+Technology,5.0,720.0,Admit,Humanities
+Consulting,7.0,690.0,,Humanities
+Consulting,5.0,690.0,,Business
+Other,6.0,570.0,,Humanities
+Financial Services,4.0,650.0,,STEM
+Media/Entertainment,4.0,630.0,,Humanities
+Other,5.0,630.0,,Business
+Nonprofit/Gov,4.0,570.0,,STEM
+Other,6.0,590.0,,STEM
+Health Care,4.0,680.0,Admit,STEM
+Technology,6.0,610.0,,STEM
+CPG,5.0,610.0,,Business
+Technology,7.0,610.0,,STEM
+PE/VC,4.0,610.0,,Business
+Nonprofit/Gov,6.0,660.0,,Humanities
+Consulting,4.0,610.0,,Business
+Investment Management,3.0,640.0,,Humanities
+Consulting,6.0,640.0,,Humanities
+Consulting,6.0,580.0,,Business
+Health Care,4.0,640.0,,Business
+Consulting,5.0,730.0,Admit,Humanities
+Consulting,5.0,630.0,,Business
+Real Estate,6.0,620.0,,Business
+Consulting,6.0,730.0,Admit,STEM
+Investment Banking,4.0,710.0,,Business
+Other,5.0,590.0,,Humanities
+Consulting,3.0,720.0,,Humanities
+Nonprofit/Gov,5.0,680.0,,STEM
+Other,5.0,690.0,Admit,Humanities
+Consulting,5.0,610.0,,Business
+PE/VC,5.0,610.0,,Business
+Technology,5.0,740.0,,Humanities
+Technology,6.0,700.0,Admit,Business
+Nonprofit/Gov,6.0,660.0,,Business
+Nonprofit/Gov,5.0,570.0,,Humanities
+PE/VC,4.0,680.0,Admit,Business
+Financial Services,5.0,710.0,,Business
+Investment Banking,7.0,650.0,,STEM
+Financial Services,3.0,600.0,,Humanities
+Investment Banking,5.0,600.0,,Humanities
+Financial Services,3.0,630.0,,Business
+Health Care,6.0,620.0,,STEM
+Consulting,6.0,740.0,Waitlist,Business
+Nonprofit/Gov,4.0,690.0,Admit,Business
+Consulting,5.0,660.0,Admit,Business
+Consulting,6.0,630.0,,Humanities
+Investment Management,6.0,660.0,,Humanities
+Consulting,6.0,680.0,Admit,Humanities
+PE/VC,5.0,650.0,,STEM
+PE/VC,5.0,630.0,,Humanities
+PE/VC,5.0,700.0,,STEM
+Health Care,6.0,780.0,,STEM
+Consulting,4.0,760.0,,Humanities
+Consulting,6.0,710.0,,Humanities
+Nonprofit/Gov,6.0,620.0,,Business
+Financial Services,6.0,600.0,,Business
+Other,4.0,650.0,,Humanities
+Nonprofit/Gov,5.0,670.0,,STEM
+Investment Management,4.0,650.0,,Business
+Nonprofit/Gov,4.0,710.0,,Business
+Consulting,4.0,640.0,,Business
+PE/VC,5.0,650.0,,STEM
+Consulting,6.0,590.0,,STEM
+Investment Banking,4.0,640.0,,Humanities
+Consulting,4.0,720.0,Admit,Humanities
+PE/VC,3.0,680.0,,Business
+Investment Banking,4.0,650.0,,Humanities
+PE/VC,4.0,670.0,,Humanities
+Technology,5.0,640.0,,Business
+Consulting,5.0,660.0,Waitlist,STEM
+Investment Banking,4.0,660.0,,STEM
+PE/VC,5.0,660.0,,Humanities
+Consulting,6.0,660.0,,STEM
+Investment Banking,6.0,610.0,,Humanities
+Other,6.0,620.0,,Humanities
+Consulting,4.0,600.0,,Humanities
+Investment Banking,5.0,570.0,,STEM
+Nonprofit/Gov,4.0,690.0,,Humanities
+Health Care,5.0,680.0,,Humanities
+Other,4.0,660.0,,Business
+PE/VC,6.0,640.0,,Business
+PE/VC,5.0,700.0,,STEM
+Nonprofit/Gov,8.0,590.0,,Humanities
+PE/VC,6.0,580.0,,Humanities
+Investment Banking,5.0,590.0,,Business
+Nonprofit/Gov,6.0,600.0,,STEM
+Technology,6.0,620.0,,STEM
+PE/VC,5.0,620.0,,Humanities
+Technology,4.0,590.0,,Business
+PE/VC,4.0,700.0,,Humanities
+Other,4.0,620.0,,Business
+Nonprofit/Gov,6.0,700.0,,STEM
+Health Care,6.0,630.0,,STEM
+Nonprofit/Gov,6.0,680.0,,Business
+Investment Banking,4.0,600.0,,Humanities
+Investment Management,5.0,640.0,Waitlist,STEM
+Financial Services,5.0,630.0,,Business
+Nonprofit/Gov,6.0,590.0,,Humanities
+Health Care,6.0,720.0,,STEM
+PE/VC,4.0,650.0,,Humanities
+PE/VC,5.0,720.0,,STEM
+Consulting,6.0,570.0,,STEM
+Technology,4.0,720.0,,STEM
+CPG,3.0,640.0,,Business
+Nonprofit/Gov,4.0,630.0,,Humanities
+Consulting,5.0,620.0,,Business
+Consulting,4.0,640.0,,Humanities
+Nonprofit/Gov,5.0,620.0,,Business
+Consulting,6.0,650.0,,Business
+Consulting,4.0,660.0,,Humanities
+Investment Management,4.0,590.0,,Business
+Technology,5.0,710.0,,Business
+Energy,5.0,650.0,,STEM
+Technology,6.0,660.0,Admit,Business
+Consulting,6.0,600.0,,Humanities
+PE/VC,4.0,740.0,,STEM
+Nonprofit/Gov,6.0,570.0,,Business
+Consulting,6.0,660.0,,Humanities
+Other,4.0,610.0,,Humanities
+PE/VC,5.0,710.0,,Business
+Consulting,7.0,760.0,,Humanities
+Consulting,5.0,590.0,,Humanities
+Consulting,5.0,570.0,,Business
+Investment Management,5.0,710.0,,Business
+Technology,5.0,580.0,,Humanities
+Technology,6.0,690.0,Admit,Humanities
+PE/VC,6.0,700.0,Admit,STEM
+Nonprofit/Gov,5.0,630.0,,Business
+PE/VC,5.0,660.0,,Business
+Consulting,6.0,760.0,Admit,STEM
+Consulting,6.0,720.0,,Business
+Technology,7.0,600.0,,Business
+Technology,5.0,590.0,,Humanities
+Consulting,4.0,620.0,,Business
+Health Care,6.0,660.0,,Business
+Retail,5.0,670.0,,Humanities
+Investment Management,6.0,730.0,Admit,Humanities
+Nonprofit/Gov,4.0,690.0,,Business
+Investment Management,6.0,680.0,,Humanities
+Technology,4.0,620.0,,Business
+Consulting,5.0,680.0,,STEM
+PE/VC,7.0,730.0,,STEM
+Health Care,4.0,640.0,,Business
+CPG,4.0,690.0,,STEM
+Financial Services,6.0,780.0,,STEM
+PE/VC,3.0,600.0,,Humanities
+Technology,6.0,570.0,,STEM
+Technology,5.0,610.0,,Humanities
+Consulting,3.0,620.0,,Business
+Nonprofit/Gov,5.0,780.0,Admit,Humanities
+Other,6.0,630.0,,STEM
+Consulting,5.0,610.0,,Humanities
+Consulting,5.0,580.0,,STEM
+Investment Banking,5.0,630.0,,STEM
+Nonprofit/Gov,6.0,640.0,,Humanities
+Financial Services,3.0,650.0,,Business
+Consulting,4.0,620.0,,Humanities
+Other,4.0,710.0,Admit,STEM
+Media/Entertainment,5.0,780.0,,Business
+Investment Banking,6.0,660.0,,STEM
+PE/VC,5.0,680.0,,Business
+Financial Services,5.0,670.0,,STEM
+Other,3.0,570.0,,Humanities
+Consulting,5.0,680.0,Waitlist,Humanities
+Other,4.0,650.0,,Business
+Technology,4.0,690.0,Admit,STEM
+Technology,4.0,630.0,,Humanities
+Other,6.0,660.0,,Business
+PE/VC,5.0,730.0,,Humanities
+Consulting,4.0,580.0,,Humanities
+Real Estate,4.0,630.0,,STEM
+Consulting,4.0,670.0,,Humanities
+Consulting,5.0,630.0,,STEM
+Other,5.0,680.0,Admit,STEM
+Consulting,4.0,670.0,Admit,STEM
+Investment Banking,6.0,670.0,,Humanities
+Consulting,4.0,660.0,,Humanities
+Other,4.0,620.0,,Business
+Nonprofit/Gov,4.0,690.0,Waitlist,Humanities
+PE/VC,5.0,660.0,Admit,Humanities
+Investment Banking,5.0,570.0,,Business
+Health Care,4.0,570.0,,Humanities
+PE/VC,6.0,670.0,,STEM
+Investment Banking,7.0,640.0,,STEM
+Nonprofit/Gov,6.0,660.0,,Business
+Technology,5.0,670.0,,Business
+PE/VC,6.0,580.0,,Business
+PE/VC,4.0,680.0,,Business
+Technology,4.0,600.0,,Business
+PE/VC,6.0,570.0,,Humanities
+Technology,6.0,620.0,,Humanities
+Consulting,6.0,680.0,,Business
+CPG,3.0,630.0,,Business
+Financial Services,6.0,660.0,,Business
+Consulting,4.0,670.0,,STEM
+Consulting,6.0,680.0,,STEM
+Consulting,5.0,650.0,,STEM
+Technology,4.0,710.0,,Humanities
+Other,4.0,680.0,,Business
+Consulting,4.0,660.0,,Humanities
+Nonprofit/Gov,4.0,660.0,Admit,Business
+Consulting,5.0,780.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Other,3.0,640.0,Waitlist,STEM
+Other,5.0,680.0,,STEM
+Nonprofit/Gov,5.0,640.0,,STEM
+Consulting,5.0,660.0,,Humanities
+Consulting,3.0,740.0,,Humanities
+PE/VC,7.0,670.0,,Business
+Other,4.0,640.0,,STEM
+Consulting,5.0,670.0,Waitlist,STEM
+Technology,4.0,570.0,,STEM
+Other,6.0,600.0,,Humanities
+PE/VC,6.0,670.0,,STEM
+PE/VC,4.0,680.0,,Humanities
+Retail,6.0,700.0,,STEM
+Consulting,5.0,580.0,,Humanities
+Other,6.0,570.0,,Business
+Consulting,5.0,580.0,,STEM
+Media/Entertainment,5.0,640.0,,Humanities
+Other,5.0,740.0,,Humanities
+Technology,4.0,640.0,,Business
+Health Care,6.0,660.0,,Business
+Nonprofit/Gov,7.0,670.0,,Humanities
+PE/VC,7.0,590.0,,STEM
+Nonprofit/Gov,5.0,600.0,,Business
+Investment Banking,4.0,610.0,,Humanities
+Media/Entertainment,4.0,600.0,,STEM
+Consulting,5.0,570.0,,Humanities
+Investment Banking,4.0,660.0,,STEM
+Nonprofit/Gov,4.0,670.0,,Humanities
+Consulting,6.0,620.0,,Humanities
+Technology,5.0,660.0,,Business
+Investment Management,6.0,710.0,,STEM
+Technology,5.0,640.0,,STEM
+Technology,7.0,660.0,,Business
+PE/VC,5.0,710.0,,Business
+Consulting,3.0,650.0,,Humanities
+Consulting,4.0,640.0,,Business
+Nonprofit/Gov,4.0,650.0,,STEM
+CPG,7.0,710.0,Admit,Humanities
+Financial Services,5.0,680.0,,Humanities
+PE/VC,5.0,590.0,,Business
+PE/VC,5.0,650.0,,STEM
+Investment Banking,6.0,710.0,Admit,Business
+PE/VC,5.0,740.0,Admit,Humanities
+Financial Services,6.0,670.0,Admit,STEM
+PE/VC,6.0,620.0,,STEM
+Nonprofit/Gov,4.0,750.0,Admit,STEM
+PE/VC,5.0,620.0,,STEM
+Consulting,5.0,660.0,,Humanities
+Nonprofit/Gov,5.0,720.0,,Business
+Investment Banking,4.0,740.0,Admit,Business
+Nonprofit/Gov,5.0,660.0,Admit,Business
+PE/VC,5.0,590.0,,Business
+PE/VC,4.0,610.0,,Business
+PE/VC,3.0,630.0,,Humanities
+Financial Services,6.0,680.0,,STEM
+Consulting,5.0,670.0,Admit,Humanities
+Health Care,5.0,690.0,Waitlist,STEM
+Nonprofit/Gov,5.0,650.0,,Humanities
+PE/VC,7.0,720.0,,Business
+Nonprofit/Gov,5.0,640.0,,Humanities
+Consulting,6.0,680.0,,STEM
+Consulting,6.0,610.0,,STEM
+Consulting,5.0,590.0,,STEM
+Real Estate,3.0,590.0,,Business
+Consulting,5.0,660.0,,Humanities
+PE/VC,5.0,650.0,,Humanities
+Consulting,3.0,660.0,Admit,STEM
+Nonprofit/Gov,6.0,630.0,,STEM
+Nonprofit/Gov,5.0,670.0,,Humanities
+Consulting,4.0,720.0,,STEM
+Technology,5.0,640.0,,Humanities
+Consulting,7.0,650.0,,Business
+Nonprofit/Gov,4.0,640.0,,Business
+Nonprofit/Gov,5.0,620.0,,Humanities
+Technology,6.0,570.0,,Business
+Investment Banking,4.0,630.0,,Business
+Financial Services,6.0,740.0,,STEM
+PE/VC,7.0,730.0,,STEM
+Consulting,6.0,630.0,,Business
+Nonprofit/Gov,4.0,630.0,,Humanities
+Consulting,6.0,660.0,Admit,Business
+Financial Services,5.0,660.0,,Business
+Consulting,5.0,630.0,,STEM
+Consulting,5.0,570.0,,Humanities
+Technology,4.0,700.0,,Business
+PE/VC,4.0,600.0,,Humanities
+PE/VC,4.0,610.0,,Humanities
+Health Care,3.0,580.0,,STEM
+PE/VC,5.0,720.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,STEM
+PE/VC,6.0,600.0,,Humanities
+Technology,6.0,710.0,Admit,Humanities
+Consulting,4.0,690.0,,Business
+Technology,5.0,650.0,,Business
+Nonprofit/Gov,5.0,720.0,,Business
+CPG,4.0,670.0,,Business
+PE/VC,3.0,590.0,,Business
+Financial Services,4.0,660.0,,Humanities
+Nonprofit/Gov,2.0,590.0,,Business
+Investment Management,4.0,580.0,,Humanities
+PE/VC,6.0,630.0,,STEM
+Nonprofit/Gov,6.0,650.0,,STEM
+Other,7.0,590.0,,STEM
+Consulting,6.0,650.0,,Humanities
+Nonprofit/Gov,5.0,700.0,,STEM
+Consulting,8.0,670.0,Admit,Humanities
+Financial Services,5.0,660.0,,Humanities
+Consulting,6.0,760.0,,Humanities
+Consulting,6.0,720.0,Admit,STEM
+PE/VC,5.0,650.0,,Business
+Real Estate,5.0,590.0,,STEM
+Financial Services,5.0,700.0,,Humanities
+Other,4.0,660.0,,Business
+Health Care,7.0,710.0,Admit,Humanities
+Health Care,5.0,610.0,,STEM
+Financial Services,4.0,620.0,,Business
+PE/VC,5.0,710.0,Admit,STEM
+Investment Banking,7.0,630.0,,Humanities
+Technology,5.0,700.0,Admit,STEM
+Technology,6.0,630.0,,STEM
+Consulting,5.0,780.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Technology,6.0,630.0,,STEM
+Investment Banking,5.0,640.0,,STEM
+Nonprofit/Gov,5.0,680.0,Admit,Humanities
+PE/VC,3.0,720.0,,STEM
+Consulting,5.0,660.0,,Business
+PE/VC,5.0,570.0,,Humanities
+Other,5.0,680.0,,STEM
+Consulting,4.0,710.0,,STEM
+PE/VC,4.0,590.0,,STEM
+Financial Services,6.0,660.0,,Business
+Consulting,4.0,700.0,Admit,Humanities
+Investment Management,5.0,620.0,,Business
+Consulting,7.0,570.0,,Humanities
+PE/VC,4.0,600.0,,STEM
+Consulting,6.0,570.0,,STEM
+Nonprofit/Gov,6.0,660.0,,Business
+CPG,5.0,590.0,,Business
+Consulting,4.0,630.0,,Humanities
+Health Care,6.0,700.0,,Humanities
+Nonprofit/Gov,4.0,620.0,,Business
+PE/VC,3.0,650.0,,Business
+Nonprofit/Gov,6.0,730.0,,STEM
+Consulting,7.0,680.0,,Humanities
+Technology,5.0,730.0,,STEM
+Technology,6.0,700.0,,Humanities
+Financial Services,3.0,660.0,,Humanities
+PE/VC,5.0,570.0,,STEM
+Nonprofit/Gov,5.0,650.0,,STEM
+PE/VC,5.0,660.0,,Humanities
+PE/VC,5.0,730.0,,Business
+Health Care,5.0,660.0,,Humanities
+Financial Services,5.0,720.0,,STEM
+Consulting,6.0,630.0,,STEM
+Investment Banking,6.0,640.0,,Humanities
+Technology,6.0,670.0,,STEM
+Financial Services,5.0,570.0,,Humanities
+Consulting,7.0,650.0,,Humanities
+Investment Banking,6.0,640.0,,Business
+Nonprofit/Gov,6.0,630.0,,Humanities
+PE/VC,5.0,600.0,,STEM
+Financial Services,4.0,710.0,Admit,STEM
+Technology,4.0,640.0,,Humanities
+Consulting,6.0,720.0,Admit,Humanities
+Energy,3.0,570.0,,Humanities
+Investment Banking,4.0,650.0,,Business
+Other,7.0,670.0,,Business
+Technology,5.0,690.0,,STEM
+Financial Services,5.0,640.0,,Humanities
+PE/VC,5.0,630.0,,STEM
+Consulting,4.0,600.0,,STEM
+PE/VC,4.0,630.0,Waitlist,STEM
+Consulting,5.0,590.0,,Humanities
+Technology,5.0,610.0,,STEM
+PE/VC,6.0,690.0,Admit,Humanities
+PE/VC,4.0,570.0,,STEM
+Technology,4.0,680.0,,Business
+Consulting,5.0,650.0,,Humanities
+PE/VC,5.0,570.0,,STEM
+Other,5.0,650.0,,STEM
+Nonprofit/Gov,4.0,670.0,,Business
+Investment Banking,6.0,630.0,,Business
+Consulting,6.0,720.0,,STEM
+Nonprofit/Gov,5.0,620.0,,Humanities
+PE/VC,5.0,620.0,,Business
+Consulting,3.0,600.0,,STEM
+PE/VC,6.0,650.0,,STEM
+PE/VC,4.0,640.0,,STEM
+Consulting,4.0,650.0,,STEM
+Nonprofit/Gov,3.0,660.0,,Humanities
+Consulting,5.0,690.0,,STEM
+Real Estate,6.0,680.0,Admit,Business
+Consulting,5.0,680.0,,Humanities
+Nonprofit/Gov,6.0,680.0,,Humanities
+PE/VC,4.0,670.0,,Humanities
+Financial Services,4.0,740.0,,Business
+Nonprofit/Gov,5.0,730.0,,Humanities
+Financial Services,4.0,700.0,,Business
+Nonprofit/Gov,3.0,610.0,,Humanities
+Consulting,5.0,580.0,,STEM
+Consulting,5.0,720.0,Admit,Business
+Consulting,6.0,620.0,,Humanities
+Financial Services,5.0,570.0,,Humanities
+Other,4.0,720.0,,Business
+Consulting,5.0,570.0,,Humanities
+PE/VC,5.0,710.0,Admit,Business
+Consulting,6.0,700.0,Waitlist,Humanities
+Consulting,5.0,610.0,,STEM
+Other,5.0,680.0,,STEM
+Investment Banking,7.0,650.0,,Business
+Investment Banking,5.0,610.0,,Humanities
+PE/VC,3.0,670.0,,STEM
+Technology,5.0,650.0,,Humanities
+PE/VC,6.0,670.0,,Humanities
+Consulting,6.0,750.0,Admit,Humanities
+PE/VC,3.0,720.0,Admit,Business
+Investment Management,4.0,610.0,,Humanities
+Media/Entertainment,3.0,640.0,,Humanities
+Nonprofit/Gov,5.0,610.0,Admit,Business
+Nonprofit/Gov,5.0,590.0,,STEM
+PE/VC,6.0,700.0,Admit,Humanities
+Consulting,7.0,650.0,,STEM
+Consulting,7.0,580.0,,STEM
+Consulting,6.0,630.0,,Humanities
+Nonprofit/Gov,4.0,570.0,,Humanities
+Financial Services,4.0,700.0,Admit,Humanities
+Technology,5.0,650.0,,Business
+Nonprofit/Gov,4.0,700.0,Admit,STEM
+Health Care,6.0,620.0,,STEM
+Retail,6.0,660.0,,Humanities
+Consulting,6.0,580.0,,Humanities
+Investment Banking,6.0,700.0,Admit,Business
+Nonprofit/Gov,6.0,620.0,,STEM
+Health Care,6.0,650.0,,STEM
+Investment Management,6.0,680.0,,Business
+Media/Entertainment,5.0,660.0,,Business
+Investment Banking,5.0,620.0,,Humanities
+Investment Banking,4.0,700.0,,Business
+Consulting,5.0,620.0,,Humanities
+Consulting,5.0,610.0,,Humanities
+Technology,5.0,680.0,Admit,STEM
+Nonprofit/Gov,6.0,710.0,,STEM
+Nonprofit/Gov,6.0,630.0,,STEM
+Financial Services,5.0,630.0,,STEM
+PE/VC,5.0,590.0,,STEM
+PE/VC,5.0,610.0,,Humanities
+Health Care,5.0,660.0,,Humanities
+PE/VC,6.0,710.0,,STEM
+Technology,4.0,700.0,,Business
+Consulting,4.0,680.0,Admit,Humanities
+Financial Services,5.0,670.0,,STEM
+PE/VC,5.0,580.0,,STEM
+PE/VC,6.0,590.0,,Humanities
+Investment Banking,6.0,590.0,,STEM
+PE/VC,5.0,650.0,,STEM
+Technology,2.0,650.0,,Humanities
+Nonprofit/Gov,5.0,610.0,,Business
+Consulting,5.0,600.0,,STEM
+PE/VC,3.0,630.0,,Business
+Consulting,5.0,640.0,,STEM
+CPG,3.0,670.0,Admit,Humanities
+Consulting,6.0,670.0,,Humanities
+Consulting,4.0,640.0,,STEM
+Investment Banking,6.0,750.0,,STEM
+PE/VC,6.0,710.0,,STEM
+Consulting,5.0,630.0,Admit,Humanities
+Consulting,6.0,650.0,,Humanities
+Consulting,5.0,740.0,Admit,Humanities
+Financial Services,5.0,670.0,,Business
+Health Care,6.0,620.0,,Humanities
+Consulting,5.0,760.0,,Business
+Investment Banking,5.0,660.0,,STEM
+Health Care,6.0,570.0,,Humanities
+Consulting,5.0,650.0,,Business
+Nonprofit/Gov,7.0,680.0,,STEM
+Investment Banking,4.0,680.0,Admit,STEM
+Financial Services,5.0,660.0,,Business
+CPG,4.0,570.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,Humanities
+Investment Banking,6.0,670.0,,Business
+Nonprofit/Gov,5.0,680.0,,Humanities
+Consulting,3.0,630.0,,Humanities
+Consulting,6.0,700.0,,Business
+Financial Services,6.0,670.0,,STEM
+Technology,4.0,720.0,,Humanities
+Nonprofit/Gov,5.0,610.0,,Humanities
+PE/VC,4.0,630.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Financial Services,7.0,570.0,,Business
+Nonprofit/Gov,2.0,630.0,,Humanities
+Consulting,4.0,710.0,Admit,Humanities
+Consulting,4.0,620.0,,Humanities
+Investment Management,5.0,590.0,,Humanities
+Nonprofit/Gov,4.0,590.0,,Humanities
+PE/VC,4.0,710.0,,STEM
+Consulting,5.0,730.0,,Business
+Financial Services,4.0,660.0,,Humanities
+PE/VC,3.0,670.0,,Business
+CPG,4.0,590.0,,STEM
+Financial Services,4.0,570.0,,Business
+Other,4.0,690.0,,Humanities
+Health Care,6.0,600.0,,STEM
+Health Care,4.0,620.0,,STEM
+Financial Services,5.0,570.0,,Humanities
+Consulting,4.0,570.0,,STEM
+Other,6.0,630.0,,Humanities
+Consulting,6.0,640.0,,Humanities
+Consulting,6.0,580.0,,STEM
+Financial Services,5.0,740.0,,Business
+Other,5.0,680.0,Admit,Humanities
+Health Care,5.0,760.0,,Business
+Financial Services,5.0,730.0,Admit,STEM
+Financial Services,4.0,600.0,,Business
+Consulting,5.0,690.0,Admit,STEM
+Investment Banking,7.0,620.0,,Humanities
+Technology,4.0,650.0,,STEM
+Investment Management,5.0,640.0,,Humanities
+Financial Services,7.0,680.0,,STEM
+Nonprofit/Gov,5.0,630.0,,Humanities
+Consulting,7.0,660.0,,STEM
+PE/VC,6.0,700.0,Admit,STEM
+Financial Services,4.0,640.0,,STEM
+Consulting,3.0,780.0,Admit,Humanities
+Consulting,6.0,700.0,,Humanities
+PE/VC,5.0,630.0,,Humanities
+PE/VC,6.0,570.0,,STEM
+Financial Services,4.0,710.0,,Humanities
+Technology,5.0,700.0,,Business
+Technology,5.0,650.0,,STEM
+PE/VC,4.0,660.0,Admit,Business
+Health Care,5.0,700.0,,Humanities
+Energy,5.0,590.0,,STEM
+Investment Banking,4.0,610.0,,STEM
+Other,4.0,640.0,,Humanities
+Other,6.0,660.0,,Humanities
+Financial Services,4.0,740.0,,Humanities
+Financial Services,5.0,640.0,,Humanities
+Technology,4.0,580.0,,STEM
+Media/Entertainment,5.0,610.0,,STEM
+Technology,4.0,670.0,,Business
+PE/VC,6.0,630.0,,STEM
+Consulting,5.0,600.0,,STEM
+PE/VC,4.0,690.0,,Humanities
+Financial Services,4.0,570.0,,STEM
+Financial Services,6.0,630.0,,Business
+Nonprofit/Gov,7.0,700.0,,STEM
+PE/VC,6.0,700.0,,Humanities
+Technology,5.0,700.0,,Business
+PE/VC,4.0,610.0,,STEM
+Real Estate,5.0,650.0,,Business
+Financial Services,6.0,650.0,,Business
+Consulting,3.0,720.0,,Humanities
+Technology,3.0,690.0,,Humanities
+Consulting,3.0,670.0,,STEM
+Consulting,6.0,690.0,Admit,STEM
+Other,4.0,640.0,,Business
+Investment Management,5.0,610.0,,STEM
+PE/VC,7.0,700.0,,STEM
+Investment Banking,6.0,720.0,,Humanities
+Nonprofit/Gov,4.0,640.0,,Humanities
+Health Care,5.0,680.0,Admit,STEM
+Nonprofit/Gov,5.0,640.0,,STEM
+Consulting,6.0,660.0,Admit,Business
+PE/VC,6.0,690.0,,Business
+Nonprofit/Gov,5.0,570.0,,STEM
+Technology,4.0,650.0,,Humanities
+Investment Management,5.0,660.0,,Humanities
+Nonprofit/Gov,5.0,660.0,,STEM
+PE/VC,5.0,680.0,,STEM
+Retail,4.0,670.0,,STEM
+PE/VC,6.0,730.0,,Business
+Investment Management,5.0,680.0,Admit,Humanities
+PE/VC,7.0,650.0,,Business
+PE/VC,6.0,600.0,,Business
+Consulting,5.0,650.0,,Humanities
+Consulting,6.0,580.0,,Business
+Investment Banking,5.0,760.0,,Business
+CPG,5.0,650.0,,Humanities
+Other,7.0,630.0,,Business
+Consulting,7.0,650.0,,Humanities
+PE/VC,4.0,630.0,,STEM
+Consulting,4.0,740.0,Admit,Humanities
+Consulting,5.0,700.0,,Business
+Nonprofit/Gov,5.0,650.0,,Humanities
+Financial Services,6.0,770.0,Admit,Business
+PE/VC,5.0,580.0,,Humanities
+Technology,5.0,630.0,,Humanities
+Consulting,4.0,580.0,,Business
+Health Care,6.0,700.0,,Humanities
+Investment Banking,4.0,610.0,,STEM
+PE/VC,5.0,610.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Investment Banking,6.0,600.0,,Business
+PE/VC,6.0,750.0,,Business
+Consulting,5.0,700.0,,Business
+Financial Services,6.0,600.0,,Business
+Technology,6.0,660.0,,Business
+Investment Banking,5.0,640.0,,Business
+Consulting,7.0,700.0,,Business
+Technology,4.0,680.0,,Business
+Investment Banking,5.0,570.0,,Humanities
+PE/VC,6.0,700.0,,Humanities
+Consulting,5.0,580.0,,STEM
+Real Estate,5.0,630.0,,STEM
+Consulting,5.0,620.0,,STEM
+Nonprofit/Gov,5.0,580.0,Admit,Humanities
+Technology,5.0,590.0,,Humanities
+Investment Banking,6.0,670.0,,Humanities
+Technology,4.0,620.0,,Business
+Technology,5.0,700.0,,Humanities
+Consulting,3.0,650.0,,STEM
+PE/VC,6.0,710.0,,Humanities
+Consulting,5.0,670.0,,Humanities
+CPG,6.0,620.0,,Humanities
+Consulting,5.0,690.0,,STEM
+PE/VC,4.0,640.0,,Humanities
+Technology,4.0,570.0,,Business
+Health Care,6.0,640.0,,STEM
+Investment Management,5.0,680.0,,Humanities
+Consulting,6.0,570.0,,STEM
+Consulting,6.0,700.0,Admit,Business
+PE/VC,5.0,650.0,,Humanities
+Consulting,5.0,730.0,,Humanities
+Other,5.0,620.0,,STEM
+PE/VC,5.0,670.0,Admit,STEM
+Consulting,5.0,620.0,,STEM
+Other,5.0,620.0,,Business
+Nonprofit/Gov,6.0,650.0,Admit,STEM
+Consulting,3.0,680.0,Admit,Business
+Nonprofit/Gov,6.0,710.0,,STEM
+Technology,4.0,670.0,Admit,Humanities
+Financial Services,3.0,640.0,,Business
+Financial Services,6.0,620.0,,Humanities
+Technology,5.0,650.0,,STEM
+Health Care,5.0,690.0,,STEM
+Other,6.0,700.0,,Humanities
+Investment Banking,5.0,620.0,,STEM
+Technology,5.0,750.0,,Business
+Consulting,5.0,640.0,,Business
+Consulting,6.0,650.0,,Business
+Financial Services,6.0,610.0,,STEM
+Technology,4.0,720.0,,Humanities
+Real Estate,5.0,680.0,,Business
+Consulting,3.0,620.0,,Business
+Technology,6.0,660.0,,Business
+Technology,5.0,590.0,,STEM
+Other,5.0,630.0,,STEM
+Investment Banking,4.0,630.0,,Humanities
+Technology,6.0,580.0,,Humanities
+Nonprofit/Gov,4.0,660.0,,Humanities
+Consulting,5.0,600.0,,Humanities
+Other,6.0,640.0,,Business
+Technology,5.0,690.0,Admit,Humanities
+Consulting,4.0,610.0,,Business
+Consulting,5.0,650.0,,STEM
+Technology,5.0,600.0,,STEM
+Consulting,6.0,610.0,,STEM
+Consulting,6.0,620.0,,STEM
+Investment Banking,5.0,690.0,Admit,STEM
+Consulting,5.0,570.0,,Business
+Health Care,4.0,780.0,,Business
+Investment Management,3.0,720.0,Admit,Business
+PE/VC,4.0,570.0,,Humanities
+Nonprofit/Gov,5.0,600.0,,Humanities
+Other,5.0,710.0,,Humanities
+PE/VC,4.0,770.0,Admit,Business
+Retail,5.0,640.0,,Business
+Other,6.0,740.0,,Business
+Technology,5.0,610.0,,Humanities
+PE/VC,5.0,630.0,,Business
+PE/VC,4.0,680.0,,Humanities
+Consulting,5.0,600.0,,Business
+PE/VC,4.0,620.0,,STEM
+PE/VC,6.0,690.0,,STEM
+Consulting,5.0,650.0,,STEM
+Technology,6.0,690.0,,Business
+Other,6.0,640.0,,Business
+Technology,4.0,680.0,,STEM
+Investment Banking,4.0,670.0,Waitlist,Humanities
+Financial Services,5.0,660.0,Admit,Humanities
+Consulting,5.0,630.0,,Humanities
+Other,3.0,670.0,,Humanities
+Consulting,6.0,680.0,,Business
+PE/VC,6.0,660.0,,STEM
+Technology,5.0,650.0,,STEM
+Consulting,5.0,680.0,Admit,Humanities
+Nonprofit/Gov,4.0,600.0,,Business
+Consulting,6.0,610.0,,Humanities
+Consulting,4.0,570.0,,Business
+Consulting,4.0,630.0,,Business
+Consulting,4.0,660.0,Admit,STEM
+Financial Services,4.0,660.0,,Humanities
+PE/VC,4.0,660.0,,Humanities
+Real Estate,7.0,570.0,,Business
+Investment Banking,5.0,640.0,,STEM
+PE/VC,6.0,660.0,,STEM
+Consulting,4.0,670.0,,Humanities
+CPG,6.0,680.0,Admit,Humanities
+Health Care,4.0,730.0,,Humanities
+Investment Banking,4.0,580.0,,Humanities
+Consulting,6.0,630.0,Admit,Humanities
+Consulting,4.0,570.0,,STEM
+Consulting,4.0,600.0,,STEM
+PE/VC,3.0,690.0,,Humanities
+Consulting,5.0,690.0,Waitlist,Humanities
+Health Care,5.0,720.0,,STEM
+Financial Services,3.0,690.0,Admit,Business
+PE/VC,5.0,630.0,,Business
+Health Care,4.0,710.0,Admit,STEM
+Consulting,5.0,680.0,,Business
+Nonprofit/Gov,6.0,610.0,,STEM
+Financial Services,4.0,610.0,,Humanities
+Investment Management,4.0,650.0,,STEM
+Technology,6.0,640.0,,STEM
+Other,6.0,700.0,Admit,STEM
+Nonprofit/Gov,5.0,690.0,Admit,Humanities
+Consulting,5.0,640.0,,STEM
+PE/VC,3.0,590.0,,Humanities
+PE/VC,6.0,640.0,,STEM
+PE/VC,5.0,620.0,,Business
+Other,5.0,750.0,,STEM
+Financial Services,4.0,680.0,,STEM
+PE/VC,4.0,640.0,,STEM
+Financial Services,7.0,650.0,,STEM
+PE/VC,4.0,640.0,,Humanities
+Technology,5.0,580.0,,Humanities
+Health Care,4.0,690.0,,Business
+Technology,6.0,620.0,Admit,Business
+Investment Management,5.0,670.0,,Humanities
+PE/VC,6.0,680.0,,Business
+Financial Services,6.0,710.0,Admit,STEM
+Other,5.0,680.0,,Humanities
+Nonprofit/Gov,5.0,590.0,,Humanities
+PE/VC,5.0,650.0,,Business
+Other,5.0,650.0,,Business
+PE/VC,3.0,680.0,Admit,STEM
+Investment Banking,6.0,640.0,,STEM
+Investment Management,5.0,630.0,,STEM
+Financial Services,5.0,650.0,,Business
+Nonprofit/Gov,4.0,670.0,,Humanities
+PE/VC,4.0,620.0,,Humanities
+Consulting,4.0,640.0,,STEM
+Technology,4.0,680.0,,Business
+Consulting,5.0,570.0,,STEM
+Technology,4.0,700.0,,STEM
+Nonprofit/Gov,6.0,640.0,,Humanities
+Consulting,5.0,690.0,,Business
+PE/VC,6.0,640.0,,Humanities
+Investment Banking,6.0,720.0,,STEM
+Consulting,5.0,660.0,Admit,Humanities
+Nonprofit/Gov,7.0,650.0,,Humanities
+Nonprofit/Gov,6.0,620.0,,Business
+Financial Services,5.0,660.0,Admit,STEM
+Consulting,2.0,690.0,,STEM
+Other,6.0,650.0,,STEM
+Financial Services,6.0,610.0,,Business
+Consulting,4.0,600.0,,Humanities
+Investment Banking,5.0,620.0,,Business
+PE/VC,4.0,670.0,,Business
+PE/VC,5.0,690.0,Admit,Humanities
+Financial Services,5.0,720.0,,Humanities
+Consulting,5.0,570.0,,STEM
+Technology,4.0,670.0,Waitlist,Business
+PE/VC,5.0,620.0,,Humanities
+Other,5.0,690.0,Admit,Humanities
+Nonprofit/Gov,5.0,600.0,,STEM
+PE/VC,5.0,750.0,Admit,Humanities
+Investment Banking,7.0,620.0,,Humanities
+Consulting,5.0,660.0,,Business
+Consulting,4.0,650.0,,Humanities
+Health Care,5.0,640.0,,STEM
+PE/VC,4.0,700.0,Admit,Humanities
+PE/VC,7.0,710.0,,Business
+Nonprofit/Gov,4.0,620.0,,Business
+PE/VC,6.0,580.0,,Humanities
+Consulting,4.0,610.0,,Humanities
+Other,5.0,610.0,,STEM
+PE/VC,5.0,630.0,,Business
+Financial Services,6.0,740.0,,Humanities
+Health Care,4.0,620.0,,Humanities
+Investment Banking,4.0,630.0,,Humanities
+Consulting,7.0,730.0,Admit,Humanities
+Other,5.0,670.0,,Business
+Technology,5.0,670.0,Admit,Humanities
+PE/VC,5.0,650.0,,Business
+Technology,5.0,570.0,,Humanities
+Financial Services,5.0,630.0,,Business
+Consulting,4.0,610.0,,Business
+Investment Banking,6.0,680.0,,STEM
+Investment Banking,6.0,600.0,,Business
+Nonprofit/Gov,5.0,570.0,,Humanities
+Investment Management,6.0,650.0,,Humanities
+Consulting,6.0,590.0,,Humanities
+Investment Banking,4.0,600.0,,STEM
+PE/VC,5.0,590.0,,Humanities
+CPG,4.0,710.0,Admit,Humanities
+Real Estate,4.0,590.0,,Humanities
+Real Estate,3.0,740.0,,STEM
+Consulting,3.0,730.0,Admit,Humanities
+PE/VC,4.0,620.0,,Humanities
+Technology,5.0,590.0,,STEM
+Consulting,6.0,630.0,,STEM
+Consulting,4.0,720.0,,STEM
+Technology,6.0,590.0,,Humanities
+Investment Banking,5.0,610.0,,Business
+Investment Management,6.0,630.0,,STEM
+CPG,4.0,570.0,,Business
+Real Estate,5.0,610.0,,STEM
+Energy,5.0,690.0,,Humanities
+Other,4.0,650.0,,STEM
+Consulting,4.0,610.0,,Humanities
+Investment Banking,4.0,670.0,,STEM
+Consulting,6.0,780.0,Admit,STEM
+Other,6.0,690.0,,Humanities
+Consulting,4.0,680.0,,STEM
+Consulting,5.0,680.0,,STEM
+Other,4.0,620.0,,STEM
+Technology,7.0,620.0,,Humanities
+Technology,6.0,700.0,Admit,Business
+Other,6.0,600.0,,STEM
+Technology,8.0,660.0,,Humanities
+Technology,4.0,580.0,,Business
+Health Care,6.0,570.0,,Humanities
+Technology,5.0,670.0,,STEM
+Consulting,5.0,720.0,Admit,Business
+Consulting,5.0,660.0,,Business
+Technology,6.0,590.0,,Business
+Investment Banking,5.0,620.0,,Humanities
+Financial Services,2.0,640.0,,STEM
+Consulting,7.0,610.0,,Business
+PE/VC,6.0,620.0,,Business
+Consulting,5.0,600.0,,STEM
+Nonprofit/Gov,5.0,720.0,,STEM
+Other,5.0,650.0,,Humanities
+Technology,4.0,680.0,,Humanities
+Nonprofit/Gov,7.0,610.0,,Humanities
+Investment Banking,5.0,580.0,,Business
+Technology,4.0,710.0,,STEM
+PE/VC,7.0,680.0,,Business
+Investment Management,5.0,590.0,,STEM
+PE/VC,5.0,760.0,Admit,STEM
+Consulting,3.0,680.0,,STEM
+Consulting,9.0,570.0,,Humanities
+CPG,5.0,660.0,,STEM
+Financial Services,5.0,660.0,Admit,Humanities
+Consulting,5.0,610.0,,Humanities
+PE/VC,5.0,640.0,,Business
+Other,3.0,640.0,,Business
+Investment Banking,5.0,650.0,Admit,STEM
+PE/VC,6.0,690.0,,Business
+Investment Banking,5.0,690.0,,Business
+Consulting,3.0,660.0,Waitlist,Business
+Consulting,6.0,580.0,,STEM
+PE/VC,5.0,700.0,,STEM
+PE/VC,4.0,710.0,,Humanities
+Consulting,5.0,590.0,,Humanities
+Other,6.0,670.0,,STEM
+Investment Banking,4.0,630.0,,Business
+Consulting,4.0,570.0,,Business
+Nonprofit/Gov,5.0,670.0,Admit,Business
+Consulting,5.0,610.0,,Humanities
+Technology,4.0,710.0,Admit,Humanities
+Nonprofit/Gov,3.0,590.0,,Business
+Technology,4.0,620.0,,Humanities
+Technology,3.0,590.0,Admit,STEM
+Technology,6.0,610.0,,Humanities
+Nonprofit/Gov,4.0,660.0,,Business
+Consulting,4.0,770.0,,Humanities
+Financial Services,5.0,690.0,Admit,Humanities
+Technology,3.0,720.0,,Business
+Consulting,5.0,590.0,,Business
+Consulting,4.0,570.0,Admit,Humanities
+Consulting,5.0,740.0,,Business
+Investment Management,7.0,590.0,,STEM
+Consulting,5.0,700.0,,Humanities
+Financial Services,3.0,740.0,,Humanities
+Investment Banking,6.0,710.0,,Humanities
+Nonprofit/Gov,5.0,570.0,,STEM
+Investment Banking,6.0,670.0,,Business
+Investment Management,5.0,660.0,,STEM
+Technology,5.0,700.0,Admit,Humanities
+Consulting,4.0,610.0,,STEM
+PE/VC,5.0,580.0,,Humanities
+Investment Banking,3.0,630.0,,Humanities
+PE/VC,5.0,570.0,,STEM
+Financial Services,4.0,640.0,,Humanities
+Consulting,5.0,620.0,,STEM
+Technology,4.0,690.0,,Humanities
+Consulting,5.0,640.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+PE/VC,5.0,780.0,Admit,Humanities
+PE/VC,5.0,780.0,,Business
+Consulting,5.0,600.0,,STEM
+Consulting,5.0,740.0,,Business
+Financial Services,5.0,660.0,,Business
+Technology,4.0,680.0,,Business
+Consulting,5.0,690.0,,Humanities
+Nonprofit/Gov,7.0,700.0,,Humanities
+Consulting,5.0,610.0,,Business
+Technology,4.0,710.0,,Humanities
+Consulting,2.0,600.0,,Business
+PE/VC,5.0,610.0,,Humanities
+Financial Services,5.0,620.0,,Business
+Investment Banking,6.0,680.0,,Humanities
+Technology,5.0,770.0,,Humanities
+Other,5.0,650.0,,Business
+Investment Banking,5.0,780.0,,Humanities
+PE/VC,6.0,680.0,Admit,Humanities
+Other,7.0,690.0,,Humanities
+PE/VC,5.0,690.0,,Humanities
+Consulting,5.0,780.0,,Humanities
+Technology,5.0,630.0,,Business
+Consulting,6.0,700.0,,Humanities
+Consulting,6.0,640.0,Waitlist,STEM
+Nonprofit/Gov,6.0,740.0,Admit,Humanities
+Consulting,6.0,700.0,Admit,Humanities
+Investment Banking,5.0,590.0,,Business
+Investment Banking,3.0,660.0,Admit,STEM
+Nonprofit/Gov,5.0,690.0,,Business
+Consulting,7.0,580.0,,Humanities
+Technology,5.0,760.0,,Humanities
+Financial Services,5.0,720.0,,STEM
+Consulting,8.0,600.0,,Humanities
+Investment Banking,5.0,660.0,,Humanities
+PE/VC,5.0,640.0,,Business
+Nonprofit/Gov,5.0,650.0,,STEM
+Consulting,5.0,660.0,,STEM
+PE/VC,5.0,610.0,,STEM
+PE/VC,5.0,670.0,Waitlist,STEM
+Media/Entertainment,4.0,640.0,,STEM
+Financial Services,5.0,670.0,,Business
+Technology,6.0,610.0,,STEM
+Nonprofit/Gov,4.0,630.0,,Humanities
+Health Care,6.0,710.0,,Business
+Health Care,6.0,620.0,,Humanities
+Financial Services,4.0,610.0,,Humanities
+Nonprofit/Gov,5.0,630.0,,Humanities
+Nonprofit/Gov,4.0,630.0,,STEM
+Technology,6.0,620.0,,Business
+Consulting,5.0,600.0,,Business
+PE/VC,4.0,720.0,,Business
+Nonprofit/Gov,6.0,700.0,,Humanities
+Consulting,5.0,740.0,Admit,Humanities
+Consulting,7.0,680.0,Admit,Business
+CPG,5.0,570.0,,STEM
+Consulting,4.0,620.0,,Business
+Technology,5.0,660.0,Admit,STEM
+Health Care,5.0,580.0,,Humanities
+Consulting,5.0,660.0,,Humanities
+Consulting,5.0,700.0,,STEM
+Consulting,4.0,630.0,,Business
+Consulting,4.0,640.0,,Business
+Technology,5.0,590.0,,Humanities
+PE/VC,4.0,720.0,,STEM
+Consulting,5.0,670.0,,Business
+PE/VC,4.0,690.0,,Humanities
+Health Care,6.0,570.0,,Humanities
+Financial Services,7.0,600.0,,Humanities
+Technology,4.0,640.0,,Humanities
+Other,5.0,600.0,Admit,Humanities
+Nonprofit/Gov,4.0,710.0,,Humanities
+Financial Services,6.0,570.0,,Humanities
+Media/Entertainment,5.0,670.0,,STEM
+Consulting,7.0,700.0,,Humanities
+Consulting,5.0,680.0,Admit,Humanities
+Real Estate,4.0,600.0,,Humanities
+Nonprofit/Gov,4.0,650.0,,Business
+Investment Banking,6.0,690.0,,Humanities
+Consulting,5.0,580.0,,Humanities
+Financial Services,6.0,620.0,,Humanities
+Consulting,5.0,690.0,,Business
+PE/VC,4.0,650.0,,Business
+Nonprofit/Gov,4.0,570.0,,Humanities
+Other,6.0,630.0,,Humanities
+Other,6.0,620.0,,Business
+PE/VC,5.0,630.0,,STEM
+PE/VC,4.0,720.0,Admit,Business
+Nonprofit/Gov,7.0,680.0,,Business
+Technology,6.0,690.0,,Business
+Nonprofit/Gov,6.0,640.0,,STEM
+Financial Services,6.0,570.0,,Business
+PE/VC,3.0,590.0,,Humanities
+Retail,6.0,710.0,Admit,Humanities
+Consulting,3.0,690.0,,Humanities
+Other,5.0,700.0,,Humanities
+Consulting,5.0,680.0,,STEM
+Consulting,5.0,650.0,,Humanities
+PE/VC,7.0,660.0,Admit,STEM
+Consulting,6.0,610.0,,Business
+Technology,5.0,580.0,,Business
+Technology,5.0,640.0,,Humanities
+Health Care,5.0,700.0,,Business
+Technology,5.0,620.0,,STEM
+Health Care,6.0,640.0,,Humanities
+Other,5.0,780.0,,Business
+Consulting,6.0,630.0,,STEM
+Investment Banking,5.0,670.0,,Business
+Financial Services,4.0,680.0,Admit,Humanities
+Consulting,6.0,650.0,,Business
+Other,6.0,680.0,,STEM
+Consulting,7.0,700.0,,Business
+Consulting,4.0,750.0,,Humanities
+PE/VC,4.0,570.0,,STEM
+Nonprofit/Gov,6.0,640.0,,STEM
+Nonprofit/Gov,5.0,730.0,,STEM
+Investment Banking,4.0,780.0,,Humanities
+Energy,6.0,770.0,Admit,Business
+PE/VC,6.0,670.0,Admit,STEM
+Financial Services,2.0,670.0,,Humanities
+Investment Banking,4.0,600.0,,Humanities
+Consulting,5.0,570.0,,Humanities
+PE/VC,6.0,670.0,,Business
+Financial Services,5.0,570.0,,STEM
+Media/Entertainment,5.0,690.0,,Humanities
+Other,6.0,700.0,,Humanities
+Other,6.0,590.0,,Business
+Investment Banking,5.0,650.0,,STEM
+Consulting,7.0,620.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+Investment Management,6.0,630.0,,Humanities
+Other,6.0,690.0,,Humanities
+Consulting,5.0,620.0,,Business
+Consulting,5.0,620.0,,Business
+Technology,4.0,620.0,,Business
+Consulting,6.0,700.0,,Business
+Other,6.0,610.0,,STEM
+Technology,5.0,740.0,,Humanities
+Technology,6.0,710.0,,STEM
+Consulting,5.0,580.0,,Humanities
+PE/VC,7.0,650.0,,STEM
+Financial Services,4.0,680.0,Admit,Business
+Financial Services,4.0,700.0,Admit,Humanities
+Media/Entertainment,5.0,650.0,,Humanities
+Health Care,6.0,650.0,,Business
+Investment Banking,6.0,600.0,,Humanities
+PE/VC,5.0,690.0,,Business
+Consulting,6.0,610.0,,Humanities
+Financial Services,4.0,640.0,,Humanities
+Nonprofit/Gov,6.0,680.0,,STEM
+Media/Entertainment,4.0,670.0,,Humanities
+Health Care,4.0,670.0,,Humanities
+Consulting,5.0,720.0,,STEM
+PE/VC,6.0,750.0,,Humanities
+Financial Services,5.0,640.0,,Business
+Consulting,5.0,590.0,,STEM
+Consulting,5.0,690.0,,Business
+Technology,3.0,570.0,,Business
+PE/VC,3.0,610.0,,Business
+Other,5.0,710.0,,STEM
+Investment Banking,5.0,700.0,,Business
+CPG,6.0,660.0,,Business
+Consulting,5.0,680.0,,STEM
+Health Care,5.0,680.0,,Business
+Real Estate,6.0,730.0,,Humanities
+Consulting,5.0,660.0,,Business
+Nonprofit/Gov,6.0,680.0,,STEM
+Nonprofit/Gov,6.0,620.0,Admit,Business
+Technology,4.0,630.0,,Humanities
+Investment Management,3.0,690.0,Admit,STEM
+PE/VC,2.0,580.0,,Business
+PE/VC,5.0,570.0,,Humanities
+Investment Management,5.0,660.0,Admit,Business
+Nonprofit/Gov,4.0,690.0,,STEM
+Health Care,4.0,590.0,,Business
+Health Care,6.0,680.0,,Humanities
+Financial Services,6.0,640.0,,Humanities
+Consulting,5.0,650.0,,STEM
+Other,5.0,580.0,,Humanities
+PE/VC,7.0,660.0,,STEM
+Technology,6.0,630.0,,Humanities
+Investment Banking,6.0,640.0,,STEM
+PE/VC,4.0,660.0,,Humanities
+Investment Banking,5.0,680.0,,Humanities
+Investment Banking,3.0,590.0,,STEM
+Investment Banking,5.0,630.0,,STEM
+Technology,2.0,680.0,,Humanities
+Financial Services,5.0,640.0,,Business
+PE/VC,7.0,680.0,,Business
+Health Care,5.0,630.0,,Humanities
+Technology,5.0,690.0,,STEM
+PE/VC,5.0,750.0,,Humanities
+Investment Banking,4.0,630.0,,STEM
+Consulting,5.0,580.0,,Business
+Investment Banking,4.0,690.0,,Humanities
+Investment Banking,5.0,660.0,,STEM
+Other,6.0,630.0,,Business
+Other,5.0,730.0,Admit,Humanities
+Financial Services,5.0,660.0,,STEM
+Consulting,5.0,680.0,,Business
+PE/VC,5.0,580.0,,STEM
+Investment Banking,6.0,610.0,,Humanities
+Consulting,6.0,590.0,,STEM
+PE/VC,4.0,580.0,,Humanities
+Retail,7.0,690.0,,Business
+Health Care,4.0,680.0,Admit,STEM
+Technology,5.0,620.0,,STEM
+Nonprofit/Gov,4.0,590.0,Admit,Humanities
+PE/VC,6.0,690.0,Admit,Humanities
+Other,4.0,640.0,,Humanities
+Health Care,3.0,700.0,Admit,Humanities
+Consulting,6.0,610.0,,STEM
+Consulting,6.0,650.0,Admit,STEM
+Consulting,6.0,590.0,,Humanities
+Consulting,7.0,570.0,,STEM
+Other,6.0,710.0,Admit,Humanities
+Consulting,5.0,700.0,Admit,STEM
+PE/VC,6.0,620.0,,Humanities
+Nonprofit/Gov,5.0,670.0,Admit,Business
+PE/VC,6.0,660.0,Waitlist,STEM
+Consulting,5.0,620.0,,Humanities
+Consulting,4.0,650.0,,Business
+Technology,5.0,680.0,,Humanities
+Consulting,7.0,700.0,,STEM
+PE/VC,5.0,600.0,,Humanities
+Investment Banking,7.0,670.0,,Humanities
+Technology,3.0,670.0,,Business
+PE/VC,6.0,570.0,,Humanities
+Financial Services,5.0,600.0,,Business
+Other,5.0,670.0,Admit,STEM
+Nonprofit/Gov,4.0,660.0,,STEM
+Technology,5.0,670.0,,Business
+PE/VC,6.0,680.0,,Business
+Health Care,5.0,600.0,,Humanities
+Nonprofit/Gov,6.0,580.0,,Business
+Consulting,5.0,650.0,,Humanities
+PE/VC,5.0,650.0,,Business
+Consulting,5.0,670.0,,STEM
+Nonprofit/Gov,5.0,720.0,,Business
+Health Care,6.0,650.0,,STEM
+Investment Banking,6.0,620.0,,STEM
+Nonprofit/Gov,4.0,630.0,,Business
+Financial Services,4.0,620.0,Admit,STEM
+Technology,7.0,720.0,,Humanities
+Investment Banking,5.0,580.0,,Business
+Financial Services,6.0,600.0,,STEM
+Financial Services,4.0,650.0,,Business
+Nonprofit/Gov,5.0,680.0,Waitlist,STEM
+Technology,4.0,620.0,,Humanities
+Financial Services,4.0,710.0,Admit,Humanities
+PE/VC,6.0,660.0,Admit,Business
+Technology,5.0,710.0,,Humanities
+Other,4.0,660.0,,STEM
+PE/VC,4.0,610.0,,Humanities
+Financial Services,5.0,660.0,Admit,Humanities
+CPG,4.0,620.0,,Business
+Real Estate,7.0,670.0,,STEM
+Financial Services,7.0,720.0,,STEM
+Nonprofit/Gov,4.0,670.0,,Humanities
+Technology,6.0,780.0,Admit,STEM
+Consulting,5.0,650.0,,Humanities
+Health Care,5.0,640.0,,Business
+Consulting,6.0,780.0,,Humanities
+Other,4.0,610.0,,Humanities
+Other,6.0,710.0,,STEM
+Technology,5.0,590.0,,Humanities
+Nonprofit/Gov,4.0,690.0,,Humanities
+Investment Banking,7.0,610.0,,STEM
+Health Care,5.0,690.0,Admit,Business
+Other,4.0,640.0,,Business
+Retail,5.0,630.0,,STEM
+Consulting,6.0,570.0,,Business
+CPG,5.0,620.0,,Humanities
+Consulting,6.0,670.0,Admit,Humanities
+Nonprofit/Gov,5.0,570.0,,Business
+Consulting,5.0,610.0,,Business
+Technology,5.0,670.0,,Business
+Investment Banking,7.0,690.0,,Humanities
+Technology,5.0,600.0,,Humanities
+PE/VC,4.0,680.0,,Humanities
+Consulting,7.0,720.0,Admit,Humanities
+Other,6.0,670.0,,Humanities
+Investment Banking,7.0,590.0,,Humanities
+Investment Banking,5.0,780.0,Admit,STEM
+Retail,4.0,610.0,,Humanities
+Health Care,4.0,640.0,,STEM
+Technology,5.0,640.0,,Humanities
+Consulting,4.0,570.0,,Business
+Technology,5.0,610.0,,Business
+Consulting,4.0,570.0,,STEM
+Investment Banking,6.0,700.0,,STEM
+Financial Services,5.0,650.0,,Business
+Nonprofit/Gov,5.0,660.0,,STEM
+Nonprofit/Gov,5.0,710.0,,STEM
+Technology,4.0,700.0,,STEM
+Consulting,5.0,640.0,,Humanities
+Financial Services,7.0,640.0,,STEM
+Health Care,5.0,710.0,,STEM
+CPG,5.0,650.0,,Humanities
+Nonprofit/Gov,5.0,650.0,,STEM
+Consulting,5.0,630.0,,Humanities
+Consulting,5.0,640.0,,Humanities
+Investment Management,3.0,660.0,,Humanities
+PE/VC,3.0,650.0,,Humanities
+Consulting,5.0,680.0,Admit,Business
+PE/VC,5.0,590.0,,Business
+Technology,4.0,620.0,,Humanities
+Consulting,4.0,580.0,,Humanities
+Financial Services,4.0,760.0,Admit,Humanities
+Consulting,5.0,620.0,,Business
+Financial Services,6.0,680.0,,Business
+Nonprofit/Gov,4.0,570.0,,STEM
+Technology,3.0,670.0,,STEM
+Energy,5.0,670.0,,Business
+Consulting,6.0,720.0,,Business
+Nonprofit/Gov,6.0,680.0,,Business
+Nonprofit/Gov,6.0,570.0,,STEM
+CPG,4.0,660.0,,Humanities
+Technology,4.0,650.0,,Business
+Media/Entertainment,5.0,690.0,,Humanities
+Consulting,4.0,630.0,,Business
+Consulting,3.0,640.0,,Humanities
+Investment Management,4.0,690.0,,Humanities
+Nonprofit/Gov,4.0,690.0,,Business
+Investment Banking,5.0,730.0,,Humanities
+Consulting,3.0,570.0,,Humanities
+PE/VC,5.0,680.0,,Business
+Consulting,6.0,690.0,,STEM
+PE/VC,6.0,690.0,,STEM
+Financial Services,5.0,650.0,,STEM
+Nonprofit/Gov,6.0,630.0,,Humanities
+Consulting,6.0,680.0,,Business
+Investment Management,5.0,770.0,Admit,Humanities
+Consulting,6.0,590.0,,STEM
+Technology,5.0,610.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,Humanities
+Other,5.0,590.0,,STEM
+Technology,5.0,600.0,,Humanities
+Nonprofit/Gov,5.0,640.0,,Humanities
+Consulting,4.0,630.0,,STEM
+Consulting,7.0,620.0,,Humanities
+Technology,5.0,690.0,Admit,Humanities
+Technology,4.0,680.0,,Humanities
+Technology,5.0,670.0,Admit,STEM
+Consulting,6.0,740.0,,Business
+Consulting,5.0,680.0,,Business
+Nonprofit/Gov,5.0,570.0,,Humanities
+Investment Banking,4.0,640.0,,STEM
+Consulting,3.0,570.0,,STEM
+PE/VC,5.0,660.0,,Humanities
+Technology,5.0,670.0,,Humanities
+Consulting,6.0,630.0,,STEM
+Financial Services,4.0,670.0,,Business
+Consulting,4.0,570.0,,Humanities
+Consulting,5.0,710.0,,Humanities
+Nonprofit/Gov,4.0,680.0,,Business
+Nonprofit/Gov,5.0,590.0,,Business
+PE/VC,4.0,650.0,,Business
+Real Estate,4.0,640.0,,STEM
+Technology,5.0,620.0,,Humanities
+Investment Banking,6.0,670.0,Admit,Humanities
+Technology,5.0,650.0,,Business
+Technology,4.0,710.0,,STEM
+Technology,5.0,680.0,,STEM
+Retail,5.0,660.0,,Humanities
+Technology,5.0,640.0,,Humanities
+Consulting,5.0,700.0,Admit,STEM
+PE/VC,6.0,700.0,Admit,Business
+Technology,3.0,700.0,,STEM
+Investment Management,4.0,610.0,,STEM
+Health Care,6.0,680.0,Admit,Business
+Other,4.0,650.0,,Humanities
+Health Care,6.0,700.0,,Business
+Nonprofit/Gov,5.0,700.0,,Business
+Nonprofit/Gov,4.0,670.0,,STEM
+Technology,5.0,660.0,,STEM
+Other,5.0,610.0,,Business
+Consulting,6.0,600.0,,Humanities
+Nonprofit/Gov,5.0,620.0,,STEM
+Other,5.0,620.0,,Humanities
+Technology,5.0,640.0,,Business
+Technology,5.0,750.0,Admit,Humanities
+PE/VC,5.0,720.0,Admit,Business
+Consulting,5.0,620.0,,Business
+Investment Banking,6.0,680.0,,Humanities
+CPG,6.0,770.0,,STEM
+Consulting,5.0,690.0,,Business
+Health Care,4.0,670.0,,Humanities
+PE/VC,5.0,570.0,,Humanities
+Technology,5.0,680.0,,Humanities
+Nonprofit/Gov,4.0,700.0,,Humanities
+Consulting,4.0,600.0,,Humanities
+Consulting,6.0,700.0,,STEM
+Consulting,4.0,730.0,,Humanities
+Media/Entertainment,5.0,690.0,Admit,Humanities
+Consulting,4.0,620.0,,STEM
+Consulting,4.0,640.0,,Humanities
+Investment Banking,4.0,610.0,,Humanities
+PE/VC,5.0,740.0,Admit,STEM
+Investment Banking,6.0,630.0,,Humanities
+Consulting,6.0,710.0,,Humanities
+Consulting,5.0,600.0,Admit,Business
+Financial Services,7.0,660.0,Admit,Humanities
+Other,7.0,630.0,,Business
+Real Estate,4.0,680.0,,Humanities
+Consulting,4.0,580.0,,STEM
+PE/VC,5.0,620.0,,Business
+PE/VC,6.0,600.0,,STEM
+PE/VC,3.0,690.0,Admit,Humanities
+Other,8.0,610.0,,STEM
+Consulting,6.0,650.0,,Humanities
+Consulting,3.0,670.0,Admit,Humanities
+PE/VC,5.0,730.0,,STEM
+Nonprofit/Gov,7.0,610.0,,Humanities
+Consulting,7.0,680.0,,Humanities
+PE/VC,7.0,650.0,,Business
+Technology,3.0,640.0,,STEM
+Consulting,6.0,740.0,Admit,Humanities
+PE/VC,3.0,570.0,,Business
+Financial Services,5.0,740.0,Admit,Humanities
+Other,7.0,710.0,Admit,Humanities
+Other,5.0,730.0,Admit,STEM
+Nonprofit/Gov,4.0,680.0,,STEM
+Nonprofit/Gov,5.0,670.0,Admit,Business
+Real Estate,5.0,610.0,,Humanities
+Financial Services,5.0,600.0,,Humanities
+Technology,5.0,620.0,,Business
+Nonprofit/Gov,6.0,720.0,,Humanities
+Consulting,7.0,680.0,,STEM
+Health Care,5.0,590.0,,Humanities
+Other,6.0,650.0,,Humanities
+Financial Services,4.0,570.0,,Humanities
+Nonprofit/Gov,5.0,620.0,,Humanities
+Consulting,5.0,650.0,,STEM
+Consulting,6.0,720.0,,STEM
+Investment Banking,4.0,650.0,,Humanities
+Health Care,6.0,680.0,,Humanities
+Investment Banking,5.0,650.0,,STEM
+Health Care,6.0,660.0,,Business
+Consulting,6.0,690.0,,STEM
+PE/VC,4.0,730.0,,STEM
+Health Care,7.0,620.0,,Humanities
+Consulting,4.0,650.0,,STEM
+Investment Banking,4.0,730.0,,STEM
+PE/VC,5.0,640.0,,Humanities
+Investment Banking,4.0,600.0,,Humanities
+Technology,5.0,710.0,Admit,Business
+Consulting,6.0,650.0,,Business
+Nonprofit/Gov,4.0,670.0,,STEM
+Health Care,4.0,640.0,,Business
+Technology,5.0,680.0,,STEM
+Consulting,6.0,620.0,,Business
+Investment Banking,4.0,680.0,Admit,Business
+Consulting,5.0,610.0,,STEM
+Health Care,6.0,730.0,,Humanities
+Financial Services,6.0,670.0,,Humanities
+PE/VC,6.0,580.0,,STEM
+PE/VC,6.0,690.0,,Humanities
+Consulting,6.0,730.0,,STEM
+PE/VC,5.0,600.0,,STEM
+Consulting,6.0,610.0,,Business
+Health Care,3.0,650.0,,Humanities
+Other,7.0,660.0,,Business
+PE/VC,5.0,670.0,,STEM
+Consulting,6.0,660.0,,Humanities
+Consulting,6.0,640.0,,Business
+Consulting,6.0,610.0,,STEM
+Consulting,6.0,580.0,,Business
+Consulting,5.0,620.0,,STEM
+Financial Services,4.0,630.0,,Business
+Other,4.0,640.0,,Business
+Energy,4.0,620.0,,Business
+Health Care,5.0,630.0,,STEM
+Investment Banking,4.0,710.0,,Humanities
+Consulting,5.0,570.0,,Humanities
+PE/VC,4.0,570.0,,STEM
+Financial Services,4.0,680.0,,STEM
+Consulting,7.0,740.0,,Humanities
+Financial Services,4.0,670.0,,Business
+Consulting,3.0,670.0,Waitlist,Business
+Technology,5.0,760.0,Admit,Business
+Technology,5.0,610.0,,Humanities
+Consulting,6.0,710.0,,Humanities
+Health Care,5.0,660.0,Admit,Humanities
+Consulting,6.0,760.0,,Humanities
+PE/VC,6.0,610.0,,Humanities
+Other,4.0,610.0,,STEM
+Technology,5.0,610.0,,Humanities
+Consulting,4.0,570.0,,Business
+Financial Services,5.0,760.0,Admit,STEM
+Other,4.0,640.0,,Humanities
+Nonprofit/Gov,4.0,570.0,,Business
+Other,5.0,590.0,,Business
+Consulting,7.0,630.0,,Humanities
+Consulting,5.0,660.0,,Business
+CPG,7.0,600.0,,Business
+Technology,4.0,600.0,,Business
+Consulting,5.0,760.0,Admit,Business
+Financial Services,7.0,720.0,,Humanities
+PE/VC,5.0,620.0,,Business
+Consulting,5.0,640.0,,Business
+Nonprofit/Gov,3.0,660.0,,Humanities
+Investment Banking,5.0,590.0,,Business
+Investment Banking,6.0,620.0,,Business
+Other,5.0,650.0,,Humanities
+Technology,4.0,690.0,Waitlist,Humanities
+PE/VC,6.0,670.0,,STEM
+Consulting,5.0,590.0,,Humanities
+Investment Management,5.0,740.0,Admit,Humanities
+Health Care,5.0,590.0,,Business
+Other,6.0,600.0,,Humanities
+Consulting,4.0,580.0,,Business
+Consulting,4.0,570.0,,STEM
+PE/VC,4.0,590.0,,Humanities
+Financial Services,4.0,600.0,,Humanities
+Nonprofit/Gov,5.0,670.0,,Humanities
+Real Estate,5.0,570.0,,Humanities
+Consulting,3.0,620.0,,Business
+PE/VC,3.0,630.0,,Humanities
+Other,4.0,660.0,,Humanities
+Technology,5.0,710.0,,Humanities
+Nonprofit/Gov,6.0,650.0,,Business
+Media/Entertainment,5.0,570.0,,Humanities
+Investment Banking,4.0,690.0,,STEM
+Nonprofit/Gov,5.0,650.0,,Humanities
+Financial Services,7.0,660.0,,Humanities
+Investment Banking,5.0,640.0,Waitlist,Humanities
+Nonprofit/Gov,4.0,690.0,,Humanities
+Financial Services,4.0,730.0,,Humanities
+PE/VC,4.0,670.0,,Humanities
+Technology,4.0,570.0,,Humanities
+Consulting,5.0,610.0,,STEM
+Investment Banking,5.0,720.0,Admit,Humanities
+Consulting,4.0,630.0,,Business
+Real Estate,3.0,610.0,,STEM
+Health Care,5.0,640.0,,Humanities
+Investment Banking,6.0,650.0,,Humanities
+PE/VC,5.0,720.0,,Humanities
+Financial Services,5.0,690.0,,Humanities
+Technology,5.0,640.0,,STEM
+Other,6.0,660.0,,STEM
+Consulting,6.0,700.0,,STEM
+Health Care,5.0,660.0,,STEM
+Financial Services,5.0,740.0,,STEM
+Other,4.0,620.0,,STEM
+Nonprofit/Gov,4.0,660.0,,Business
+Consulting,4.0,680.0,,Business
+Financial Services,5.0,640.0,,Business
+Investment Management,3.0,640.0,,Humanities
+Consulting,5.0,670.0,,Humanities
+Consulting,4.0,590.0,,Business
+Consulting,4.0,650.0,Waitlist,Business
+Consulting,7.0,620.0,,STEM
+Nonprofit/Gov,5.0,650.0,,STEM
+Consulting,5.0,690.0,,Business
+Nonprofit/Gov,5.0,640.0,Waitlist,Humanities
+Consulting,5.0,700.0,Admit,Humanities
+Consulting,4.0,650.0,,STEM
+PE/VC,4.0,600.0,,Humanities
+PE/VC,3.0,600.0,,Humanities
+Financial Services,5.0,580.0,,Humanities
+Consulting,4.0,620.0,,Business
+Consulting,5.0,640.0,,Business
+Investment Banking,5.0,710.0,Admit,Humanities
+Nonprofit/Gov,5.0,620.0,,Humanities
+Health Care,5.0,690.0,,Business
+Nonprofit/Gov,4.0,630.0,,Humanities
+Consulting,5.0,580.0,,STEM
+PE/VC,4.0,590.0,,Humanities
+Consulting,5.0,660.0,,STEM
+Consulting,5.0,660.0,,Humanities
+PE/VC,5.0,630.0,,Business
+Consulting,5.0,710.0,,Business
+Consulting,7.0,620.0,,Humanities
+Consulting,5.0,660.0,,Business
+PE/VC,4.0,590.0,,STEM
+PE/VC,6.0,640.0,,Business
+Consulting,7.0,630.0,,STEM
+PE/VC,5.0,630.0,,Humanities
+Financial Services,7.0,610.0,,Humanities
+Technology,6.0,620.0,,Humanities
+Investment Banking,5.0,670.0,Admit,STEM
+Consulting,7.0,610.0,,Business
+Consulting,5.0,570.0,,STEM
+PE/VC,4.0,570.0,,Business
+Other,6.0,630.0,,Humanities
+Consulting,5.0,600.0,,Humanities
+PE/VC,3.0,690.0,,STEM
+Financial Services,5.0,600.0,,Business
+Consulting,5.0,610.0,,Humanities
+Nonprofit/Gov,4.0,610.0,,Business
+Investment Management,5.0,580.0,,Business
+Technology,5.0,720.0,,Humanities
+Financial Services,4.0,600.0,,Humanities
+Investment Banking,5.0,580.0,,Business
+Consulting,5.0,590.0,,Business
+Consulting,5.0,570.0,,Business
+Real Estate,7.0,680.0,,Business
+Nonprofit/Gov,6.0,710.0,Admit,STEM
+Technology,5.0,660.0,,STEM
+Health Care,4.0,660.0,,Business
+CPG,5.0,640.0,,Humanities
+Consulting,6.0,680.0,,STEM
+Consulting,5.0,670.0,,Business
+Financial Services,5.0,740.0,,Business
+Real Estate,6.0,570.0,,STEM
+Investment Banking,5.0,570.0,,STEM
+Investment Banking,6.0,660.0,Admit,Business
+Investment Management,5.0,690.0,,Business
+Consulting,5.0,670.0,,Business
+Consulting,5.0,590.0,,Humanities
+Other,6.0,570.0,Admit,Business
+Investment Banking,5.0,770.0,,STEM
+PE/VC,6.0,710.0,,Humanities
+Financial Services,5.0,620.0,,Business
+Other,6.0,670.0,Admit,Humanities
+Technology,4.0,710.0,,Humanities
+Consulting,5.0,620.0,,Humanities
+Consulting,5.0,660.0,Admit,Humanities
+Other,4.0,600.0,,STEM
+Technology,5.0,570.0,,STEM
+Health Care,6.0,700.0,,STEM
+PE/VC,6.0,720.0,Admit,Humanities
+Consulting,7.0,590.0,,Humanities
+Financial Services,3.0,630.0,,Humanities
+Consulting,6.0,750.0,,Humanities
+Technology,5.0,620.0,,Business
+Technology,6.0,590.0,,Business
+Consulting,3.0,650.0,,Humanities
+Investment Banking,5.0,720.0,Admit,Humanities
+PE/VC,5.0,650.0,,STEM
+Consulting,3.0,780.0,,Business
+Consulting,5.0,670.0,,STEM
+Nonprofit/Gov,5.0,630.0,,Humanities
+Investment Banking,7.0,780.0,,STEM
+CPG,5.0,680.0,Admit,Humanities
+Investment Banking,5.0,710.0,,STEM
+Real Estate,3.0,650.0,,STEM
+PE/VC,4.0,730.0,,Humanities
+Retail,6.0,650.0,,Business
+Consulting,3.0,620.0,,Humanities
+Nonprofit/Gov,5.0,580.0,,Business
+Nonprofit/Gov,5.0,580.0,,Humanities
+Health Care,6.0,720.0,,Humanities
+Consulting,6.0,760.0,,Humanities
+Health Care,5.0,690.0,Admit,Humanities
+Investment Banking,5.0,690.0,,STEM
+Investment Banking,4.0,610.0,,STEM
+Financial Services,7.0,670.0,Admit,Humanities
+PE/VC,5.0,640.0,,Humanities
+Health Care,5.0,600.0,,Humanities
+Consulting,4.0,570.0,,Business
+Technology,4.0,610.0,,Humanities
+Consulting,5.0,700.0,,STEM
+PE/VC,5.0,700.0,Admit,STEM
+Consulting,4.0,570.0,,Humanities
+Investment Management,4.0,610.0,,STEM
+Financial Services,5.0,670.0,Admit,Humanities
+Financial Services,3.0,670.0,,Humanities
+Other,6.0,610.0,,Humanities
+Real Estate,5.0,570.0,,Business
+Other,5.0,580.0,,Humanities
+Consulting,5.0,730.0,,Business
+Other,6.0,660.0,,Business
+Other,3.0,670.0,,Business
+Consulting,5.0,690.0,Admit,Humanities
+Retail,5.0,610.0,,STEM
+Consulting,6.0,670.0,Admit,Humanities
+Financial Services,5.0,590.0,,Humanities
+Investment Banking,5.0,600.0,,Humanities
+Consulting,5.0,660.0,Admit,Business
+Consulting,6.0,610.0,,STEM
+PE/VC,5.0,570.0,,STEM
+Financial Services,5.0,720.0,Admit,Business
+Other,5.0,720.0,Admit,Humanities
+Consulting,4.0,700.0,,Business
+Consulting,6.0,580.0,,STEM
+Technology,4.0,650.0,,STEM
+Consulting,5.0,700.0,,STEM
+Media/Entertainment,5.0,660.0,,Business
+Consulting,5.0,600.0,,STEM
+Technology,6.0,710.0,,Humanities
+Financial Services,5.0,570.0,,STEM
+Investment Management,4.0,640.0,,Business
+Financial Services,5.0,690.0,,STEM
+Investment Banking,6.0,580.0,,Business
+Technology,4.0,660.0,,Humanities
+Health Care,6.0,640.0,,STEM
+Technology,5.0,600.0,Admit,STEM
+CPG,5.0,580.0,,Humanities
+Investment Banking,4.0,750.0,Admit,Humanities
+Financial Services,6.0,750.0,Admit,Business
+Investment Banking,4.0,610.0,,Humanities
+Consulting,6.0,650.0,,STEM
+Investment Management,4.0,670.0,,Business
+Nonprofit/Gov,5.0,650.0,,STEM
+CPG,5.0,570.0,,Humanities
+Technology,6.0,650.0,,Humanities
+Health Care,5.0,660.0,Admit,Humanities
+Investment Banking,3.0,610.0,,Business
+Technology,7.0,640.0,,STEM
+Consulting,6.0,600.0,,Business
+Investment Banking,6.0,740.0,Admit,Humanities
+PE/VC,5.0,650.0,,Business
+PE/VC,4.0,600.0,,Humanities
+PE/VC,5.0,620.0,,Business
+Technology,6.0,570.0,,STEM
+Consulting,4.0,670.0,Admit,STEM
+Nonprofit/Gov,4.0,700.0,,Business
+Consulting,7.0,650.0,,Business
+Technology,5.0,720.0,,Business
+Other,5.0,640.0,,Business
+Investment Banking,4.0,630.0,,Humanities
+Investment Banking,5.0,570.0,,Humanities
+Consulting,6.0,570.0,,Humanities
+Real Estate,6.0,610.0,,Business
+Nonprofit/Gov,6.0,660.0,,Humanities
+Consulting,5.0,660.0,,STEM
+Consulting,5.0,660.0,Admit,STEM
+Technology,4.0,600.0,,Business
+Investment Banking,6.0,640.0,,STEM
+PE/VC,4.0,680.0,Admit,Business
+Investment Banking,6.0,700.0,,STEM
+Nonprofit/Gov,4.0,720.0,,Humanities
+PE/VC,4.0,570.0,,STEM
+Technology,4.0,640.0,,Business
+Nonprofit/Gov,7.0,650.0,,Business
+Nonprofit/Gov,4.0,620.0,Admit,STEM
+Consulting,6.0,660.0,,Business
+Consulting,6.0,570.0,,STEM
+PE/VC,5.0,610.0,,Humanities
+Other,4.0,660.0,,Humanities
+PE/VC,4.0,610.0,,Humanities
+Technology,4.0,650.0,,Humanities
+Consulting,4.0,620.0,,Humanities
+Investment Banking,4.0,650.0,Admit,Business
+PE/VC,5.0,650.0,,Business
+PE/VC,5.0,680.0,,STEM
+Nonprofit/Gov,4.0,600.0,,Humanities
+Investment Banking,6.0,740.0,,STEM
+Investment Management,4.0,650.0,,Business
+Consulting,4.0,660.0,,STEM
+Consulting,6.0,640.0,Waitlist,Humanities
+Health Care,5.0,630.0,,STEM
+PE/VC,4.0,690.0,,STEM
+Consulting,5.0,710.0,Waitlist,Business
+PE/VC,3.0,620.0,,Humanities
+Consulting,4.0,650.0,,STEM
+Consulting,5.0,660.0,,Humanities
+PE/VC,4.0,710.0,,STEM
+Investment Banking,6.0,650.0,,Humanities
+PE/VC,5.0,620.0,,STEM
+Nonprofit/Gov,3.0,640.0,,Humanities
+Consulting,4.0,640.0,,Business
+Real Estate,5.0,650.0,,STEM
+Technology,3.0,730.0,Admit,STEM
+Health Care,4.0,730.0,,STEM
+Media/Entertainment,6.0,610.0,,Humanities
+Nonprofit/Gov,5.0,710.0,,Business
+Nonprofit/Gov,5.0,780.0,,Business
+Financial Services,5.0,600.0,,STEM
+Consulting,6.0,680.0,Admit,Business
+Technology,4.0,670.0,,Humanities
+Nonprofit/Gov,4.0,720.0,,Business
+PE/VC,5.0,600.0,,Humanities
+Financial Services,6.0,600.0,,Humanities
+Other,5.0,690.0,,Humanities
+Technology,5.0,680.0,,STEM
+Other,5.0,640.0,,Humanities
+Consulting,5.0,590.0,,Humanities
+Nonprofit/Gov,4.0,650.0,,Business
+PE/VC,6.0,710.0,Admit,Humanities
+Health Care,4.0,690.0,,Business
+Nonprofit/Gov,7.0,620.0,,Business
+PE/VC,5.0,720.0,Admit,STEM
+PE/VC,5.0,690.0,,Humanities
+Consulting,4.0,570.0,,STEM
+PE/VC,5.0,580.0,,STEM
+Nonprofit/Gov,5.0,730.0,Admit,Humanities
+Financial Services,5.0,650.0,,Business
+Health Care,5.0,710.0,,Business
+Consulting,5.0,650.0,,Humanities
+Technology,6.0,660.0,,STEM
+Nonprofit/Gov,6.0,660.0,,STEM
+Health Care,5.0,660.0,,STEM
+Health Care,5.0,780.0,Admit,Business
+PE/VC,5.0,610.0,,Humanities
+Consulting,6.0,670.0,,Business
+Nonprofit/Gov,6.0,630.0,,STEM
+PE/VC,6.0,700.0,Admit,Business
+PE/VC,3.0,630.0,,Business
+Health Care,6.0,660.0,,Business
+Consulting,6.0,620.0,,Humanities
+Technology,3.0,630.0,,Humanities
+PE/VC,5.0,740.0,,STEM
+Technology,5.0,650.0,,STEM
+Consulting,7.0,660.0,,STEM
+Consulting,5.0,670.0,,Business
+Investment Banking,5.0,710.0,Admit,Business
+Consulting,7.0,620.0,,Humanities
+PE/VC,4.0,620.0,,Humanities
+Consulting,5.0,590.0,,Business
+Investment Banking,5.0,630.0,,STEM
+Real Estate,5.0,650.0,Admit,Humanities
+Investment Banking,7.0,570.0,,STEM
+Health Care,4.0,730.0,,Humanities
+Health Care,4.0,640.0,,STEM
+Consulting,5.0,570.0,,Humanities
+Media/Entertainment,6.0,660.0,,Humanities
+Investment Banking,4.0,680.0,,Humanities
+PE/VC,5.0,680.0,,Humanities
+Consulting,4.0,780.0,Admit,STEM
+Other,4.0,610.0,,STEM
+Technology,4.0,710.0,Admit,STEM
+Investment Banking,5.0,620.0,,Humanities
+Consulting,6.0,570.0,,Humanities
+Financial Services,6.0,620.0,,Humanities
+Nonprofit/Gov,5.0,670.0,Admit,Business
+Consulting,4.0,720.0,,Business
+Investment Banking,4.0,660.0,,Business
+PE/VC,6.0,620.0,,STEM
+Investment Banking,5.0,620.0,,Humanities
+Technology,4.0,660.0,,Humanities
+Nonprofit/Gov,6.0,660.0,Admit,Humanities
+Consulting,5.0,640.0,,Humanities
+Technology,4.0,640.0,,Humanities
+Consulting,5.0,650.0,,Humanities
+Technology,4.0,670.0,Admit,STEM
+Other,5.0,750.0,Admit,Humanities
+Technology,4.0,650.0,Admit,STEM
+Consulting,4.0,690.0,,Humanities
+Other,4.0,620.0,,STEM
+Consulting,5.0,630.0,,STEM
+Investment Banking,6.0,570.0,,STEM
+Consulting,5.0,610.0,,Business
+Technology,5.0,570.0,,STEM
+Consulting,3.0,710.0,,STEM
+Investment Management,5.0,740.0,Admit,STEM
+Consulting,4.0,650.0,,Business
+Consulting,6.0,640.0,,Business
+Consulting,6.0,620.0,,Business
+CPG,4.0,630.0,,Humanities
+Consulting,6.0,650.0,,Humanities
+Technology,5.0,620.0,,Business
+Technology,4.0,640.0,,Humanities
+Financial Services,5.0,580.0,,Business
+Investment Banking,5.0,780.0,Admit,Humanities
+Consulting,6.0,610.0,,Humanities
+Health Care,5.0,620.0,,Business
+Investment Management,5.0,680.0,,Business
+Technology,4.0,600.0,,Business
+Nonprofit/Gov,5.0,610.0,,STEM
+Investment Banking,4.0,700.0,,Humanities
+CPG,6.0,600.0,,Humanities
+Consulting,4.0,570.0,,Business
+Financial Services,5.0,570.0,,Humanities
+Investment Banking,5.0,610.0,,Humanities
+Nonprofit/Gov,5.0,740.0,Admit,STEM
+Consulting,5.0,620.0,,Business
+PE/VC,4.0,750.0,,Business
+PE/VC,6.0,710.0,,STEM
+Consulting,5.0,710.0,,Business
+Technology,6.0,690.0,,Business
+Investment Banking,5.0,600.0,,STEM
+Investment Banking,5.0,660.0,,Business
+CPG,6.0,740.0,,Humanities
+CPG,5.0,690.0,Admit,Humanities
+PE/VC,6.0,590.0,,STEM
+Financial Services,6.0,600.0,,Business
+Nonprofit/Gov,7.0,590.0,,STEM
+PE/VC,4.0,620.0,,Business
+Nonprofit/Gov,5.0,570.0,,Business
+Technology,5.0,610.0,,Business
+Consulting,5.0,590.0,,Business
+Technology,6.0,760.0,,Humanities
+Nonprofit/Gov,7.0,620.0,,Business
+Consulting,6.0,570.0,,STEM
+Technology,4.0,620.0,,STEM
+Nonprofit/Gov,6.0,620.0,,STEM
+Consulting,6.0,640.0,,Business
+Health Care,7.0,610.0,,STEM
+PE/VC,5.0,650.0,,Humanities
+Financial Services,4.0,690.0,Admit,STEM
+Other,5.0,630.0,,Humanities
+Energy,5.0,670.0,Admit,Humanities
+Consulting,5.0,570.0,,Business
+Consulting,6.0,630.0,,Humanities
+PE/VC,6.0,720.0,Admit,Humanities
+PE/VC,3.0,620.0,,Business
+Consulting,5.0,620.0,,Business
+Investment Banking,4.0,600.0,,Humanities
+Other,3.0,660.0,,Humanities
+Health Care,4.0,700.0,,Humanities
+Financial Services,5.0,620.0,,Business
+Other,6.0,630.0,,STEM
+Financial Services,5.0,600.0,Admit,STEM
+Nonprofit/Gov,4.0,720.0,Admit,Business
+Investment Banking,6.0,580.0,,Humanities
+Nonprofit/Gov,3.0,680.0,,Humanities
+Technology,4.0,580.0,,Humanities
+Consulting,4.0,650.0,,Business
+Consulting,5.0,650.0,,Humanities
+Technology,4.0,660.0,,Humanities
+Financial Services,5.0,620.0,,Business
+PE/VC,5.0,670.0,,Humanities
+Investment Management,6.0,650.0,,STEM
+Consulting,4.0,680.0,,Business
+Consulting,4.0,570.0,,Business
+Health Care,7.0,590.0,,Humanities
+Investment Banking,6.0,650.0,,Humanities
